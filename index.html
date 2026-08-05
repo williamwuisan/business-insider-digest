@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Business Insider — Ringkasan Berita Bisnis Harian</title>
+<meta name="description" content="Ringkasan berita bisnis harian, dalam negeri dan global, dirangkum otomatis oleh AI.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="container header__inner">
+    <div class="logo">
+      <span class="logo__mark">BI</span>
+      <span class="logo__text">Business Insider</span>
+    </div>
+    <div class="header__meta">
+      <span class="status-dot" id="statusDot"></span>
+      <span id="lastUpdated">Memuat...</span>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="tabs" role="tablist">
+    <button class="tab is-active" data-tab="domestic" role="tab" aria-selected="true">🇮🇩 Dalam Negeri</button>
+    <button class="tab" data-tab="global" role="tab" aria-selected="false">🌏 Luar Negeri</button>
+  </div>
+
+  <section class="panel is-active" id="panel-domestic" data-panel="domestic">
+    <div class="card-list" id="list-domestic"></div>
+  </section>
+
+  <section class="panel" id="panel-global" data-panel="global">
+    <div class="card-list" id="list-global"></div>
+  </section>
+
+  <p class="empty-state" id="emptyState" hidden>Belum ada data. Digest akan muncul di sini setelah pembaruan pertama berjalan.</p>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <p>Dirangkum otomatis oleh AI dari berbagai sumber berita. Selalu cek sumber asli untuk keputusan penting.</p>
+  </div>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
