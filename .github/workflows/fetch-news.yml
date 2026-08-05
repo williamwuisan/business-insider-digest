@@ -3,8 +3,10 @@ name: Fetch business news digest
 
 on:
   schedule:
-    # 07:00 and 16:00 WIB (UTC+7)
-    - cron: "0 0,9 * * *"
+    # ~07:00 and ~16:00 WIB (UTC+7). Offset a few minutes past the hour —
+    # GitHub's own docs warn exact-o'clock schedules get delayed/dropped
+    # under queue congestion since so many repos schedule at :00.
+    - cron: "7 0,9 * * *"
   workflow_dispatch: {}
 
 permissions:

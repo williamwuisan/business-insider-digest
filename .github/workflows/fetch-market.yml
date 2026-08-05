@@ -2,8 +2,10 @@ name: Fetch market data (IHSG & Emas)
 
 on:
   schedule:
-    # Every hour, on the hour
-    - cron: "0 * * * *"
+    # Every hour, offset a few minutes past the hour — GitHub's own docs
+    # warn exact-o'clock schedules get delayed/dropped under queue
+    # congestion since so many repos schedule at :00.
+    - cron: "12 * * * *"
   workflow_dispatch: {}
 
 permissions:
