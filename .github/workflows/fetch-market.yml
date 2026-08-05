@@ -1,10 +1,9 @@
-# v2
-name: Fetch business news digest
+name: Fetch market data (IHSG & Emas)
 
 on:
   schedule:
-    # 07:00 and 16:00 WIB (UTC+7)
-    - cron: "0 0,9 * * *"
+    # Every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -23,20 +22,18 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests beautifulsoup4
 
-      - name: Fetch and summarize news
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/fetch_news.py
+      - name: Fetch market data
+        run: python scripts/fetch_market.py
 
-      - name: Commit digest if changed
+      - name: Commit market data if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- data/digest.json; then
-            git add data/digest.json
-            git commit -m "Update news digest"
+          if ! git diff --quiet -- data/market.json; then
+            git add data/market.json
+            git commit -m "Update market data"
             git push
           else
             echo "No changes to commit"
