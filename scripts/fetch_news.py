@@ -169,9 +169,11 @@ def build_prompt(category_label, articles):
 
 {numbered}
 
+Definisi "relevan" di sini secara KETAT hanya: pergerakan/kinerja saham & emiten, kebijakan makroekonomi (suku bunga, inflasi, nilai tukar, APBN, pajak), pasar modal & regulasinya (IHSG, OJK, BEI), harga komoditas (minyak, emas), perbankan & institusi keuangan besar, atau berita korporasi besar yang menggerakkan pasar.
+
 Tugas kamu:
-1. BUANG/lewati berita yang bukan soal saham, bisnis, atau ekonomi — misalnya politik, kriminal, olahraga, hiburan, gaya hidup, atau human interest — walaupun berasal dari sumber/feed berlabel bisnis. Jangan buat cluster untuk berita semacam itu sama sekali.
-2. Dari sisa berita yang genuinely soal saham/bisnis/ekonomi, kelompokkan yang membahas topik/saham/perusahaan yang sama menjadi satu cluster (misalnya beberapa berita berbeda tentang saham BBCA jadi satu cluster).
+1. BUANG/lewati berita yang TIDAK masuk definisi relevan di atas — termasuk politik, kriminal, olahraga, hiburan, gaya hidup, human interest, DAN JUGA profil/kisah inspiratif UMKM atau bisnis kecil bergaya feature (misalnya "Warung X Bertahan di Tengah Krisis", tips usaha, cerita pelaku UMKM) — itu bukan berita pasar/emiten dan tidak dihitung "ekonomi" untuk tujuan ini, walaupun berasal dari sumber/feed berlabel bisnis. Kalau ragu apakah suatu berita cukup relevan, LEBIH BAIK dibuang daripada dipaksakan masuk. Jangan buat cluster untuk berita yang dibuang.
+2. Dari sisa berita yang genuinely relevan sesuai definisi di atas, kelompokkan yang membahas topik/saham/perusahaan yang sama menjadi satu cluster (misalnya beberapa berita berbeda tentang saham BBCA jadi satu cluster).
 3. Berita yang topiknya berdiri sendiri (tidak ada berita lain yang mirip) tetap jadi satu cluster sendiri, selama masih soal saham/bisnis/ekonomi.
 4. Untuk tiap cluster, tulis SATU ringkasan singkat berbahasa Indonesia, MAKSIMAL 2 kalimat pendek (jangan lebih dari ±50 kata total), gaya jurnalistik netral, jangan mengarang fakta yang tidak ada di judul/snippet sumber.
 5. Beri "tag" pendek tiap cluster (contoh: "Saham • BBCA", "Makroekonomi", "The Fed", "Teknologi").
