@@ -1,5 +1,6 @@
 let digestData = null;
 let marketData = null;
+let searchIndex = [];
 
 async function loadDigest() {
   try {
@@ -33,6 +34,12 @@ function renderDigest() {
   renderList('list-global', global);
   renderList('list-personal', personal);
 
+  searchIndex = [
+    ...domestic.map((item, i) => ({ ...item, cardId: 'card-domestic-' + i, view: 'general', subtab: 'domestic' })),
+    ...global.map((item, i) => ({ ...item, cardId: 'card-global-' + i, view: 'general', subtab: 'global' })),
+    ...personal.map((item, i) => ({ ...item, cardId: 'card-personal-' + i, view: 'personal', subtab: null })),
+  ];
+
   document.getElementById('emptyStateGeneral').hidden = domestic.length > 0 || global.length > 0;
   document.getElementById('emptyStatePersonal').hidden = personal.length > 0;
 
@@ -47,10 +54,12 @@ function renderDigest() {
 
 function renderList(elId, items) {
   const el = document.getElementById(elId);
+  const idPrefix = 'card-' + elId.replace('list-', '') + '-';
   el.innerHTML = '';
-  items.forEach(item => {
+  items.forEach((item, i) => {
     const card = document.createElement('article');
     card.className = 'card';
+    card.id = idPrefix + i;
 
     const topic = document.createElement('span');
     topic.className = 'card__topic';
@@ -273,6 +282,87 @@ function setupBackToTop() {
   btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 }
 
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
+}
+
+function setupSearch() {
+  const input = document.getElementById('searchInput');
+  const results = document.getElementById('searchResults');
+
+  function renderResults(query) {
+    const q = query.trim().toLowerCase();
+    if (!q) {
+      results.hidden = true;
+      results.innerHTML = '';
+      return;
+    }
+
+    const matches = searchIndex.filter(item =>
+      (item.title || '').toLowerCase().includes(q) ||
+      (item.summary || '').toLowerCase().includes(q) ||
+      (item.tag || '').toLowerCase().includes(q)
+    ).slice(0, 8);
+
+    results.innerHTML = '';
+    if (matches.length === 0) {
+      const empty = document.createElement('div');
+      empty.className = 'search-empty';
+      empty.textContent = `Nggak ketemu buat "${query.trim()}"`;
+      results.appendChild(empty);
+    } else {
+      matches.forEach(item => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'search-result';
+        btn.innerHTML = `<span class="search-result__tag">${escapeHtml(item.tag)}</span><span class="search-result__title">${escapeHtml(item.title)}</span>`;
+        btn.addEventListener('click', () => goToSearchResult(item));
+        results.appendChild(btn);
+      });
+    }
+    results.hidden = false;
+  }
+
+  input.addEventListener('input', () => renderResults(input.value));
+  input.addEventListener('focus', () => {
+    if (input.value.trim()) renderResults(input.value);
+  });
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+      input.value = '';
+      results.hidden = true;
+      input.blur();
+    }
+  });
+
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.header__search')) {
+      results.hidden = true;
+    }
+  });
+}
+
+function goToSearchResult(item) {
+  switchView(item.view);
+  if (item.subtab) {
+    const subtabBtn = document.querySelector(`.subtab[data-subtab="${item.subtab}"]`);
+    if (subtabBtn) subtabBtn.click();
+  }
+
+  document.getElementById('searchResults').hidden = true;
+  document.getElementById('searchInput').blur();
+
+  setTimeout(() => {
+    const card = document.getElementById(item.cardId);
+    if (!card) return;
+    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    card.classList.add('is-highlighted');
+    setTimeout(() => card.classList.remove('is-highlighted'), 1700);
+  }, 50);
+}
+
 function setupGotoButtons() {
   document.querySelectorAll('[data-goto]:not(.drawer__link)').forEach(btn => {
     btn.addEventListener('click', () => switchView(btn.dataset.goto));
@@ -310,6 +400,7 @@ setupDrawerGroup();
 setupGotoButtons();
 setupGeneralSubtabs();
 setupBackToTop();
+setupSearch();
 setGreeting();
 loadDigest();
 loadMarket();
