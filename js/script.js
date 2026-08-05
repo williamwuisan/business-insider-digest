@@ -207,6 +207,17 @@ function setGreeting() {
 function switchView(viewName) {
   document.querySelectorAll('.view').forEach(v => v.classList.toggle('is-active', v.dataset.view === viewName));
   document.querySelectorAll('.drawer__link').forEach(l => l.classList.toggle('is-active', l.dataset.goto === viewName));
+
+  const newsToggle = document.getElementById('newsGroupToggle');
+  const newsSubmenu = document.getElementById('newsSubmenu');
+  const isNewsChild = viewName === 'general' || viewName === 'personal';
+  newsToggle.classList.toggle('is-active', isNewsChild);
+  if (isNewsChild) {
+    newsToggle.classList.add('is-open');
+    newsSubmenu.classList.add('is-open');
+    newsToggle.setAttribute('aria-expanded', 'true');
+  }
+
   window.scrollTo({ top: 0 });
 }
 
@@ -243,6 +254,25 @@ function setupDrawer() {
   });
 }
 
+function setupDrawerGroup() {
+  const toggle = document.getElementById('newsGroupToggle');
+  const submenu = document.getElementById('newsSubmenu');
+  toggle.addEventListener('click', () => {
+    const isOpen = !toggle.classList.contains('is-open');
+    toggle.classList.toggle('is-open', isOpen);
+    submenu.classList.toggle('is-open', isOpen);
+    toggle.setAttribute('aria-expanded', String(isOpen));
+  });
+}
+
+function setupBackToTop() {
+  const btn = document.getElementById('backToTop');
+  window.addEventListener('scroll', () => {
+    btn.classList.toggle('is-visible', window.scrollY > 400);
+  });
+  btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+}
+
 function setupGotoButtons() {
   document.querySelectorAll('[data-goto]:not(.drawer__link)').forEach(btn => {
     btn.addEventListener('click', () => switchView(btn.dataset.goto));
@@ -276,8 +306,10 @@ function setupGeneralSubtabs() {
 }
 
 setupDrawer();
+setupDrawerGroup();
 setupGotoButtons();
 setupGeneralSubtabs();
+setupBackToTop();
 setGreeting();
 loadDigest();
 loadMarket();

@@ -44,17 +44,19 @@ body {
 }
 
 .container {
-  max-width: 1120px;
+  max-width: 1360px;
   margin: 0 auto;
   padding: 0 32px;
 }
 
-/* Reading views (actual news lists) stay a comfortable line-length even
-   though the outer .container is wide — only Home uses the full width. */
-.view--narrow {
-  max-width: 720px;
-  margin-left: auto;
-  margin-right: auto;
+/* Card lists get wide-screen breathing room via columns instead of one
+   long single-column stretching edge to edge. */
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  align-items: start;
+  gap: 14px;
+  padding-bottom: 40px;
 }
 
 /* Header */
@@ -200,6 +202,54 @@ body {
 .drawer__link.is-active {
   background: var(--accent-soft);
   color: var(--accent);
+}
+
+.drawer__link--sub {
+  padding-left: 28px;
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+
+.drawer__group-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  appearance: none;
+  border: none;
+  background: none;
+  font-family: inherit;
+  color: var(--text);
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 12px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.drawer__group-toggle.is-active {
+  color: var(--accent);
+}
+
+.drawer__chevron {
+  color: var(--text-muted);
+  transition: transform 0.2s ease;
+}
+
+.drawer__group-toggle.is-open .drawer__chevron {
+  transform: rotate(180deg);
+}
+
+.drawer__submenu {
+  display: flex;
+  flex-direction: column;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease;
+}
+
+.drawer__submenu.is-open {
+  max-height: 160px;
 }
 
 /* Views */
@@ -370,14 +420,7 @@ body {
   margin: 4px 0 16px;
 }
 
-.card-list {
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  padding-bottom: 40px;
-}
-
-/* `.card-list`'s own `display: flex` (an author rule) otherwise beats the
+/* `.card-list`'s own `display: grid` (an author rule) otherwise beats the
    `hidden` attribute's user-agent `display: none` at equal specificity —
    this rule is more specific than `.card-list` alone so it wins instead. */
 .card-list[hidden] { display: none; }
@@ -524,13 +567,54 @@ body {
   font-size: 0.92rem;
 }
 
-/* Footer */
+/* Footer — a slim bar pinned to the bottom of the viewport, not trailing
+   the document flow */
 .footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
   border-top: 1px solid var(--border);
-  padding: 20px 0 32px;
+  background: var(--surface);
+  padding: 8px 16px;
+  margin: 0;
   color: var(--text-muted);
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   text-align: center;
+  z-index: 8;
+}
+
+/* Leave room so the fixed footer never covers the last card/content */
+main.container {
+  padding-bottom: 44px;
+}
+
+/* Back-to-top FAB */
+.back-to-top {
+  position: fixed;
+  right: 20px;
+  bottom: 52px;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  opacity: 0;
+  transform: translateY(8px);
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 9;
+}
+
+.back-to-top.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
 }
 
 @media (max-width: 480px) {

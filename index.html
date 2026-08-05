@@ -32,8 +32,16 @@
 <nav class="drawer" id="drawer" aria-label="Menu utama">
   <button class="drawer__close" id="drawerClose" aria-label="Tutup menu">✕</button>
   <a href="#" class="drawer__link is-active" data-goto="home">Home</a>
-  <a href="#" class="drawer__link" data-goto="general">Umum</a>
-  <a href="#" class="drawer__link" data-goto="personal">⭐ Personal</a>
+
+  <button class="drawer__group-toggle" id="newsGroupToggle" aria-expanded="false" aria-controls="newsSubmenu">
+    <span>News</span>
+    <span class="drawer__chevron">⌄</span>
+  </button>
+  <div class="drawer__submenu" id="newsSubmenu">
+    <a href="#" class="drawer__link drawer__link--sub" data-goto="general">General</a>
+    <a href="#" class="drawer__link drawer__link--sub" data-goto="personal">Personal</a>
+  </div>
+
   <a href="#" class="drawer__link" data-goto="market">IHSG &amp; Emas</a>
 </nav>
 
@@ -74,7 +82,7 @@
   </section>
 
   <!-- ===== UMUM ===== -->
-  <section class="view view--narrow" id="view-general" data-view="general">
+  <section class="view" id="view-general" data-view="general">
     <h2 class="view-title">Berita Umum</h2>
     <div class="tabs tabs--sub" role="tablist">
       <button class="subtab is-active" data-subtab="domestic" role="tab" aria-selected="true">🇮🇩 Dalam Negeri</button>
@@ -86,7 +94,7 @@
   </section>
 
   <!-- ===== PERSONAL ===== -->
-  <section class="view view--narrow" id="view-personal" data-view="personal">
+  <section class="view" id="view-personal" data-view="personal">
     <h2 class="view-title">⭐ Personal</h2>
     <p class="panel-hint">Berita khusus saham yang kamu pantau: ANTM, BIPI, WIFI, BRMS, BUMI, SUPA, BMRI.</p>
     <div class="card-list" id="list-personal"></div>
@@ -94,7 +102,7 @@
   </section>
 
   <!-- ===== IHSG & EMAS ===== -->
-  <section class="view view--narrow" id="view-market" data-view="market">
+  <section class="view" id="view-market" data-view="market">
     <h2 class="view-title">IHSG &amp; Emas</h2>
     <div class="stat-grid" id="marketStats"></div>
     <p class="market-updated" id="marketUpdated"></p>
@@ -102,10 +110,10 @@
 
 </main>
 
+<button class="back-to-top" id="backToTop" aria-label="Kembali ke atas">↑</button>
+
 <footer class="footer">
-  <div class="container">
-    <p>Dirangkum otomatis oleh AI dari berbagai sumber berita. Selalu cek sumber asli untuk keputusan penting.</p>
-  </div>
+  <p>Dirangkum otomatis AI — cek sumber asli untuk keputusan penting.</p>
 </footer>
 
 <script src="js/script.js"></script>
