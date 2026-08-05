@@ -23,7 +23,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DIGEST_PATH = REPO_ROOT / "data" / "digest.json"
 
 LOOKBACK_HOURS = 15  # covers a 2x/day schedule with buffer for a missed run
-MAX_ARTICLES_PER_CATEGORY = 50  # keep worst-case (no clustering) output under max_tokens
+MAX_ARTICLES_PER_CATEGORY = 25  # keep worst-case (no clustering) output under max_tokens
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 MODEL = "claude-haiku-4-5-20251001"
 
@@ -168,7 +168,7 @@ def build_prompt(category_label, articles):
 Tugas kamu:
 1. Kelompokkan berita yang membahas topik/saham/perusahaan yang sama menjadi satu cluster (misalnya beberapa berita berbeda tentang saham BBCA jadi satu cluster).
 2. Berita yang topiknya berdiri sendiri (tidak ada berita lain yang mirip) tetap jadi satu cluster sendiri.
-3. Untuk tiap cluster, tulis SATU ringkasan singkat berbahasa Indonesia (2-4 kalimat, gaya jurnalistik netral, jangan mengarang fakta yang tidak ada di judul/snippet sumber).
+3. Untuk tiap cluster, tulis SATU ringkasan singkat berbahasa Indonesia, MAKSIMAL 2 kalimat pendek (jangan lebih dari ±50 kata total), gaya jurnalistik netral, jangan mengarang fakta yang tidak ada di judul/snippet sumber.
 4. Beri "tag" pendek tiap cluster (contoh: "Saham • BBCA", "Makroekonomi", "The Fed", "Teknologi").
 5. Sertakan SEMUA url sumber yang termasuk cluster tersebut.
 6. Panggil tool submit_digest dengan hasilnya. Jika daftar berita di atas kosong, panggil dengan clusters: []."""
@@ -186,6 +186,7 @@ def summarize(client, category, category_label, articles):
         messages=[{"role": "user", "content": prompt}],
     )
 
+    print(f"  [usage] {category}: stop_reason={response.stop_reason} output_tokens={response.usage.output_tokens}", file=sys.stderr)
     if response.stop_reason == "max_tokens":
         print(f"  [error] response for {category} hit max_tokens before finishing", file=sys.stderr)
         return None
