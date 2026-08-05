@@ -15,6 +15,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
+import requests
 from anthropic import Anthropic
 from dateutil import parser as dateutil_parser
 
@@ -22,6 +23,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DIGEST_PATH = REPO_ROOT / "data" / "digest.json"
 
 LOOKBACK_HOURS = 15  # covers a 2x/day schedule with buffer for a missed run
+MAX_ARTICLES_PER_CATEGORY = 60  # keep prompt/response size bounded on busy days
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 MODEL = "claude-haiku-4-5-20251001"
 
@@ -62,7 +64,16 @@ def fetch_category(category, cutoff):
     articles = []
     for source_name, url in FEEDS[category]:
         try:
-            parsed = feedparser.parse(url, request_headers={"User-Agent": USER_AGENT})
+            # Fetch with `requests` (not feedparser's own opener) — some of these
+            # sites serve an error/challenge page instead of the real feed to
+            # bare urllib requests even with a matching User-Agent header.
+            resp = requests.get(
+                url,
+                headers={"User-Agent": USER_AGENT, "Accept": "*/*"},
+                timeout=15,
+            )
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
             if parsed.bozo and not parsed.entries:
                 print(f"  [skip] {source_name} ({url}): {parsed.bozo_exception}", file=sys.stderr)
                 continue
@@ -83,6 +94,9 @@ def fetch_category(category, cutoff):
             })
             kept += 1
         print(f"  [ok] {source_name} ({url}): {kept} recent items", file=sys.stderr)
+
+    if len(articles) > MAX_ARTICLES_PER_CATEGORY:
+        articles = articles[:MAX_ARTICLES_PER_CATEGORY]
     return articles
 
 
@@ -121,7 +135,7 @@ def summarize(client, category, category_label, articles):
     prompt = build_prompt(category_label, articles)
     response = client.messages.create(
         model=MODEL,
-        max_tokens=4096,
+        max_tokens=8192,
         messages=[{"role": "user", "content": prompt}],
     )
     text = "".join(block.text for block in response.content if block.type == "text").strip()
@@ -134,11 +148,21 @@ def summarize(client, category, category_label, articles):
     except json.JSONDecodeError as exc:
         print(f"  [error] could not parse Claude response for {category}: {exc}", file=sys.stderr)
         print(text, file=sys.stderr)
-        return []
+        return None  # signals "something went wrong", distinct from "genuinely no articles"
 
     for c in clusters:
         c["category"] = category
     return clusters
+
+
+def load_previous_items(category):
+    if not DIGEST_PATH.exists():
+        return []
+    try:
+        previous = json.loads(DIGEST_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+    return [i for i in previous.get("items", []) if i.get("category") == category]
 
 
 def main():
@@ -159,6 +183,13 @@ def main():
     domestic_items = summarize(client, "domestic", "dalam negeri (Indonesia)", domestic_articles)
     print(f"Summarizing {len(global_articles)} global articles...", file=sys.stderr)
     global_items = summarize(client, "global", "luar negeri / global", global_articles)
+
+    if domestic_items is None:
+        print("  [fallback] keeping previous domestic items (summarization failed this run)", file=sys.stderr)
+        domestic_items = load_previous_items("domestic")
+    if global_items is None:
+        print("  [fallback] keeping previous global items (summarization failed this run)", file=sys.stderr)
+        global_items = load_previous_items("global")
 
     digest = {
         "generated_at": datetime.now(timezone.utc).astimezone().isoformat(),

@@ -1,4 +1,45 @@
 {
-  "generated_at": "2026-08-05T03:17:29.397265+00:00",
-  "items": []
+  "generated_at": "2026-08-05T09:00:00+07:00",
+  "items": [
+    {
+      "category": "domestic",
+      "tag": "Saham • BBCA",
+      "title": "Saham BBCA Menguat Usai Rilis Kinerja Kuartal II",
+      "summary": "Saham Bank Central Asia (BBCA) naik 2,1% setelah perseroan melaporkan pertumbuhan laba bersih double-digit pada kuartal II 2026. Analis menilai pertumbuhan kredit dan kualitas aset yang terjaga menjadi pendorong utama, meski beberapa mengingatkan valuasi saham sudah relatif tinggi dibanding rata-rata sektor perbankan.",
+      "sources": [
+        { "name": "CNBC Indonesia", "url": "https://www.cnbcindonesia.com/" },
+        { "name": "Kontan", "url": "https://www.kontan.co.id/" },
+        { "name": "Bisnis.com", "url": "https://www.bisnis.com/" }
+      ]
+    },
+    {
+      "category": "domestic",
+      "tag": "Makroekonomi",
+      "title": "Bank Indonesia Tahan Suku Bunga Acuan di Level Saat Ini",
+      "summary": "Bank Indonesia memutuskan mempertahankan suku bunga acuan pada rapat dewan gubernur terbaru, sejalan dengan ekspektasi pasar. Bank sentral menyebut stabilitas rupiah dan inflasi yang terkendali sebagai pertimbangan utama, sembari membuka ruang pelonggaran lanjutan jika kondisi global mendukung.",
+      "sources": [
+        { "name": "CNN Indonesia", "url": "https://www.cnnindonesia.com/" },
+        { "name": "Investor.id", "url": "https://investor.id/" }
+      ]
+    },
+    {
+      "category": "global",
+      "tag": "AS • The Fed",
+      "title": "The Fed Beri Sinyal Pemangkasan Suku Bunga Tahun Ini",
+      "summary": "Pejabat Federal Reserve mengindikasikan kemungkinan pemangkasan suku bunga masih terbuka tahun ini seiring pelambatan data inflasi AS. Pasar saham global merespons positif, sementara imbal hasil obligasi pemerintah AS turun tipis.",
+      "sources": [
+        { "name": "CNBC International", "url": "https://www.cnbc.com/" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/" }
+      ]
+    },
+    {
+      "category": "global",
+      "tag": "Teknologi",
+      "title": "Saham Teknologi AS Bergerak Variatif di Tengah Musim Laporan Keuangan",
+      "summary": "Sejumlah saham teknologi besar bergerak beragam menjelang rilis laporan keuangan kuartalan, dengan investor mencermati belanja modal terkait AI sebagai indikator utama arah pasar dalam beberapa bulan ke depan.",
+      "sources": [
+        { "name": "MarketWatch", "url": "https://www.marketwatch.com/" }
+      ]
+    }
+  ]
 }
