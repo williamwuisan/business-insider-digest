@@ -9,7 +9,7 @@ is left untouched instead of being wiped out.
 """
 
 import json
-import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -27,14 +27,27 @@ MAX_ARTICLES_PER_CATEGORY = 60  # keep prompt/response size bounded on busy days
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 MODEL = "claude-haiku-4-5-20251001"
 
+
+def google_news(site_query):
+    # Indonesian news sites here block GitHub Actions' cloud IP ranges on
+    # their own /rss endpoints (confirmed via direct testing: 403 from the
+    # Actions runner, 200 from elsewhere). Routing through Google News RSS
+    # (scoped to the same site with `site:`) reaches them instead. Per
+    # Google's own feed terms this is for personal, non-commercial reading
+    # use, which matches this project.
+    return f"https://news.google.com/rss/search?q=when:1d+{site_query}&hl=id&gl=ID&ceid=ID:id"
+
+
 FEEDS = {
     "domestic": [
-        ("CNBC Indonesia", "https://www.cnbcindonesia.com/news/rss"),
-        ("CNBC Indonesia", "https://www.cnbcindonesia.com/market/rss/"),
-        ("CNN Indonesia", "https://www.cnnindonesia.com/ekonomi/rss"),
-        ("CNN Indonesia", "https://www.cnnindonesia.com/nasional/rss"),
-        ("Kontan", "https://investasi.kontan.co.id/rss"),
-        ("Kontan", "https://nasional.kontan.co.id/rss"),
+        ("CNBC Indonesia", google_news("site:cnbcindonesia.com/market")),
+        ("CNBC Indonesia", google_news("site:cnbcindonesia.com/news")),
+        ("CNN Indonesia", google_news("site:cnnindonesia.com/ekonomi")),
+        ("CNN Indonesia", google_news("site:cnnindonesia.com/nasional")),
+        ("Kontan", google_news("site:investasi.kontan.co.id")),
+        ("Kontan", google_news("site:nasional.kontan.co.id")),
+        ("Bisnis.com", google_news("site:bisnis.com")),
+        ("Investor.id", google_news("site:investor.id")),
     ],
     "global": [
         ("CNBC International", "https://www.cnbc.com/id/100727362/device/rss/rss.html"),
@@ -86,11 +99,19 @@ def fetch_category(category, cutoff):
             published = entry_published(entry)
             if published and published < cutoff:
                 continue
+            title = entry.get("title", "").strip()
+            # Google News appends " - <Publisher>" to every title; drop it
+            # since we already track the source separately.
+            if " - " in title:
+                title = title.rsplit(" - ", 1)[0]
+            snippet = re.sub(r"<[^>]+>", "", entry.get("summary", "") or "").strip()
+            if snippet == title:
+                snippet = ""
             articles.append({
                 "source": source_name,
-                "title": entry.get("title", "").strip(),
+                "title": title,
                 "url": entry.get("link", ""),
-                "snippet": (entry.get("summary", "") or "")[:400],
+                "snippet": snippet[:400],
             })
             kept += 1
         print(f"  [ok] {source_name} ({url}): {kept} recent items", file=sys.stderr)
