@@ -287,16 +287,17 @@ body {
   margin: 4px 0 16px;
 }
 
-/* Panels */
-.panel { display: none; }
-.panel.is-active { display: block; }
-
 .card-list {
   display: flex;
   flex-direction: column;
   gap: 14px;
   padding-bottom: 40px;
 }
+
+/* `.card-list`'s own `display: flex` (an author rule) otherwise beats the
+   `hidden` attribute's user-agent `display: none` at equal specificity —
+   this rule is more specific than `.card-list` alone so it wins instead. */
+.card-list[hidden] { display: none; }
 
 /* Market stat cards (view-market) */
 .stat-grid {

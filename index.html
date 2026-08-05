@@ -32,7 +32,8 @@
 <nav class="drawer" id="drawer" aria-label="Menu utama">
   <button class="drawer__close" id="drawerClose" aria-label="Tutup menu">✕</button>
   <a href="#" class="drawer__link is-active" data-goto="home">Home</a>
-  <a href="#" class="drawer__link" data-goto="news">Berita Harian</a>
+  <a href="#" class="drawer__link" data-goto="general">Umum</a>
+  <a href="#" class="drawer__link" data-goto="personal">⭐ Personal</a>
   <a href="#" class="drawer__link" data-goto="market">IHSG &amp; Emas</a>
 </nav>
 
@@ -44,33 +45,30 @@
     <div class="market-strip" id="homeMarketStrip"></div>
     <div class="card-list" id="homeHighlights"></div>
     <div class="home-actions">
-      <button class="btn btn--primary" data-goto="news">Lihat Semua Berita</button>
-      <button class="btn btn--ghost" data-goto="market">Lihat IHSG &amp; Emas</button>
+      <button class="btn btn--primary" data-goto="general">Berita Umum</button>
+      <button class="btn btn--ghost" data-goto="personal">⭐ Personal</button>
+      <button class="btn btn--ghost" data-goto="market">IHSG &amp; Emas</button>
     </div>
   </section>
 
-  <!-- ===== BERITA HARIAN ===== -->
-  <section class="view" id="view-news" data-view="news">
-    <div class="tabs tabs--main" role="tablist">
-      <button class="tab is-active" data-tab="general" role="tab" aria-selected="true">Umum</button>
-      <button class="tab" data-tab="personal" role="tab" aria-selected="false">⭐ Personal</button>
+  <!-- ===== UMUM ===== -->
+  <section class="view" id="view-general" data-view="general">
+    <h2 class="view-title">Berita Umum</h2>
+    <div class="tabs tabs--sub" role="tablist">
+      <button class="subtab is-active" data-subtab="domestic" role="tab" aria-selected="true">🇮🇩 Dalam Negeri</button>
+      <button class="subtab" data-subtab="global" role="tab" aria-selected="false">🌏 Luar Negeri</button>
     </div>
+    <div class="card-list" id="list-domestic" data-subpanel="domestic"></div>
+    <div class="card-list" id="list-global" data-subpanel="global" hidden></div>
+    <p class="empty-state" id="emptyStateGeneral" hidden>Belum ada data. Digest akan muncul di sini setelah pembaruan pertama berjalan.</p>
+  </section>
 
-    <div class="panel is-active" data-panel="general">
-      <div class="tabs tabs--sub" role="tablist">
-        <button class="subtab is-active" data-subtab="domestic" role="tab" aria-selected="true">🇮🇩 Dalam Negeri</button>
-        <button class="subtab" data-subtab="global" role="tab" aria-selected="false">🌏 Luar Negeri</button>
-      </div>
-      <div class="card-list" id="list-domestic" data-subpanel="domestic"></div>
-      <div class="card-list" id="list-global" data-subpanel="global" hidden></div>
-    </div>
-
-    <div class="panel" data-panel="personal">
-      <p class="panel-hint">Berita khusus saham yang kamu pantau: ANTM, BIPI, WIFI, BRMS, BUMI, SUPA, BMRI.</p>
-      <div class="card-list" id="list-personal"></div>
-    </div>
-
-    <p class="empty-state" id="emptyState" hidden>Belum ada data. Digest akan muncul di sini setelah pembaruan pertama berjalan.</p>
+  <!-- ===== PERSONAL ===== -->
+  <section class="view" id="view-personal" data-view="personal">
+    <h2 class="view-title">⭐ Personal</h2>
+    <p class="panel-hint">Berita khusus saham yang kamu pantau: ANTM, BIPI, WIFI, BRMS, BUMI, SUPA, BMRI.</p>
+    <div class="card-list" id="list-personal"></div>
+    <p class="empty-state" id="emptyStatePersonal" hidden>Belum ada data. Digest akan muncul di sini setelah pembaruan pertama berjalan.</p>
   </section>
 
   <!-- ===== IHSG & EMAS ===== -->

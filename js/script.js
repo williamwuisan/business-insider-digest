@@ -34,8 +34,8 @@ function renderDigest() {
   renderList('list-personal', personal);
   renderList('homeHighlights', domestic.concat(global).slice(0, 3));
 
-  const emptyState = document.getElementById('emptyState');
-  emptyState.hidden = domestic.length > 0 || global.length > 0 || personal.length > 0;
+  document.getElementById('emptyStateGeneral').hidden = domestic.length > 0 || global.length > 0;
+  document.getElementById('emptyStatePersonal').hidden = personal.length > 0;
 
   const lastUpdated = document.getElementById('lastUpdated');
   if (digestData.generated_at) {
@@ -211,24 +211,6 @@ function setupGotoButtons() {
   });
 }
 
-function setupNewsTabs() {
-  const tabs = document.querySelectorAll('#view-news > .tabs--main .tab');
-  tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      tabs.forEach(t => {
-        t.classList.remove('is-active');
-        t.setAttribute('aria-selected', 'false');
-      });
-      tab.classList.add('is-active');
-      tab.setAttribute('aria-selected', 'true');
-
-      document.querySelectorAll('#view-news > .panel').forEach(p => {
-        p.classList.toggle('is-active', p.dataset.panel === tab.dataset.tab);
-      });
-    });
-  });
-}
-
 function setupGeneralSubtabs() {
   const subtabs = document.querySelectorAll('.tabs--sub .subtab');
   subtabs.forEach(subtab => {
@@ -249,7 +231,6 @@ function setupGeneralSubtabs() {
 
 setupDrawer();
 setupGotoButtons();
-setupNewsTabs();
 setupGeneralSubtabs();
 loadDigest();
 loadMarket();
