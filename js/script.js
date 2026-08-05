@@ -129,29 +129,29 @@ function renderMarket() {
 
   if (ihsg) {
     statsEl.appendChild(statCard({
-      label: 'IHSG',
+      label: '📊 IHSG',
       value: fmtNumber(ihsg.value),
       change: ihsg.change_percent,
       sub: `Sebelumnya: ${fmtNumber(ihsg.previous_close)}`,
     }));
-    stripEl.appendChild(statCard({ label: 'IHSG', value: fmtNumber(ihsg.value, 0), change: ihsg.change_percent }));
+    stripEl.appendChild(statCard({ label: '📊 IHSG', value: fmtNumber(ihsg.value, 0), change: ihsg.change_percent }));
   }
   if (gold_world) {
     statsEl.appendChild(statCard({
-      label: 'Emas Dunia (USD/oz)',
+      label: '🌍 Emas Dunia (USD/oz)',
       value: '$' + fmtNumber(gold_world.value),
       change: gold_world.change_percent,
     }));
-    stripEl.appendChild(statCard({ label: 'Emas Dunia', value: '$' + fmtNumber(gold_world.value, 0), change: gold_world.change_percent }));
+    stripEl.appendChild(statCard({ label: '🌍 Emas Dunia', value: '$' + fmtNumber(gold_world.value, 0), change: gold_world.change_percent }));
   }
   if (gold_antam) {
     statsEl.appendChild(statCard({
-      label: 'Emas Antam (per gram)',
+      label: '🥇 Emas Antam (per gram)',
       value: 'Rp' + fmtNumber(gold_antam.buy, 0),
       change: gold_antam.change_percent,
       sub: gold_antam.buyback ? `Buyback: Rp${fmtNumber(gold_antam.buyback, 0)}` : undefined,
     }));
-    stripEl.appendChild(statCard({ label: 'Emas Antam', value: 'Rp' + fmtNumber(gold_antam.buy, 0), change: gold_antam.change_percent }));
+    stripEl.appendChild(statCard({ label: '🥇 Emas Antam', value: 'Rp' + fmtNumber(gold_antam.buy, 0), change: gold_antam.change_percent }));
   }
 
   if (!ihsg && !gold_world && !gold_antam) {
@@ -164,6 +164,45 @@ function renderMarket() {
       day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit'
     });
   }
+
+  renderMoodBanner(ihsg);
+}
+
+function renderMoodBanner(ihsg) {
+  const banner = document.getElementById('moodBanner');
+  if (!ihsg || typeof ihsg.change_percent !== 'number') {
+    banner.hidden = true;
+    return;
+  }
+  const pct = ihsg.change_percent;
+  let emoji, text;
+  if (pct >= 2) {
+    emoji = '🚀'; text = `IHSG lagi ngegas banget, +${fmtNumber(pct)}% hari ini!`;
+  } else if (pct >= 0.3) {
+    emoji = '📈'; text = `IHSG hijau, naik +${fmtNumber(pct)}%. Lumayan nih.`;
+  } else if (pct > -0.3) {
+    emoji = '😌'; text = `IHSG adem ayem, cuma ${fmtNumber(pct)}%. Santai dulu.`;
+  } else if (pct > -2) {
+    emoji = '📉'; text = `IHSG lagi melempem, ${fmtNumber(pct)}%. Sabar ya.`;
+  } else {
+    emoji = '😬'; text = `IHSG merah menyala, ${fmtNumber(pct)}%. Tarik napas dulu.`;
+  }
+  document.getElementById('moodEmoji').textContent = emoji;
+  document.getElementById('moodText').textContent = text;
+  banner.hidden = false;
+}
+
+function setGreeting() {
+  const el = document.getElementById('greetingKicker');
+  if (!el) return;
+  const hour = new Date().getHours();
+  let greeting;
+  if (hour < 4) greeting = '🌙 Begadang nih?';
+  else if (hour < 10) greeting = '☕ Pagi!';
+  else if (hour < 15) greeting = '🍜 Siang!';
+  else if (hour < 18) greeting = '🌇 Sore!';
+  else greeting = '🌃 Malam!';
+  el.textContent = greeting;
 }
 
 function switchView(viewName) {
@@ -240,5 +279,6 @@ function setupGeneralSubtabs() {
 setupDrawer();
 setupGotoButtons();
 setupGeneralSubtabs();
+setGreeting();
 loadDigest();
 loadMarket();

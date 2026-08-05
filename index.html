@@ -42,18 +42,23 @@
   <!-- ===== HOME ===== -->
   <section class="view is-active" id="view-home" data-view="home">
     <div class="home-intro">
-      <span class="home-intro__kicker">👋 Selamat datang di Business Insider</span>
-      <h1 class="home-intro__title">Berhenti buka belasan tab berita tiap pagi.</h1>
-      <p class="home-intro__text">Berita saham &amp; ekonomi Indonesia dan global dirangkum otomatis oleh AI, saham favoritmu dipantau khusus, plus pergerakan IHSG &amp; emas — semua di satu tempat, diperbarui sepanjang hari.</p>
+      <span class="home-intro__kicker" id="greetingKicker">👋 Halo!</span>
+      <h1 class="home-intro__title">Males scroll <span class="highlight">belasan tab berita</span> tiap pagi? Sama.</h1>
+      <p class="home-intro__text">Makanya udah kita baca &amp; rangkum semua duluan — saham dalam &amp; luar negeri, saham favoritmu, sampai kabar IHSG &amp; emas. Kamu tinggal santai, scroll, tau apa yang lagi terjadi. Gaskeun 👇</p>
     </div>
 
-    <h2 class="view-title">Ringkasan Hari Ini</h2>
+    <div class="mood-banner" id="moodBanner" hidden>
+      <span class="mood-banner__emoji" id="moodEmoji">📊</span>
+      <span id="moodText">Lagi ngecek pasar...</span>
+    </div>
+
+    <h2 class="view-title">🔥 Yang Lagi Rame Hari Ini</h2>
     <div class="market-strip" id="homeMarketStrip"></div>
     <div class="card-list" id="homeHighlights"></div>
     <div class="home-actions">
-      <button class="btn btn--primary" data-goto="general">Berita Umum</button>
-      <button class="btn btn--ghost" data-goto="personal">⭐ Personal</button>
-      <button class="btn btn--ghost" data-goto="market">IHSG &amp; Emas</button>
+      <button class="btn btn--primary" data-goto="general">📰 Semua Berita</button>
+      <button class="btn btn--ghost" data-goto="personal">⭐ Saham Gue</button>
+      <button class="btn btn--ghost" data-goto="market">📊 IHSG &amp; Emas</button>
     </div>
   </section>
 

@@ -233,6 +233,57 @@ body {
   max-width: 56ch;
 }
 
+.highlight {
+  background-image: linear-gradient(120deg, var(--accent-soft) 0%, var(--accent-soft) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 42%;
+  background-position: 0 88%;
+  padding: 0 3px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Market mood banner (Home only) */
+.mood-banner {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 20px;
+  margin: 20px 0 8px;
+  border-radius: 16px;
+  background: var(--accent-soft);
+  border: 1.5px dashed var(--accent);
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.mood-banner__emoji {
+  font-size: 1.7rem;
+  line-height: 1;
+}
+
+/* A little playful "scattered sticker" treatment, Home only */
+#homeMarketStrip .stat-card:nth-child(odd),
+#homeHighlights .card:nth-child(odd) {
+  transform: rotate(-0.7deg);
+}
+
+#homeMarketStrip .stat-card:nth-child(even),
+#homeHighlights .card:nth-child(even) {
+  transform: rotate(0.7deg);
+}
+
+#homeMarketStrip .stat-card,
+#homeHighlights .card {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+#homeMarketStrip .stat-card:hover,
+#homeHighlights .card:hover {
+  transform: rotate(0deg) translateY(-3px);
+  box-shadow: 0 4px 6px rgba(43, 33, 23, 0.1), 0 12px 28px rgba(43, 33, 23, 0.1);
+}
+
 /* Buttons */
 .btn {
   appearance: none;
