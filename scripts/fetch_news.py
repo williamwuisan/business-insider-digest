@@ -23,7 +23,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DIGEST_PATH = REPO_ROOT / "data" / "digest.json"
 
 LOOKBACK_HOURS = 15  # covers a 2x/day schedule with buffer for a missed run
-MAX_ARTICLES_PER_CATEGORY = 40  # keep worst-case (no clustering) output under max_tokens
+MAX_ARTICLES_PER_CATEGORY = 50  # keep worst-case (no clustering) output under max_tokens
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 MODEL = "claude-haiku-4-5-20251001"
 
@@ -180,7 +180,7 @@ def summarize(client, category, category_label, articles):
     prompt = build_prompt(category_label, articles)
     response = client.messages.create(
         model=MODEL,
-        max_tokens=8192,
+        max_tokens=16000,
         tools=[SUBMIT_DIGEST_TOOL],
         tool_choice={"type": "tool", "name": "submit_digest"},
         messages=[{"role": "user", "content": prompt}],
