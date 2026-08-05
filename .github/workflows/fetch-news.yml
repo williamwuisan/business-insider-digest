@@ -39,7 +39,11 @@ jobs:
           if ! git diff --quiet -- data/digest.json; then
             git add data/digest.json
             git commit -m "Update news digest"
-            git push
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin master && git push && break
+              echo "push attempt $i failed, retrying..."
+              sleep $((i * 5))
+            done
           else
             echo "No changes to commit"
           fi

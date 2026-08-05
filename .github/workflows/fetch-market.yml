@@ -36,7 +36,11 @@ jobs:
           if ! git diff --quiet -- data/market.json; then
             git add data/market.json
             git commit -m "Update market data"
-            git push
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin master && git push && break
+              echo "push attempt $i failed, retrying..."
+              sleep $((i * 5))
+            done
           else
             echo "No changes to commit"
           fi
