@@ -208,6 +208,14 @@ function setupDrawer() {
 function setupGotoButtons() {
   document.querySelectorAll('[data-goto]:not(.drawer__link)').forEach(btn => {
     btn.addEventListener('click', () => switchView(btn.dataset.goto));
+    if (btn.getAttribute('role') === 'button') {
+      btn.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          switchView(btn.dataset.goto);
+        }
+      });
+    }
   });
 }
 

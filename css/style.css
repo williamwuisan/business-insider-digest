@@ -1,29 +1,35 @@
+/* Palette from the Wilson x Roland Garros racket: cream frame, terracotta
+   clay-court orange, deep bordeaux "W", sage-green grip accents. */
 :root {
-  --bg: #f7f8fa;
-  --surface: #ffffff;
-  --border: #e5e8ec;
-  --text: #14171f;
-  --text-muted: #5b6270;
-  --accent: #1f6f4a;
-  --accent-soft: #e6f2ec;
-  --global-accent: #1f4e8c;
-  --global-accent-soft: #e8eefb;
+  --bg: #f6f0e3;
+  --surface: #fffcf6;
+  --border: #e8dfc9;
+  --text: #2b2117;
+  --text-muted: #7c6f5a;
+  --accent: #c1723f;
+  --accent-soft: #f2e0cd;
+  --global-accent: #8e2a38;
+  --global-accent-soft: #f3dee0;
+  --personal-accent: #5b7a55;
+  --personal-accent-soft: #e3eae0;
   --radius: 14px;
-  --shadow: 0 1px 3px rgba(20, 23, 31, 0.06), 0 8px 24px rgba(20, 23, 31, 0.05);
+  --shadow: 0 1px 3px rgba(43, 33, 23, 0.08), 0 8px 24px rgba(43, 33, 23, 0.06);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0f1115;
-    --surface: #171a21;
-    --border: #262a33;
-    --text: #eceef2;
-    --text-muted: #9aa1ad;
-    --accent: #4caf82;
-    --accent-soft: #16261f;
-    --global-accent: #6fa0e6;
-    --global-accent-soft: #161f2e;
-    --shadow: 0 1px 3px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.25);
+    --bg: #1e1811;
+    --surface: #2a2119;
+    --border: #3d3327;
+    --text: #f3ebda;
+    --text-muted: #b7a88c;
+    --accent: #de8f5c;
+    --accent-soft: #3d2a1b;
+    --global-accent: #d66e7c;
+    --global-accent-soft: #3a2226;
+    --personal-accent: #8fae85;
+    --personal-accent-soft: #263323;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.35), 0 8px 24px rgba(0, 0, 0, 0.3);
   }
 }
 
@@ -65,6 +71,7 @@ body {
   gap: 10px;
   font-weight: 700;
   font-size: 1.05rem;
+  cursor: pointer;
 }
 
 .logo__mark {
@@ -74,8 +81,8 @@ body {
   width: 32px;
   height: 32px;
   border-radius: 8px;
-  background: var(--text);
-  color: var(--bg);
+  background: var(--accent);
+  color: #fff;
   font-size: 0.8rem;
   font-weight: 800;
   letter-spacing: 0.02em;
@@ -195,6 +202,35 @@ body {
   font-size: 1.3rem;
   font-weight: 800;
   margin: 24px 0 16px;
+}
+
+/* Home intro */
+.home-intro {
+  padding: 28px 0 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.home-intro__kicker {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.home-intro__title {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.3;
+  margin: 0 0 12px;
+}
+
+.home-intro__text {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-muted);
+  margin: 0;
+  max-width: 56ch;
 }
 
 /* Buttons */
@@ -388,9 +424,14 @@ body {
   margin-bottom: 10px;
 }
 
-[data-panel="global"] .card__topic {
+#list-global .card__topic {
   color: var(--global-accent);
   background: var(--global-accent-soft);
+}
+
+#list-personal .card__topic {
+  color: var(--personal-accent);
+  background: var(--personal-accent-soft);
 }
 
 .card__title {

@@ -14,7 +14,7 @@
 
 <header class="header">
   <div class="container header__inner">
-    <div class="logo">
+    <div class="logo" data-goto="home" role="button" tabindex="0" aria-label="Kembali ke Home">
       <span class="logo__mark">BI</span>
       <span class="logo__text">Business Insider</span>
     </div>
@@ -41,6 +41,12 @@
 
   <!-- ===== HOME ===== -->
   <section class="view is-active" id="view-home" data-view="home">
+    <div class="home-intro">
+      <span class="home-intro__kicker">👋 Selamat datang di Business Insider</span>
+      <h1 class="home-intro__title">Berhenti buka belasan tab berita tiap pagi.</h1>
+      <p class="home-intro__text">Berita saham &amp; ekonomi Indonesia dan global dirangkum otomatis oleh AI, saham favoritmu dipantau khusus, plus pergerakan IHSG &amp; emas — semua di satu tempat, diperbarui sepanjang hari.</p>
+    </div>
+
     <h2 class="view-title">Ringkasan Hari Ini</h2>
     <div class="market-strip" id="homeMarketStrip"></div>
     <div class="card-list" id="homeHighlights"></div>
