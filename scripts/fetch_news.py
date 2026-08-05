@@ -43,19 +43,23 @@ FEEDS = {
         ("CNBC Indonesia", google_news("site:cnbcindonesia.com/market")),
         ("CNBC Indonesia", google_news("site:cnbcindonesia.com/news")),
         ("CNN Indonesia", google_news("site:cnnindonesia.com/ekonomi")),
-        ("CNN Indonesia", google_news("site:cnnindonesia.com/nasional")),
         ("Kontan", google_news("site:investasi.kontan.co.id")),
         ("Kontan", google_news("site:nasional.kontan.co.id")),
         ("Bisnis.com", google_news("site:bisnis.com")),
         ("Investor.id", google_news("site:investor.id")),
     ],
     "global": [
-        ("CNBC International", "https://www.cnbc.com/id/100727362/device/rss/rss.html"),
+        # CNBC's general "International Top News" feed (id 100727362) was dropped:
+        # it's general-interest, not business-scoped, and let non-business items
+        # (geopolitics, travel, etc.) through. Business News (10001147) stays.
         ("CNBC International", "https://www.cnbc.com/id/10001147/device/rss/rss.html"),
         ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
         ("MarketWatch", "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
     ],
 }
+
+PERSONAL_TICKERS = ["ANTM", "BIPI", "WIFI", "BRMS", "BUMI", "SUPA", "BMRI"]
+MAX_ARTICLES_PER_TICKER = 5
 
 
 def entry_published(entry):
@@ -166,18 +170,36 @@ def build_prompt(category_label, articles):
 {numbered}
 
 Tugas kamu:
-1. Kelompokkan berita yang membahas topik/saham/perusahaan yang sama menjadi satu cluster (misalnya beberapa berita berbeda tentang saham BBCA jadi satu cluster).
-2. Berita yang topiknya berdiri sendiri (tidak ada berita lain yang mirip) tetap jadi satu cluster sendiri.
-3. Untuk tiap cluster, tulis SATU ringkasan singkat berbahasa Indonesia, MAKSIMAL 2 kalimat pendek (jangan lebih dari ±50 kata total), gaya jurnalistik netral, jangan mengarang fakta yang tidak ada di judul/snippet sumber.
-4. Beri "tag" pendek tiap cluster (contoh: "Saham • BBCA", "Makroekonomi", "The Fed", "Teknologi").
+1. BUANG/lewati berita yang bukan soal saham, bisnis, atau ekonomi — misalnya politik, kriminal, olahraga, hiburan, gaya hidup, atau human interest — walaupun berasal dari sumber/feed berlabel bisnis. Jangan buat cluster untuk berita semacam itu sama sekali.
+2. Dari sisa berita yang genuinely soal saham/bisnis/ekonomi, kelompokkan yang membahas topik/saham/perusahaan yang sama menjadi satu cluster (misalnya beberapa berita berbeda tentang saham BBCA jadi satu cluster).
+3. Berita yang topiknya berdiri sendiri (tidak ada berita lain yang mirip) tetap jadi satu cluster sendiri, selama masih soal saham/bisnis/ekonomi.
+4. Untuk tiap cluster, tulis SATU ringkasan singkat berbahasa Indonesia, MAKSIMAL 2 kalimat pendek (jangan lebih dari ±50 kata total), gaya jurnalistik netral, jangan mengarang fakta yang tidak ada di judul/snippet sumber.
+5. Beri "tag" pendek tiap cluster (contoh: "Saham • BBCA", "Makroekonomi", "The Fed", "Teknologi").
+6. Sertakan SEMUA url sumber yang termasuk cluster tersebut.
+7. Panggil tool submit_digest dengan hasilnya. Jika tidak ada berita saham/bisnis/ekonomi sama sekali, panggil dengan clusters: []."""
+
+
+def build_personal_prompt(articles):
+    numbered = "\n".join(
+        f"{i+1}. [{a['ticker']}] [{a['source']}] {a['title']} — {a['snippet']} (url: {a['url']})"
+        for i, a in enumerate(articles)
+    )
+    tickers_list = ", ".join(PERSONAL_TICKERS)
+    return f"""Berikut adalah daftar berita seputar saham-saham berikut yang dipantau seorang investor: {tickers_list}.
+Setiap baris sudah ditandai kode sahamnya di awal.
+
+{numbered}
+
+Tugas kamu:
+1. Untuk SETIAP kode saham yang punya minimal satu berita di atas, gabungkan semua beritanya menjadi SATU ringkasan berbahasa Indonesia, MAKSIMAL 2 kalimat pendek (jangan lebih dari ±50 kata total), jangan mengarang fakta yang tidak ada di judul/snippet sumber.
+2. Set "tag" persis sama dengan kode sahamnya (contoh: "ANTM"), jangan tambahkan teks lain di tag.
+3. Kalau satu kode saham punya beberapa berita dengan sub-topik yang jelas berbeda, boleh dipecah jadi lebih dari satu cluster untuk kode saham yang sama.
+4. Kode saham yang TIDAK punya berita sama sekali di atas, lewati saja (jangan dibuat cluster kosong/mengarang).
 5. Sertakan SEMUA url sumber yang termasuk cluster tersebut.
 6. Panggil tool submit_digest dengan hasilnya. Jika daftar berita di atas kosong, panggil dengan clusters: []."""
 
 
-def summarize(client, category, category_label, articles):
-    if not articles:
-        return []
-    prompt = build_prompt(category_label, articles)
+def call_submit_digest(client, label, prompt):
     response = client.messages.create(
         model=MODEL,
         max_tokens=16000,
@@ -186,19 +208,78 @@ def summarize(client, category, category_label, articles):
         messages=[{"role": "user", "content": prompt}],
     )
 
-    print(f"  [usage] {category}: stop_reason={response.stop_reason} output_tokens={response.usage.output_tokens}", file=sys.stderr)
+    print(f"  [usage] {label}: stop_reason={response.stop_reason} output_tokens={response.usage.output_tokens}", file=sys.stderr)
     if response.stop_reason == "max_tokens":
-        print(f"  [error] response for {category} hit max_tokens before finishing", file=sys.stderr)
+        print(f"  [error] response for {label} hit max_tokens before finishing", file=sys.stderr)
         return None
 
     tool_use = next((b for b in response.content if b.type == "tool_use"), None)
     if tool_use is None:
-        print(f"  [error] no tool_use block in response for {category}", file=sys.stderr)
+        print(f"  [error] no tool_use block in response for {label}", file=sys.stderr)
         return None
 
-    clusters = tool_use.input.get("clusters", [])
+    return tool_use.input.get("clusters", [])
+
+
+def summarize(client, category, category_label, articles):
+    if not articles:
+        return []
+    prompt = build_prompt(category_label, articles)
+    clusters = call_submit_digest(client, category, prompt)
+    if clusters is None:
+        return None
     for c in clusters:
         c["category"] = category
+    return clusters
+
+
+def fetch_personal(cutoff):
+    articles = []
+    for ticker in PERSONAL_TICKERS:
+        url = google_news(f'"saham {ticker}"')
+        try:
+            resp = requests.get(url, headers={"User-Agent": USER_AGENT, "Accept": "*/*"}, timeout=15)
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
+        except Exception as exc:
+            print(f"  [skip] {ticker}: {exc}", file=sys.stderr)
+            continue
+
+        kept = 0
+        for entry in parsed.entries:
+            if kept >= MAX_ARTICLES_PER_TICKER:
+                break
+            published = entry_published(entry)
+            if published and published < cutoff:
+                continue
+            title = entry.get("title", "").strip()
+            if " - " in title:
+                title = title.rsplit(" - ", 1)[0]
+            snippet = re.sub(r"<[^>]+>", "", entry.get("summary", "") or "").strip()
+            if snippet == title:
+                snippet = ""
+            source_name = entry.get("source", {}).get("title") if isinstance(entry.get("source"), dict) else None
+            articles.append({
+                "ticker": ticker,
+                "source": source_name or "Google News",
+                "title": title,
+                "url": entry.get("link", ""),
+                "snippet": snippet[:400],
+            })
+            kept += 1
+        print(f"  [ok] {ticker}: {kept} recent items", file=sys.stderr)
+    return articles
+
+
+def summarize_personal(client, articles):
+    if not articles:
+        return []
+    prompt = build_personal_prompt(articles)
+    clusters = call_submit_digest(client, "personal", prompt)
+    if clusters is None:
+        return None
+    for c in clusters:
+        c["category"] = "personal"
     return clusters
 
 
@@ -219,8 +300,10 @@ def main():
     domestic_articles = fetch_category("domestic", cutoff)
     print("Fetching global feeds...", file=sys.stderr)
     global_articles = fetch_category("global", cutoff)
+    print("Fetching personal ticker feeds...", file=sys.stderr)
+    personal_articles = fetch_personal(cutoff)
 
-    if not domestic_articles and not global_articles:
+    if not domestic_articles and not global_articles and not personal_articles:
         print("No articles fetched from any feed; leaving existing digest.json untouched.", file=sys.stderr)
         return
 
@@ -230,6 +313,8 @@ def main():
     domestic_items = summarize(client, "domestic", "dalam negeri (Indonesia)", domestic_articles)
     print(f"Summarizing {len(global_articles)} global articles...", file=sys.stderr)
     global_items = summarize(client, "global", "luar negeri / global", global_articles)
+    print(f"Summarizing {len(personal_articles)} personal-ticker articles...", file=sys.stderr)
+    personal_items = summarize_personal(client, personal_articles)
 
     if domestic_items is None:
         print("  [fallback] keeping previous domestic items (summarization failed this run)", file=sys.stderr)
@@ -237,10 +322,13 @@ def main():
     if global_items is None:
         print("  [fallback] keeping previous global items (summarization failed this run)", file=sys.stderr)
         global_items = load_previous_items("global")
+    if personal_items is None:
+        print("  [fallback] keeping previous personal items (summarization failed this run)", file=sys.stderr)
+        personal_items = load_previous_items("personal")
 
     digest = {
         "generated_at": datetime.now(timezone.utc).astimezone().isoformat(),
-        "items": domestic_items + global_items,
+        "items": domestic_items + global_items + personal_items,
     }
 
     DIGEST_PATH.parent.mkdir(parents=True, exist_ok=True)

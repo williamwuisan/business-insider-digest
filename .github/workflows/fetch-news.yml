@@ -30,14 +30,17 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/fetch_news.py
 
-      - name: Commit digest if changed
+      - name: Fetch market data (IHSG & Emas)
+        run: python scripts/fetch_market.py
+
+      - name: Commit data if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- data/digest.json; then
-            git add data/digest.json
-            git commit -m "Update news digest"
+          if ! git diff --quiet -- data/digest.json data/market.json; then
+            git add data/digest.json data/market.json
+            git commit -m "Update news digest and market data"
             git push
           else
-            echo "No changes to digest.json"
+            echo "No changes to commit"
           fi
