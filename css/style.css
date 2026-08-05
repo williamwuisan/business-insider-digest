@@ -44,9 +44,17 @@ body {
 }
 
 .container {
-  max-width: 760px;
+  max-width: 1120px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 32px;
+}
+
+/* Reading views (actual news lists) stay a comfortable line-length even
+   though the outer .container is wide — only Home uses the full width. */
+.view--narrow {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Header */
@@ -262,56 +270,44 @@ body {
   line-height: 1;
 }
 
-/* A little playful "scattered sticker" treatment, Home only */
-#homeMarketStrip .stat-card:nth-child(odd),
-#homeHighlights .card:nth-child(odd) {
-  transform: rotate(-0.7deg);
+#homeMarketStrip .stat-card {
+  transition: box-shadow 0.15s ease;
 }
 
-#homeMarketStrip .stat-card:nth-child(even),
-#homeHighlights .card:nth-child(even) {
-  transform: rotate(0.7deg);
-}
-
-#homeMarketStrip .stat-card,
-#homeHighlights .card {
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-#homeMarketStrip .stat-card:hover,
-#homeHighlights .card:hover {
-  transform: rotate(0deg) translateY(-3px);
+#homeMarketStrip .stat-card:hover {
   box-shadow: 0 4px 6px rgba(43, 33, 23, 0.1), 0 12px 28px rgba(43, 33, 23, 0.1);
 }
 
-/* Buttons */
-.btn {
-  appearance: none;
-  cursor: pointer;
-  font-family: inherit;
-  font-size: 0.9rem;
-  font-weight: 600;
-  border-radius: 100px;
-  padding: 11px 18px;
-  border: 1px solid transparent;
+/* Home "what's inside" feature grid — static, not a nav shortcut (nav lives
+   in the drawer only) */
+.home-features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 32px 0 40px;
 }
 
-.btn--primary {
-  background: var(--text);
-  color: var(--bg);
+.feature {
+  padding: 20px;
 }
 
-.btn--ghost {
-  background: transparent;
-  color: var(--text);
-  border-color: var(--border);
+.feature__icon {
+  font-size: 1.6rem;
+  display: block;
+  margin-bottom: 10px;
 }
 
-.home-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 8px 0 32px;
+.feature__title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+
+.feature__text {
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+  margin: 0;
 }
 
 /* Tabs */

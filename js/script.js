@@ -32,7 +32,6 @@ function renderDigest() {
   renderList('list-domestic', domestic);
   renderList('list-global', global);
   renderList('list-personal', personal);
-  renderList('homeHighlights', domestic.concat(global).slice(0, 3));
 
   document.getElementById('emptyStateGeneral').hidden = domestic.length > 0 || global.length > 0;
   document.getElementById('emptyStatePersonal').hidden = personal.length > 0;

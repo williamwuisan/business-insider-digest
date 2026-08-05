@@ -52,18 +52,29 @@
       <span id="moodText">Lagi ngecek pasar...</span>
     </div>
 
-    <h2 class="view-title">🔥 Yang Lagi Rame Hari Ini</h2>
     <div class="market-strip" id="homeMarketStrip"></div>
-    <div class="card-list" id="homeHighlights"></div>
-    <div class="home-actions">
-      <button class="btn btn--primary" data-goto="general">📰 Semua Berita</button>
-      <button class="btn btn--ghost" data-goto="personal">⭐ Saham Gue</button>
-      <button class="btn btn--ghost" data-goto="market">📊 IHSG &amp; Emas</button>
+
+    <div class="home-features">
+      <div class="feature">
+        <span class="feature__icon">📰</span>
+        <h3 class="feature__title">Berita Umum</h3>
+        <p class="feature__text">Saham &amp; ekonomi Indonesia dan global, dirangkum otomatis tiap hari.</p>
+      </div>
+      <div class="feature">
+        <span class="feature__icon">⭐</span>
+        <h3 class="feature__title">Personal</h3>
+        <p class="feature__text">Pantauan khusus buat saham yang lagi kamu pegang.</p>
+      </div>
+      <div class="feature">
+        <span class="feature__icon">📊</span>
+        <h3 class="feature__title">IHSG &amp; Emas</h3>
+        <p class="feature__text">Update tiap jam — IHSG, emas dunia, dan emas Antam.</p>
+      </div>
     </div>
   </section>
 
   <!-- ===== UMUM ===== -->
-  <section class="view" id="view-general" data-view="general">
+  <section class="view view--narrow" id="view-general" data-view="general">
     <h2 class="view-title">Berita Umum</h2>
     <div class="tabs tabs--sub" role="tablist">
       <button class="subtab is-active" data-subtab="domestic" role="tab" aria-selected="true">🇮🇩 Dalam Negeri</button>
@@ -75,7 +86,7 @@
   </section>
 
   <!-- ===== PERSONAL ===== -->
-  <section class="view" id="view-personal" data-view="personal">
+  <section class="view view--narrow" id="view-personal" data-view="personal">
     <h2 class="view-title">⭐ Personal</h2>
     <p class="panel-hint">Berita khusus saham yang kamu pantau: ANTM, BIPI, WIFI, BRMS, BUMI, SUPA, BMRI.</p>
     <div class="card-list" id="list-personal"></div>
@@ -83,7 +94,7 @@
   </section>
 
   <!-- ===== IHSG & EMAS ===== -->
-  <section class="view" id="view-market" data-view="market">
+  <section class="view view--narrow" id="view-market" data-view="market">
     <h2 class="view-title">IHSG &amp; Emas</h2>
     <div class="stat-grid" id="marketStats"></div>
     <p class="market-updated" id="marketUpdated"></p>
