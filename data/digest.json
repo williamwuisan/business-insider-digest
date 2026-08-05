@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T03:28:09.222823+00:00",
+  "generated_at": "2026-08-05T03:33:55.411482+00:00",
   "items": [
     {
-      "tag": "Geopolitik • Iran",
-      "title": "Negosiasi Pembukaan Selat Hormuz dengan Iran",
-      "summary": "Amerika Serikat sedang dalam perundingan dengan Iran untuk membuka Selat Hormuz dengan kebebasan pergerakan penuh. Menteri Keuangan Bessent menyatakan kesepakatan dapat dicapai pada hari Selasa atau Rabu, dengan Presiden Trump memberikan peringatan bahwa ini adalah \"kesempatan terakhir\" dalam perundingan lima bulan ini. Angkatan Laut AS mengkonfirmasi rute selatan Selat Hormuz tetap terbuka.",
+      "tag": "Diplomasi • Iran-AS",
+      "title": "Negosiasi Pembukaan Selat Hormuz Memasuki Fase Final",
+      "summary": "Sekreter Keuangan AS Bessent menyatakan kesepakatan pembukaan Selat Hormuz dengan Iran kemungkinan dapat dicapai pada Selasa atau Rabu, dengan fokus pada kebebasan pergerakan. CENTCOM AS mengkonfirmasi bahwa rute selatan Selat Hormuz tetap terbuka, sementara Presiden Trump mengingatkan bahwa putaran negosiasi ini adalah 'kesempatan terakhir' untuk mengakhiri konflik lima bulan. Perkembangan ini menyebabkan harga minyak turun lebih dari 2% dan hasil Treasury merosot.",
       "sources": [
         {
           "name": "CNBC International",
@@ -27,8 +27,8 @@
     },
     {
       "tag": "Teknologi • AI",
-      "title": "Raliat Saham Teknologi Asia Mengikuti Kinerja Wall Street",
-      "summary": "Saham-saham teknologi Asia mengalami kenaikan signifikan seiring dengan rally optimisme artificial intelligence di Wall Street. SoftBank mencatat kenaikan 10% setelah sesi rekor bursa AS, menunjukkan momentum positif di sektor teknologi dan growth stocks regional.",
+      "title": "Saham Teknologi Asia Menguat Mengikuti Reli Wall Street",
+      "summary": "Saham teknologi Asia mengalami reli pada hari Rabu setelah gelombang keuntungan Wall Street yang memecahkan rekor, didorong oleh optimisme seputar kecerdasan buatan dan saham pertumbuhan. SoftBank naik 10%, sementara perusahaan seperti Samsung dan SK Hynix juga turut menanjak. Momentum positif ini mencerminkan pemulihan kepercayaan investor terhadap sektor teknologi global.",
       "sources": [
         {
           "name": "CNBC International",
@@ -38,9 +38,9 @@
       "category": "global"
     },
     {
-      "tag": "Regulasi • Pajak",
-      "title": "Beijing Kenakan Pajak Baru pada Trust Offshore Orang Kaya China",
-      "summary": "Pemerintah Beijing mengejutkan dengan memberlakukan pajak baru terhadap trust offshore yang selama ini digunakan oleh ultra-kaya China untuk menyimpan aset. Langkah ini memicu keributan antara pengusaha kaya dan mereka bergegas mencari nasihat hukum serta likuiditas kas.",
+      "tag": "Pajak • China",
+      "title": "Kaya Raya China Shock Akibat Pajak Baru atas Trust Offshore",
+      "summary": "Beijing mengejutkan komunitas orang-orang ultra-kaya dengan mengeluarkan kebijakan perpajakan baru terhadap trust offshore yang selama ini menjadi instrumen populer untuk menyimpan kekayaan. Keputusan ini memicu gelombang pencarian nasihat hukum dan panik akan likuiditas di kalangan pengusaha China yang kaya. Perpajakan yang lebih ketat mencerminkan upaya Beijing untuk mengontrol aliran modal keluar dari negara.",
       "sources": [
         {
           "name": "CNBC International",
@@ -51,8 +51,8 @@
     },
     {
       "tag": "Saham • SpaceX",
-      "title": "Pengeluaran AI SpaceX Menimbulkan Kekhawatiran Wall Street",
-      "summary": "SpaceX menghadapi skeptisisme dari Wall Street terkait investasi AI yang besar meskipun perusahaan menjanjikan hasil cepat dalam waktu satu tahun. Eksekutif SpaceX berupaya meyakinkan investor bahwa pengeluaran AI yang berat akan memberikan pengembalian investasi dalam jangka pendek.",
+      "title": "Investasi AI SpaceX Buat Wall Street Khawatir Meski Ada Janji Hasil Cepat",
+      "summary": "SpaceX menghadapi kekhawatiran dari Wall Street atas pengeluaran AI yang besar-besaran pasca IPO-nya, meskipun manajemen perusahaan menjanjikan bahwa investasi ini akan membawa hasil dalam waktu satu tahun. Para eksekutif berusaha meyakinkan investor bahwa strategi AI mereka adalah investasi yang bijak dan akan segera memberikan keuntungan terukur.",
       "sources": [
         {
           "name": "CNBC International",
@@ -62,9 +62,9 @@
       "category": "global"
     },
     {
-      "tag": "Otomotif • Kemitraan",
-      "title": "GM Perpanjang Kemitraan dengan Pabrikan China Selama 20 Tahun",
-      "summary": "General Motors memperpanjang joint venture dengan pabrikan otomotif China selama 20 tahun meskipun tegangan geopolitik AS-China yang meningkat. Perjanjian ini berfokus pada penjualan domestik model Buick dan Cadillac di China serta ekspor produk Chevrolet yang dibangun di China untuk pasar non-AS.",
+      "tag": "Otomotif • GM",
+      "title": "GM dan Pabrikan China Perpanjang JV Selama 20 Tahun Ditengah Ketegangan Geopolitik",
+      "summary": "General Motors memperpanjang joint venture dengan pabrikan mobil China selama 20 tahun, menunjukkan komitmen terhadap pasar China meskipun ketegangan geopolitik dengan AS. Kesepakatan ini akan fokus pada penjualan domestik merek Buick dan Cadillac di China serta ekspor produk Chevrolet yang diproduksi di China ke pasar non-AS. Langkah ini mengindikasikan prioritas GM untuk mempertahankan posisi di pasar otomotif China yang strategis.",
       "sources": [
         {
           "name": "CNBC International",
@@ -79,8 +79,8 @@
     },
     {
       "tag": "Saham • AMD",
-      "title": "AMD Capai Pertumbuhan Pendapatan 50% Namun Harga Saham Turun",
-      "summary": "AMD melaporkan pertumbuhan pendapatan sebesar 50% dengan penjualan data center meningkat dua kali lipat, mencapai lonjakan 107% dibanding tahun lalu. Meskipun hasil kuat tersebut, saham AMD justru mengalami penurunan di pasar.",
+      "title": "Pendapatan AMD Tumbuh 50% dengan Penjualan Data Center Berlipat Ganda, Saham Melemah",
+      "summary": "AMD melaporkan pertumbuhan pendapatan sebesar 50% dengan penjualan unit data center meningkat 107% year-over-year, namun harga sahamnya justru mengalami penurunan. Unit data center perusahaan menjadi pendorong utama pertumbuhan AMD, mencerminkan permintaan kuat terhadap solusi AI dan komputasi. Reaksi pasar yang negatif menunjukkan investor mungkin telah mengharapkan hasil yang lebih kuat atau memiliki kekhawatiran lain tentang prospek perusahaan.",
       "sources": [
         {
           "name": "CNBC International",
@@ -90,9 +90,9 @@
       "category": "global"
     },
     {
-      "tag": "Rantai Pasokan • Apple",
-      "title": "Keterbatasan Suku Cadang Mendorong Pergerakan Rantai Pasokan China",
-      "summary": "Kurangnya komponen untuk memproduksi replika akurat iPhone terbaru Apple di pasar elektronik terbesar China, Huaqiangbei, mencerminkan tantangan rantai pasokan yang semakin ketat dan upaya China untuk diversifikasi.",
+      "tag": "Teknologi • Supply Chain",
+      "title": "Pergeseran Supply Chain China Terkait Keterbatasan Komponen iPhone",
+      "summary": "Di pusat elektronik terbesar China Huaqiangbeh, teknisi menghadapi kesulitan mendapatkan suku cadang untuk memproduksi tiruan persis dari iPhone terbaru Apple, yang mencerminkan pergeseran signifikan dalam strategi supply chain China. Keterbatasan akses ke komponen Apple terkait kebijakan dan tekanan geopolitik menunjukkan dampak dari ketegangan perdagangan AS-China terhadap ekosistem industri lokal.",
       "sources": [
         {
           "name": "CNBC International",
@@ -102,9 +102,9 @@
       "category": "global"
     },
     {
-      "tag": "Travel • Pariwisata",
-      "title": "Wisatawan Asia Tetap Tertarik ke Eropa Meski Gelombang Panas Rekor",
-      "summary": "Meskipun Eropa mengalami gelombang panas dengan rekor tertinggi, permintaan wisatawan Asia ke benua itu tetap tangguh dengan pengeluaran di Eropa Utara diproyeksikan meningkat.",
+      "tag": "Pariwisata",
+      "title": "Turis Asia Tetap Kuat Minat ke Eropa Meskipun Gelombang Panas Ekstrem",
+      "summary": "Meskipun Eropa sedang mengalami gelombang panas yang memecahkan rekor, daya tarik turis dari Asia terhadap benua Eropa tetap tangguh dengan proyeksi pengeluaran di Eropa Utara diperkirakan akan meningkat. Ketahanan permintaan wisata dari pasar Asia menunjukkan bahwa faktor iklim belum menjadi penghalang signifikan bagi traveler dengan daya beli tinggi.",
       "sources": [
         {
           "name": "CNBC International",
@@ -114,53 +114,9 @@
       "category": "global"
     },
     {
-      "tag": "Pasar • Valuasi",
-      "title": "Michael Burry Memperingatkan Kemungkinan Crash Tipe 1987",
-      "summary": "Investor terkenal Michael Burry mengumumkan pertaruhan melawan rally pasar, menyatakan kemungkinan mencapai puncak utama dan crash seperti tahun 1987. Peringatan ini kontras dengan momentum positif pasar yang terus meningkat.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Paramount",
-      "title": "Paramount Skydance Naikkan Panduan Laba dan Optimis Merger WBD",
-      "summary": "Paramount Skydance melaporkan laba kuartalan kedua dan menaikkan panduan laba tahun penuh, sambil tetap percaya diri dalam rencana merger dengan Warner Bros. Discovery.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • P&G",
-      "title": "Procter & Gamble Akuisisi Brand Suplemen Thorne Seharga $3,8 Miliar",
-      "summary": "Procter & Gamble mengumumkan akuisisi brand suplemen kesehatan Thorne senilai $3,8 miliar sebagai bagian dari strategi pertumbuhan bisnis kesehatan perusahaan.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
       "tag": "Saham • Palantir",
-      "title": "Saham Palantir Melompat 29% Setelah Hasil Kuartal Luar Biasa",
-      "summary": "Saham Palantir melompat 29% setelah melaporkan hasil kuartalan kedua yang dinilai luar biasa, dengan CEO Alex Karp menekankan bahwa pelanggan menolak menjadi \"vassal states\" dari lab bahasa buatan.",
+      "title": "Saham Palantir Melompat 29% Setelah Hasil Kuartal Kedua 'Luar Biasa'",
+      "summary": "Saham Palantir Technologies melambung 29% menjadi mendekati rekor tertinggi setelah perusahaan melaporkan hasil kuartal kedua yang sangat mengesankan. CEO dan pendiri Alex Karp mengtonjolkan solusi AI sovereign company mereka, menekankan bahwa pelanggan tidak ingin 'menjadi negara vassal' dari lab bahasa besar. Lonjakan saham mencerminkan antusiasme pasar terhadap strategi AI dan produk sovereign tools Palantir.",
       "sources": [
         {
           "name": "CNBC International",
@@ -171,8 +127,8 @@
     },
     {
       "tag": "Saham • HSBC",
-      "title": "HSBC Laba Sebelum Pajak Lampaui Ekspektasi",
-      "summary": "HSBC melaporkan laba sebelum pajak yang melampaui estimasi analis, didorong oleh pendapatan bunga bersih yang lebih tinggi dan peningkatan biaya.",
+      "title": "HSBC Untung Preatax Melampaui Estimasi dengan Naiknya Net Interest Income",
+      "summary": "HSBC melaporkan laba pretax yang melampaui perkiraan analis, didorong oleh peningkatan net interest income dan biaya yang lebih tinggi. Performa lebih baik dari ekspektasi menunjukkan tren positif dalam operasi inti bank investasi global.",
       "sources": [
         {
           "name": "CNBC International",
@@ -182,9 +138,9 @@
       "category": "global"
     },
     {
-      "tag": "Antitrust • Amazon",
-      "title": "New Jersey Gugat Amazon atas Pelanggaran Antitrust",
-      "summary": "Negara New Jersey mengajukan gugatan antitrust terhadap Amazon, menuduh perusahaan menyalahgunakan kekuasaan atas kontraktor pengiriman pihak ketiga yang menyebabkan upah lebih rendah dan kondisi kerja tidak adil.",
+      "tag": "Regulasi • Amazon",
+      "title": "New Jersey Gugat Amazon atas Praktik Antitrust di Layanan Pengiriman",
+      "summary": "New Jersey mengajukan gugatan antitrust terhadap Amazon, menuduh perusahaan menyalahgunakan kekuasaannya atas kontraktor pengiriman pihak ketiga. Pengaduan menyatakan bahwa model pengiriman Amazon menyebabkan upah lebih rendah, kondisi kerja yang tidak adil, dan kurangnya kompetisi. Gugatan ini merupakan bagian dari upaya regulasi yang lebih luas terhadap praktik bisnis raksasa teknologi.",
       "sources": [
         {
           "name": "CNBC International",
@@ -195,8 +151,8 @@
     },
     {
       "tag": "Saham • Amazon",
-      "title": "Jeff Bezos Mengajukan Rencana Penjualan $4 Miliar Saham Amazon",
-      "summary": "Jeff Bezos mengajukan dokumen untuk menjual saham Amazon senilai $4 miliar, menyusul pencapaian harga tertinggi sepanjang waktu bursa minggu lalu. Pengumuman ini menyebabkan harga saham Amazon turun.",
+      "title": "Saham Amazon Melemah setelah Bezos Ajukan Penjualan Saham $4 Miliar",
+      "summary": "Jeff Bezos mengajukan dokumen untuk menjual saham Amazon senilai $4 miliar, dan harga saham perusahaan mengalami penurunan setelah pengumuman. Penjualan ini datang setelah Amazon mencapai harga tertinggi sepanjang waktu pada Senin, didorong oleh hasil kuartalan yang kuat minggu sebelumnya. Pergerakan Bezos memicu ketakutan pasar tentang tekanan penjualan yang akan datang.",
       "sources": [
         {
           "name": "CNBC International",
@@ -207,8 +163,8 @@
     },
     {
       "tag": "Saham • Chipotle",
-      "title": "Saham Chipotle Turun Terkait Dugaan Wabah Salmonella",
-      "summary": "Saham Chipotle mengalami penurunan setelah investigasi kesehatan mengungkapkan kemungkinan kaitan dengan wabah salmonella di Minnesota. Perusahaan telah menarik pasokan yang terpengaruh dan menggantinya dengan paprika dari produsen berbeda.",
+      "title": "Saham Chipotle Turun Akibat Kemungkinan Kaitan dengan Wabah Salmonella",
+      "summary": "Saham Chipotle Mexican Grill mengalami penurunan setelah terungkap potensi kaitan dengan wabah salmonella di Minnesota. Perusahaan telah menarik pasokan yang terkena dampak dari restoran-restorannya dan menggantinya dengan paprika dari penanam berbeda. Meski Chipotle menyatakan tidak ada kekhawatiran berkelanjutan dari penyelidik kesehatan, insiden ini kembali mengingatkan pada tantangan food safety yang dihadapi restoran.",
       "sources": [
         {
           "name": "CNBC International",
@@ -226,9 +182,9 @@
       "category": "global"
     },
     {
-      "tag": "Politik • Konfirmasi",
-      "title": "Senator Susan Collins Menolak Nominasi Attorney General Todd Blanche",
-      "summary": "Senator Susan Collins mengumumkan penolakan terhadap calon Attorney General Todd Blanche, pukulan signifikan untuk Trump yang membutuhkan minimal 50 suara untuk konfirmasi di lantai Senat.",
+      "tag": "Politik • Penegakan Hukum",
+      "title": "Senator Susan Collins Akan Menentang Nominasi Todd Blanche sebagai Attorney General",
+      "summary": "Senator Republik Susan Collins mengumumkan akan menentang nominasi Todd Blanche sebagai Attorney General, pukulan signifikan bagi Presiden Trump. Blanche membutuhkan minimal 50 suara di lantai Senat untuk dikonfirmasi setelah lolos dari Komite Kehakiman Senat. Oposisi Collins menunjukkan tantangan potensial dalam proses konfirmasi di Senat yang terbagi.",
       "sources": [
         {
           "name": "CNBC International",
@@ -239,8 +195,8 @@
     },
     {
       "tag": "Saham • McDonald's",
-      "title": "McDonald's Melaporkan Penurunan dan Mengumumkan Pemimpin Pasar Baru",
-      "summary": "McDonald's mengumumkan bisnis AS tertinggal dan melantik pemimpin pasar terbesar baru Skye Anderson, dengan saham turun lebih dari 11% tahun ini dan valuasi pasar turun menjadi sekitar $191 miliar. Perusahaan juga mengakui kompleksitas promosi meal value yang membingungkan staf dan pelanggan.",
+      "title": "McDonald's Ketatkan Sabuk dengan Pemimpin Baru AS Seiring Bisnis Melambat",
+      "summary": "McDonald's mengumumkan Skye Anderson, veteran perusahaan selama 26 tahun, sebagai presiden baru untuk pasar AS, menggantikan Joe Erlinger di tengah perlambatan pertumbuhan. Saham McDonald's telah turun lebih dari 11% tahun ini, menurunkan market cap menjadi sekitar $191 miliar. Penunjukan kepemimpinan baru mencerminkan upaya perusahaan untuk mengatasi tantangan bisnis di pasar terbesarnya.",
       "sources": [
         {
           "name": "CNBC International",
@@ -248,19 +204,19 @@
         },
         {
           "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/mcdonalds-skye-anderson-us-president.html"
+          "url": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html"
         },
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/mcdonalds-skye-anderson-us-president.html"
         }
       ],
       "category": "global"
     },
     {
       "tag": "Saham • Pfizer",
-      "title": "Pfizer Lampaui Ekspektasi dan Naikkan Panduan Pendapatan",
-      "summary": "Pfizer melampaui ekspektasi laba dan menaikkan rentang panduan pendapatan tahun penuh berkat kekuatan obat-obatan seperti Eliquis. Perusahaan menurunkan ekspektasi pendapatan produk Covid menjadi $4 miliar dari sekitar $5 miliar sebelumnya.",
+      "title": "Pfizer Lampaui Estimasi, Naikkan Panduan Pendapatan Berkat Obat-obatan Kuat",
+      "summary": "Pfizer melaporkan hasil yang melampaui perkiraan analis dan menaikkan ujung bawah panduan pendapatan tahunannya, didorong oleh penjualan kuat obat-obatan seperti Eliquis. Perusahaan juga menurunkan ekspektasi pendapatan produk Covid tahun penuh menjadi $4 miliar dari sekitar $5 miliar sebelumnya. Hasil positif menunjukkan diversifikasi portofolio obat Pfizer di luar vaksin Covid.",
       "sources": [
         {
           "name": "CNBC International",
@@ -274,21 +230,9 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Merck",
-      "title": "Merck Naikkan Panduan Pendapatan Tapi Kurangi Panduan Laba",
-      "summary": "Merck menaikkan panduan pendapatan tahun penuh didorong pertumbuhan penjualan obat baru, namun menurunkan panduan laba akibat beban terkait akuisisi biotech Terns Pharmaceuticals.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Teknologi • Apple",
-      "title": "Apple Luncurkan Tantangan Hukum Baru terhadap Permintaan Data Terenkripsi UK",
-      "summary": "Apple mengajukan tantangan hukum baru terhadap permintaan pemerintah Inggris untuk akses ke data pengguna terenkripsi, setahun setelah UK menarik permintaan awal untuk data pengguna Inggris dan Amerika.",
+      "tag": "Privasi • Teknologi",
+      "title": "Apple Luncurkan Tantangan Hukum Baru Terhadap Permintaan Akses Data Terenkripsi Inggris",
+      "summary": "Apple melayangkan tantangan hukum terhadap permintaan pemerintah Inggris untuk akses data terenkripsi pengguna, satu tahun setelah Inggris menarik permintaan awal untuk data pengguna Inggris dan Amerika. Aksi hukum ini menunjukkan pertarungan berkelanjutan antara Apple dan regulator global atas keseimbangan antara privasi pengguna dan akses penegakan hukum.",
       "sources": [
         {
           "name": "CNBC International",
@@ -298,33 +242,41 @@
       "category": "global"
     },
     {
-      "tag": "Pasar • Investasi",
-      "title": "Saham Kembali ke Rekor Tertinggi Setelah Jeda 42 Hari",
-      "summary": "Indeks S&P 500 mencatat rekor penutupan yang ke-25 tahun ini setelah jeda 42 hari, dengan investor yang bertahan selama kerusakan momentum terakhir mendapat imbalan.",
+      "tag": "Saham • Paramount",
+      "title": "Paramount Skydance Naikkan Panduan Keuntungan Tahun Penuh, Tetap Percaya diri atas Merger WBD",
+      "summary": "Paramount Skydance melaporkan laba kuartal kedua dan menaikkan panduan keuntungan tahunan, sambil tetap meyakinkan tentang kelangsungan merger yang diusulkan dengan Warner Bros. Discovery. Perusahaan lanjut bersiap untuk penggabungan strategis dengan WBD. Hasil yang lebih kuat dan naiknya panduan menunjukkan momentum positif bagi perusahaan media.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
+        },
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Fintech • Upstart",
-      "title": "Peningkatan AI Upstart Membawa Hasil dengan Pertumbuhan Pinjaman",
-      "summary": "Upstart, perusahaan lending berbasis AI, melihat saham naik setelah model AI yang ditingkatkan membantu pertumbuhan pinjaman dengan lebih baik menilai risiko peminjam.",
+      "tag": "Saham • P&G",
+      "title": "Procter & Gamble Akuisisi Brand Suplemen Thorne Seharga $3,8 Miliar",
+      "summary": "Procter & Gamble akan mengakuisisi brand suplemen kesehatan Thorne dengan harga $3,8 miliar, menandai ekspansi P&G di bisnis kesehatan dan wellness. CEO Shailesh Jejurikar menyatakan akuisisi ini adalah langkah strategis untuk menumbuhkan divisi kesehatan perusahaan. Transaksi ini mencerminkan tren perusahaan FMCG yang semakin fokus pada kategori kesehatan yang berkembang pesat.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
+        },
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
         }
       ],
       "category": "global"
     },
     {
       "tag": "Saham • Lucid",
-      "title": "Lucid Mulai Reset Operasional dan Tunda Kendaraan Midsize",
-      "summary": "Lucid Motors mengumumkan \"reset operasional\" dengan CEO baru Silvio Napoli menyatakan perusahaan akan menunda peluncuran kendaraan midsize. Perusahaan tidak memberikan panduan yang diperbarui.",
+      "title": "Lucid Mulai 'Operasional Reset', CEO Tunda Kendaraan Midsize",
+      "summary": "Lucid Motors memulai 'operational reset' dengan CEO Silvio Napoli mengumumkan penundaan peluncuran kendaraan midsize perusahaan. Perusahaan tidak memberikan panduan yang diperbarui, sementara Napoli sebelumnya tahun ini menangguhkan harapan produksi. Langkah restrukturisasi ini menunjukkan tantangan berkelanjutan yang dihadapi produsen EV muda dalam mencapai target produksi dan ekspansi lini produk.",
       "sources": [
         {
           "name": "CNBC International",
@@ -334,33 +286,21 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Ford",
-      "title": "Penjualan Ford Turun 10,2% di Juli Meski Perusahaan Sebut Bulan Baik",
-      "summary": "Ford melaporkan penurunan penjualan AS 10,2% di Juli, menambah tahun penjualan yang lesu dengan hasil turun 9,7% dibanding 2025, namun perusahaan tetap menyebut ini bulan yang \"baik\".",
+      "tag": "Saham • Merck",
+      "title": "Merck Naikkan Panduan Pendapatan Saat Penjualan Obat Baru Tumbuh, Potong Panduan Keuntungan",
+      "summary": "Merck menaikkan panduan pendapatan tahunannya seiring pertumbuhan penjualan obat-obatan baru, namun memotong panduan keuntungan karena biaya terkait akuisisi perusahaan biotech Terns Pharmaceuticals. Pergerakan ini menunjukkan trade-off antara pertumbuhan topline melalui akuisisi strategis dan tekanan margin jangka pendek.",
       "sources": [
         {
           "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Real Estat • Pembeli Asing",
-      "title": "Pembeli Asing Mundur dari Properti AS Meski Luxury Homebuilders Masih Menarik",
-      "summary": "Pembeli asing secara drastis menarik diri dari pasar real estat residensial AS sebagian akibat mundurnya pekerja yang memenuhi syarat visa H-1B, meskipun pembangun rumah mewah masih menarik beberapa pembeli internasional.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html"
+          "url": "https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html"
         }
       ],
       "category": "global"
     },
     {
       "tag": "Saham • Novo Nordisk",
-      "title": "Saham Novo Nordisk Turun Setelah Panduan Mengecewakan Investor",
-      "summary": "Saham Novo Nordisk mengalami penurunan setelah perusahaan menaikkan panduan keuangan namun tidak memuaskan investor dalam persaingan pasar GLP-1 yang sedang berkembang dengan rival Eli Lilly.",
+      "title": "Saham Novo Nordisk Merosot Setelah Panduan Mengecewakan Investor",
+      "summary": "Saham Novo Nordisk mengalami penurunan setelah perusahaan merilis panduan yang mengecewakan pasar, meski telah menaikkan prospek keuangan untuk mencoba menyamai rival Eli Lilly di pasar GLP-1 yang sedang berkembang. Reaksi pasar negatif menunjukkan investor mungkin mengharapkan pertumbuhan yang lebih agresif dari Novo Nordisk di kategori obat penurun berat badan yang booming.",
       "sources": [
         {
           "name": "CNBC International",
@@ -370,9 +310,57 @@
       "category": "global"
     },
     {
-      "tag": "Makroekonomi • Musiman",
-      "title": "Saham Masuki Periode Musiman Terlemah Tapi Pesimisme Ekstrem Bisa Batasi Jual",
-      "summary": "Saham AS memasuki periode musiman paling lemah dalam kalender, namun sentimen investor yang sangat bearish secara luar biasa bisa membantu membatasi tekanan penjualan menurut Ned Davis Research.",
+      "tag": "Saham • Ford",
+      "title": "Ford Penjualan Juli Turun 10.2%, Namun Klaim Masih 'Bulan Bagus'",
+      "summary": "Ford melaporkan penurunan penjualan AS Juli sebesar 10,2%, menambah ke tahun penjualan yang lesu untuk produsen otomotif dengan hasil turun 9,7% dibanding 2025. Meskipun penurunan signifikan, manajemen Ford tetap mengklaim bulan itu adalah positif, mencerminkan tantangan berkelanjutan industri otomotif Amerika. Tren penjualan yang melemah mencerminkan tekanan persaingan dan pergeseran permintaan konsumen di pasar.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Real Estat",
+      "title": "Pembeli Asing Mengurangi Pembelian Properti AS, Tetapi Pembangun Mewah Tetap Menarik",
+      "summary": "Pembeli asing secara signifikan mengurangi pembelian properti residensial AS, sebagian didorong oleh pullback di kalangan pekerja yang memenuhi syarat visa H-1B. Meski demikian, developer properti mewah masih berhasil menarik pembeli internasional dengan daya beli tinggi. Pergeseran ini mencerminkan dampak kebijakan imigrasi yang lebih ketat dan ketidakpastian ekonomi terhadap pasar real estat premium AS.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Pasar Saham",
+      "title": "Saham Kembali Rekor Tertinggi setelah Penghentian 42 Hari",
+      "summary": "Indeks S&P 500 mencatat penutupan rekornya yang ke-25 tahun 2026 setelah periode istirahat selama 42 hari, mengimbali investor yang tetap percaya diri selama crash momentum baru-baru ini. Kembalinya pasar ke level tertinggi menunjukkan ketahanan sentimen investor dan aliran modal yang kuat kembali ke pasar ekuitas.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Fintech • AI",
+      "title": "Peningkatan AI Upstart Buahkan Hasil, Pertumbuhan Pinjaman Dorong Saham Naik",
+      "summary": "Upstart, perusahaan lending berbasis AI, melaporkan hasil positif dari peningkatan model AI-nya yang lebih baik dalam menilai risiko peminjam. Lonjakan dalam pertumbuhan pinjaman membantu mendorong harga saham perusahaan lebih tinggi. Hasil ini menunjukkan validasi pasar terhadap strategi fintech AI yang berfokus pada penilaian risiko yang lebih akurat.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Analisis Pasar",
+      "title": "Saham Masuki Musim Terlemah, Namun Pesimisme Investor Ekstrem Bisa Batasi Penjualan",
+      "summary": "Pasar saham AS memasuki periode musiman yang secara historis adalah waktu terlemah dalam tahun, namun sentimen investor yang sangat pesimis secara tidak biasa dapat membantu membatasi penjualan yang signifikan. Menurut Ned Davis Research, dynamic ini menciptakan scenario unik dimana technical downside risks mungkin terbatas oleh pessimism yang berlebihan.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -382,33 +370,21 @@
       "category": "global"
     },
     {
-      "tag": "Perdagangan • Options",
-      "title": "Trader Gunakan Options untuk Mengejar Rally Saham yang Melonjak",
-      "summary": "Investor yang khawatir melewatkan rally berlomba ke dalam taruhan options bullish setelah saham naik dalam empat sesi perdagangan terakhir, mendorong pasar lebih tinggi lagi.",
+      "tag": "Peringatan Investor",
+      "title": "Michael Burry Beli Short Position, Peringatkan 'Major Top' dan Potensi Crash Seperti 1987",
+      "summary": "Investor terkenal Michael Burry mempertaruhkan uangnya untuk posisi short, memprediksi bahwa pasar mungkin berada di puncak utama dan menghadapi kemungkinan crash seperti tahun 1987. Dalam posting Substack pada Selasa, Burry menguraikan ketakutannya tentang valuasi dan kondisi pasar yang mencerminkan bubble. Peringatan dari contrarian investor terkemuka ini menambah suara skeptis di pasar yang sedang bullish.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Moneter • Fed",
-      "title": "Rencana Disinflasi Fed Tetap Kabur Saat Warsh Gantikan Posisi",
-      "summary": "Ketua Fed baru Kevin Warsh dan sekutunya di White House enggan menjelaskan rencana konkret untuk menurunkan inflasi, dengan kritikus mengatakan determinasi Warsh untuk mendinginkan harga dirasa tidak cukup.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Cryptocurrency • Aset",
-      "title": "Perbandingan Return Gold, Bitcoin, dan $TRUMP Sejak Hari Pelantikan",
-      "summary": "Analisis perbandingan menunjukkan hasil investasi $1.000 dalam emas, Bitcoin, dan saham $TRUMP sejak hari pelantikan presiden tahun ini.",
+      "tag": "Investasi Alternatif",
+      "title": "$1.000 Diinvestasikan pada Hari Pelantikan: Gold, Bitcoin, dan Trump Coin Returns",
+      "summary": "Analisis perbandingan menunjukkan nilai returns dari investasi $1.000 pada hari pelantikan di tiga aset: emas, Bitcoin, dan saham Trump coin. Perbandingan ini memberikan perspektif tentang performa relatif berbagai kelas aset dalam periode tertentu sejak transisi kepemimpinan pemerintahan.",
       "sources": [
         {
           "name": "Yahoo Finance",
