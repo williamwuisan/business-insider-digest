@@ -1,10 +1,182 @@
 {
-  "generated_at": "2026-08-05T03:41:14.526103+00:00",
+  "generated_at": "2026-08-05T03:47:32.288454+00:00",
   "items": [
     {
+      "tag": "Saham • TPIA",
+      "title": "TPIA Masih Jadi Sasaran Jual Asing",
+      "summary": "TPIA masih menjadi target penjualan asing di tengah rally IHSG yang meningkat. Saham ini terus mengalami tekanan penjualan dari investor asing meskipun indeks secara umum menunjukkan penguatan.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWd4a0c2akhXVEtGajhzTXV1c2RVZGdoLUpnYWhXbnVWZExnMG4tMkRacDdBLWRTZFYxTFVGZEE1bVNCbnJhTmRXUVdpdU8zV1dFZ0NrQjFkTXhtaUxTSGt1dkxOM2lrRlJoT1JSZlpoalp2WVEyZ2hheW5WZkNzVkUwNUk3UV93RFJHWUtCcmwzUGJGUjZLMnlNOEdiVk9DZ2lIRUZMZVJMV2JCRWk4MjRKYVVpay1xSC01dtIBvAFBVV95cUxPZWd4a0c2akhXVEtGajhzTXV1c2RVZGdoLUpnYWhXbnVWZExnMG4tMkRacDdBLWRTZFYxTFVGZEE1bVNCbnJhTmRXUVdpdU8zV1dFZ0NrQjFkTXhtaUxTSGt1dkxOM2lrRlJoT1JSZlpoalp2WVEyZ2hheW5WZkNzVkUwNUk3UV93RFJHWUtCcmwzUGJGUjZLMnlNOEdiVk9DZ2lIRUZMZVJMV2JCRWk4MjRKYVVpay1xSC01dg?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Indeks • IHSG",
+      "title": "IHSG Tembus Level 6.300 dan Dibuka Naik",
+      "summary": "IHSG tembus level 6.300 dengan investor asing kembali membeli saham bank jumbo. Indeks dibuka menghijau dengan penguatan rupiah jelang rilis pertumbuhan ekonomi Indonesia.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2ZOQmdIeEdVWHdqaWN2ODZxT2E3eHdDZEhPRHlsYnF3QmJpd1BMZGNNOTN3RGItdUQ4MC1fcWQxMzloV1dNNmxOZHVheUpFY0FDcTQ5aWdTR3FJM3NkUEUxZWVKV0RrMElrYWl3N2RNTzBMYVZtRlV4eFpSSkJDdFlnbjQ5Vy1TcXNmaUdybXBUaDdTN1JCWEljbGJqdkhwamV2Nm9YdC1QQkROS3VSTWU2dHJCUXJBZGfSAboBQVVfeXFMTVNmTkJnSHhHVVh3amljdjg2cU9hN3h3Q2RIT0R5bGJxd0JiaXdQTGRjTTkzd0RiLXVEODAtX3FkMTM5aFdXTTZsTmR1YXlKRWNBQ3E0OWlnU0dxSTNzZFBFMWVlSldEazBJa2FpdzdkTU8wTGFWbUZVeHhaUkpCQ3RZZ240OVctU3FzZmlHcm1wVGg3UzdSQlhJY2xianZIcGpldjZvWHQtUEJETkt1Uk1lNnRyQlFyQWRn?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0NuUGRkSGd6Q2VzMTBHLWR2bWVCOVg5d2F0c0QwRE5hQVNCLS1zTzlhdkVaQ201RDlMZURqNjVKa1BtUWo3ZUxOTFNjbGQ1Y1I3VUZuaG5vandiZElTNFdLcXlHRlVrb2RyYk8ybks1akxwZGYyWUZDQV9tUy1OWE9qMHRJV2FhVDg0U0d2YnJKajdPdHBNdElYdHJ2NEhNUG1B0gGjAUFVX3lxTE5jQ25QZGRIR3pDZXMxMEctZHZtZUI5WDl3YXRzRDBETmFBU0ItLXNPOWF2RVpDbTVEOUxlRGo2NUprUG1RajdlTE5MU2NsZDVjUjdVRm5obm9qd2JkSVM0V0txeUdGVWtvZHJiTzJuSzVqTHBkZjJZRkNBX21TLU5YT2owdElXYWFUODRTR3ZickpqN090cE10SVh0cnY0SE1QbUE?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjJ2MzFMUmZhVnpvTnlOTU9FaVp4SXB2cUFCeEtkSlBLQWg2WXpyRmN6OFNkUGRYX1J0WU1ma0VGeWtIcjBKNHVveTg1MnRLT1lDTDJRUWtnUUg5UEwxOC1YV3FhV1ZIMU1GTUl3Rk91dEZhSUtiTklMRnZnU3h3S0Q0NkxtaVZ3aF9ERXdHRDktOXE2WEJoUG5ja1liYXBrQmdobXRIbEt1UHZiMDREQ0lZci1QcVVkSHRuWkxjSDJLVmJ2aHfSAcsBQVVfeXFMTi13THFRQVUxeUVzdFM1TGdHR0laSmV6TE1FZEYzZnF1LVQtdXhQVmF6M2pKUnlwUEdvM1JlLW9tN1lrb1VWWlR1dE1HaGdDaE5jREpzR3hTM1lna19ZWkFkS3c4djJXUW4ySW9ERzNnRzZOZmtKSy0xV0Z0Vmlyb0dlSngzbU9RWTMxTTc0RGdNOUJNSGozTDRxbjdvQ2JTMGljYzdaNWs5bld1dUtycXIzejhzTXdhanlrNkhZazdmamhGMmJqUzNxVTA?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Mata Uang • Rupiah",
+      "title": "Rupiah Menguat Jelang Rilis PDB",
+      "summary": "Rupiah menguat ke level Rp17.957/US$ jelang pengumuman pertumbuhan ekonomi Indonesia. Penguatan rupiah sejalan dengan sentimen positif pasar Asia.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjVZZ0hGN2s3RVJqaWFBWjA2ZXpjUDdzLUNQZTVIeHRiU1FnT0N5bTlyVzgtME4zRHlWWGFIeEpzOFFPVGtmUC14Snp3eWIxZk1qVmd0ZUtLWTUtZkhXZTgwdDFZOGRob25uWk1Nb3Jub2pPMGRtYV9IM0gydXhIT0JXRmpWcGhoTjVZZmdvWDB1bjhUdkxyelgwTi1XbTNhRG0xa2dtY3loWXRGVnN2S2RlUWpaRTBqM3psSW51UEZZVDB1Mmhn0gHMAUFVX3lxTE9NM3RHUUV3b2UzREcxQlJsTnRmUnZHa3lpZ0p1ZXBsZnJhOUVOdzN3MnFfSDFWZ0NibEZPUG91RDM3WklWbEZ5VnNnQ1ZtNXFIbU9YWEtyRnZOSUZrZWJFeUtzMEh4ZTJPeTdyYldfdFZ6UWg2cDYxTzlvSEpYRGduczB1Vkx6N0RvZUh1RmxGTDhlQ200YWdVWjRSUmJ0NGxlX0lxM3FlLVhYa25PSmI5bTRKRFdVM0pmQ3pqQThEWEx0NGoxbzZJU2Zfag?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Regulasi • OJK",
+      "title": "OJK Bongkar Pinjol, Asuransi, dan AI Fraud",
+      "summary": "Satgas PASTI menghentikan 951 pinjol dan investasi ilegal bermodus MLM, sementara OJK mengungkap 15 perusahaan pialang asuransi ilegal dan modus fraud menggunakan AI untuk kuras rekening nasabah.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON09FaDROaEdqc0lITnR0RjA5OFB4MFh0bUljRFZFMXdybXJOTWhHWUVlaUJUM2VieGszbVpMUnJTUTRoaXllZWJNX3JnY256VVB1UUlvMHBtTEhkSHJVZmdEaDRicEtpRS1rYUl0WnF2bHQ5bC14VmNsQ0sxeDctOERVRzE4TnhOZDd6eEtaS0tXX0FTX3JCMEhZZkcxNFdYWHBwNzVUaFY0Um40aDJDWnJteHlPZF9zbUhwUEs1djUybm1NOXU2UtIByAFBVV95cUxON09FaDROaEdqc0lITnR0RjA5OFB4MFh0bUljRFZFMXdybXJOTWhHWUVlaUJUM2VieGszbVpMUnJTUTRoaXllZWJNX3JnY256VVB1UUlvMHBtTEhkSHJVZmdEaDRicEtpRS1rYUl0WnF2bHQ5bC14VmNsQ0sxeDctOERVRzE4TnhOZDd6eEtaS0tXX0FTX3JCMEhZZkcxNFdYWHBwNzVUaFY0Um40aDJDWnJteHlPZF9zbUhwUEs1djUybm1NOXU2Ug?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOVB5TkkyWm5WS1MzWjNyWHBQUUZ2VlVkTXNkLS1qMjhXRFVwRE9hbXQyellUN3VPcTJRdkw1c0FzTTN5Z2lQTzlMNGJFWmthRk9oeFc1WFFKcFM4YmdlSG9HY0x0TDdvZUZFRjlfMjUtLVl1V2VFWW5aUUFCLVRvYmdNVm5FdGRKLV9ETWptUGZYeEtpZlRFR3RoeWsxeVhGNUJ0dWk3cmFoMkUxU05FUGtjbFR4NHZsVVU3VVBxYUVLSnZQUXNBakwxd1rSAcwBQVVfeXFMTTlQeU5JMlpuVktTM1ozclhwUFFGdlZVZE1zZC0tajI4V0RVcERPYW10MnpZVDd1T3EyUXZMNXNBc00zeWdpUE85TDRiRVprYUZPaHhXNVhRSnBTOGJnZUhvR2NMdEw3b2VGRUY5XzI1LS1ZdVdlRVluWlFBQi1Ub2JnTVZuRXRkSi1fRE1qbVBmWHhLaWZURUd0aHlrMXlYRjVCdHVpN3JhaDJFMVNORVBrY2xUeDR2bFVVN1VQcWFFS0p2UFFzQWpMMXda?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0dldTFOTmFtS2dscTFPcHJfVFFyeGJhV01QRE5KVzRveE5yMjhLZmtjTGFhR1FFRF8tY3BSVDM5akQwVzBYNGktT3BqbUNUX0E5blhSMU5CTHA5WXEyVG5YREtCQnUxQll6cjFSUXlaZ3hsVXBYNUxmMTJmWEdDblRJWDIyQXVnWU5SNzZPaUFtMWljRnBGNG1RNnZPZkhsMm9tOUszdDJuVmp0RkR3Y21VYXJId9IBtgFBVV95cUxOR0dldTFOTmFtS2dscTFPcHJfVFFyeGJhV01QRE5KVzRveE5yMjhLZmtjTGFhR1FFRF8tY3BSVDM5akQwVzBYNGktT3BqbUNUX0E5blhSMU5CTHA5WXEyVG5YREtCQnUxQll6cjFSUXlaZ3hsVXBYNUxmMTJmWEdDblRJWDIyQXVnWU5SNzZPaUFtMWljRnBGNG1RNnZPZkhsMm9tOUszdDJuVmp0RkR3Y21VYXJIdw?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perbankan • Keamanan",
+      "title": "Bank Blokir 36.000 Rekening untuk Cegah Scam dan Judol",
+      "summary": "Bank melakukan pemblokiran atas 36.000 rekening untuk memberantas skema scam dan perjudian online. Upaya ini bagian dari penguatan keamanan transaksi nasabah.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3FrWjcxOGFRWmo3ZE1QaTZjeU1Eb1RuTjFwZmJhdW1FSG9tb0xncGs2djlaRHoxRTIzc3dHOFE3LS11QVZLcVN2YnRTVGl0ZzBjLTgxMVB2eVhRUDdhVWVGOTFINWtUaDNvdE42d0IyRVRJVlpkM1ZXODBuVG1iVFB4eEdnbFN5M3FJTF9KdzVUeUV4MnJtaU9TYXJZdERqbmppQ1hlbmdDSDRqU2hTLXQ4d2h6cVnSAbcBQVVfeXFMT2Nxa1o3MThhUVpqN2RNUGk2Y3lNRG9Ubk4xcGZiYXVtRUhvbW9MZ3BrNnY5WkR6MUUyM3N3RzhRNy0tdUFWS3FTdmJ0U1RpdGcwYy04MTFQdnlYUVA3YVVlRjkxSDVrVGgzb3RONndCMkVUSVZaZDNWVzgwblRtYlRQeHhHZ2xTeTNxSUxfSnc1VHlFeDJybWlPU2FyWXREam5qaUNYZW5nQ0g0alNoUy10OHdoenFZ?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perbankan • Multifinance",
+      "title": "8 Perusahaan Multifinance Dipantau Ketat OJK Akibat Modal Cekak",
+      "summary": "OJK secara ketat memantau 8 perusahaan multifinance yang mengalami keterbatasan modal. Pengawasan ini dilakukan untuk memastikan stabilitas sektor pembiayaan.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREFhclFnN0pCM20tQ1FaRnNoWkJCdmFMWU5neGttOGZHNEs1UXkwYUxSd3d3Z1JEa1praEpyWGs3Z3FRZ2RtemZPVVR6dkJiSVE1Z3k3M1BrWnlxNDhWcURkVGNtY0dPbXA4Y0RqcWYzU0gybnFVT2lMTGhoWVNDM1A2cFBfbVg3cVo5RGVSVVA4Sk5fSXlnQnhkOFA2T1NzY1pFaXF4NHdvSjdvZjJ6VFFIakRjMzFYcjN1bGdEb9IBvwFBVV95cUxNREFhclFnN0pCM20tQ1FaRnNoWkJCdmFMWU5neGttOGZHNEs1UXkwYUxSd3d3Z1JEa1praEpyWGs3Z3FRZ2RtemZPVVR6dkJiSVE1Z3k3M1BrWnlxNDhWcURkVGNtY0dPbXA4Y0RqcWYzU0gybnFVT2lMTGhoWVNDM1A2cFBfbVg3cVo5RGVSVUA4Sk5fSXlnQnhkOFA2T1NzY1pFaXF4NHdvSjdvZjJ6VFFIakRjMzFYcjN1bGdEbw?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Makroekonomi • Bank Sentral",
+      "title": "Bank Sentral Hadapi 4 PR Besar di Era AI dan Fragmentasi Global",
+      "summary": "Gubernur BI Destry mengungkap empat tantangan besar bagi bank sentral di era artificial intelligence dan fragmentasi global. Isu-isu strategis ini menjadi fokus dalam stabilitas ekonomi.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaVM0cldoUmpvRDI0dVZsWlNzY0JSV2dlRDhlanlzd3U3X1FwY2piQldBdlM1VnhHWEtSaDlLSWRkaEMyRDJCY2xoQjduZVh5a2oxTEZ3ek1jazE3S2I1UWVwdEhBLXZ2QWtza3FmS0FLZEtIQVFqeWpBZ1FsTUZoVUUzZk5JZXRPM0RId3hBcHF6bmZuSWVjUTF1REFrNk5EXzNabVBIcGRGdzJtRHZmdmFzazRJN1QzQXFBUEY4RnZmckkyRGZsWUlnY2LSAcwBQVV95cUxPaVM0cldoUmpvRDI0dVZsWlNzY0JSV2dlRDhlanlzd3U3X1FwY2piQldBdlM1VnhHWEtSaDlLSWRkaEMyRDJCY2xoQjduZVh5a2oxTEZ3ek1jazE3S2I1UWVwdEhBLXZ2QWtza3FmS0FLZEtIQVFqeWpBZ1FsTUZoVUUzZk5JZXRPM0RId3hBcHF6bmZuSWVjUTF1REFrNk5EXzNabVBIcGRGdzJtRHZmdmFzazRJN1QzQXFBUEY4RnZmckkyRGZsWUlnY2I?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Saham • Rekomendasi",
+      "title": "Rekomendasi Saham Hari Ini: BMRI, BBNI, UNVR",
+      "summary": "Analis memberikan rekomendasi saham hari ini mencakup BMRI, BBNI, dan UNVR. Pilihan ini didasarkan pada analisis fundamental dan teknikal pasar.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVFZV3gzZ1ZHanR1cTZhNFM5UlRKTzBIVEhIbWNLODdKMzFZRUoxWm9fUDhtMEl6WnpvUHFnS3hPRnFrd0JCWEcyWVNtTzM4NWZlVDhXdTQyVzI4bjlfT2w5ZE1jb0l3RklhVkJMSHowT2ZuaXl0cHdYZkJzU0VONTJiMG43ajIyeHl2Z05NbVJRLU9VdTA1NVdMS1FfQzQ5alZ6TnUyYko5NWhtQ0V3N0EwMGpKSzItQXfSAboBQVVfeXFMTklRWVd4M2dWR2p0dXE2YTRTOVJUSk8wSFRISG1jSzg3SjMxWUVKMVpvX1A4bTBJelp6b1BxZ0t4T0Zxa3dCQlhHMllTbU8zODVmZVQ4V3U0MlcyOG45X09sOWRNY29Jd0ZJYVZCTEh6ME9mbml5dHB3WGZCc1NFTjUyYjBuN2oyMnh5dmdOTW1SUS1PVXUwNTVXTEtRX0M0OWpWek51MmJKOTVobUNFdzdBMDBqSksyLUF3?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Bursa • BEI",
+      "title": "BEI Jadi Perusahaan Terbuka Mulai Q3-2026 Setelah Demutualisasi",
+      "summary": "Bursa Efek Indonesia akan menjadi perusahaan terbuka mulai kuartal ketiga 2026 setelah melalui proses demutualisasi. Langkah ini merupakan transformasi struktur organisasi bursa.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0NucWhCTVZHT0NiVjdwcHRPazR2OW5IX294RjI2MkE2U29iaU9Bb0JPOTRuLTBoQ0FxRTdVM0pzTkhJeDAyTllkeWVvQzhsWDZFLXpiRmxQbHhpUUt0OHRObHhQb2t5NXcyMmwxcDRrb3psMkpiRkJIVDBDMXY3cmRGdEhyNDNPVHF5RV9QZjJIUjN0cmxHQWp3NEZYeVVzR1JtSFMtNlctaFR5cWp6eUZob29CbWo0dldyU2ZhRWN1ZXBLRFc0all3VGHSAcwBQVVfeXFMTldDbnFoQk1WR09DYlY3cHB0T2s0djluSF9veEYyNjJBNlNvYmlPQW9CTzk0bi0waENBcUU3VTNKc05ISXgwMk5ZZHllb0M4bFg2RS16YkZsUGx4aVFLdDh0Tmx4UG9reTV3MjJsMXA0a296bDJKYkZCSFQwQzF2N3JkRnRIcjQzT1RxeUVfUGYySFIzdHJsR0FqdzRGWHlVc0dSbUhTLTZXLWhUeXFqenlGaG9vQm1qNHZXclNmYUVjdWVwS0RXNGpZd1Rh?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perbankan • DBS",
+      "title": "DBS Indonesia Buka Peluang Investasi di Tengah Ketidakpastian Global",
+      "summary": "DBS Indonesia mengungkap peluang investasi yang tersedia di tengah kondisi ketidakpastian pasar global. Bank mencari peluang strategis untuk pertumbuhan klien.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUm5XVEZwMmZSLWlvU3U3VW1HZXJJN1V5TGVTRXQ0SHNFRlNJYThWRWJmU0YtWjQxYmtReEpaV2w3c1hEM2xQNVpzMjJob0RzVmktbkpRX2kwZjZ5cVBZQmNGNFZfWDQ3NTZPY1BtNDhCZFBvWTdBT00tdlVlVFdjNDlhbExHMkp4dk5ydnVsY2I1ZVhDQms2cjg2ZzVid1lvOExTMlIwVUJVbmo1NXc3UzhuV3pCc0FXQzF2ekJQYkFTTUlWa1RJNDFLRHl0bG03S0HSAdIBQVVfeXFMUFJuV1RGcDJmUi1pb1N1N1VtR2VySTdVeUxlU0V0NEhzRUZTSWE4VkViZlNGLVo0MWJrUXhKWldsN3NYRDNsUDVaczIyaG9Ec1ZpLW5KUV9pMGY2eXFQWUJjRjRWX1g0NzU2T2NQbTQ4QmRQb1k3QU9NLXZVZVRXYzQ5YWxMRzJKeHZOcnZ1bGNiNWVYQ0JrNnI4Nmc1YndZbzhMUzJSMFVCVW5qNTV3N1M4bld6QnNBV0MxdnpCUGJBU01JVmtUSTQxS0R5dGxtN0tB?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Bursa Asia • Pasar Global",
+      "title": "Bursa Asia Mengalami Penguatan Ikut Jejak Wall Street",
+      "summary": "Bursa Asia pesta pagi ini dengan mengikuti tren positif dari Wall Street. Sentimen pasar global yang membaik mendorong kenaikan indeks regional.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxMSnlHVXQtMGZkcXljN2czTV80NTduVWRLYUFEZW5kR2Y5YVZ2NDZVU2QyVThrUTQ2YlJFV01UYU9DeFozOXY5V3c4RVlWMl9BZGpvWFhld3JEYzMtV1U2c2tydU1CM3JtRlhjeVA4Vkt6aTRjSlBhMUh1MnlnaTZaNnYzRDc5ZFR2VW1PdGt6ZHppSGk3YTdSeGVxWmNZb3ZxeWpKcWxrdUpGWExiX0dr0gG0AUFVX3lxTFB0c1J1Mm9jR21ESmNGT3pwdTUtMG1vRzdPMHlVelMxVkMtU0tNSy1zVWFSR1gyX0t2NFFUaTZaRjNuMHRxSktIb1FTX0p4XzloUjhySTRMdkV5anJha2ptdEpsbW8tR1Q2cDE3eVgtMk1wdXcyTlJ6YU9HOHk3Sm5ocm1qNk5iX1pWaHdqdnBqaVpuRjBveFhiN3o1VF9ZY2VERjNmY2o4UElhNDlScHMzaGxYZQ?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Bisnis • Usaha Kecil",
+      "title": "Warung Madura Kebal Krisis dengan Modal Terjangkau",
+      "summary": "Warung Madura menawarkan peluang usaha yang tahan krisis dengan modal yang relatif terjangkau. Model bisnis ini menarik minat calon pengusaha.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGl0OEZwZncwM19MU2hCVDZhWUpwQ2I3ZUtIWFNmNjNzTWg2eksyX3pwOUtnX29lYXVRV1N0bWhBZmxxTWVSZWZHVHJmYl90dkJ6OF9qQ3lGcmVNWGxFVXpJNXg2b21YZDdQX25admlOVkJORTl5ZjRDZENyVjNFcFJXRFNfNzJvUF9MZThSZEhvd2Q2b0JWazF6ak1kbXI0RVhwMjdtd2JlY3ZwWHfSAbgBQVVfeXFMUGFVNFlmN2U4UU5mSWFNTFhOcENPNWFacmpfUFlkMjhSd3Jjd2ljX0xycjlsMUhMeFVkTzlndmVoMXpuNk9qWHk1bE5mNDc5RmlCaEktZ0lBdGdVb3l2RjItbEtadUhtazloZkx4YlVlTElHZ1lCSi1JOFNBRkswbjFRNVJWbFdoSUZyZlZQVWw4MlRLOWVxNmNDUFpQVlNycVBFdHZrMFR4NzVFblMtMFNkUEIydi1OYg?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perbankan • UOB",
+      "title": "Bank UOB Indonesia Rombak Manajemen dengan Direksi Terbaru",
+      "summary": "Bank UOB Indonesia melakukan perubahan struktur manajemen dengan mengumumkan susunan direksi terbaru. Langkah ini bagian dari reorganisasi kepemimpinan bank.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzROVEdFeHNPdFEzZmpoU0NFbmRvbjNBMUpGR0lCNk84WmRrNXBEQmZMUzhweXFzTW14QXpxbWZpLUdZUnNyRXRfejRlV191aUZ5NXN1STEtelNRUTVDUW84dDMwMEJVNnpyb2ZkeHc4QnF1NGFOMF9MU2d2eE1uSFVwbGt6LW1keGNqeUVReHF3RnlMOFFjQlBDWlQ1RnZLYktYdU9fb19qNnVoMEV4OXhoZ2xFc0NGTmM4cmpnRERRdmPSAcgBQVVfeXFMTnFoUG00dlNHbk5BZHdyQlc0ME9LbXdoU0tnblhUOElZWml4TlNQX0gwYWlYUVgtRWFGSFZKUnItY3VndHZwQmZPd0Vtc3dhalFwdXNUMl9fdlZfT0p2MUlpbE4yZFZkZ2hHem1GcjcybDRib0YzUmVWN1RUUFB5am9xU2gzd3BSYTRhYVlLcVE5MUk5WnJoM1haR0NWVkdpTWMwUGFTOFFmcVBPNkZ6WlVmbE1pS3ZJQmNzYWtaQkRTeHNwcFdobjg?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
       "tag": "Geopolitik • Strait of Hormuz",
-      "title": "Negosiasi AS-Iran untuk Pembukaan Selat Hormuz Menunjukkan Kemajuan",
-      "summary": "Pejabat AS termasuk Menteri Keuangan Bessent mengumumkan sedang dalam pembicaraan dengan Iran untuk membuka Selat Hormuz dengan jaminan kebebasan pergerakan, dengan kemungkinan kesepakatan dicapai pada hari Selasa atau Rabu. Central Command AS mengkonfirmasi rute selatan Selat Hormuz tetap terbuka dan bebas. Perkembangan ini mendorong penurunan harga minyak lebih dari 2% karena harapan resolusi konflik lima bulan yang telah mengganggu perdagangan maritim global.",
+      "title": "Negosiasi AS-Iran untuk Pembukaan Strait of Hormuz",
+      "summary": "AS dan Iran sedang melakukan perundingan untuk membuka Strait of Hormuz dengan jaminan kebebasan navigasi. Treasury Secretary Bessent menyatakan kemungkinan kesepakatan tercapai pada hari Selasa atau Rabu.",
       "sources": [
         {
           "name": "CNBC International",
@@ -13,22 +185,14 @@
         {
           "name": "CNBC International",
           "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/treasury-yields-investors-peace-talks-uncertainty.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Teknologi Asia",
-      "title": "Saham Teknologi Asia Melonjak Mengikuti Reli AI Wall Street",
-      "summary": "Saham teknologi Asia mengalami kenaikan signifikan pada hari Rabu setelah Wall Street memecahkan rekor, dengan SoftBank melompat 10% dipicu oleh optimisme seputar kecerdasan buatan dan saham pertumbuhan. Rally ini mencerminkan momentum positif dari hasil kuartalan yang kuat dan prospek pertumbuhan di sektor teknologi regional.",
+      "tag": "Teknologi • AI Rally",
+      "title": "Saham Teknologi Asia Naik Seiring Reli AI Wall Street",
+      "summary": "SoftBank dan saham teknologi Asia lainnya melonjak mengikuti rally Wall Street yang dipicu optimisme seputar kecerdasan buatan dan saham pertumbuhan.",
       "sources": [
         {
           "name": "CNBC International",
@@ -38,9 +202,9 @@
       "category": "global"
     },
     {
-      "tag": "Regulasi • China",
-      "title": "Beijing Kejutkan Pengusaha Kaya dengan Pajak atas Trust Offshore",
-      "summary": "Pemerintah Beijing mengeluarkan kebijakan mengejutkan untuk mengenakan pajak atas trust offshore yang telah lama digunakan oleh ultra-kaya China untuk menyimpan dana di luar negeri. Keputusan ini memicu rush ke kantor hukum dan scramble untuk menggalang kas dari kalangan pengusaha kaya China yang terkena dampak.",
+      "tag": "Pasar China",
+      "title": "Kaya Raya China Mencari Penasihat Pajak Atas Pajak Aset Luar Negeri",
+      "summary": "Beijing mengeluarkan kejutan berupa pajak atas perwalian aset luar negeri, yang selama ini digunakan pengusaha ultra-kaya China untuk menyimpan dana. Keputusan ini memicu kekhawatiran dan permintaan konsultasi hukum yang meningkat.",
       "sources": [
         {
           "name": "CNBC International",
@@ -51,8 +215,8 @@
     },
     {
       "tag": "Saham • SpaceX",
-      "title": "Investasi AI SpaceX Membuat Wall Street Khawatir Meski Janji Hasil Cepat",
-      "summary": "Dalam presentasi pertama kepada Wall Street sejak IPO, eksekutif SpaceX berusaha meyakinkan bahwa investasi AI yang besar menghasilkan pengembalian dalam waktu satu tahun. Khawatir pasar terhadap besarnya pengeluaran AI membuat investor skeptis terhadap proyeksi pengembalian yang dijanjikan.",
+      "title": "Pengeluaran AI SpaceX Menimbulkan Kekhawatiran Wall Street",
+      "summary": "Eksekutif SpaceX berusaha meyakinkan Wall Street bahwa investasi AI substansial dapat memberikan hasil dalam waktu singkat, namun keputusan investasi tersebut masih menimbulkan kekhawatiran pasar.",
       "sources": [
         {
           "name": "CNBC International",
@@ -62,9 +226,9 @@
       "category": "global"
     },
     {
-      "tag": "Otomotif • Kerjasama Strategis",
-      "title": "GM Perpanjang Joint Venture dengan Mitra China 20 Tahun di Tengah Ketegangan Geopolitik",
-      "summary": "General Motors memperpanjang kerjasama joint venturenya dengan mitra otomotif China selama 20 tahun untuk fokus pada penjualan model Buick dan Cadillac di pasar China serta ekspor produk Chevrolet yang diproduksi di China ke pasar non-AS. Keputusan ini menunjukkan komitmen jangka panjang GM terhadap pasar China meskipun ketegangan geopolitik antara AS dan China meningkat.",
+      "tag": "Saham • GM",
+      "title": "GM Perpanjang Ventura Bersama dengan Produsen Mobil China 20 Tahun",
+      "summary": "General Motors memperpanjang kemitraan dengan produsen mobil China dengan fokus pada penjualan domestik merek Buick dan Cadillac serta ekspor produk Chevrolet, meskipun ada ketegangan geopolitik AS-China.",
       "sources": [
         {
           "name": "CNBC International",
@@ -79,8 +243,8 @@
     },
     {
       "tag": "Saham • AMD",
-      "title": "Pendapatan AMD Tumbuh 50% dengan Penjualan Data Center Berlipat Ganda, Saham Tetap Turun",
-      "summary": "AMD melaporkan pertumbuhan pendapatan 50% dengan unit data center mencatat peningkatan 107% year-over-year, menjadi pendorong utama pertumbuhan perusahaan. Meski hasil operasional sangat kuat, harga saham AMD tetap turun mencerminkan ekspektasi pasar yang sudah tinggi terhadap kinerja perusahaan.",
+      "title": "AMD Capai Pertumbuhan Pendapatan 50%, Saham Turun",
+      "summary": "AMD melaporkan pertumbuhan pendapatan 50% dengan penjualan data center meningkat 107%, namun harga saham tetap turun setelah pengumuman hasil kuartalan.",
       "sources": [
         {
           "name": "CNBC International",
@@ -90,9 +254,9 @@
       "category": "global"
     },
     {
-      "tag": "Rantai Pasokan • China-Apple",
-      "title": "Kekurangan Komponen di China Menunjukkan Pergeseran Strategi Pasokan Apple",
-      "summary": "Teknisi di Huaqiangbei, pasar elektronik terbesar China, kekurangan komponen untuk membuat tiruan persis dari iPhone terbaru Apple. Hal ini mengindikasikan perubahan signifikan dalam strategi rantai pasokan Apple dan dampaknya terhadap ekosistem manufaktur lokal di China yang sebelumnya mengandalkan model produksi semacam ini.",
+      "tag": "Industri • Semikonduktor",
+      "title": "Pasokan Komponen Apple di China Mengalami Gangguan",
+      "summary": "Teknisi di Huaqiangbei, pusat elektronik terbesar China, kesulitan menemukan suku cadang untuk membuat replika ponsel Apple terbaru, mencerminkan gangguan rantai pasokan.",
       "sources": [
         {
           "name": "CNBC International",
@@ -102,9 +266,9 @@
       "category": "global"
     },
     {
-      "tag": "Pariwisata • Travel Konsumen",
-      "title": "Wisatawan Asia Tetap Rela Berkunjung ke Eropa Meski Gelombang Panas Rekam Tertinggi",
-      "summary": "Meskipun Eropa mengalami gelombang panas yang memecahkan rekor, permintaan wisatawan dari Asia tetap resilient dengan proyeksi pengeluaran di Eropa Utara diperkirakan akan meningkat. Data ini menunjukkan daya tarik pariwisata Eropa masih kuat bagi konsumen Asia terlepas dari tantangan iklim ekstrem.",
+      "tag": "Pariwisata • Pasar Kerja",
+      "title": "Wisatawan Asia Tetap Antusias Kunjungi Eropa Meski Gelombang Panas",
+      "summary": "Meski menghadapi gelombang panas rekor, minat wisatawan Asia terhadap Eropa tetap kuat dengan proyeksi peningkatan pengeluaran di Eropa Utara.",
       "sources": [
         {
           "name": "CNBC International",
@@ -114,9 +278,49 @@
       "category": "global"
     },
     {
+      "tag": "Analisis Pasar",
+      "title": "Michael Burry Prediksi Kemungkinan Jatuh Pasar Tipe 1987",
+      "summary": "Investor terkenal Michael Burry memperingatkan bahwa pasar mungkin berada di dekat puncak utama dengan potensi penurunan seperti tahun 1987.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Paramount",
+      "title": "Paramount Skydance Naikkan Panduan Keuntungan Penuh Tahun",
+      "summary": "Paramount Skydance melaporkan hasil kuartal kedua yang positif dan menaikkan panduan keuntungan tahunan, sambil tetap percaya diri terhadap rencana merger dengan Warner Bros. Discovery.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
+        },
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • P&G",
+      "title": "Procter & Gamble Akuisisi Brand Suplemen Thorne Seharga $3,8 Miliar",
+      "summary": "Procter & Gamble mengumumkan akuisisi Thorne seharga $3,8 miliar sebagai strategi untuk mengembangkan bisnis kesehatan perusahaan.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
       "tag": "Saham • Palantir",
-      "title": "Saham Palantir Meloncat 29% Setelah Hasil Kuartalan 'Luar Biasa'",
-      "summary": "Saham Palantir meloncat 29% setelah melaporkan hasil kuartal kedua yang melampaui ekspektasi, hampir mencapai rekor hari terbaik sepanjang masa. CEO Alex Karp menekankan bahwa pelanggan perusahaan telah menolak menjadi \"negara boneka dari lab bahasa\" (referensi kepada ketergantungan pada model bahasa besar), mengindikasikan fokus Palantir pada solusi AI berdaulat.",
+      "title": "Saham Palantir Melompat 29% Usai Hasil Kuartalan 'Luar Biasa'",
+      "summary": "Palantir mencatat kenaikan saham 29% setelah melaporkan hasil kuartal kedua yang sangat kuat, dengan CEO menekankan kesuksesan alat AI berdaulat mereka.",
       "sources": [
         {
           "name": "CNBC International",
@@ -127,8 +331,8 @@
     },
     {
       "tag": "Saham • HSBC",
-      "title": "Keuntungan Sebelum Pajak HSBC Melampaui Estimasi dengan Dukungan Net Interest Income",
-      "summary": "HSBC melaporkan laba sebelum pajak yang melampaui perkiraan analis, didorong oleh peningkatan net interest income dan biaya-biaya. Hasil positif ini menunjukkan kinerja solid bank global di tengah lingkungan suku bunga yang menguntungkan.",
+      "title": "HSBC Laba Sebelum Pajak Lampaui Estimasi",
+      "summary": "HSBC melaporkan laba sebelum pajak yang melampaui perkiraan analis, didorong oleh pendapatan bunga bersih yang lebih tinggi dan biaya.",
       "sources": [
         {
           "name": "CNBC International",
@@ -138,22 +342,14 @@
       "category": "global"
     },
     {
-      "tag": "Regulasi • Antitrust",
-      "title": "New Jersey Gugat Amazon atas Praktik Antitrust di Model Pengiriman",
-      "summary": "New Jersey menggugat Amazon dengan tuduhan melakukan praktik antitrust dalam menjalankan model pengiriman pihak ketiga yang menghasilkan upah lebih rendah, kondisi kerja tidak adil, dan kurangnya kompetisi. Gugatan ini merupakan bagian dari eskalasi pengawasan regulasi terhadap praktik bisnis perusahaan teknologi terbesar.",
+      "tag": "Saham • Amazon",
+      "title": "Amazon Hadapi Gugatan Antitrust New Jersey dan Jual Saham Bezos",
+      "summary": "New Jersey menggugat Amazon atas dasar antitrust terkait model pengiriman pihak ketiga, sementara Jeff Bezos mengajukan permohonan penjualan saham senilai $4 miliar.",
       "sources": [
         {
           "name": "CNBC International",
           "url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Amazon",
-      "title": "Jeff Bezos Ajukan Rencana Penjualan Saham Amazon Senilai $4 Miliar, Harga Saham Turun",
-      "summary": "Jeff Bezos mengajukan permohonan untuk menjual saham Amazon senilai $4 miliar setelah saham mencapai harga tertinggi sepanjang masa pada hari Senin. Pengajuan ini mengakibatkan penurunan harga saham Amazon, meskipun perusahaan baru saja melaporkan hasil kuartalan yang kuat minggu lalu.",
-      "sources": [
+        },
         {
           "name": "CNBC International",
           "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html"
@@ -163,192 +359,20 @@
     },
     {
       "tag": "Saham • Chipotle",
-      "title": "Saham Chipotle Turun Akibat Dugaan Keterkaitan dengan Wabah Salmonella Minnesota",
-      "summary": "Harga saham Chipotle turun setelah investigasi mengungkapkan kemungkinan keterkaitan dengan wabah salmonella di Minnesota. Perusahaan telah menarik pasokan yang terpengaruh dari restoran dan menggantinya dengan paprika dari pemasok berbeda, sementara otoritas kesehatan melaporkan tidak ada kekhawatiran berkelanjutan dengan rantai restoran tersebut.",
+      "title": "Saham Chipotle Turun Akibat Kemungkinan Kaitan dengan Wabah Salmonella",
+      "summary": "Saham Chipotle jatuh setelah ditemukan kemungkinan kaitan dengan wabah salmonella di Minnesota, namun perusahaan telah menarik produk yang terkena dampak.",
       "sources": [
         {
           "name": "CNBC International",
           "url": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • McDonald's",
-      "title": "McDonald's Mengumumkan Kepemimpinan Baru dan Kesulitan Bisnis AS",
-      "summary": "McDonald's mengumumkan Skye Anderson, seorang veteran perusahaan selama 26 tahun, sebagai Presiden AS yang baru menggantikan Joe Erlinger, seiring bisnis terbesar perusahaan mengalami penurunan. Saham McDonald's telah jatuh lebih dari 11% tahun ini, menurunkan market cap menjadi sekitar $191 miliar, dan perusahaan mengakui promosi nilai mereka menjadi terlalu rumit dengan terlalu banyak penawaran sekaligus.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/mcdonalds-skye-anderson-us-president.html"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Farmasi",
-      "title": "Pfizer Lampaui Estimasi dan Naikkan Guidance, Merck Potong Guidance Laba",
-      "summary": "Pfizer melaporkan hasil yang melampaui estimasi dengan peningkatan net interest income yang kuat dan menaikkan lower end guidance pendapatan tahunan, seiring permintaan obat seperti Eliquis tetap solid. Sementara itu, Merck menaikkan outlook pendapatan seiring pertumbuhan penjualan obat baru namun memotong guidance laba karena biaya terkait akuisisi Terns Pharmaceuticals. Pfizer juga mengurangi ekspektasi pendapatan produk Covid menjadi $4 miliar dari estimasi sebelumnya sekitar $5 miliar.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Paramount",
-      "title": "Paramount Skydance Naikkan Guidance Laba dan Yakin Rencana Merger WBD",
-      "summary": "Paramount Skydance melaporkan laba kuartal kedua dan menaikkan guidance keuntungan tahunan sambil tetap percaya diri atas rencana merger yang diusulkan dengan Warner Bros. Discovery. Perusahaan terus mempersiapkan kombinasi bisnis yang strategis ini.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "M&A • Kesehatan",
-      "title": "Procter & Gamble Akuisisi Merek Suplemen Thorne Senilai $3,8 Miliar",
-      "summary": "Procter & Gamble mengumumkan rencana mengakuisisi merek suplemen kesehatan Thorne seharga $3,8 miliar sebagai bagian dari strategi pertumbuhan bisnis kesehatannya. CEO P&G Shailesh Jejurikar menyatakan bahwa akuisisi ini merupakan langkah strategis untuk memperluas portofolio produk kesehatan perusahaan.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Apple",
-      "title": "Apple Ajukan Tantangan Hukum Baru Terhadap Permintaan Akses Data Enkripsi UK",
-      "summary": "Apple mengajukan tantangan hukum terbaru terhadap permintaan Inggris untuk akses data pengguna yang dienkripsi, setahun setelah Inggris membatalkan permintaan awal untuk akses data pengguna Inggris dan Amerika. Langkah ini meneruskan pertahanan Apple atas privasi pengguna dan enkripsi end-to-end.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/apple-encrypted-data-legal-challenge-uk.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • EV",
-      "title": "Lucid Mulai 'Operational Reset' dan Tunda Peluncuran Kendaraan Midsize",
-      "summary": "Lucid memulai \"operational reset\" dengan CEO Silvio Napoli mengumumkan penundaan peluncuran kendaraan ukuran menengah perusahaan. Perusahaan belum memberikan guidance yang diperbarui sehubungan dengan perubahan strategi ini yang mengikuti suspensi ekspektasi produksi yang diumumkan Napoli lebih awal tahun ini.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Ford",
-      "title": "Penjualan Ford Juli Turun 10,2% di AS, Masih Dianggap 'Bulan Baik'",
-      "summary": "Ford melaporkan penurunan penjualan AS sebesar 10,2% pada Juli, yang perusahaan tetap anggap sebagai \"bulan baik\" dalam konteks penjualan yang lebih lemah sepanjang tahun. Penurunan ini menambah deretan tahun penjualan yang lesu bagi produsen otomotif, dengan hasil year-to-date turun 9,7% dibandingkan 2025.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Real Estat • Pembeli Asing",
-      "title": "Pembeli Asing Menarik Diri dari Properti AS, Tapi Pengembang Mewah Tetap Diminati",
-      "summary": "Pembeli asing mengurangi pembelian properti residensial AS secara signifikan, sebagian didorong oleh penarikan diri pekerja yang memenuhi syarat visa H-1B. Meskipun ada penurunan umum dalam minat pembeli asing, pengembang rumah mewah masih mampu menarik pembeli internasional.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Upstart",
-      "title": "Saham Upstart Naik Seiring Upgrade AI dan Pertumbuhan Pinjaman Meningkat",
-      "summary": "Saham Upstart naik setelah perusahaan fintech lending menunjukkan peningkatan signifikan dalam pertumbuhan pinjaman dengan meningkatkan model AI untuk menilai risiko peminjam dengan lebih baik. Perbaikan teknis ini mendorong performa saham dan kepercayaan investor terhadap platform lending berbasis AI.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Pasar Saham • Tren Umum",
-      "title": "S&P 500 Kembali ke Rekor Tertinggi Setelah Jeda 42 Hari",
-      "summary": "S&P 500 mencapai penutupan rekor ke-25 tahun 2026 setelah istirahat 42 hari, dengan investor yang bertahan selama crash momentum akhir-akhir ini kini mendapat penghargaan. Perdagangan opsi bullish meningkat seiring investor khawatir ketinggalan rally yang terus berlanjut, mendorong pasar lebih tinggi lagi.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Analisis Pasar • Sentimen Investor",
-      "title": "Saham Menghadapi Musim Terlemah, Sentimen Pesimis Ekstrem Bisa Membatasi Penurunan",
-      "summary": "Pasar saham AS memasuki musim historis terlemah sepanjang tahun, namun sentimen investor yang sangat pesimis secara tidak biasa berpotensi membatasi penurunan signifikan menurut Ned Davis Research. Kondisi paradoks ini menunjukkan bahwa kekhawatiran berlebihan pasar dapat mencegah jual panik yang parah.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Analisis Pasar • Prediksi Negatif",
-      "title": "Michael Burry Bertaruh Terhadap Reli: 'Kami Dekat Puncak Mayor, Mungkin Jatuh Tipe 1987'",
-      "summary": "Investor terkenal Michael Burry mengumumkan taruhan negatif terhadap pasar dalam posting Substack, menyatakan bahwa dia terus percaya pasar mungkin dekat dengan puncak mayor dan menghadapi kemungkinan crash mirip tahun 1987. Prediksi pesimis ini kontras dengan rally pasar yang sedang berlangsung.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Politik • Pengadilan",
-      "title": "Senator Susan Collins Akan Menentang Nominasi Todd Blanche sebagai Jaksa Agung",
-      "summary": "Senator Republik Susan Collins mengumumkan akan menolak nominasi Todd Blanche sebagai Jaksa Agung, merupakan pukulan signifikan bagi calon Blanche yang membutuhkan setidaknya 50 suara di lantai Senat untuk dikonfirmasi setelah melewati Komite Kehakiman Senat. Keputusan Collins menunjukkan tantangan yang dihadapi Blanche dalam proses konfirmasi.",
+      "tag": "Politik • Konfirmasi AG",
+      "title": "Senator Susan Collins Menolak Calon AG Trump Todd Blanche",
+      "summary": "Senator Susan Collins mengumumkan penolakan terhadap Todd Blanche sebagai calon Attorney General, sebuah pukulan signifikan bagi rencana konfirmasi Trump.",
       "sources": [
         {
           "name": "CNBC International",
@@ -358,37 +382,61 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Kriptokursi",
-      "title": "Performa Investasi: Emas, Bitcoin, dan Saham TRUMP Sejak Hari Pelantikan",
-      "summary": "Laporan membandingkan performa investasi sebesar $1.000 dalam emas, Bitcoin, dan saham TRUMP sejak Hari Pelantikan, menunjukkan kinerja berbeda dari ketiga aset ini dalam periode tersebut.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Kebijakan Moneter • The Fed",
-      "title": "Rencana Kontrol Inflasi: Ketua Fed Baru dan Sekutu White House Uruk untuk Tidak Bertanya",
-      "summary": "Kritik muncul bahwa determinasi Ketua Fed baru Kevin Warsh untuk menurunkan harga tidak cukup, dengan para pengkritik mengatakan administrasi dan pejabat Federal Reserve tidak terbuka mendiskusikan rencana konkret untuk membawa inflasi turun. Menteri Keuangan Bessent membela Warsh dengan mengatakan pasar sedang menjalani \"detox\" dari terlalu banyak guidance dari Fed.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Novo Nordisk",
-      "title": "Saham Novo Nordisk Turun Setelah Guidance Mengecewakan Investor",
-      "summary": "Saham Novo Nordisk turun setelah perusahaan mengeluarkan guidance yang mengecewakan investor, meskipun menaikkan outlook finansial dalam upaya mengejar rival Eli Lilly di pasar GLP-1 yang sedang berkembang pesat.",
+      "tag": "Saham • McDonald's",
+      "title": "McDonald's Bisnis AS Tertinggal, Angkat Pimpinan Pasar Terbesar",
+      "summary": "McDonald's mengumumkan penunjukan kepemimpinan baru untuk pasar AS terbesar di tengah kinerja bisnis yang mengecewakan dan penurunan saham lebih dari 11% tahun ini.",
       "sources": [
         {
           "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html"
+          "url": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Pfizer",
+      "title": "Pfizer Lampaui Estimasi, Naikkan Panduan Pendapatan Tahunan",
+      "summary": "Pfizer melaporkan hasil yang melampaui estimasi dengan kekuatan produk seperti Eliquis dan menaikkan panduan pendapatan tahunan, sambil menurunkan ekspektasi pendapatan produk Covid.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Apple",
+      "title": "Apple Luncurkan Tantangan Hukum Baru Terhadap Permintaan Data Terenkripsi UK",
+      "summary": "Apple mengajukan tantangan hukum terhadap permintaan Inggris untuk akses data terenkripsi pengguna, setahun setelah Inggris menarik permintaan awal.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/apple-encrypted-data-legal-challenge-uk.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Makroekonomi • Obligasi",
+      "title": "Imbal Hasil Treasury Turun Seiring Jatuhnya Harga Minyak",
+      "summary": "Imbal hasil treasury merosot setelah harga minyak jatuh lebih dari 2% dalam merespons komentar Bessent tentang kemungkinan kesepakatan pembukaan Strait of Hormuz.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/treasury-yields-investors-peace-talks-uncertainty.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Lucid",
+      "title": "Lucid Mulai 'Reset Operasional' dan Tunda Kendaraan Berukuran Menengah",
+      "summary": "Lucid memulai 'reset operasional' di bawah CEO baru dan mengumumkan penundaan kendaraan segmen midsize tanpa memberikan panduan pembaruan.",
+      "sources": [
+        {
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html"
         }
       ],
       "category": "global"
