@@ -23,7 +23,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DIGEST_PATH = REPO_ROOT / "data" / "digest.json"
 
 LOOKBACK_HOURS = 15  # covers a 2x/day schedule with buffer for a missed run
-MAX_ARTICLES_PER_CATEGORY = 60  # keep prompt/response size bounded on busy days
+MAX_ARTICLES_PER_CATEGORY = 40  # keep worst-case (no clustering) output under max_tokens
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 MODEL = "claude-haiku-4-5-20251001"
 
@@ -121,6 +121,41 @@ def fetch_category(category, cutoff):
     return articles
 
 
+SUBMIT_DIGEST_TOOL = {
+    "name": "submit_digest",
+    "description": "Submit the clustered, summarized news digest.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "clusters": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "tag": {"type": "string", "description": "Tag pendek, contoh: 'Saham • BBCA', 'Makroekonomi'"},
+                        "title": {"type": "string", "description": "Judul ringkas untuk cluster ini"},
+                        "summary": {"type": "string", "description": "Ringkasan 2-4 kalimat berbahasa Indonesia"},
+                        "sources": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "name": {"type": "string"},
+                                    "url": {"type": "string"},
+                                },
+                                "required": ["name", "url"],
+                            },
+                        },
+                    },
+                    "required": ["tag", "title", "summary", "sources"],
+                },
+            },
+        },
+        "required": ["clusters"],
+    },
+}
+
+
 def build_prompt(category_label, articles):
     numbered = "\n".join(
         f"{i+1}. [{a['source']}] {a['title']} — {a['snippet']} (url: {a['url']})"
@@ -136,18 +171,7 @@ Tugas kamu:
 3. Untuk tiap cluster, tulis SATU ringkasan singkat berbahasa Indonesia (2-4 kalimat, gaya jurnalistik netral, jangan mengarang fakta yang tidak ada di judul/snippet sumber).
 4. Beri "tag" pendek tiap cluster (contoh: "Saham • BBCA", "Makroekonomi", "The Fed", "Teknologi").
 5. Sertakan SEMUA url sumber yang termasuk cluster tersebut.
-
-Balas HANYA dengan JSON array valid, tanpa markdown fence, format persis:
-[
-  {{
-    "tag": "...",
-    "title": "judul ringkas untuk cluster ini",
-    "summary": "...",
-    "sources": [{{"name": "...", "url": "..."}}]
-  }}
-]
-
-Jika daftar berita di atas kosong, balas dengan array kosong: []"""
+6. Panggil tool submit_digest dengan hasilnya. Jika daftar berita di atas kosong, panggil dengan clusters: []."""
 
 
 def summarize(client, category, category_label, articles):
@@ -157,20 +181,21 @@ def summarize(client, category, category_label, articles):
     response = client.messages.create(
         model=MODEL,
         max_tokens=8192,
+        tools=[SUBMIT_DIGEST_TOOL],
+        tool_choice={"type": "tool", "name": "submit_digest"},
         messages=[{"role": "user", "content": prompt}],
     )
-    text = "".join(block.text for block in response.content if block.type == "text").strip()
-    if text.startswith("```"):
-        text = text.strip("`")
-        if text.startswith("json"):
-            text = text[4:]
-    try:
-        clusters = json.loads(text)
-    except json.JSONDecodeError as exc:
-        print(f"  [error] could not parse Claude response for {category}: {exc}", file=sys.stderr)
-        print(text, file=sys.stderr)
-        return None  # signals "something went wrong", distinct from "genuinely no articles"
 
+    if response.stop_reason == "max_tokens":
+        print(f"  [error] response for {category} hit max_tokens before finishing", file=sys.stderr)
+        return None
+
+    tool_use = next((b for b in response.content if b.type == "tool_use"), None)
+    if tool_use is None:
+        print(f"  [error] no tool_use block in response for {category}", file=sys.stderr)
+        return None
+
+    clusters = tool_use.input.get("clusters", [])
     for c in clusters:
         c["category"] = category
     return clusters
