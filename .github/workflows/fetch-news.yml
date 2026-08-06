@@ -3,10 +3,15 @@ name: Fetch business news digest
 
 on:
   schedule:
-    # ~07:00 and ~16:00 WIB (UTC+7). Offset a few minutes past the hour —
-    # GitHub's own docs warn exact-o'clock schedules get delayed/dropped
-    # under queue congestion since so many repos schedule at :00.
-    - cron: "7 0,9 * * *"
+    # GitHub Actions cron on this repo has proven unreliable at hitting a
+    # single exact time (observed: scheduled runs landing hours late or
+    # not at all). Instead of one shot at 00:00 and 09:00 UTC (07:00 and
+    # 16:00 WIB), fire every 15 min across a 4h window bracketing each
+    # target (22:00-02:00 and 07:00-11:00 UTC) so there are many chances
+    # to land close to it. fetch_news.py skips the actual work (and its
+    # AI cost) if digest.json is already fresh, so the extra attempts
+    # are cheap no-ops once one of them lands.
+    - cron: "*/15 22,23,0,1,7,8,9,10 * * *"
   workflow_dispatch: {}
 
 permissions:

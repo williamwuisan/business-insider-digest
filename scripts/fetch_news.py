@@ -23,6 +23,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DIGEST_PATH = REPO_ROOT / "data" / "digest.json"
 
 LOOKBACK_HOURS = 15  # covers a 2x/day schedule with buffer for a missed run
+MIN_HOURS_BETWEEN_RUNS = 4  # skip if digest.json is already fresher than this
 MAX_ARTICLES_PER_CATEGORY = 25  # keep worst-case (no clustering) output under max_tokens
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 MODEL = "claude-haiku-4-5-20251001"
@@ -295,7 +296,28 @@ def load_previous_items(category):
     return [i for i in previous.get("items", []) if i.get("category") == category]
 
 
+def digest_age_hours():
+    if not DIGEST_PATH.exists():
+        return None
+    try:
+        data = json.loads(DIGEST_PATH.read_text(encoding="utf-8"))
+        generated_at = datetime.fromisoformat(data["generated_at"])
+    except (json.JSONDecodeError, OSError, KeyError, ValueError):
+        return None
+    return (datetime.now(timezone.utc) - generated_at).total_seconds() / 3600
+
+
 def main():
+    # The workflow now runs on many candidate schedule slots (GitHub's cron
+    # for this repo has proven unreliable at hitting exact times — see
+    # fetch-news.yml), so most invocations should be no-ops. Skip the
+    # (paid) AI summarization work entirely if we already have a recent
+    # digest, rather than re-fetching every ~15 minutes.
+    age = digest_age_hours()
+    if age is not None and age < MIN_HOURS_BETWEEN_RUNS:
+        print(f"digest.json is only {age:.1f}h old (< {MIN_HOURS_BETWEEN_RUNS}h) — skipping this run.", file=sys.stderr)
+        return
+
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
 
     print("Fetching domestic feeds...", file=sys.stderr)
