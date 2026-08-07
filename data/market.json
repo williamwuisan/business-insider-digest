@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T10:58:48.258350+00:00",
+  "generated_at": "2026-08-07T01:53:46.440935+00:00",
   "ihsg": {
-    "value": 6343.41,
+    "value": 6343.711,
     "previous_close": 6236.126,
-    "change_percent": 1.72
+    "change_percent": 1.73
   },
   "gold_world": {
-    "value": 4320.7,
-    "change_percent": 7.12
+    "value": 4311.2,
+    "change_percent": 6.88
   }
 }
