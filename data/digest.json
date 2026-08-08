@@ -1,154 +1,34 @@
 {
-  "generated_at": "2026-08-08T04:20:03.533015+00:00",
+  "generated_at": "2026-08-08T09:22:35.634361+00:00",
   "items": [
     {
-      "tag": "Perbankan • Saldo Minimal",
-      "title": "Saldo Minimal Nasabah Prioritas Bank Besar Agustus 2026",
-      "summary": "Berita mengumumkan update saldo minimal untuk nasabah prioritas di bank-bank besar (BRI, Mandiri, BNI) per Agustus 2026, mencerminkan kebijakan terkini institusi keuangan dalam segmentasi nasabah.",
+      "tag": "Perbankan • Nasabah Prioritas",
+      "title": "Saldo Minimal Nasabah Prioritas Bank BRI-Mandiri-BNI Per Agustus 2026",
+      "summary": "Bank-bank state-owned (BRI, Mandiri, BNI) menetapkan saldo minimal untuk nasabah prioritas per Agustus 2026. Kebijakan ini mencerminkan strategi pengelolaan segmen premium di industri perbankan Indonesia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGQ2aVp1aXltc1N6dkhpQnJqakJKQndqTkhtZloxMkdxOVhQN3NRNDVXaXVIc3Fjc19EMGFSVHpTUUR0bTZnYU1rMDdUZEdQV1dmUGp6ZWt4RUNCeHdnWnNyVFVVbWI3RnpjaUxVQ0ZuaE0tZGsxUW0xMlFvaUw5TFRGbEYyMjZSeWd4RUpUVHdDdTRtX1NXeVpDdWhhalpRVnVrTkZZMGl1cHdBTktWRjR3eU9nVjlUX1NHRDNxZTVhejFiMkpwZzRNZ9IB0AFBVV95cUxPRWQxdnRNNFVOSUlDSXVFeC1ubzFtdW1VUEI3Sm16MVlrREkwR01oYXZwZUdUa0MxSkhsMF8yUmJJRGpUd1RSamVkTzZLVDlGZzVWRkllMXh2cUtNUE43eVpRdXMzMVdHQ2hDT3FOUmoxWERiUnEwSHVxUHljMmUtc3NGTVlKLWMwNDk1cVJTdk9tSHFLSDhZRkJQa3BQQ21mWjhZSHdsOFVsRGNtT0FSY3NheDdzR20zTVpJdE1PT1pUeHdVeVIzN2N3NkswWXQ0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWQxdnRNNFVOSUlDSXVFeC1ubzFtdW1VUEI3Sm16MVlrREkwR01oYXZwZUdUa0MxSkhsMF8yUmJJRGpUd1RSamVkTzZLVDlGZzVWRkllMXh2cUtNUE43eVpRdXMzMVdHQ2hDT3FOUmoxWERiUnEwSHVxUHljMmUtc3NGTVlKLWMwNDk1cVJTdk9tSHFLSDhZRkJQa3BQQ21mWjhZSHdsOFVsRGNtT0FSY3NheDdzR20zTVpJdE1PT1pUeHdVeVIzN2N3NkswWXQ00gHQAUFVX3lxTE9FZDF2dE00VU5JSUNJdUV4LW5vMW11bVVQQjdKbXoxWWtESTBHTWhhdnBlR1RrQzFKSGwwXzJSYklEalR3VFJqZWRPNktUOUZnNVZGSWUxeHZxS01QTjd5WlF1czMxV0dDaENPcU5SajFYRGJScTBIdXFQeWMyZS1zc0ZNWUotYzA0OTVxUlN2T21IcUtIOFlGQlBrcFBDbWZaOFlId2w4VWxEY21PQVJjc2F4N3NHbTNNWkl0TU9PWlR4d1V5UjM3Y3c2SzBZdDQ?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Perdagangan & Ekspor • Danantara",
-      "title": "DPR Paparkan Strategi Peningkatan Ekspor Melalui Proyek Danantara",
-      "summary": "DPR mengumumkan strategi booster ekspor Indonesia melalui proyek Danantara, yang menjadi fokus kebijakan perdagangan dan pengembangan sektor ekonomi unggulan.",
+      "tag": "Bisnis Komoditas • Daging",
+      "title": "Danantara Siapkan Rp44,5 Triliun untuk Bisnis Daging Asia",
+      "summary": "Danantara mengalokasikan Rp44,5 triliun untuk ekspansi bisnis daging di Asia. Investasi besar ini menunjukkan strategi pertumbuhan perusahaan di sektor protein hewani regional.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHdhbGhad3RETmZtYkt2ZlNjUXdRVTl5UlBRbnVDZ25IQ1FkQjBlV2ltMXg1MGMtUmdQM0gzNVBDOWNPZ01sNDhxUEF2UlY1V09UUExnNHpTQkFNWDhSTE04N3JZbTg0azRDUnpEZW9rVDJNa0U3bVE4ejNvclQ5dksxb3lscDRscHpJWW5RbWN0WkRkTFh0Z19CUVZ0LXNVZlJNc3JqendiR1hwbkE4ZU9LVHhabnA5Ym9iREFYUkrSAcYBQVVfeXFMT2w1YlMzX2t3NUt0TGtMcFdkWDdqUWNGRjNfNmhhUFNTT3AxWE5zbzRyb2tyTmxsTFh3ZVlqNDJUYWlpMUJfcWRYc2pDalhUNXhMSmZkYUtNR3AxeUpCQjBuWU9mLW1BeGYxTjF2YXNELTBnLVNBaUVFejBpenRuSWFiMDVWUVkyT0FRM1d6UkFudUd6QlhGaVc5bjctXzRCLUpadDRhZmhTYkd6aFIzYWlSbzJ4ZWxnV3oySDAzNDBrTHNTQzlR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFJ1aTQ4OExlVVNTN3REV2h4blZrcWRDaUR4ZnRQSHhmaUFPUGJmZE1EX0NkOXN3NDBvYUFWUXg4b3NnYmZNb0hqUERVMHFJeHRZcmVUbVdGN0V4SWJ2cjJ4ZnpobDd0ZmYxb2FWUUIwZnhiekFtS0lXcXR5STkzbVAxSkpYN1liaEJtdHBZOW9aMGJfQVdkaFN4V3UyQ0c1b2NNUWdJMWtaNVcxbGlLdjZuV3BJbG8ySkVLQVFoODA2QdIBxwFBVV95cUxOM19rM1pJNldEWDkxNWRGMnpsa1h3dXVTTGY3ekNRem15Zjd6TmtzSnp0dkd6STJWalRjWGxCbkJSa0N3YmhxUTNqOHNZSV9OU0NfMnNweEVBSFc1RWVJNFkwYW1yN2ZTVG05SzNZaTBoamJkNmpLc2hIeEdPdlRpZUthb29PMElQam1VZkh0U1VaWURrM0djaHVoV1B4Y2VaRXJxWHRXeEg4OTRwRmJuMC0yWFlWZnVSTTliLVZVcWk0RUVXQkxn?oc=5"
         }
       ],
       "category": "domestic"
-    },
-    {
-      "tag": "Infrastruktur • Jalan Tol",
-      "title": "Jakarta Akan Memiliki Jalan Tol Layang Baru pada 2028 untuk Akses Bandara Soetta",
-      "summary": "Proyek jalan tol layang baru akan beroperasi tahun 2028 untuk mengurangi kemacetan rute menuju Bandara Soetta, merupakan bagian dari pengembangan infrastruktur transportasi Jakarta.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkhiZXJJMGNDbW9ha2dwSGM4ZFBnNTh0MHFCNE9rTy1UcVZYcEVlNkFxeWhfQ2o5VTRWRUNpcnd2bTYtOEpRelM5WnpTSW92VXppQTZjR2hFYW5VbXdSR1hBZExQS3pURDNHTTRwaTZxT0FwdEsxYklfTzBIOTV5cDRnZzVIVS1OQjhneWk1ZWlCd2hUU2lwTzFNRmtXSEs1eVdSLVoxYloyZWc0X1JVeVdLcERTZEQ5OWszVU1qTEpsczloaWdmRdIByAFBVV95cUxOQkhiZXJJMGNDbW9ha2dwSGM4ZFBnNTh0MHFCNE9rTy1UcVZYcEVlNkFxeWhfQ2o5VTRWRUNpcnd2bTYtOEpRelM5WnpTSW92VXppQTZjR2hFYW5VbXdSR1hBZExQS3pURDNHTTRwaTZxT0FwdEsxYklfTzBIOTV5cDRnZzVIVS1OQjhneWk1ZWlCd2hUU2lwTzFNRmtXSEs1eVdSLVoxYloyZWc0X1JVeVdLcERTZEQ5OWszVU1qTEpsczloaWdmRQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Energi • Pertamina",
-      "title": "Pertamina Kembangkan Kemandirian Energi Desa Melalui Inisiatif Local Hero",
-      "summary": "Pertamina meluncurkan program Local Hero untuk membangun kemandirian energi di level desa sebagai bagian dari strategi distribusi energi nasional dan pemberdayaan komunitas lokal.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQW1kTjhuZWtUekJwblppQlphbldKUHN3T1NBQUQyRFRoT05JZDhyRExJaW5GVlZoakNTSWdpM1NRVzNPZFF1UWh6MXhxZG5sSkFSRGo0bXRaV01EaGVjWW9JYTRleXBWOURIS0doTk1wVFVGUXBCM3lzX2s3d2U4TXlVOHBoODVVWm5aNkhDRG1DQXlJX01FdWdjQjB4U3p5X2tTb2l5U1A5YkxPaWpJcnZRcmN4TVg2V0psV9IBvAFBVV95cUxPQW1kTjhuZWtUekJwblppQlphbldKUHN3T1NBQUQyRFRoT05JZDhyRExJaW5GVlZoakNTSWdpM1NRVzNPZFF1UWh6MXhxZG5sSkFSRGo0bXRaV01EaGVjWW9JYTRleXBWOURIS0doTk1wVFVGUXBCM3lzX2s3d2U4TXlVOHBoODVVWm5aNkhDRG1DQXlJX01FdWdjQjB4U3p5X2tTb2l5U1A5YkxPaWpJcnZRcmN4TVg2V0psVw?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Energi • Pertamina & Ekspor Mineral",
-      "title": "Pemboran Masif dan Kolaborasi Teknologi Jadi Kunci Kemandirian Energi Indonesia",
-      "summary": "Pemboran skala besar dikombinasikan dengan kolaborasi teknologi menjadi strategi utama Indonesia untuk mencapai kemandirian energi, mencerminkan fokus kebijakan sektor migas nasional.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkFMV3ZoNnZ1YWFYQjVKOG1NbDRlQXRxamE5T1JJMWdrNG9rZVBCR2RLSFFKMWo2Tk4zQ3JPVl8ta2ZZRFZPOTRRdjVqOGRUSGowbXR6X3ZHdk50V09tNE8xcWdwd1I2am5VQmNlLUUwUk5yUFZQbzcyUXItZWRiblBQaHdmLXFoUkVMMUUtZnpSNFhLTXVxS09LRTVBVUhkNDdiVjlJVzN6OW90MGNYdkdlQ29hb1RJR3NxRnFGTkzSAcABQVVfeXFMUEJBTFd2aDZ2dWFhWEI1SjhtTWw0ZUF0cWphOU9SSTFnazRva2VQQkdkS0hRSjFqNk5OM0NyT1ZfLWtmWURWTzk0UXY1ajhkVEhqMG10el92R3ZOdFdPbTRPMXFncHdSNmpuVUJjZS1FMFJOclBWUG83MlFyLWVkYm5QUGh3Zi1xaFJFTDFFLWZ6UjRYS011cUtPS0U1QVVIZDQ3YlY5SVczejlvdDBjWHZHZUNvYW9USUdzcUZxRk5M?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Perdagangan & Ekspor • Mineral",
-      "title": "Hambatan Ekspor Mineral Teratasi, 100+ Kapal Kembali Beroperasi",
-      "summary": "Penyelesaian hambatan ekspor mineral memungkinkan lebih dari 100 kapal untuk kembali beroperasi, menunjukkan pemulihan dalam logistik ekspor komoditas utama Indonesia.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV3BsMjBEU3ZzcEpPTUxRRkR3WXFObWxDeHBPWEpYMjNxa3g0SEdsZ29UNzYtSEVJRk83YUNuSHkxT1ZXNk10SVVZV0wwM2hVTnJFR1NUclV5QVZnR3VVSlV0alVrVmduSzhOVHRyYnE3d1NNVDNJWFV0dGhfY0VRb0k5bW1SRVhmN2ZmUDctRHF4aC1IcnFoZlM1ZVNOV0g3YUllSjcwdTlFZFBEMU14UTJiODM1MllJUEwyTU9XY1doR20ySVlJ0gHHAUFVX3lxTE5XcGwyMERTdnNwSk9NTFFGRHdZcU5tbEN4cE9YSlgyM3FreDRIR2xnb1Q3Ni1IRUlGTzdhQ25IeTFPVlc2TXRJVVlXTDAzaFVOckVHU1RyVXlBVmdHdVVKVXRqVWtWZ25LOE5UdHJicTd3U01UM0lYVXR0aF9jRVFvSTltbVJFWGY3ZmZQNy1EcXhoLUhycWhmUzVlU05XSDdhSWVKNzB1OUVkUEQxTXhRMmI4MzUyWUlQTDJNT1djV2hHbTJJWUk?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Kemitraan Korporat • Protein",
-      "title": "Danantara dan JBS Group Berkolaborasi Kembangkan Ekosistem Protein",
-      "summary": "Danantara dan JBS Group membentuk kemitraan strategis untuk mengembangkan ekosistem produksi protein, mencerminkan investasi di sektor pangan dan agribisnis nasional.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHp6OFJDMTZxcVUyXzBBbUxZcFFtWG5Xb2p0SXl0RS16T09BX3BwTXZJZEtURkdLZk9zMEJHZmo4SFBpOG5RSklvNDRhVWxUb1MtaHNSeXR5VUk3T3hxeU0wVUhXal9sQ1pxcWJZU2cweFdTT0pXLWxGTEwteF9na00zR3hJbTcxSGlmMy1HazFDZmlfeWFteG82NTR1NFlIVWo1Zk9MNmU3a3FORWNKWFRyZXJiRjBORU1OR3N1VdIBvwFBVV95cUxNVHp6OFJDMTZxcVUyXzBBbUxZcFFtWG5Xb2p0SXl0RS16T09BX3BwTXZJZEtURkdLZk9zMEJHZmo4SFBpOG5RSklvNDRhVWxUb1MtaHNSeXR5VUk3T3hxeU0wVUhXal9sQ1pxcWJZU2cweFdTT0pXLWxGTEwteF9na00zR3hJbTcxSGlmMy1HazFDZmlfeWFteG82NTR1NFlIVWo1Zk9MNmU3a3FORWNKWFRyZXJiRjBORU1OR3N1VQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Perbankan • Bank BJB",
-      "title": "Bank BJB Raih Lima Penghargaan untuk Memperkuat Layanan",
-      "summary": "Bank BJB meraih lima penghargaan dalam ajang penghargaan industri, mencerminkan pengakuan atas peningkatan kualitas layanan dan operasional perbankan daerah.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZE5HZGNpMDcxZjNteG4wVkpac0FuNjdyS3ZUOVpCVmJETlZ5OGFVSC1zbUhfSE4tbENPa193dlJyRFBPY0tNUlBBNmktZmVvR3lsajg5ZXI5cEtOTDliQnB6bXJoWGhUd0p1U3lmTjU4TmhkWGJlUHpsRThKQ2sta1oyY25mWFE4LXAweVdSNGtjVnFiUlR6aWRTcWJQUmM3dHJVcjhQRFBUSEIzZS1zcjEyLW84RjA0bUR1SklPU1lCQdIBwgFBVV95cUxQZE5HZGNpMDcxZjNteG4wVkpac0FuNjdyS3ZUOVpCVmJETlZ5OGFVSC1zbUhfSE4tbENPa193dlJyRFBPY0tNUlBBNmktZmVvR3lsajg5ZXI5cEtOTDliQnB6bXJoWGhUd0p1U3lmTjU4TmhkWGJlUHpsRThKQ2sta1oyY25mWFE4LXAweVdSNGtjVnFiUlR6aWRTcWJQUmM3dHJVcjhQRFBUSEIzZS1zcjEyLW84RjA0bUR1SklPU1lCQQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Energi & Keamanan Aset • Migas",
-      "title": "SKK Migas, PHR, dan Polda Riau Perkuat Sinergi Lindungi Aset Negara",
-      "summary": "Kolaborasi antara SKK Migas, PHR, dan Polda Riau ditingkatkan untuk meningkatkan keamanan dan perlindungan aset negara di sektor migas Riau.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkJ6QXp2X3VuUTdnd1dTeXp3RGF4Y0g2OVYtdENQdVEtS2Z6Y1pxSGJuOFN1N1dmMUlINUh2bEJvX3I2SlpnQWFFMFhxRXVPajFtdWxVdGJTdUtzQmo5VV80TnBBOU54bUR4UkJsUGdpZGNmLTM1aUpsTkU0RVJ3MGdZS09Ed3hlRHp0YXVXQ0duSmNCRkJYa2xuQ2tIY2hhSWNqMURHaWROTE11dU9PY3Bfd0hLWjBXZzI1V1RZMGZObW5JMUpj0gHHAUFVX3lxTE5iQnpBenZfdW5RN2d3V1N5endEYXhjSDY5Vi10Q1B1US1LZnpjWnFIYm44U3U3V2YxSUg1SHZsQm9fcjZKWmdBYUUwWHFFdU9qMW11bFV0YlN1S3NCajlVXzROcEE5TnhtRHhSQmxQZ2lkY2YtMzVpSmxORTRFUncwZ1lLT0R3eGVEenRhdVdDR25KY0JGQlhrbG5Da0hjaGFJY2oxREdpZE5MTXV1T09jcF93SEtaMFdnMjVXVFkwZk5tbkkxSmM?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Teknologi • Palantir",
-      "title": "Palantir Mencapai Momentum Terbaik Setelah Lonjakan Permintaan AI",
-      "summary": "Saham Palantir mencatat minggu terbaiknya sejak 2024 dengan permintaan kuat untuk solusi AI perusahaan. Lonjakan kepercayaan investor menunjukkan Palantir tidak lagi dianggap sebagai 'AI loser' di pasar.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Teknologi • Nvidia",
-      "title": "Nvidia Alami Lonjakan Mingguan Terbesar dalam Lebih dari Setahun",
-      "summary": "Chip maker Nvidia mencatat peningkatan kapitalisasi pasar terbesar dalam sebuah minggu. Performa saham perusahaan ini mencerminkan momentum kuat dalam sektor teknologi dan AI.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Teknologi • SpaceX",
-      "title": "SpaceX Alami Salah Satu Hari Terbaik Setelah Ekspirasi Lockup Period Pertama",
-      "summary": "Saham SpaceX mencapai salah satu hari terbaiknya seiring berakhirnya periode lockup pertama. Risiko tekanan jual dari insider telah terharga dalam pergerakan saham perusahaan.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
     },
     {
       "tag": "Saham • Celsius Holdings",
-      "title": "Pendiri Rockstar Energy Bangun Kepemilikan Saham Celsius Holdings",
-      "summary": "Russ Savage, pendiri Rockstar Energy, mengumumkan menguasai 12 juta saham Celsius Holdings atau sekitar 4,7% dari perusahaan minuman energi tersebut. Langkah ini bagian dari upaya Savage mengambil alih posisi CEO perusahaan.",
+      "title": "Rockstar Energy Founder Builds Stake in Celsius Holdings",
+      "summary": "Founder Russ Savage telah mengakumulasi 12 juta saham Celsius Holdings, sekitar 4,7% kepemilikan, dan berminat mengambil alih posisi CEO perusahaan minuman energi tersebut.",
       "sources": [
         {
           "name": "CNBC International",
@@ -158,21 +38,9 @@
       "category": "global"
     },
     {
-      "tag": "Industri • F&B Retail",
-      "title": "Burger King Kembali Ungguli Wendy's sebagai Jaringan Burger Terbesar Kedua di AS",
-      "summary": "Burger King kembali meraih posisi sebagai jaringan burger terbesar kedua di Amerika Serikat berdasarkan penjualan system-wide. Pergeseran ini menandai perubahan kompetitif dalam industri fast food burger.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Kebijakan • Federal Reserve",
-      "title": "Trump Lanjutkan Usaha Mengeluarkan Anggota Federal Reserve Lisa Cook",
-      "summary": "Dua bulan setelah ditolak Mahkamah Agung, Presiden Trump melanjutkan upaya mengeluarkan Gubernur Federal Reserve Lisa Cook. Langkah ini merupakan bagian dari strategi Trump menempatkan lebih banyak sekutu di jajaran papan The Fed.",
+      "tag": "Kebijakan Moneter • The Fed",
+      "title": "Trump Lanjutkan Upaya Mengganti Gubernur Federal Reserve Lisa Cook",
+      "summary": "Dua bulan setelah ditolak Mahkamah Agung, Presiden Trump melanjutkan usahanya untuk mengusir gubernur Federal Reserve Lisa Cook sebagai bagian dari strategi mengisi dewan bank sentral dengan sekutu politiknya.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -182,21 +50,45 @@
       "category": "global"
     },
     {
-      "tag": "Komoditas • Emas",
-      "title": "Investor Dipandu untuk Berinvestasi Emas di Tengah Melemahnya Dolar",
-      "summary": "Seiring melemahnya nilai dolar, pasar memberikan panduan investasi strategis dalam emas. Strategi ini menjadi bagian dari diversifikasi portofolio investor di tengah dinamika mata uang global.",
+      "tag": "Saham • Palantir",
+      "title": "Saham Palantir Mencatat Minggu Terbaik Sejak 2024",
+      "summary": "Permintaan yang meningkat untuk solusi AI Palantir telah memulihkan kepercayaan investor terhadap perusahaan, menandai bahwa Palantir tidak lagi dianggap sebagai penerima saham AI yang kalah.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Nvidia",
+      "title": "Saham Nvidia Catat Lonjakan Mingguan Terbesar dalam Lebih dari Setahun",
+      "summary": "Produsen chip Nvidia mencatat peningkatan kapitalisasi pasar terbesar dalam satu minggu, mencerminkan momentum positif di sektor teknologi dan AI.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • SpaceX",
+      "title": "Saham SpaceX Mencatat Salah Satu Hari Terbaik Setelah Lockup Expiration",
+      "summary": "SpaceX mengalami salah satu hari perdagangan terbaiknya seiring berakhirnya periode lockup pertama, dengan risiko tekanan penjualan insider kemungkinan telah terharga di pasar.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Emas Antam Naik Didorong Pembelian Dana Asing dan Stok Bank Sentral",
-      "summary": "Investor asing terus membanjiri pasar saham dengan membeli Rp1,24 triliun, di mana saham perbankan menjadi yang paling diincar. Harga emas Antam juga naik seiring dengan penambahan stok emas oleh bank sentral.",
+      "title": "Aktivitas Dana Asing dan Harga Emas",
+      "summary": "Dana asing masuk ke pasar saham dengan ANTM menjadi salah satu pilihan. Bank sentral menambah stok emas, mendorong harga emas Antam ikut naik di tengah aktivitas investor asing yang membeli saham-saham pilihan.",
       "sources": [
         {
           "name": "investor.id",
@@ -207,6 +99,10 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzllcnR2TWFpWmotNmx5LW1WRmkzdlkyYWk5TVRpRTdzZlFCakRFVi1TeGlqTW8zV3RqNll6MTcxcV9vb2dsM0NTaTZhMzRXYlljWFQ3aGI1Z3ltRURDR2N6RW0xWGVqVUpCVDBjSVU2ZEZNckYtbTRfLVFJaUU3R04zQVU2UXlpVkdRTlR0dzBZeENvZ24wNEFZa3E3bENFYmhxTlBkd2Z4WWJD?oc=5"
         },
         {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0NrV3VXRmdnWUdiUEpzdGFub204dmZrTlpWZ3JrVGg2N2dzY291bzh0dWY2WUh4bmFvcWlUcXZ5OFpaVzN1OWRuTUxFcDBzTzlfbnhRekJ5Y3FsM3U5ZE5tSXFTeTVpa1FZaGFGWXpvLTRSdzhGdjhHcmoxM0pXZWxkU3F2Q3dWRFRGamxrMVhj?oc=5"
+        },
+        {
           "name": "digtara.com",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVF2cFAtNXF0ZlRoT3RjN19NRW9MMWM4RmtzcVJnU0NyRnJmeWpVQnFQM09qUzdFSjJVYzA2TVJsNU12UXk4NUcxRU1qS1p4SjVqRm9hcWhpUFh1bklWcU0yVEVobTUwOGs0LU9jaUhSbzFpaE5UblMyTklrWmFSMDk2UnZnYlp3MGVCT0ZWQTA1TGtMM1hlNmRibTRLU3BDeWVmb2JR0gGmAUFVX3lxTE1hSko5MUwzNmNVWjE2cjdsTDhJeUZKbVJWcjR6c1FaS0lfblRVT3hxVHIxMUJ6TTc4THhsTi1QejRndzk5MUxlSFZrbEhvdDhHZWxBdkZlU0k0MWFQZzM1RW1aMXZoaFRMVmNEa1lud0Y1WXdVWWRzMi1DeEFnNk1OTUpwcTMyel9nZEdwV2Q0Qy1PU0M3ZWtxVHVwNHpBNXlPODI0Z0E?oc=5"
         }
@@ -214,13 +110,61 @@
       "category": "personal"
     },
     {
-      "tag": "BMRI",
-      "title": "IHSG Naik Didorong Saham-saham Unggulan termasuk BMRI",
-      "summary": "IHSG bergerak ke zona hijau dengan kenaikan 0,44% ke 5.365,427, didukung oleh performa saham-saham tertentu termasuk BMRI.",
+      "tag": "WIFI",
+      "title": "Perluasan Usaha Konstruksi Telekomunikasi",
+      "summary": "Solusi Sinergi Digital (WIFI) merancang perluasan usaha di bidang konstruksi sentral telekomunikasi sebagai bagian dari rencana besar pengembangan bisnis perusahaan.",
       "sources": [
         {
-          "name": "Stockwatch.id",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc290Wm0tMDB0VzNXUWg2d2JIWXFoQ2s1d0VXci15ZUMwdGZLaUV4aXlkRjNiWms3Z3Vhc0lCcUlLaTRIWlNuTjA3NTNYdGlGTXg5VFdORkZhbHFoY0FSRHdaamk3S1ZQaUxrem52YXRTaXVqdzFnOWFzX0dhU1RySG5ualh5dzM3a1RjR1lRdTlaR1luVUotNEI3dExkemtMbnlJ0gGoAUFVX3lxTE41REhNT2FCQ2psbjdaWDJTejlOVFgyZ2x1c0dWSHo3TWtoM3J2eWx3SEpQZ0drb1RaMHV4WVlPamJMOXZGUU1vdXk5U0tsUGdWNTk1SGFSVVhoSjJYN1BxWDVsenAySWVoNXItV19mVzJIUWJaZV9KTGVtVVkwU0VnNVRDbE9WeHZ6cDl3bF9zdHlncEN3d0IyQXZqQTFGNlRRN2x0a2t6TA?oc=5"
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVklFWnJXdmduaTVicnlERlI0VDlwbloxbGpwRzE0SHZGcnFqbE1hNG5WQ1J5Ti1Qb0w5RTc1cVpDbTdjWFMwTmFQaFYzck1pVXVfT0Z1a1IzU3BsMkZTS2k0Y2k0WHQ3all5cWtoMFc1QUtzN0ZVX1cwRzIzX1RSUQ?oc=5"
+        },
+        {
+          "name": "achmadnurhidayat.id",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVdDRnE2dkxVTldLOXJxUllCUTVuZFFTdVVNVkx1anlNa2F6Sk1fdlNlOXp6MGQwaWc3Sktmd25BQ3EwNnB6SmF6M1Q2T1JnQzVzYV9rSkxLblFKRmk2N3lPcXRpTWo2TjE0TGtVTlpUNG04c19jRllRQ1QwSWdhSW9qNVFDczlIRExwRVh3?oc=5"
+        },
+        {
+          "name": "Readers.id",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xazNENTkwS01MakhMbXJiUzVpdzJhaW9CeG5GMkNvZ2dQdTcwTjRlNE5yUnZCOUhSZktra1YtSlNaV3VpVkxiR0RNMV9fMkNjVGNIc0tDOE1zXzFPY25JVEZrQ2RNeDNDZ3FSQ3FTTjlmNHRNSmc?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BRMS",
+      "title": "Kinerja dan Kondisi Bisnis Terkait",
+      "summary": "Kinerja BRMS pada kuartal II mengalami tekanan laba. Berita juga mencakup perkembangan Alfamart dengan laba Rp2,02 triliun pada semester I 2026, serta perkembangan industri telekomunikasi dan bullion.",
+      "sources": [
+        {
+          "name": "Bursa Nusantara",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmFoWFRTX3QtbFhSM3AzVDNTWHc5T29Xb2RZRW95a2d5aTVoVm9STHZFRTI0U1VSd0d1NURnTkZBWktwQUdRakZNd3JaZWVWLU50dS01c28tNDZiTk9kcXVTejYxX2lpTVJVMU1BM2VFQXdUdnFlYmhKSjA4dHJDMEQxWWZSTVBKbE9N0gGQAUFVX3lxTE5KYUF2VXpDZ1lPdGRzYW84RTFqdHFOZXdwS2JTbkpIaWdIYmFsWTBWc3pTa3h6YWVpanh2dy1vWVgtdDN6WnpyNWF3emIzQVJRNWFaM0tIS0w1MFNhVEI4ZGppdDBfWXZrclozOFBiNmVHX3UxUlRweXBVYWxUSFJfclFWTUJtNmFDYTA5Z2h3Tw?oc=5"
+        },
+        {
+          "name": "Bursa Nusantara",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZENiSWwxSlVCMm96bExIel9meU14OWhJVmQxTDBBdDhRWWM1dTBqaW9MWlRFTUgzT2x0enNPQmhGSW5nSm15UHlRcjNTTHd3dUdkM2ItTnZNMDFzR2liTlFiRWJ2YmV3WWlxZW4zbUt4WkEycVd1ZmRxY3lNUdIBgwFBVV95cUxOQ0xXYlNBSlJSQW1iTm9UMDRiXzdTanJ5MlZ5RkJpUEpwb2JOMk9LdVBqdlBYb2twZWpLcE8tYU5vdzhQVXYxSktCT1Z6WHZEcE1yVkI4RGhoUmxsWjc4bGJLYnB0UlVMQ253dUpvYmg5ZVpBV3NsbjdWY1VZV1FjTEVKVQ?oc=5"
+        },
+        {
+          "name": "Bursa Nusantara",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTk2ZUp6UnhXenZ0VTNtc0RFUXRHNUkyaDR5ZllOdUo4OTlnLTRZdlppRGpWckJyMmMzcGVYMDktZ0NVZ3BxYjB1azlVMTM3QmdPX0NxeElsNmZsMmZ6SU9hTUh0TVZaaDZteW5lR3JoaGpFTXEwbXRITDJ5amlyOUNIRktZbjdFbE5pdUlmU1lpRnfSAZMBQVVfeXFMTlU5NmVKelJ4V3p2dFUzbXNERVF0RzVJMmg0eWZZTnVKODk5Zy00WXZaaURqVnJCcjJjM3BlWDA5LWdDVWdwcWIwdWs5VTEzN0JnT19DcXhJbDZmbDJmeklPYU1IdE1WWmg2bXluZUdyaGhqRU1xMG10SEwyeWppcjlDSEZLWW43RWxOaXVJZlNZaUZ3?oc=5"
+        },
+        {
+          "name": "Bursa Nusantara",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TaGdJX1piRWtzVkxUdUtrWnk4U1RJUFpYMEtHY2dzYlRmR0Y5dVZ3UEc3WDZtclVRQ09NcUVOUHF4b0MwNlk5Wk9BTC1yYnJncFl5STBtejRFdi0zZWVNemJURGJIZzIzalQtVkFoOWstOE9hMnl0bXNseWZrZTjSAX9BVV95cUxOU2hnSV9aYkVrc1ZMVHVLa1p5OFNUSVBaWDBLR2Nnc2JUZkdGOXVWd1BHN1g2bXJVUUNPTXFFTlBxeG9DMDZZOVpPQUwtcmJyZ3BZeUkwbXo0RXYtM2VlTXpiVERiSGcyM2pULVZBaDlrLThPYTJ5dG1zbHlma2U4?oc=5"
+        },
+        {
+          "name": "Bursa Nusantara",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFA5OE03dF9aM0JIS3JucncxNmdxNzBkcGFFMC1hXzhGcml4WXZqWGU5WWNPU0xjM0NIbVF2TzZRbHZENXYzMzJYWjBoLTRDWFM5ZEJrOEdBVU1XMUI4VlpodHhrNzRKVWYzYl9aN2tSUzAzR21kbnBtZ3FsbjVOMnI2aVRlOWJ2YUpzMtIBjAFBVV95cUxNUFA5OE03dF9aM0JIS3JucncxNmdxNzBkcGFFMC1hXzhGcml4WXZqWGU5WWNPU0xjM0NIbVF2TzZRbHZENXYzMzJYWjBoLTRDWFM5ZEJrOEdBVU1XMUI4VlpodHhrNzRKVWYzYl9aN2tSUzAzR21kbnBtZ3FsbjVOMnI2aVRlOWJ2YUpzMg?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BUMI",
+      "title": "Pergerakan Saham Indeks Infrastruktur",
+      "summary": "IDXINFRA menonjol sebagai bintang bursa dengan kenaikan 2,17 persen di akhir pekan, menunjukkan performa positif dari saham-saham infrastruktur.",
+      "sources": [
+        {
+          "name": "Rmol.id",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWVoRlpOV2x3dkQ2ZG1Dd0l6LXpSc2hsZHdkRHdrVk9kZ0hRY2tJcTBsRWNoODE5b0J4RXYyclJsOWl2cmVjbC14ajRyUk9kaHFmdWNpVDNiZmtFM2hoSmFvMWtPc2R5TFJaeU9tdVYyaXFOV1dpTVZWMU45QXFPRnBLOEc5WHFJZ3F6a0JqaUFNcXZTdlBaM0lCZlVkQ0FOSUpVeUt1RjBPVFliY2c?oc=5"
         }
       ],
       "category": "personal"
