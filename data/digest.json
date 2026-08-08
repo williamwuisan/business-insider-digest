@@ -1,170 +1,370 @@
 {
-  "generated_at": "2026-08-08T09:22:35.634361+00:00",
+  "generated_at": "2026-08-08T23:05:46.244373+00:00",
   "items": [
     {
-      "tag": "Perbankan • Nasabah Prioritas",
-      "title": "Saldo Minimal Nasabah Prioritas Bank BRI-Mandiri-BNI Per Agustus 2026",
-      "summary": "Bank-bank state-owned (BRI, Mandiri, BNI) menetapkan saldo minimal untuk nasabah prioritas per Agustus 2026. Kebijakan ini mencerminkan strategi pengelolaan segmen premium di industri perbankan Indonesia.",
+      "tag": "Perbankan • Restrukturisasi",
+      "title": "PHK Massal di Bank-Bank Besar",
+      "summary": "Bank-bank besar di Indonesia berencana melakukan pemutusan hubungan kerja (PHK) massal. Langkah ini didorong oleh berbagai faktor tekanan bisnis perbankan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWQxdnRNNFVOSUlDSXVFeC1ubzFtdW1VUEI3Sm16MVlrREkwR01oYXZwZUdUa0MxSkhsMF8yUmJJRGpUd1RSamVkTzZLVDlGZzVWRkllMXh2cUtNUE43eVpRdXMzMVdHQ2hDT3FOUmoxWERiUnEwSHVxUHljMmUtc3NGTVlKLWMwNDk1cVJTdk9tSHFLSDhZRkJQa3BQQ21mWjhZSHdsOFVsRGNtT0FSY3NheDdzR20zTVpJdE1PT1pUeHdVeVIzN2N3NkswWXQ00gHQAUFVX3lxTE9FZDF2dE00VU5JSUNJdUV4LW5vMW11bVVQQjdKbXoxWWtESTBHTWhhdnBlR1RrQzFKSGwwXzJSYklEalR3VFJqZWRPNktUOUZnNVZGSWUxeHZxS01QTjd5WlF1czMxV0dDaENPcU5SajFYRGJScTBIdXFQeWMyZS1zc0ZNWUotYzA0OTVxUlN2T21IcUtIOFlGQlBrcFBDbWZaOFlId2w4VWxEY21PQVJjc2F4N3NHbTNNWkl0TU9PWlR4d1V5UjM3Y3c2SzBZdDQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnFNanZ1V0Z1d2JjazBVYmt2YUlMS1k0M2l5NkJoVDFGYzYxN2plSlA0ZVEwVGpqRWQ1Tzk1cFRwb3FGUkRzTXk4RGZJUHloMlpFN19TYkNKWHVKNlV4eHRxbTJDay1xdGwzZjNmbEtfdVNNZlNGNlh1ZTA5VC1SLW1VQmQ2bjJKYlBVb3A3ZUVWWUp3WEFXM3RGMmtGeGJuVDNtQTNQTWQ1TEwyWDZj0gGvAUFVX3lxTE5icU1qdnVXRnV3YmNrMFVia3ZhSUxLWTQzaXk2QmhUMUZjNjE3amVKUDRlUTBUampFZDVPOTVwVHBvcUZSRHNNeThEZklQeWgyWkU3X1NiQ0pYdUo2VXh4dHFtMkNrLXF0bDNmM2ZsS191U01mU0Y2WHVlMDlULVItbVVCZDZuMkpiUFVvcDdlRVZZSndYQVczdEYya0Z4Ym5UM21BM1BNZDVMTDJYNmM"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Bisnis Komoditas • Daging",
-      "title": "Danantara Siapkan Rp44,5 Triliun untuk Bisnis Daging Asia",
-      "summary": "Danantara mengalokasikan Rp44,5 triliun untuk ekspansi bisnis daging di Asia. Investasi besar ini menunjukkan strategi pertumbuhan perusahaan di sektor protein hewani regional.",
+      "tag": "Bisnis • Ekspansi Strategis",
+      "title": "Danantara Inginkan Rp44,5 Triliun untuk Bisnis Daging Asia",
+      "summary": "PT Danantara telah menyiapkan modal investasi sebesar Rp44,5 triliun untuk mengembangkan bisnis daging di wilayah Asia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFJ1aTQ4OExlVVNTN3REV2h4blZrcWRDaUR4ZnRQSHhmaUFPUGJmZE1EX0NkOXN3NDBvYUFWUXg4b3NnYmZNb0hqUERVMHFJeHRZcmVUbVdGN0V4SWJ2cjJ4ZnpobDd0ZmYxb2FWUUIwZnhiekFtS0lXcXR5STkzbVAxSkpYN1liaEJtdHBZOW9aMGJfQVdkaFN4V3UyQ0c1b2NNUWdJMWtaNVcxbGlLdjZuV3BJbG8ySkVLQVFoODA2QdIBxwFBVV95cUxOM19rM1pJNldEWDkxNWRGMnpsa1h3dXVTTGY3ekNRem15Zjd6TmtzSnp0dkd6STJWalRjWGxCbkJSa0N3YmhxUTNqOHNZSV9OU0NfMnNweEVBSFc1RWVJNFkwYW1yN2ZTVG05SzNZaTBoamJkNmpLc2hIeEdPdlRpZUthb29PMElQam1VZkh0U1VaWURrM0djaHVoV1B4Y2VaRXJxWHRXeEg4OTRwRmJuMC0yWFlWZnVSTTliLVZVcWk0RUVXQkxn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM19rM1pJNldEWDkxNWRGMnpsa1h3dXVTTGY3ekNRem15Zjd6TmtzSnp0dkd6STJWalRjWGxCbkJSa0N3YmhxUTNqOHNZSV9OU0NfMnNweEVBSFc1RWVJNFkwYW1yN2ZTVG05SzNZaTBoamJkNmpLc2hIeEdPdlRpZUthb29PMElQam1VZkh0U1VaWURrM0djaHVoV1B4Y2VaRXJxWHRXeEg4OTRwRmJuMC0yWFlWZnVSTTliLVZVcWk0RUVXQkxn0gHHAUFVX3lxTE4zX2szWkk2V0RYOTE1ZEYyemxrWHd1dVNMZjd6Q1F6bXlmN3pOa3NKenR2R3pJMlZqVGNYbEJuQlJrQ3diaHFRM2o4c1lJX05TQ18yc3B4RUFIVzVFZUk0WTBhbXI3ZlNUbTlLM1lpMGhqYmQ2aktzaEh4R092VGllS2Fvb08wSVBqbVVmSHRTVVpZRGszR2NodWhXUHhjZVpFcnFYdFd4SDg5NHBGYm4wLTJYWVZmdVJNOWItVlVxaTRFRVdCTGc"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • Celsius Holdings",
-      "title": "Rockstar Energy Founder Builds Stake in Celsius Holdings",
-      "summary": "Founder Russ Savage telah mengakumulasi 12 juta saham Celsius Holdings, sekitar 4,7% kepemilikan, dan berminat mengambil alih posisi CEO perusahaan minuman energi tersebut.",
+      "tag": "Perbankan • Restrukturisasi",
+      "title": "Kolaborasi Bank Jatim dengan KUB untuk Sinergi Mutual",
+      "summary": "Bank Jatim mengembangkan strategi sinergi dengan kelompok usaha bersama (KUB) untuk menciptakan manfaat bersama bagi anggota dan perbankan.",
       "sources": [
         {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html"
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0Q1MEU2SjFRQUk3d0YxU1JmVDZmaFRsd3NVZjFxSFlvWmVGTnRndTBfVC1VYURNbWtPOFRMdEJYTGJyR0hsZ0FVWnlfSkF5ZkZ0VlRlb2x6ejNfWmc3VGVyc1I3RkxNdXRmeWhuY05NTDJwYkhwN0FmRks1bXkzMGdTdjJGTzRNd0FydHVtb2pvUDlBSmpva0RHbXhJTUQxVWhRYjhMYnpPZDh3XzdxMVYxMHVfV18zbXo2T2JpUjV2UjlvMWpCSjR30gHKAUFVX3lxTE5PRDUwRTZKMVFBSTd3RjFTUmZUNmZoVGx3c1VmMXFIWW9aZUZOdGd1MF9ULVVhRE1ta084VEx0QlhMYnJHSGxnQVVaeV9KQXlmRnRWVGVvbHp6M19aZzdUZXJzUjdGTE11dGZ5aG5jTk1MMnBiSHA3QWZGSzVteTMwZ1N2MkZPNE13QXJ0dW1vam9QOUFKam9rREdteElNRDFVaFFiOExiek9kOHdfN3ExVjEwdV9XXzNtejZPYmlSNXZSOW8xakJKNHc"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Kebijakan • Perpajakan",
+      "title": "Pemerintah Pertimbangkan Pajak Baru untuk Rumah Kontrakan",
+      "summary": "Pemerintah sedang mencari sumber pajak baru dan mempertimbangkan pengenaan pajak pada rumah kontrakan sebagai bagian dari upaya peningkatan penerimaan pajak.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVppbHR4a1hNUUdkU1BBLVQzc2FyWTJCSUw1NUxRalZqZnJoaG5ydjdDeDk5UnRSd2c3MGR4VXB5NU5zOWY0SGpMOEdGYXcycTBObGVOcWdwdVpra1ZZNm80d0YxOWVhbmpqRW1nSE5DbjRKbGJLdE1YV1Iza1lwYWdXcXdhbWlmV0JENXRlOXI3SWlBVWZHcU53SGc1M1ZHZ3ExUEFNaWo2bWR0aTdIeUJnOGU3WGtz0gG-AUFVX3lxTE00Yms3OHozLVR0SU43b3JWQUhOUzd6bEtNRTJJZEJiOWwyZkNxSklpSjNieWpzNzRFbzNYbVZqaGF0UDRlU1NPeVNUM3Y1cnJwNUFISEdOejdCUENXTmpSU3ZzUzFxNXVhQkhwVDBmQUtfU0U3TnU2YVN5cnE1X0Z4aEQ5TzVsQVIwcWp3dU9rSlR0TzlzLWoybEF4NnlIellkdm13b2VUeTNXaHUwNGdYak5qN2JmVTNvcW15bmc"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perdagangan • Strategi Bisnis",
+      "title": "Kinerja Menteri Bahlil Diapresiasi, Komitmen Jawab Kerja",
+      "summary": "Menteri Bahlil menerima apresiasi atas kinerjanya dari Prabowo dan berkomitmen untuk terus memberikan hasil nyata melalui kerja keras.",
+      "sources": [
+        {
+          "name": "CNN Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUJieHJvSng5TEczeG1ITHA5S1FCUEh0aklOem9Za29vNkRhNWg5NGY0Qm8xbUJhU25NTTRPOHlrekFGN01OeF9ZTGpwSC1mWFFfZW5PWnpyWHhoNmN3b2JBYTRGM0FiSW81YjZpaE9hTzdXY1lpZnB5b3VEZ2pVMTBjRHZKbzlBaVZ4UmczNDRBMGZQNTlqdmgteWU0RHFpaTM0Mld0V3JWendVWTRmVzNlZmU1d3c0X1BaX2lmVWtWVVlscVA4TDN30gHPAUFVV95cUxOVWJEOWtkWE9nOTlIR3lOSWtRdTdaVUtHUHJqNXc0MDZsdENQQk5oUWNXTmo4RFA5b20yY0JfUHJHaF9zUzJiZEpzYWpYa01vcVJES05qVVZXQkJQbjBIUDJhQUx6TzN6dE96Sko4QUk4MmMzY3I4dGI4SVNtdnFQd01YdkVkS0lhVEx2cWR6OWFFLUpreSswS3F6U2xtdk5VTWx2MjNUcFNITlJjaUE5X0hFNjVjaTRZN3BzT3ZEdVFpX0w2Qzg="
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Ekonomi Syariah",
+      "title": "IAEI dan KNEKS Perkuat Masterplan Ekonomi Syariah Indonesia",
+      "summary": "Ikatan Ahli Ekonomi Islam (IAEI) dan Komite Nasional Ekonomi dan Keuangan Syariah (KNEKS) siap memperkuat implementasi masterplan ekonomi syariah Indonesia.",
+      "sources": [
+        {
+          "name": "CNN Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjhUTjRYM1E5b0Y1Z3k3UURQZjB6SjQwVURRbm1XWnJvQTZ5Y2VzNnhqdFRuMkVaU3lsc3ktOTZMRDJicU9XZ01TMFMxTGxEbTE1WURId3p1Rm9CNVh6Qk9WVWROS25MN0d5Q1VieGJNbmRlNDhJQ2RnMFVsV0VLVmVyZE95Q1dHR2w5eV9BTDJLUkk3Yi15b2VpZzNzaG8zRmRCTFljTXM3X21pYk4xeEtJQ1JPZTJ3Zm9od1dFZk52VDAwM2fSAcYBQVVfeXFMT2I4VE40WDNROW9GNWd5N1FEUGYweko0MFVEUW5tV1pyb0E2eWNlczZ4anRUbjJFWlN5bHN5LTk2TEQyYnFPV2dNUzBTMUxsRG0xNVlESHd6dUZvQjVYekJPVlVkTktuTDdHeUNVYnhiTW5kZTQ4SUNkZzBVbFdFS1ZlcmRPeUNXR0dsOXlfQUwyS1JJN2IteW9laWczc2hvM0ZkQkxZY01zN19taWJOMXhLSUNST2Uyd2ZvaHdXRWZOdlQwMDNn"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Energi & Mineral",
+      "title": "PHE Dorong Inovasi Pengeboran di Wilayah New Frontier",
+      "summary": "PT PHE mendorong inovasi dalam kegiatan pengeboran minyak dan gas di wilayah eksplorasi baru (new frontier) untuk meningkatkan produksi.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3ZNbXl4RGVzVnR5UmVFcTNhenBfT3ZHdmVVUjE4MTNULUVuS3E5Y2d6TFFJSmx4eF9iUEl4QnExRGtZVjAza3NCclFOS3gxVExCX1NpMTliS0tLMzJKc2k5N1plb1dJMjRSVGtmUnRPZXg4OUhHYXlIWTVabm9QajAtczcwelpxSGxaakhBTXNCdmRjeHI4czh2djhiR0hTVDNLNkxfMjlydDZBQmpYaGVWOWZMREnSAbcBQVVfeXFMTWt2TW15eERlc1Z0eVJlRXEzYXpwX092R3ZlVVIxODEzVC1FbktxOWNnekxRSUpseHhfYlBJeEJxMURrWVYwM2tzQnJRTkt4MVRMQl9TaTE5YktLSzMySnNpOTdaZW9XSTI0UlRrZlJ0T2V4ODlIR2F5SFk1Wm5vUGowLXM3MHpacUhsWmpIQU1zQnZkY3hyOHM4dnY4YkdIU1QzSzZMXzI5cnQ2QUJqWGhlVjlmTERJ"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Teknologi • AI & Chip",
+      "title": "Broadcom Gabungkan Boom AI Chip dengan Strategi Keamanan Software",
+      "summary": "Broadcom menggabungkan momentum boom chip AI dengan fokus pada keamanan software untuk memperkuat posisinya di pasar teknologi yang berkembang pesat.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Kebijakan Moneter • The Fed",
-      "title": "Trump Lanjutkan Upaya Mengganti Gubernur Federal Reserve Lisa Cook",
-      "summary": "Dua bulan setelah ditolak Mahkamah Agung, Presiden Trump melanjutkan usahanya untuk mengusir gubernur Federal Reserve Lisa Cook sebagai bagian dari strategi mengisi dewan bank sentral dengan sekutu politiknya.",
+      "tag": "Teknologi • Cybersecurity",
+      "title": "SentinelOne Perdalam Kemitraan AWS Saat Pertumbuhan Mengakselerasi",
+      "summary": "SentinelOne memperdalam integrasi dengan AWS seiring percepatan pertumbuhan bisnis keamanan siber mereka di cloud computing.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/sentinelone-deepens-aws-ties-growth-200954951.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Palantir",
-      "title": "Saham Palantir Mencatat Minggu Terbaik Sejak 2024",
-      "summary": "Permintaan yang meningkat untuk solusi AI Palantir telah memulihkan kepercayaan investor terhadap perusahaan, menandai bahwa Palantir tidak lagi dianggap sebagai penerima saham AI yang kalah.",
+      "tag": "Saham • Bursa Derivatif",
+      "title": "Jim Cramer Pujian Duopoli Bursa CME Group dan Cboe",
+      "summary": "Jim Cramer memberikan pujian kepada dominasi CME Group dan Cboe dalam pasar derivatif, menandakan kepercayaan pada fundamentals kedua bursa utama tersebut.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Nvidia",
-      "title": "Saham Nvidia Catat Lonjakan Mingguan Terbesar dalam Lebih dari Setahun",
-      "summary": "Produsen chip Nvidia mencatat peningkatan kapitalisasi pasar terbesar dalam satu minggu, mencerminkan momentum positif di sektor teknologi dan AI.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/options/articles/jim-cramer-praises-exchange-duopoly-200924789.html"
         }
       ],
       "category": "global"
     },
     {
       "tag": "Saham • SpaceX",
-      "title": "Saham SpaceX Mencatat Salah Satu Hari Terbaik Setelah Lockup Expiration",
-      "summary": "SpaceX mengalami salah satu hari perdagangan terbaiknya seiring berakhirnya periode lockup pertama, dengan risiko tekanan penjualan insider kemungkinan telah terharga di pasar.",
+      "title": "Jim Cramer Rekomendasikan Investor Akumulasi SpaceX untuk Jangka Panjang",
+      "summary": "Jim Cramer menyarankan investor untuk mengakumulasi posisi SpaceX sebagai investasi jangka panjang dengan prospek pertumbuhan yang menjanjikan.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-telling-investors-accumulate-200218837.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Teknologi • Micron",
+      "title": "Pasar Abaikan Potensi Pertumbuhan Micron",
+      "summary": "Analisis menunjukkan pasar belum sepenuhnya menghargai potensi pertumbuhan Micron di tengah dinamika industri memori dan semiconductor yang berkembang.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-continues-sleep-microns-223500954.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Industri Ruang Angkasa",
+      "title": "Jim Cramer Bandingkan Equity Ruang Angkasa: Rocket Lab vs Voyager Technologies",
+      "summary": "Jim Cramer membandingkan prospek investasi Rocket Lab dan Voyager Technologies dalam industri teknologi ruang angkasa yang sedang berkembang.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Teknologi • AI & Semiconductor",
+      "title": "AMD Akuisisi Taalas: Tantangan Baru untuk Nvidia di AI Inference",
+      "summary": "AMD melakukan akuisisi Taalas untuk memperkuat posisi dalam segmen AI inference, membuka persaingan baru melawan Nvidia di pasar AI computing.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-made-bold-move-220700266.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Teknologi • 5G & AI",
+      "title": "Nokia Jalankan Strategi AI Network di Taiwan sebagai Bukti Konsep",
+      "summary": "Nokia melaksanakan strategi AI network di Taiwan sebagai proving ground untuk memvalidasi solusi jaringan berbasis AI mereka.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Pasar Saham • Indeks & Futures",
+      "title": "Dow Jones Futures Menjelang Earnings Penting: Berkshire, Cisco, Lumentum",
+      "summary": "Pasar saham bersiap untuk minggu penuh earnings dari perusahaan besar termasuk Berkshire, Cisco, dan Lumentum yang dapat mempengaruhi pergerakan indeks utama.",
+      "sources": [
+        {
+          "name": "Investors.com",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Valuasi Pasar • Bubble Warning",
+      "title": "Pasar Saham Menunjukkan Sinyal Peringatan Serupa Dot-Com Bubble Era Warren Buffett",
+      "summary": "Sinyal valuasi pasar saat ini mengingatkan pada peringatan Buffett tentang bubble dot-com, mengindikasikan potensi overvaluation di segmen tertentu pasar.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warned-dot-com-222000397.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Komoditas • Energi",
+      "title": "Maskapai Bersaing Cari Bahan Bakar Jet Saat Disrupsi Hormuz Berlanjut",
+      "summary": "Gangguan di Selat Hormuz menciptakan kelangkaan bahan bakar jet dan mendorong maskapai penerbangan mencari alternatif supply di pasar energi yang tegang.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Teknologi • Cybersecurity",
+      "title": "Tenable Perluas Jangkauan Keamanan AI Saat Profitabilitas Meningkat",
+      "summary": "Tenable memperluas solusi keamanan berbasis AI dan mencapai titik balik profitabilitas, memperkuat posisinya di pasar cybersecurity yang berkembang.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tenable-tenb-widens-ai-security-net-just-as-profits-turn-a-corner-185944892.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Teknologi • Enterprise Software",
+      "title": "LegalZoom Integrasikan Microsoft Copilot Saat Model Bisnis Berkembang",
+      "summary": "LegalZoom mengintegrasikan Microsoft Copilot untuk meningkatkan layanan legal technology di tengah pergeseran strategi pertumbuhan perusahaan.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Semiconductor",
+      "title": "Qorvo: Pengguna Oportunis Terus Filing Saham, Merger Adalah Fokus Utama",
+      "summary": "Meski insider Qorovo terus melakukan transaksi saham, merger yang akan datang menjadi faktor pendorong utama kinerja saham perusahaan semiconductor ini.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-insiders-keep-filing-merger-221439610.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Teknologi • Energi Nuklir",
+      "title": "Hanya 2 dari 5 Saham Nuklir Jual Bahan Bakar; Pasar Nilai 3 Lainnya",
+      "summary": "Analisis menunjukkan valuasi pasar untuk saham nuklir berbeda signifikan tergantung status operasional dan komposisi bisnis mereka di industri energi nuklir.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Asset Management",
+      "title": "Blue Owl Capital Q2 Earnings Call Highlights",
+      "summary": "Blue Owl Capital melaporkan hasil kuartalan kedua dengan fokus pada kinerja dan prospek manajemen aset di pasar yang dinamis.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-capital-q2-earnings-220352701.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Bahan Bangunan",
+      "title": "Owens Corning Q2 Earnings Call Highlights",
+      "summary": "Owens Corning melaporkan hasil Q2 dengan fokus pada kinerja segmen bahan bangunan dan konstruksi di pasar perumahan yang sedang pulih.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/owens-corning-q2-earnings-call-220353694.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Real Estate",
+      "title": "Realty Income Q2 Earnings Call Highlights",
+      "summary": "Realty Income melaporkan hasil kuartalan kedua sebagai REIT utama dengan fokus pada distribusi dividen dan akuisisi properti baru.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/real-estate/articles/realty-income-q2-earnings-call-220352547.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Media & Advertising",
+      "title": "New York Times Q2 Earnings Call Highlights",
+      "summary": "New York Times melaporkan hasil Q2 dengan fokus pada pertumbuhan subscriber digital dan diversifikasi revenue streams di industri media.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/media-advertising/articles/york-times-q2-earnings-call-220352118.html"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Aktivitas Dana Asing dan Harga Emas",
-      "summary": "Dana asing masuk ke pasar saham dengan ANTM menjadi salah satu pilihan. Bank sentral menambah stok emas, mendorong harga emas Antam ikut naik di tengah aktivitas investor asing yang membeli saham-saham pilihan.",
+      "title": "ANTM dalam Rekomendasi Saham Minggu Depan",
+      "summary": "IHSG berpeluang menguat pada pekan depan, dan ANTM menjadi salah satu saham yang perlu dicermati dalam rekomendasi analis.",
       "sources": [
         {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQUU4clJFekdoWHFjc1RyOVFIOWFPNW9Yd1RjWXVidklpTkhsRXBING1HZkNlVm9vazhkZTU5MEozUlhVNEY3MXlGcFB2ZHJtRllNZ053THdwNENSTlFLWkwyY0FwN1U5OU9XQ3NpQ0xYV3dlQ0F2R0FOSmcydDV3eHB0MkpKVHA0Q0FN?oc=5"
-        },
-        {
-          "name": "Bloomberg Technoz",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzllcnR2TWFpWmotNmx5LW1WRmkzdlkyYWk5TVRpRTdzZlFCakRFVi1TeGlqTW8zV3RqNll6MTcxcV9vb2dsM0NTaTZhMzRXYlljWFQ3aGI1Z3ltRURDR2N6RW0xWGVqVUpCVDBjSVU2ZEZNckYtbTRfLVFJaUU3R04zQVU2UXlpVkdRTlR0dzBZeENvZ24wNEFZa3E3bENFYmhxTlBkd2Z4WWJD?oc=5"
-        },
-        {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0NrV3VXRmdnWUdiUEpzdGFub204dmZrTlpWZ3JrVGg2N2dzY291bzh0dWY2WUh4bmFvcWlUcXZ5OFpaVzN1OWRuTUxFcDBzTzlfbnhRekJ5Y3FsM3U5ZE5tSXFTeTVpa1FZaGFGWXpvLTRSdzhGdjhHcmoxM0pXZWxkU3F2Q3dWRFRGamxrMVhj?oc=5"
-        },
-        {
-          "name": "digtara.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVF2cFAtNXF0ZlRoT3RjN19NRW9MMWM4RmtzcVJnU0NyRnJmeWpVQnFQM09qUzdFSjJVYzA2TVJsNU12UXk4NUcxRU1qS1p4SjVqRm9hcWhpUFh1bklWcU0yVEVobTUwOGs0LU9jaUhSbzFpaE5UblMyTklrWmFSMDk2UnZnYlp3MGVCT0ZWQTA1TGtMM1hlNmRibTRLU3BDeWVmb2JR0gGmAUFVX3lxTE1hSko5MUwzNmNVWjE2cjdsTDhJeUZKbVJWcjR6c1FaS0lfblRVT3hxVHIxMUJ6TTc4THhsTi1QejRndzk5MUxlSFZrbEhvdDhHZWxBdkZlU0k0MWFQZzM1RW1aMXZoaFRMVmNEa1lud0Y1WXdVWWRzMi1DeEFnNk1OTUpwcTMyel9nZEdwV2Q0Qy1PU0M3ZWtxVHVwNHpBNXlPODI0Z0E?oc=5"
+          "name": "kontan.co.id",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkU4LUtvMDNKbXpVMmxzbjdrZ0czbDBFMVNMSjJfSjRTaGpGeGFBUk5Tc3VBajdjSk9ROE9icG9oUDhIbThfRmRCUi1GMi1McEFDUFhRYVhBVk1YcHl4SS1kREM0QkJ2eHZ2RFFkdHoybF8wbDlxem9ZeDFTQ1RObGVLR1Nabk9YM0JyUklLVmhfMUhuc1FhQXp4bzU4TERtZnRpeHNtemxRaHZDLVV30gGnAUFVX3lxTFBNWkNOZFVMWTNWWHc0V0gxQ3d6VldjWXpCUnpNbzdYNmVZNFRFMDdRNURtMUdEMTBGanNDVmtTYWlLeUNFdE9hOWVsYTZWeVBSOG1PY2ZDWXhmZ1o0UGJRVmwwNzFZb0NONl85c2ZBY050dkFxNG5CWkxwQTJ2UVpIUHRvbmRaQXFVY1VLcGhVbXdUd0V2d1d5T3JfNEdHbG5ZaXp6WmdN?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "WIFI",
-      "title": "Perluasan Usaha Konstruksi Telekomunikasi",
-      "summary": "Solusi Sinergi Digital (WIFI) merancang perluasan usaha di bidang konstruksi sentral telekomunikasi sebagai bagian dari rencana besar pengembangan bisnis perusahaan.",
+      "title": "WIFI Ekspansi Usaha Konstruksi Sentral Telekomunikasi",
+      "summary": "Solusi Sinergi Digital (WIFI) menambah lini usaha di sektor konstruksi sentral telekomunikasi sebagai bagian dari strategi ekspansi bisnis.",
       "sources": [
         {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVklFWnJXdmduaTVicnlERlI0VDlwbloxbGpwRzE0SHZGcnFqbE1hNG5WQ1J5Ti1Qb0w5RTc1cVpDbTdjWFMwTmFQaFYzck1pVXVfT0Z1a1IzU3BsMkZTS2k0Y2k0WHQ3all5cWtoMFc1QUtzN0ZVX1cwRzIzX1RSUQ?oc=5"
-        },
-        {
-          "name": "achmadnurhidayat.id",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVdDRnE2dkxVTldLOXJxUllCUTVuZFFTdVVNVkx1anlNa2F6Sk1fdlNlOXp6MGQwaWc3Sktmd25BQ3EwNnB6SmF6M1Q2T1JnQzVzYV9rSkxLblFKRmk2N3lPcXRpTWo2TjE0TGtVTlpUNG04c19jRllRQ1QwSWdhSW9qNVFDczlIRExwRVh3?oc=5"
-        },
-        {
-          "name": "Readers.id",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xazNENTkwS01MakhMbXJiUzVpdzJhaW9CeG5GMkNvZ2dQdTcwTjRlNE5yUnZCOUhSZktra1YtSlNaV3VpVkxiR0RNMV9fMkNjVGNIc0tDOE1zXzFPY25JVEZrQ2RNeDNDZ3FSQ3FTTjlmNHRNSmc?oc=5"
+          "name": "SWA.co.id",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcENkVzh4b1dTVGQ1ZEIyYkRMTkNybnJNWnRFck1vSUdjRFpGNlh1ZVc5Y2JmTzZpRjdXQnNXaEFIa0ZtZU5VNklLWTdEM1BJZk1HSWwtQlcyTldlVnNnSDBseVZXSTBoX3Z6ZlJJOVhVRmVCMUw2TGZyR2Jxd1JlNFp6SHZTb1ZOVnV2bklPUV82eU1ZWDBzMDg4Q1R1aUpOODhRZnJiVHdJZW10eXZFUkVR?oc=5"
         }
       ],
       "category": "personal"
     },
     {
-      "tag": "BRMS",
-      "title": "Kinerja dan Kondisi Bisnis Terkait",
-      "summary": "Kinerja BRMS pada kuartal II mengalami tekanan laba. Berita juga mencakup perkembangan Alfamart dengan laba Rp2,02 triliun pada semester I 2026, serta perkembangan industri telekomunikasi dan bullion.",
+      "tag": "WIFI",
+      "title": "Changhong Perpanjang Garansi Produk Elektronik",
+      "summary": "Changhong memperpanjang jaminan garansi produk elektroniknya hingga 25 tahun, menunjukkan komitmen terhadap kepercayaan konsumen.",
       "sources": [
         {
-          "name": "Bursa Nusantara",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmFoWFRTX3QtbFhSM3AzVDNTWHc5T29Xb2RZRW95a2d5aTVoVm9STHZFRTI0U1VSd0d1NURnTkZBWktwQUdRakZNd3JaZWVWLU50dS01c28tNDZiTk9kcXVTejYxX2lpTVJVMU1BM2VFQXdUdnFlYmhKSjA4dHJDMEQxWWZSTVBKbE9N0gGQAUFVX3lxTE5KYUF2VXpDZ1lPdGRzYW84RTFqdHFOZXdwS2JTbkpIaWdIYmFsWTBWc3pTa3h6YWVpanh2dy1vWVgtdDN6WnpyNWF3emIzQVJRNWFaM0tIS0w1MFNhVEI4ZGppdDBfWXZrclozOFBiNmVHX3UxUlRweXBVYWxUSFJfclFWTUJtNmFDYTA5Z2h3Tw?oc=5"
-        },
-        {
-          "name": "Bursa Nusantara",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZENiSWwxSlVCMm96bExIel9meU14OWhJVmQxTDBBdDhRWWM1dTBqaW9MWlRFTUgzT2x0enNPQmhGSW5nSm15UHlRcjNTTHd3dUdkM2ItTnZNMDFzR2liTlFiRWJ2YmV3WWlxZW4zbUt4WkEycVd1ZmRxY3lNUdIBgwFBVV95cUxOQ0xXYlNBSlJSQW1iTm9UMDRiXzdTanJ5MlZ5RkJpUEpwb2JOMk9LdVBqdlBYb2twZWpLcE8tYU5vdzhQVXYxSktCT1Z6WHZEcE1yVkI4RGhoUmxsWjc4bGJLYnB0UlVMQ253dUpvYmg5ZVpBV3NsbjdWY1VZV1FjTEVKVQ?oc=5"
-        },
-        {
-          "name": "Bursa Nusantara",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTk2ZUp6UnhXenZ0VTNtc0RFUXRHNUkyaDR5ZllOdUo4OTlnLTRZdlppRGpWckJyMmMzcGVYMDktZ0NVZ3BxYjB1azlVMTM3QmdPX0NxeElsNmZsMmZ6SU9hTUh0TVZaaDZteW5lR3JoaGpFTXEwbXRITDJ5amlyOUNIRktZbjdFbE5pdUlmU1lpRnfSAZMBQVVfeXFMTlU5NmVKelJ4V3p2dFUzbXNERVF0RzVJMmg0eWZZTnVKODk5Zy00WXZaaURqVnJCcjJjM3BlWDA5LWdDVWdwcWIwdWs5VTEzN0JnT19DcXhJbDZmbDJmeklPYU1IdE1WWmg2bXluZUdyaGhqRU1xMG10SEwyeWppcjlDSEZLWW43RWxOaXVJZlNZaUZ3?oc=5"
-        },
-        {
-          "name": "Bursa Nusantara",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TaGdJX1piRWtzVkxUdUtrWnk4U1RJUFpYMEtHY2dzYlRmR0Y5dVZ3UEc3WDZtclVRQ09NcUVOUHF4b0MwNlk5Wk9BTC1yYnJncFl5STBtejRFdi0zZWVNemJURGJIZzIzalQtVkFoOWstOE9hMnl0bXNseWZrZTjSAX9BVV95cUxOU2hnSV9aYkVrc1ZMVHVLa1p5OFNUSVBaWDBLR2Nnc2JUZkdGOXVWd1BHN1g2bXJVUUNPTXFFTlBxeG9DMDZZOVpPQUwtcmJyZ3BZeUkwbXo0RXYtM2VlTXpiVERiSGcyM2pULVZBaDlrLThPYTJ5dG1zbHlma2U4?oc=5"
-        },
-        {
-          "name": "Bursa Nusantara",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFA5OE03dF9aM0JIS3JucncxNmdxNzBkcGFFMC1hXzhGcml4WXZqWGU5WWNPU0xjM0NIbVF2TzZRbHZENXYzMzJYWjBoLTRDWFM5ZEJrOEdBVU1XMUI4VlpodHhrNzRKVWYzYl9aN2tSUzAzR21kbnBtZ3FsbjVOMnI2aVRlOWJ2YUpzMtIBjAFBVV95cUxNUFA5OE03dF9aM0JIS3JucncxNmdxNzBkcGFFMC1hXzhGcml4WXZqWGU5WWNPU0xjM0NIbVF2TzZRbHZENXYzMzJYWjBoLTRDWFM5ZEJrOEdBVU1XMUI4VlpodHhrNzRKVWYzYl9aN2tSUzAzR21kbnBtZ3FsbjVOMnI2aVRlOWJ2YUpzMg?oc=5"
+          "name": "Rmol.id",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjktdkhSNVhNaHl1eUNBMEYyMnhQa0NGNjkzMVZBbVhoZW11eG8tMk9yS19HUWlnM2FlQXNqeVpMRTQ5ajRqR1owTGQ2VE1CSDFqNXYtVG9uRzJocVFSTlI4TDNNTTNKaFhfYXZCQjVBbnNkQ2s1aG9yVkt6cmJVZkROWi0tVDA0MTVxZGF1TmRCZlhpckdxS3VnNTZTY1U4X3hYemQyM1dZTVRMTUw4WHhHZXNUa2hGTGhpaGV5Wko?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BUMI",
-      "title": "Pergerakan Saham Indeks Infrastruktur",
-      "summary": "IDXINFRA menonjol sebagai bintang bursa dengan kenaikan 2,17 persen di akhir pekan, menunjukkan performa positif dari saham-saham infrastruktur.",
+      "title": "BUMI dalam Rekomendasi Saham Minggu Depan",
+      "summary": "IHSG berpeluang menguat pada pekan depan dengan BUMI termasuk dalam rekomendasi saham yang perlu diperhatikan investor. Prediksi positif juga tercatat untuk hari Senin, 10 Agustus 2026.",
       "sources": [
         {
-          "name": "Rmol.id",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWVoRlpOV2x3dkQ2ZG1Dd0l6LXpSc2hsZHdkRHdrVk9kZ0hRY2tJcTBsRWNoODE5b0J4RXYyclJsOWl2cmVjbC14ajRyUk9kaHFmdWNpVDNiZmtFM2hoSmFvMWtPc2R5TFJaeU9tdVYyaXFOV1dpTVZWMU45QXFPRnBLOEc5WHFJZ3F6a0JqaUFNcXZTdlBaM0lCZlVkQ0FOSUpVeUt1RjBPVFliY2c?oc=5"
+          "name": "kontan.co.id",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkU4LUtvMDNKbXpVMmxzbjdrZ0czbDBFMVNMSjJfSjRTaGpGeGFBUk5Tc3VBajdjSk9ROE9icG9oUDhIbThfRmRCUi1GMi1McEFDUFhRYVhBVk1YcHl4SS1kREM0QkJ2eHZ2RFFkdHoybF8wbDlxem9ZeDFTQ1RObGVLR1Nabk9YM0JyUklLVmhfMUhuc1FhQXp4bzU4TERtZnRpeHNtemxRaHZDLVV30gGnAUFVX3lxTFBNWkNOZFVMWTNWWHc0V0gxQ3d6VldjWXpCUnpNbzdYNmVZNFRFMDdRNURtMUdEMTBGanNDVmtTYWlLeUNFdE9hOWVsYTZWeVBSOG1PY2ZDWXhmZ1o0UGJRVmwwNzFZb0NONl85c2ZBY050dkFxNG5CWkxwQTJ2UVpIUHRvbmRaQXFVY1VLcGhVbXdUd0V2d1d5T3JfNEdHbG5ZaXp6WmdN?oc=5"
+        },
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWxIak8yZUV3WkFsajRiWUVmN0dTVkNXdEtjd1pDa0ZJU3ctV3FDQ2NRODkzSUN1OXp4WWZ3bU1SSFZMWlRXM0stbVd5eExXdmJRQXZOLUs3RXZYZVFOeTRVcHowZy0yd3IzVVFSelluT3N3Nlh2MWFXMjE0elFWQ2Q1dkQ4VHh6Z3g1bWhhTzdfRGdfX1E?oc=5"
         }
       ],
       "category": "personal"
