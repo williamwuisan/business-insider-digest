@@ -1,506 +1,270 @@
 {
-  "generated_at": "2026-08-13T10:51:01.623656+00:00",
+  "generated_at": "2026-08-14T00:12:13.223602+00:00",
   "items": [
     {
-      "tag": "Indeks • IHSG",
-      "title": "IHSG Anjlok Pasca Pengumuman Hasil Rebalancing MSCI",
-      "summary": "IHSG turun lebih dari 1% setelah hasil rebalancing MSCI dirilis, dengan penurunan mencapai 1,18% di sesi pertama dan 1,38% pada penutupan. Asing melakukan net sell sebesar Rp1,18 triliun dalam respons terhadap pengumuman tersebut.",
+      "tag": "Pasar Modal • IHSG",
+      "title": "IHSG Turun 1,13% Menjelang Level 6.300",
+      "summary": "Indeks Harga Saham Gabungan turun 1,13% hari ini dan nyaris meninggalkan level 6.300. Penurunan indeks utama pasar modal Indonesia ini menandakan tekanan negatif pada sentimen pasar.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejkzN1JOS3NpQ3BjNTZHRXdCRFZrcDJXMWM4VkE4SlJZcC1zNzc5SHRLclZoaTcxVmVWWTB0WmpJX2dzdzRfd25ONGdqR2M3akRvUFJ2N1A5eDFhLXNUVGFzZFJTazNWZG1NNnp1dThwRmhYSXhVT3ByU1djcnlTZHJkSnJTNjBlM0xZWGtEZUJseEpNblBzbmxDNTVwaS1YRVB0ZmJOTk1GbEplZmRaTVFHczBMRjJvdHZaN3VzS2Q?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSktURHJ0eERzcXVSaGFnVVJjbDRrVXEyalNacnU0VnpuWjlQWnpWdkxCRFRvX0JoelBXVk5Pd2l5aHVBUV9xNnRNVjlGUWN4SkxkcFk0dWJBYVZSdjJEaVdjXzVDTmt3Y2JxZjhSRkNHSjlaZzZRM3JoRWpWekNWeXZzVkhNZFNDNWlmZ1VzT0ZmanlpdHlHU1luQWFZelRWTm1SMHlyN0pwTXhEWTdrMnN2MmVaYmZrbkHSAboBQVVfeXFMUEpLVERydHhEc3F1UmhhZ1VSY2w0a1VxMmpTWnJ1NFZ6blo5UFp6VnZMQkRUb19CaHpQV1ZOT3dpeWh1QVFfcTZ0TVY5RlFjeEpMZHBZNHViQWFWUnYyRGlXY181Q05rd2NicWY4UkZDR0o5Wmc2UTNyaEVqVnpDVnl2c1ZITWRTQzVpZmdVc09GZmp5aXR5R1NZbkFhWXpUVk5tUjB5cjdKcE14RFk3azJzdjJlWmJma25B"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Pasar Modal • GOTO",
+      "title": "GOTO Keluar dari Indeks MSCI",
+      "summary": "PT Gojek Tokopedia (GOTO) resmi dikeluarkan dari indeks MSCI. Tindakan ini merupakan penyesuaian indeks yang mempengaruhi portfolio investor global.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGt6bndMakdNc0hVRnBFVFBVTXkyQ1NmN1BTQm1sdzNkMEFONmxjWWd4YTFTclZfN2lEd3pXZm5LVGNBSDlyaWdRblg0Z2ZSN2dST1h0Rmh4eTNseTBlT1JhODh5N3U0VDNxM0h5Y3JXYmRQTkgwV0owV2w1Tmt2TUxxaVlCNUV6RFgtMDA1cHVYanFMdXp1bjdjTkZMN2FzRVVlUUI5WkNyN2xFQTR6Mmp2N2zSAbQBQVVfeXFMTkhrem53TGpHTXNIVUZwRVRQVU15MkNTZjdQU0JtbHczZDBBTjZsY1lneGExU3JWXzdpRHd6V2ZuS1RjQUg5cmlnUW5YNGdmUjdnUk9YdEZoeHkzbHkwZU9SYTg4eTd1NFQzcTNIeWNyV2JkUE5IMFdKMFdsNU5rdk1McWlZQjVFekRYLTAwNXB1WGpxTHV6dW43Y05GTDdhc0VVZVFCOVpDcjdsRUE0ejJqdjds"
         },
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUWxTWFFDS2czRXlPNUdIeVJhZ003RmxsNUlLeUxzSEl2djJNUjE4ODZBb2pEcWJ3Y3Y3Njg2b2VrTnF1LXVBMjBaeUV1OV9TWTRQcWVDR1BBNUQ2cWtQel9HM3JidkJsS1pXVTVvTW9tRzZ1V184bDhkWHBjajF4QW91b3R0b0lhVlRCSnZ5RUwwZGMyd2lhMW93TWZZU2o1RVNocmRKUGlialhQTlRROVhoeXE5WjVSOW5z0gG7AUFVX3lxTE9RbFNYUUNLZzNFeU81R0h5UmFnTTdGbGw1SUt5THNISXZ2Mk1SMTg4NkFvakRxYndjdjc2ODZvZWtOcXUtdUEyMFp5RXU5X1NZNFBxZUNHUEE1RDZxa1B6X0czcmJ2QmxLWldVNW9Nb21HNnVXXzhsOGRYcGNqMXhBb3VvdHRvSWFWVEJKdnlFTDBkYzJ3aWExb3dNZllTajVFU2hyZEpQaWJqWFBOVFE5WGh5cTlaNVI5bnM?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGRsMjZKTjdMOUNYQUtMTDdCeXRUYWUyMTV6WWFISWxyRnNDTTUxSUx1WUo0QUx6WC1xU0N5di13bURobU9BSjBNdnZSbEdJNGRWQ2FTb2ptV0JHVm54U09TeVFUZ2RYRGhmMXNJZlVxMy11SDVGeG5sOVBxM3pndGhKZVI0T1lJZmV5cEtxMnN2U0JjdkpfSHFB0gGaAUFVX3lxTE9oZGwyNkpON0w5Q1hBS0xMN0J5dFRhZTIxNXpZYUhJbHJGc0NNNTFJTHVZSjRBTHpYLXFTQ3l2LXdtRGhtT0FKME12dlJsR0k0ZFZDYVNvam1XQkdWbnhTT1N5UVRnZFhEaGYxc0lmVXEzLXVINUZ4bmw5UHEzemd0aEplUjRPWUlmZXlwS3Eyc3ZTQmN2Sl9IcUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnJqMUhFSTdhU0x4Mk0tNVk3MXM0cDZNYnVDNWpDc2lsZGJRZ2JHeGhFbmtjZzA0dFhDZW9ZWWI0RThaR0lnd1BXSEtOZklUX3RKZ19YWVc3eTNrZmpxWWs3WjRjRTM5ZllKU0NSRWxWXzdqX2dyeXdsVG1tSkZzakI3NE5Dc0t3V1JreDA0blZVRnNpb3ljUk5hSEF4cmg3X05Fd0lyR3ZqRXAzXzRlMFFrekozOGhhbWFIdjdpSWptNFpiWm01YjRyblU3eGZJX0FZRExnLWV6Zw"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Indeks • MSCI",
-      "title": "Sepuluh Saham Ditendang dari Indeks MSCI",
-      "summary": "MSCI melakukan rebalancing dengan mengeluarkan 10 saham dari indeksnya, menghadirkan risiko potensi exit asing sebesar Rp13,45 triliun. Direktur Bursa Efek Indonesia memberikan penjelasan atas dampak pengumuman rebalancing untuk Agustus 2026.",
+      "tag": "Keuangan • Perbankan",
+      "title": "Strategi Bank Aladin Syariah di Era Digital",
+      "summary": "Bank Aladin Syariah fokus menjaga kualitas aset melalui strategi adaptasi di era digital. Pendekatan ini merupakan bagian dari upaya bank untuk tetap kompetitif dalam transformasi industri perbankan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGZ2QWxIc2tDMHRHeW41R3VJOG96Mzc2RXI1Z0d1QVkwOGhZX3dJTEoxSjNBZWVkNF9RcVM4RFprbkNIdW04NnM1UlZSVG1pdzYzbGd4ZVQxOWtaZkFvTlVGRkRQYTNMWUYwbEtZeFJHNjVDeHRlTWIweWJZUGZUSTZqOG5LM0tYbHhmOG9icFJwc1NQMlVhVjA4SzhxQWxzbUpjMDNReWlmcnRfREdYQ3RmQmpJUFBNRnBZcnV4M2JNeDRaSy0yV2w5ZnrSAcwBQVVfeXFMTThmdkFsSHNrQzB0R3luNUd1SThvejM3NkVyNWdHdUFZMDhoWV93SUxKMUozQWVlZDRfUXFTOERaa25DSHVtODZzNVJWUlRtaXc2M2xneGVUMTlrWmZBb05VRkZEUGEzTFlGMGxLWXhSRzY1Q3h0ZU1iMHliWVBmVEk2ajhuSzNLWGx4ZjhvYnBScHNTUDJVYVYwOEs4cUFsc21KYzAzUXlpZnJ0X0RHWEN0ZkJqSVBQTUZwWXJ1eDNiTXg0WkstMldsOWZ6?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVUhzWnlHMHcyZVlYcnU1ejJDd1c2X0Q1ejRmd2tVOEhONGV6YUlFbTdIVmZuY2dNang4QXAtTE5tTUQ1ZUYzUlF6dU9ZNlVwRllsNlN6cGJvZko4NXVsRnJySkxPRjJPMGZTMF9Tc3lnNVMxWTQ1enA2dW1ZXzNHWmhzNS1mV19hbjhNUV9FTnhCTWtMNnZXb3VpNEZRQ1BhdFJnSHMwTG80X25HVXE3YkdMYnBlQ2NvemRuTEpkdWVDa21CcmfSAcYBQVVfeXFMTlVIc1p5RzB3MmVZWHJ1NXoyQ3dXNl9ENXo0ZndrVThITjRlemFJRW03SFZmbmNnTWp4OEFwLUxObU1ENWVGM1JRenVPWTZVcEZZbDZTenBib2ZKODV1bEZyckpMT0YyTzBmUzBfU3N5ZzVTMVk0NXpwNnVtWV8zR1poczUtZldfYW44TVFfRU54Qk1rTDZ2V291aTRGUUNQYXRSZ0hzMExvNF9uR1lxN2JHTGJwZUNjb3pkbkxKZHVlQ2ttQnJn?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2NvODNpbXY5MEVwcDlUNnNwVzNtT0c5Y0trR3RIclhyTG1LZ1FPTkViX3UxUFc5Z2lpVjZtcFJIMDVyamdTY29GM2pvUWFrdGQtYW83dmQyMnRpYlE5WTA5SFNaZDVySFBJcjVJcngzUlNiU3IwVXgyV1o2bGdiTGo4bm85XzVlakotdFljU3ZXVG5nbmVvc2VHeU05RFhTQVVkdGJneGhuWHJBVHMtdGdPRWhqQVVrTUkwZExkaXUyZ9IBwgFBVV95cUxNN2NvODNpbXY5MEVwcDlUNnNwVzNtT0c5Y0tyR3RIclhyTG1LZ1FPTkViX3UxUFc5Z2lpVjZtcFJIMDVyamdTY29GM2pvUWFrdGQtYW83dmQyMnRpYlE5WTA5SFNaZDVySFBJcjVJcngzUlNiU3IwVXgyV1o2bGdiTGo4bm85XzVlakotdFljU3ZXVG5nbmVvc2VHeU05RFhTQVVkdGJneGhuWHJBVHMtdGdPRWhqQVVrTUkwZExkaXUyZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNakVYSURRcUdjcm1uSkFhVERZamNuS09nSnlJRDh3OFVIUlVkamQ2VUd1OTNjWUE3RUwzallKd2RCZDRkakdILTI0cXNpSmdEMmViQ2ZZZjlhTjZjX2t4eWx3b0tJMVVuWlRiRmRQZlVIX2dLamg3b19RQ3R3eGhCRlNXSjV0eFlmT0dIdHZKTGhuazNNOXpnbUpVaVRhUWUxWi1oNWZkb1l3V0ZfYUZCMVR5bFdfMEItSW9Xa0FPTlhYS1hXM2hjYWZCYzJpNUts0gHQAUFVX3lxTE1qRVhJRFFxR2NybW5KQWFURFlqY25LT2dKeUlEOHc4VUhSVWRqZDZVR3U5M2NZQTdFTDNqWUp3ZEJkNGRqR0gtMjRxc2lKZ0QyZWJDZllmOWFONmNfa3h5bHdvS0kxVW5aVGJGZFBmVUhfZ0tqaDdvX1FDdHd4aEJGU1dKNXR4WWZPR0h0dkpMaG5rM001emdtSlVpVGFRZTFaLWg1ZmRvWXdXRl9hRkIxVHlsV18wQi1Jb1drQU9OWFhLWFczaGNhZkJjMmk1S2w"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • FAST",
-      "title": "KFC Indonesia (FAST) Tunjukkan Pertumbuhan Positif Semester I 2026",
-      "summary": "Pendapatan KFC Indonesia (FAST) meningkat 16,09% pada semester pertama 2026, menunjukkan kinerja yang solid di tengah kondisi pasar.",
+      "tag": "Keuangan • PNM",
+      "title": "PNM Turunkan Bunga Kredit Mekaar Menjadi 8%",
+      "summary": "PT Permodalan Nasional Madani (PNM) menurunkan suku bunga kredit Mekaar menjadi 8% dan menargetkan perempuan pengusaha sebagai segmen utama. Penurunan bunga ini bertujuan meningkatkan aksesibilitas pembiayaan untuk UMKM.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZURjT0JMUmU2VVJya2dtd0FIaWlJdUhmZDV0NzdfeE55MmsydGUtU2cwUnhacFJuOXl3UHk5dUY1b2VTcXVFbXZhaGhEcVA3ejJONnRVd2JkUTNVVUVSQjZlX3RYeE5IeXdlcmFSQlBxY1JxamU1NjYxWFE4VDg1ZDRXZk5RX2hiUTBIdXNaZ2EyWnNLNDNISXBCVzFBa0V3WXI4Q2x3Z3lMQVlFd2NBM2ppb2s5U0dwOVFVWV80WkhLWFJlSTlOMkQ2Xzczdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa2ZCMHhzMTVSdHFuazdkRXZrRnU2MFlxekpUUlF0Y3RXTG03U0Q5djZfU0NVR2l5TjdTajZOQWFhSllsY1VkVEtnc0ZsNEh0Yno2cXRWMUt4TDVpNGVCYnlIUm8zWTlmclpNd0hXMVQwR20tT3kzaVljSlFYTXNPYWV2QWpmd3lhZE5LMGg1TXIta25jLTdTN2t2VjhwQ2I4M2ZXaUMyMlY5STVuWHlmdGJWLTJlcG_SAbcBQVVfeXFMTmtmQjB4czE1UnRxbms3ZEV2a0Z1NjBZcXpKVFJRdGN0V0xtN1NEOTY2X1NDVUdpeU43U2o2TkFhYUpZbGNVZFRLZ3NGbDRIdGJ6NnF0VjFLeEw1aTRlQmJ5SFJvM1k5ZnJaTXdIVzFUMEdtLU95M2lZY0pRWE1zT2FldkFqZnd5YWROSzBoNU1yLWtuYy03UzdrdlY4cENiODNmV2lDMjJWOUk1blh5ZnRiVi0yZXBv"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • GOTO",
-      "title": "Saham GOTO Kesulitan Bergerak dari Level Rp50",
-      "summary": "Saham GOTO sulit mengalami pergerakan signifikan dari harga Rp50, dengan berbagai faktor yang mempengaruhi kesulitan saham perusahaan teknologi ini bergerak.",
+      "tag": "Keuangan • BNI",
+      "title": "BNI Luncurkan Platform Wondr untuk Kelola Keuangan Keluarga",
+      "summary": "PT Bank Negara Indonesia (BNI) meluncurkan platform wondr untuk membantu nasabah mengelola keuangan keluarga secara lebih baik. Platform ini merupakan bagian dari strategi BNI meningkatkan engagement dan layanan fintech kepada pelanggan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWG43WDJsQ3pTZXZtSDM3NjVkRVZNVFNCR2c0bnhFRElYNjNUOTIyWmRUVF9kZzFab3ZRTy03LTNLTUF6aTc5SERWSm9tT3VZZ1dDNWtRbUlSUFpSMVl2X2lhaU5WTHdqSGNRMF9IMjZQZ21vSUNYRU9aM1pWM3otN3Z5OC10SG4taHJvRHh4LTFUTXhCM01zT0o5OHBpWU1PZmVobXB2eHowYmVSVUFpRGtxQjN6dkR6cHByRzNnbklpLXdrMS00SnR3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdDZxWVIzaFEzbmVDMmdELThsSFN6VEdXZ1lYcEtpc1JLbmFUeU1qOF9ZS0VaSC1GY00xX0RMMnNKcWN2Y1dvSEtpUXdxYURBcVFIWjk4Qm1hcmFDd0FrSXhRU3ozX2VYTWtKc2g4Y2RSUDhPZlJzZmpXUEhjSnFjblZMT2xoSm9Dak92cWJtTUpYbWRubGxhSWwwa24xejdXdzRwVXItVlUwOU9DQ3hUb3VLLWpVRlVQ0gG4AUFVX3lxTE10NnFZUjNoUTNuZUMyZ0QtOGxIU3pUR1dnWVhwS2lzUktuYVR5TWo4X1lLRVpILUZjTTFfREwyc0pxY3ZjV29IS2lRd3FhREFxUUhaOThCbWFyYUN3QWtJeFFTejNfZVhNa0pzaDhjZFJQOE9mUnNmaldQSGNKcWNuVkxPbGhKb0NqT3ZxYm1NSlhtZG5sbGFJbDBrbjF6N1d3NHBVci1WVTA5T0NDeFRvdUstalVGVVA"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Bursa • Regulasi",
-      "title": "Dewan Komisaris BEI Mengalami Perubahan Anggota",
-      "summary": "Alex Widi Kristiono menjadi anggota baru Dewan Komisaris Bursa Efek Indonesia, menandai pembaruan dalam struktur kepemimpinan lembaga pasar modal.",
+      "tag": "Investasi • Infrastruktur",
+      "title": "MBG dan Koperasi Merah Putih sebagai Mesin Investasi Ekonomi RI",
+      "summary": "Pemerintah Indonesia menempatkan Masyarakat Badak Group (MBG) dan Koperasi Merah Putih sebagai instrumen pendorong investasi ekonomi nasional. Kedua entitas ini diharapkan menjadi katalis pertumbuhan ekonomi domestik.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaEctR1EtMm00VmNEanZwUVFhVld4MFNtSy14S19vRGozSXlFMmd5Z1BrZDA2NU5TQkN3VEY5VnB4cjQwYkVvaVR3aFFTU3F1c0w0Q3ZScERiWVUzcmR4aWhsd0lKV1Y3VHhoVy1yb29HSW1YNXZiSjlnQXgxdnBYVzBISExZT2dwU1BRVk5GTUZpVW9rdVJxcmtWazV6NDZCLXZ4MktLN3lOTl95d0NUR3lEeHlIa2FNcDlIMDhRSE1mWVppZkRHc1AteVBLZ1N20gHQAUFVX3lxTE5oRy1HUS0ybTRWY0RqdnBRUWFWV3gwU21LLXhLX29EajNJeUUyZ3lnUGtkMDY1TlNCQ3dURjlWcHhyNDBiRW9pVHdoUVNTcXVzTDRDdlJwRGJZVTNyZHhpaGx3SUpXVjdUeGhXLXJvb0dJbVg1dmJKOWdBeDF2cFhXMEhITFlPZ3BTUFFWTkZNRmlVb2txUnFya1ZrNXo0NkItdngyS0s3eU5OX3l3Q1RHeUR4eUhrYU1wOUgwOFFITWZZWmlmREdzUC15UEtnU3Y?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVJLWUQzWU1MbGN3a1Z0Unc1d2x3ODhYT29NNE1XMjBlM0JhNzZ4WDcyLTNidHJ6N00tQWNEdThONTF3eHVQbmNTODFjdDU2czFSWFRTWi1ySFFCc0pWWXl5ZXlXeF9FUTJic21wclNMN290QjdvcUNSRmdWSjljalZNMTBSZno3QlJ0a1ZnOGtIZldEb0VhUkVYNUJkLTdvNnBTYV9qUm5wWXlUX3hzZGVjanQ1elFrbTZZU1R5S3cxakNLSmwtb3M2WdIBywFBVV95cUxOWVJLWUQzWU1MbGN3a1Z0Unc1d2x3ODhYT29NNE1XMjBlM0JhNzZ4WDcyLTNidHJ6N00tQWNEdThONTF3eHVQbmNTODFjdDU2czFSWFRTWi1ySFFCc0pWWXl5ZXlXeF9FUTJic21wclNMN290QjdvcUNSRmdWSjljalZNMTBSZno3QlJ0a1ZnOGtIZldEb0VhUkVYNUJkLTdvNnBTYV9qUm5wWXlUX3hzZGVjanQ1elFrbTZZU1R5S3cxakNLSmwtb3M2WQ"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • ADHI",
-      "title": "Danantara Panggil Manajemen ADHI Terkait Masalah Proyek LRT City",
-      "summary": "Danantara memanggil manajemen ADHI untuk membahas masalah yang terjadi pada proyek pembangunan LRT City, mencerminkan isu pada pengelolaan proyek infrastruktur.",
+      "tag": "Otomotif • Kendaraan Listrik",
+      "title": "Pemerintah Luncurkan Motor Listrik Nasional, James Riady Pesan 20.000 Unit",
+      "summary": "Pemerintah Indonesia merilis motor listrik nasional dengan respons positif dari pelaku bisnis. Pengusaha James Riady melakukan pemesanan 20.000 unit, menunjukkan optimisme terhadap produk dan potensi pasar kendaraan listrik domestik.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTQtWDV5aUdOdkZ0ZUJiREJUTVZCUlk5aFRkbFY1MzhXa1lLRXBCcGVsb3pHZnI4Rmh3NmRJZERqVG1qbHo0RU1tVm43T1J0OTBSaHRMYnpha1B3SW9NU0h4Q20tb08wdjVfajJENlJQd2lQWkdjT29qcUt1blFNY2RJdWZKSmR6elV3UUxzN2drTnhMbU1RbENWdGRPbUo2RXQ0cUloUkFGNFhHSU03Z3AyZXRPbUNzNlHSAboBQVVfeXFMTTk0LVg1eWlHTnZGdGVCYkRCVE1WQlJZOWhUZGxWNTM4V2tZS0VwQnBlbG96R2ZyOEZodzZkSWREalRtamx6NEVNbVZuN09SdDkwUmh0TGJ6YWtQd0lvTVNIeENtLW9PMHY1X2oyRDZSUHdpUFpHY09vanFLdW5RTWNkSXVmSkpkenpVd1FMczdna054TG1NUWxDVnRkT21KNkV0NHFJaFJBRjRYR0lNN2dwMmV0T21DczZR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbUJ5M01BcHNnYjF1SjFxSm56TzE0dEFYenlPYUMxdi14WU1XSWwzcVFSMXJvUmU2Q2kwY1NheWtESlVMQmZJVTdQdmxkemlnREVrV3ZrbWctdk16bWVaYlRJTlU2V2s0NXRiU2gwOVQwY0J0NG5XU1Y2X01KeXFfcC12TUtUZHZBYUJfa3Z2c1lnakJZVy1NN19lZnphaGRSYVljMkhtSzYyM19qTjZjaWh6WXIxeWh6ZDNQNVhMYkZmRFR3ZjBNZm82RmVrZ9IBzgFBVV95cUxNbUJ5M01BcHNnYjF1SjFxSm56TzE0dEFYenlPYUMxdi14WU1XSWwzcVFSMXJvUmU2Q2kwY1NheWtESlVMQmZJVTdQdmxkemlnREVrV3ZrbWctdk16bWVaYlRJTlU2V2s0NXRiU2gwOVQwY0J0NG5XU1Y2X01KeXFfcC12TUtUZHZBYUJfa3Z2c1lnakJZVy1NN19lZnphaGRSYVljMkhtSzYyM19qTjZjaWh6WXIxeWh6ZDNQNVhMYkZmRFR3ZjBNZm82RmVrZw"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • JARR",
-      "title": "Sengketa CPO Antara Haji Isam (JARR) dan Duta Palma Berlanjut",
-      "summary": "Dispute mengenai rantai pasokan CPO (crude palm oil) antara emiten Haji Isam (JARR) dan Duta Palma terus menjadi isu yang berkembang.",
+      "tag": "Otomotif • Kendaraan Listrik",
+      "title": "Pasar Motor Listrik Indonesia Senilai Rp3.040 Triliun, RI Targetkan Posisi Dunia",
+      "summary": "Pasar motor listrik Indonesia diperkirakan mencapai nilai Rp3.040 triliun dengan proyeksi pertumbuhan signifikan. Pimpinan perusahaan otomotif yakin Indonesia dapat menjadi pemimpin pasar kendaraan listrik global.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjRCaUJ5bkRkVWdCS2xjZmk2YjRHSllpazFPa3NFcXJVUkp0aXRhZFJOTmt0YWpyZUZ0d3o5NDBrNnIyUXBHc09UNzhIWExOcXBJM0llV2JxZUQ3Skl6Q0tCWnRFV0hTbzJObm5aMEVkUXBaWnVEYXJVTEpXQ2xydzBRX0paWVBEdjZNUkJhRjdRMGItYU9JMFpETUVQODFXRzYza1M0WWZZR0ZneEt5a1VFRGtGWjloR2MtMUR5THFSbXFKVHZBd0RCSS1hMmvSAc8BQVVfeXFMTUI0QmlCeW5EZFVnQktsY2ZvNmI0R0pZaWsxT2tzRXFyVVJKdGl0YWRSTk5rdGFqcmVGdHd6OTQwazZyMlFwR3NPVDc4SFhMTnFwSTNJZVdicWVEN0pJekNLQlp0RVdIU28yTm5uWjBFZFFwWlp1RGFyVUxKV0NscncwUV9KWllQRHY2TVJCYWY3UTBiLWFPSTBaRE1FUDgxV0c2M2tTNFlmWUdGZ3hLeWtVRURrRlo5aEdjLTFEeUxxUm1xSlR2QXdEQkktYTJr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT0pCZUZ3aXp3YWVid1hycDFQOUMxczBLNUNQR1hMcElJVUNmZHlaemdrU2gxbHFvNG9BN3dGQkNHTFdUdjYtR1dYUWJBM3o0RTdPdnhLVzVIaXV4WmFhRnNwaVpDaUstTV91UURJbF9EaHd2cDhaR3U0clVIR29INkpvNGlLVm5xeldWbW1uMTNtZmFRTTVRanhjY3UxbXllWTR2dUJoa3NlMHVNWkRNUExURTJxeW5PN2wweEhCYkxHczVRTkJOVGo3b0VLQ3PSAc8BQVVfeXFMUE9KQmVGd2l6d2FlYndYcnAxUDlDMXMwSzVDUEdYTHBJSVVDZmR5Wnpna1NoMWxxbzRvQTd3RkJDR0xXVHY2LUdXWFFiQTN6NEU3T3Z4S1c1SGl1eFphYUZzcGlaQ2lLLU1fdVFESWxfRGh3dnA4Wkd1NHJVSEdvSDZKbzRpS1ZucXpXVm1tbjEzbWZhUU01UWp4Y2N1MW15ZVk0dnVCaGtzZTB1TVpETVBMVEUycXluTzdsMHhIQmJMR3M1UU5CTlRqN29FS0Nz"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • BRPT",
-      "title": "Rekomendasi Saham: PTRO, BRPT, dan TUGU",
-      "summary": "Analis memberikan rekomendasi investasi pada saham-saham pilihan termasuk PTRO, BRPT, dan TUGU dengan berbagai pertimbangan fundamental pasar.",
+      "tag": "Infrastruktur • LRT City",
+      "title": "Danantara Panggil ADHI untuk Atasi Masalah Proyek LRT City",
+      "summary": "Danantara melibatkan kontraktor ADHI untuk mengatasi masalah teknis pada proyek pengembangan LRT City. Langkah ini menunjukkan komitmen pengembang untuk menyelesaikan proyek infrastruktur transportasi tersebut.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHQ2ejN5YkMxSkFCMHl5WTFCVDFWczllbHNnMnRPRG1tTUhRZjRQNGFMMUM4bElsb2dyLTd2ci0zT1NUS0hBNmpUWDkwQ2pjZGlCaXdhWWk4dHpCUlZXV09LbkF3RjRHYUxuZGxOTEJ6YktpVjdBMkkzMXhrTkpSY3NOeVNWQVVUR1pSY3R5VzdaNkhVMU40b0s3TkZBQkRuWmphNHBxdEZMZmIzbmJvMmZxcmvSAbQBQVVfeXFMUDh0NnozeWJDMUpBQjB5eVkxQlQxVnM5ZWxzZzJ0T0RtbU1IUWY0UDRhTDFDOGxJbG9nci03dnItM09TVEtIQTZqVFg5MENqY2RpQml3YVlpOHR6QlJWV1dPS25Bd0Y0R2FMbmRsTkxCemJLaVY3QTJJMzF4a05KUmNzTnlTVkFVVEdaUmN0eVc3WjZIVTFONG9LN05GQUJEblpqYTRwcXRGTGZiM25ibzJmcXJr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUY0QW1JZVlibXR0amhzY2RseDRjZlZsVndxRlhsNjJpRlg5aVh3Z1VMSnpuY3lGczluXzloeWQ0cXU4UjZtZENqTVlmYlBoQkZTaG5tQm9lWElzamNtTHFwTGdLZ1ZBU1JUcVJYRmpzLWZycTdlVWNCdlVxV2NueTFrWndibXhkSF9uZjJtMF9jMnVFLXh3QlEzU0xuVWVPV1dxYllCWVRTQjdLVU9FOUN5bVFzSnhLTUlFaUZoQnV1b3dQ0gHEAUFVX3lxTE9FRjRBbUllWWJtdHRqaHNjZGx4NGNmVmxWd3FGWGw2MmlGWDlpWHdnVUxKem5jeUZzOW5fOWh5ZDRxdThSNm1kQ2pNWWZiUGhCRlNobm1Cb2VYSXNqY21McXBMZ0tnVkFTUlRxUlhGanMtZnJxN2VVY0J2VXFXY255MWtad2JteGRIX25mMm0wX2MydUUteHdCUTNTTG5VZU9XV3FiWUJZVFNCN0tVT0U5Q3ltUXNKeEtNSUVpRmhCdXVvd1A"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • GARUDA",
-      "title": "Garuda Indonesia Berhentikan Sementara Direktur Niaga Reza Aulia",
-      "summary": "Garuda Indonesia mengambil keputusan menghentikan sementara Direktur Niaga Reza Aulia dalam perubahan manajemen perusahaan maskapai.",
+      "tag": "Saham • Reddit",
+      "title": "Reddit Masuk S&P 500",
+      "summary": "Reddit resmi bergabung dengan indeks S&P 500 setelah lama dinanti-nantikan, mendorong rally harga saham setelah jam trading. Analisis pasar menunjukkan beberapa kekhawatiran terkait prospek perusahaan di tengah momentum positif tersebut.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUkpPMzdWS2laQWZjV3NURlJLRWJuYVJWb09UcWM5aWMxdHFLMXVxM1RrZDFBXy1XUVozQmRIdzVWMHpLQW5uNm5hWEVEZ09IWEFHWFBiZE1SV0kwaDlSdVVkNkhkTDN6VjdJMFRyTW1IY1BNYXpaVDVMMGdpb3BMdUFFTU9nbjFuM3lPVW5idEdFY01pQmFLelE2WDJGZVZGa0kzUkRuODlEdy04MENhRWktbzhJdUZUYkN4eXotaU1PaUdteThKczlB0gHKAUFVX3lxTE9SSk8zN1ZLaVpBZmNXc1RGUktFYm5hUlZvT1RxYzlpYzF0cUsxdXEzVGtkMUFfLVdRWjNCZEh3NVYwektBbm42bmFYRURnT0hYQUdYUGJkTVJXSTBoOVJ1VWQ2SGRMM3pWN0kwVHJNbUhjUE1helpUNUwwZ2lvcEx1QUVNT2duMW4zeU9VbmJ0R0VjTWlCYUt6UTZYMkZlVkZrSTNSRG44OUR3LTgwQ2FFaS1vOEl1RlRiQ3h5ei1pTU9pR215OEpzOUE?oc=5"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories"
         }
       ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Kebijakan • Kredit UMKM",
-      "title": "Program Kredit Usaha Rp15 Juta dengan Bunga 8% untuk Ibu-ibu",
-      "summary": "Pemerintah meluncurkan skema kredit usaha yang memungkinkan ibu-ibu mengakses pembiayaan hingga Rp15 juta dengan suku bunga 8% untuk mendukung pengembangan usaha mikro.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUNtMEktRG9kM0xBYmVjZUlyV215TWJ4YXVyeXlGLXpOb290WjV0Z1l3Nk05UVFBTndxRWJhZ19qblFkZEE3VVlLb1h5aldCMGdMSXVTWU5la0VUZEk3U3phLW4zRHU2MUl3S2I2aU1tQjBpWFpuZ0dnRXBsdmdrcnJIVHBSN05Kd1huRGVXZ282VWpac25MU1Vmcy1jRG93UEZHZ21RN1llSl9yOV9hMkJ4RmhkZWxNRU5ZMXVEZGcwR3lpLWh0cEdCbXLSAcwBQVVfeXFMTkFDbTBJLURvZDNMQWJlY2VJcldteU1ieGF1cnl5Ri16Tm9vdFo1dGdZdzZNOVFRQU53cUViYWdfam5RZGRBN1VZS29YeWpXQjBnTEl1U1lOZWtFVGRJN1N6YS1uM0R1NjFJd0tiNmlNbUIwaVhabmdHZ0VwbHZna3JySFRwUjdOSndYbkRlV2duNlVqWnNuTFNVZnMtY0Rvd1BGR2dtUTdZZUpfcjlfYTJCeEZoZGVsTUVOWTF1RGRnMEd5aS1odHBHQm1y?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Saham • BNI",
-      "title": "BNI Targetkan Pertumbuhan Transaksi 14% Melalui WondrX 2026",
-      "summary": "Bank Negara Indonesia (BNI) menyelenggarakan acara WondrX 2026 dan menargetkan peningkatan transaksi sebesar 14% pada tahun 2026 melalui berbagai inisiatif inovasi digital.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeF82UmRMN2Zjb3ZXVHU0N0o0OU4xbTZTTWRWWWhEc3BnRFpTOU1yOExqbzRSai1NckJtYWdsdDhDekxFZmNXV0xrUnA4Y3REWDVnNzBlaG5ObW9tZ1R0UTlLdVVGUHVuckowV0gtdXZxb1Q4VmRmQWg3LXAxVDBGbXJ4VkotWDFGQ0lTbGFxV284VExjSmZDMW1La3MtT1d4MnFvN0U3ckZnNmhfOFFORHl1MEdpam5lR3lzc1dVSXpoS0E4clVZ0gHHAUFVX3lxTFB4XzZSZEw3ZmNvdldUdTQ3SjQ5TjFtNlNNZFZZaERzcGdEWlM5TXg4TGpvNFJqLU1yQm1hZ2x0OEN6TEVmY1dXTGtScDhjdERYNWc3MGVobk5tb21nVHRROUt1VUZQdW5ySjBXSC11dnFvVDhWZGZBaDctcDFUMEZtcnhWSi1YMUZDSVNsYXFXbzhUTGNKZkMxbUtrcy1PV3gycW83RTdyRmc2aF84UU5EeXUwR2lqbmVHeXNzV1VJemhLQThyVVk?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Billionaire • Kekayaan",
-      "title": "Prajogo Pangestu Menjadi Orang Terkaya Indonesia",
-      "summary": "Prajogo Pangestu dinobatkan sebagai orang terkaya Indonesia dengan peningkatan kekayaan mencapai Rp19 triliun per hari, menurut data terbaru.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGZ2QWxIc2tDMHRHeW41R3VJOG96Mzc2RXI1Z0d1QVkwOGhZX3dJTEoxSjNBZWVkNF9RcVM4RFprbkNIdW04NnM1UlZSVG1pdzYzbGd4ZVQxOWtaZkFvTlVGRkRQYTNMWUYwbEtZeFJHNjVDeHRlTWIweWJZUGZUSTZqOG5LM0tYbHhmOG9icFJwc1NQMlVhVjA4SzhxQWxzbUpjMDNReWlmcnRfREdYQ3RmQmpJUFBNRnBZcnV4M2JNeDRaSy0yV2w5ZnrSAcwBQVVfeXFMTThmdkFsSHNrQzB0R3luNUd1SThvejM3NkVyNWdHdUFZMDhoWV93SUxKMUozQWVlZDRfUXFTOERaa25DSHVtODZzNVJWUlRtaXc2M2xneGVUMTlrWmZBb05VRkZEUGEzTFlGMGxLWXhSRzY1Q3h0ZU1iMHliWVBmVEk2ajhuSzNLWGx4ZjhvYnBScHNTUDJVYVYwOEs4cUFsc21KYzAzUXlpZnJ0X0RHWEN0ZkJqSVBQTUZwWXJ1eDNiTXg0WkstMldsOWZ6?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Makroekonomi • Nilai Tukar",
-      "title": "Rupiah Menguat Tipis, Dolar AS Parkir di Rp17.860",
-      "summary": "Rupiah berbalik menguat tipis pada sore hari dengan nilai tukar dolar AS berada di level Rp17.860, menunjukkan stabilisasi nilai tukar mata uang.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdU9obHZhMVNNdWhmSTdMTVZUQWs2a2JuYjJyb2xDa2hoUlV0RUdlNXo5aHlxZnkxTEpOTEZiUUh4bkVTcUZuRFlQb0xhdkRTb3lkSm5xSjJaSnJHeVZVbExoTkJsdzlTYVgxSTdaUGtqcHUzaFZfd2xPSEtWZG5CQ29MaENCM09nMkY4UDhWTHNzYnNoeTB2TVNwWU5vTV9oNW5WbGtfc1lNS1JId1dnYzNFQUZiSHhDMU4yUkk1dkFCbGtmamdVVnp2RdIBywFBVV95cUxQdU9obHZhMVNNdWhmSTdMTVZUQWs2a2JuYjJyb2xDa2hoUlV0RUdlNXo5aHlxZnkxTEpOTEZiUUh4bkVTcUZuRFlQb0xhdkRTb3lkSm5xSjJaSnJHeVZVbExoTkJsdzlTYVgxSTdaUGtqcHUzaFZfd2xPSEtWZG5CQ29MaENCM09nMkY4UDhWTHNzYnNoeTB2TVNwWU5vTV9oNW5WbGtfc1lNS1JId1dnYzNFQUZiSHhDMU4yUkk1dkFCbGtmamdVVnp2RQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Makroekonomi • Komoditas",
-      "title": "Minyak Dunia Koreksi Meski Pasokan Global Terancam Defisit",
-      "summary": "Harga minyak mentah mengalami koreksi di pasar global sementara pasokan dunia diproyeksikan mengalami defisit di masa mendatang, menciptakan ketegangan harga.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWJ4UmJDRVdaSkd5cGg3Rm50VGZhWURta2pZa1pwX2pzdGthNDRmX0hSclhWbzFxVk5QWGdTeVZIRmtBZm04aGw2dVVrRl84emNFX2RYa05tM0VyZ0JPbzhMOWlCR3VLTy01QTZPQ0F2VUI3QTdhS21CY21felhkMWpZTm9UNlpQWjZ1N01QYlRBQVNvWEFOQmhsaWJvT25OdzYxTFJoSHVicUVXbHc1MmJweW1FNm56Q2dLSGNESFLSAcABQVVfeXFMUHVieFJiQ0VXWkpHeXBoN0ZudFRmYVlEbWtqWWtacF9qc3RrYTQ0Zl9IUnJYVm8xcVZOUFhnU3lWSEZrQWZtOGhsNnVVa0ZfOHpjRV9kWGtObTNFcmdCT284TDlpQkd1S08tNUE2T0NBdlVCN0E3YUttQmNtX3pYZDFqWU5vVDZaUFo2dTdNUGJUQUFTb1hBTkJobGlib09uTnc2MUxSaEh1YnFFV2x3NTJicHltRTZuekNnS0hjREhS?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1oxR2YteEp6TmlaYWxWRTlsbzJYdFhzcDAxS3h6ZFctYWktYVpDU2txYWtzX1NTRUx5VWpwbGxnTWk5QXYxR2V4c0lWNnhiTXd0bzBxajlldHIyTWl2MjZqeXpnSkNkbHZ5a0lFQW5vQmxnWFZHYzdrUEdyRVRpTDEzQ2FhM0tWNktsbXg1X3loMDNXZmdPX1lzU0M0SXp1REphZjZDV3RBekZtNHJxeXdXZ3FvOTVqdkRpZTRQY1ljSTM0ZnFwLWRpdXVyT3fSAc8BQVVfeXFMTzNaMUdmLXhKek5pWmFsVkU5bG8yWHRYc3AwMUt4emRXLWFpLWFaQ1NrcWFrc19TU0VMeVVqcGxsZ01pOUF2MUdleHNJVjZ4Yk13dG8wcWo5ZXRyMk1pdjI2anl6Z0pDZGx2eWtJRUFub0JsZ1hWR2M3a1BHckVUaUwxM0NhYTNLVjZLbG14NV95aDAzV2ZnT19Zc1NDNEl6dURKYWY2Q1d0QXpGbTRycXl3V2dxbzk1anZEaWU0UGNZY0kzNGZxcC1kaXV1ck93?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Makroekonomi • Infrastruktur",
-      "title": "Peluang RI Akhiri Defisit Dagang dengan Penurunan Harga Minyak",
-      "summary": "Menurunnya harga minyak dunia dari level US$100 per barel memberikan peluang bagi Indonesia untuk mengatasi defisit perdagangan, menurut analisis ekonom.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1oxR2YteEp6TmlaYWxWRTlsbzJYdFhzcDAxS3h6ZFctYWktYVpDU2txYWtzX1NTRUx5VWpwbGxnTWk5QXYxR2V4c0lWNnhiTXd0bzBxajlldHIyTWl2MjZqeXpnSkNkbHZ5a0lFQW5vQmxnWFZHYzdrUEdyRVRpTDEzQ2FhM0tWNktsbXg1X3loMDNXZmdPX1lzU0M0SXp1REphZjZDV3RBekZtNHJxeXdXZ3FvOTVqdkRpZTRQY1ljSTM0ZnFwLWRpdXVyT3fSAc8BQVVfeXFMTzNaMUdmLXhKek5pWmFsVkU5bG8yWHRYc3AwMUt4emRXLWFpLWFaQ1NrcWFrc19TU0VMeVVqcGxsZ01pOUF2MUdleHNJVjZ4Yk13dG8wcWo5ZXRyMk1pdjI2anl6Z0pDZGx2eWtJRUFub0JsZ1hWR2M3a1BHckVUaUwxM0NhYTNLVjZLbG14NV95aDAzV2ZnT19Zc1NDNEl6dURKYWY2Q1d0QXpGbTRycXl3V2dxbzk1anZEaWU0UGNZY0kzNGZxcC1kaXV1ck93?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Bank Sentral • BI",
-      "title": "Prabowo Mengumumkan Calon Pemimpin Bank Indonesia",
-      "summary": "Pemerintah Prabowo mengumumkan daftar calon Deputi Gubernur Senior dan Deputi Bank Indonesia, serta menghadirkan profil lengkap empat kandidat pemimpin BI (Destry, Aida, Solikin, dan Anwar).",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWFNRcU9PY3NTcW5CMkJ2RlFzMWNxQUhrZmpQNUFrTnFKQ2Y5Y0pNNVBGSFNyTUF6aUl5TXRuY3dYZWhNTDhqUEpVaV9UTjNSTERmVERkYTNyRGxCUU1DV0psM2ZfYXZqZFUtLVlHMEs0NlRsSFZZNzNid1ZHaTNGdUwzeWh5TlJFd3NwZW9fV2hxZV9WVHNFRnktaFlJVjVxMU5OM2VCbmF6Q082Y2NtWG50V2ttM0lXakZfRFdVRFliaGxNN0IzS1NBY9IBywFBVV95cUxPWFNRcU9PY3NTcW5CMkJ2RlFzMWNxQUhrZmpQNUFrTnFKQ2Y5Y0pNNVBGSFNyTUF6aUl5TXRuY3dYZWhNTDhqUEpVaV9UTjNSTERmVERkYTNyRGxCUU1DV0psM2ZfYXZqZFUtLVlHMEs0NlRsSFZZNzNid1ZHaTNGdUwzeWh5TlJFd3NwZW9fV2hxZV9WVHNFRnktaFlJVjVxMU5OM2VCbmF6Q082Y2NtWG50V2ttM0lXakZfRFdVRFliaGxNN0IzS1NBYw?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXc5NGhyY0ZteTJlR1VtRjIwUWloMnEyTi1WaXJORmV1M05QYjhKQllrYmh0S2ItZ05XTkhMWHVqd0RESTNSNlkweDQ3RVpDRHFDeF9WNlhhLVFGRG51c2JRSEhmbEhpay1xY3h3bmt0d0ZFN1gtejcwMEhCUHhlNnRjREk2ellndFBLaFY5Snp5dS1ldk9TMU94bTlTSHlYV09YZWw1Nk1BZGg1endvRG1JNi1Dd1JfU0o0Zl96T2owX0440gHEAUFVX3lxTFAxdzk0aHJjRm15MmVHVW1GMjBRaWgycTJOLVZpck5GZXUzTlBiOEpCWWtiaHRLYi1nTldOSExYdWp3RERJM1I2WTB4NDdFWkNEcUN4X1Y2WGEtUUZEbnVzYlFISGZsSGlrLXFjeHdua3R3RkU3WC16NzAwSEJQeGU2dGNESTZ6WWd0UEtoVjlKenl1LWV2T1MxT3htOVNIeVhXT1hlbDU2TUFkaDV6d29EbUk2LUN3Ul9TSjRmX3pPajBfTjg?oc=5"
-        }
-      ],
-      "category": "domestic"
+      "category": "global"
     },
     {
       "tag": "Saham • Teknologi",
-      "title": "Strategi Investasi Saham Teknologi untuk Mendapat Untung",
-      "summary": "Analis memberikan kiat dan strategi untuk mencari keuntungan dari investasi di saham-saham sektor teknologi melalui program edukasi pasar.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWV3Tjk1d2J0Z3FaQjNlVjVXZ29rS0JhMFJaYVpsbmVPSHZ4OVVKSUNsZGtFdDItU2pBaDBMenZpN05LVGxJdGVOVExzdC16UmtXRWZ0cHZYRWNhOTRCMG1FNGJWVjFpQW85OVBTbUx6UnMtenZNZmhBWjRid2JzcUZxSFJ2SnhzdFh1YTVhbVVSSWVla2xrWGdhcnB0X1hNdnZ3NnRWNkcxMWFwX1FZQ3FGYzVTSjhuc1ZwRWhDVGIzRmw0MzdMeDJ30gHKAUFVX3lxTFB1ZXdOOTV3YnRncVpCM2VWNVdnb2tLQmEwUlphWmxuZU9Idng5VUpJQ2xka0V0Mi1TakFoMEx6dmk3TktUbEl0ZU5UTHN0LXpSa1dFZnRwdlhFY2E5NEIwbUU0YlZWMWlBbzk5UFNtTHpScy16dk1maEFaNGJ3YnNxRnFIUnZKeHN0WHVhNWFtVVJJZWVrbGtYZ2FycHRfWE12dnc2dFY2RzExYXBfUVlDcUZjNVNKOG5zVnBFaENUYjNGbDQzN0x4Mnc?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Saham • Asing",
-      "title": "Asing Banyak Lepas Saham Tertentu Saat IHSG Naik 1,69%",
-      "summary": "Meski IHSG naik 1,69%, investor asing teridentifikasi melakukan penjualan besar-besaran pada saham-saham pilihan, menunjukkan selektivitas asing dalam pasar.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeUlWZFlWclFFc1JqU1RldG9fZVBud3dmZWxNaDhEYUp0UmJLQTlzVHA2MmlxOThQZEV4bkNKcXhTSmRCUWlINDEzSDAxcXhXQWhPMHZPZ0V5S1Vqb2hPUjNhMEVrTmVJUHlPQ2o5VVVPM3pWM0VsQ3dkbDNVeTRZNDZPekRLQk16RkpJelBRTmhjY2dCSVBXekF4ZUdtNFVoeENhd0dPYVl1QXY0Q0tLd0NPcy0wRksxdnhiaHJua9IBvwFBVV95cUxNeUlWZFlWclFFc1JqU1RldG9fZVBud3dmZWxNaDhEYUp0UmJLQTlzVHA2MmlxOThQZEV4bkNKcXhTSmRCUWlINDEzSDAxcXhXQWhPMHZPZ0V5S1Vqb2hPUjNhMEVrTmVJUHlPQ2o5VVVPM3pWM0VsQ3dkbDNVeTRZNDZPekRLQk16RkpJelBRTmhjY2dCSVBXekF4ZUdtNFVoeENhd0dPYVl1QXY0Q0tLd0NPcy0wRksxdnhiaHJuaw?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Hukum • Pajak",
-      "title": "Kejagung Tetapkan 2 Tersangka Kasus Korupsi Transfer Pricing PT TPL",
-      "summary": "Kejaksaan Agung menetapkan dua tersangka dalam kasus dugaan korupsi melalui mekanisme transfer pricing di PT TPL, menunjukkan upaya pemberantasan korupsi di sektor korporat.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXQxbVpQMkRBV3BJVEJlZUZaZFJVU3o4LUJCcDhhWjRCcG0tV195TS1PeDB0Q0Y4VXRITlR2bkR5enE4U0xsNzJEWVRiY25SS0tBai1iVGE5eVlJeS1OQjZKWXlXcXBTV1dKZGFuR1Z1VkJpOE10ZUhPa21VNlN2Y25KaXRpWmF0XzMtRldrd2lrRTBfYURHX3NURVZwc0d3eVlfM3Z3REw3QjdodjNoSmYydGpGNU1YajVFcDRuZnh1VXg1OHfSAcYBQVVfeXFMTy10MW1aUDJEQVdwSVRCZWVGWmRSVVN6OC1CQnA4YVo0QnBtLVdfeU0tT3gwdENGOFV0SE5Udm5EeXpxOFNMbDcyRFlUYmNuUktLQWotYlRhOXlZSXktTkI2Sll5V3FwU1dXSmRhbkdWdVZCaThNdGVIT2ttVTZTdmNuSml0aVphdF8zLUZXa3dpa0UwX2FER19zVEVWcHNHd3lZXzN2d0RMN0I3aHYzaEpmMnRqRjVNWGo1RXA0bmZ4dVV4NTh3?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Saham • Cisco",
-      "title": "Cisco melaporkan rekor hasil dari 'supercycle' AI namun saham mundur",
-      "summary": "Cisco mencatat lonjakan pendapatan 18% dan proyeksi 2027 yang sangat positif berkat permintaan AI, tetapi momentum saham tidak bertahan di pasar. Kekhawatiran analis terhadap tekanan margin akibat fokus pada 'supercycle' AI menyebabkan saham perusahaan melemah.",
+      "title": "Kinerja Saham Teknologi: Dell, Salesforce, SanDisk Melonjak",
+      "summary": "Saham Dell melampaui Micron dan AMD tahun ini dengan kenaikan empat kali lipat harga, dibantu momentum dari laporan earnings Lenovo. Sementara itu, Salesforce mendapat dukungan dari J.P. Morgan yang menilai kekhawatiran AI berlebihan, dan SanDisk terbang tinggi atas proyeksi pertumbuhan revenue hingga akhir dekade.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/cisco-stock-falls-on-margin-concerns-heres-what-wall-street-analysts-are-saying-582e39fe?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories"
         },
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Wendy's",
-      "title": "Saham Wendy's naik di tengah laporan potensi penawaran akuisisi dari Nelson Peltz",
-      "summary": "Saham Wendy's meloncat atas dasar laporan bahwa Trian Fund Management milik aktivis Nelson Peltz berencana melakukan penawaran akuisisi. Peltz memiliki hubungan panjang dengan Wendy's melalui kampanye aktivis lebih dari dua dekade lalu.",
-      "sources": [
+          "url": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories"
+        },
         {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Lenovo",
-      "title": "Laba Lenovo melampaui ekspektasi didorong oleh komputer dan server AI",
-      "summary": "Lenovo menjadi perusahaan terbaru dalam ekosistem AI yang melaporkan laba melampaui prediksi analis. Pertumbuhan didorong oleh permintaan tinggi untuk komputer, server, dan layanan AI.",
+      "tag": "Saham • Workday",
+      "title": "Workday Melonjak 18% Atas Laporan Potensi Akuisisi Private Equity",
+      "summary": "Saham Workday mengalami lonjakan 18% pada Kamis atas laporan adanya potensi akuisisi oleh private equity. Kenaikan signifikan ini membangkitkan spekulasi tentang kemungkinan revival di sektor software.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Pasar Saham • Asia",
-      "title": "Pasar saham Korea Selatan berubah dari bear market kembali menjadi bull market",
-      "summary": "Pulihan cepat ekuitas Korea Selatan didorong oleh likuidasi posisi retail dan faktor teknis, sekaligus didukung oleh fundamental yaitu pertumbuhan laba yang kuat. Perubahan dramatis ini menunjukkan momentum positif di pasar regional.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/what-is-driving-the-rapid-shift-as-south-koreas-bear-market-turns-back-into-a-bull-3e602e66?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
       "tag": "Pasar Modal",
-      "title": "Reli pasar saham terbaru energi ekuitas namun tinggalkan pasar kredit khawatir",
-      "summary": "Sementara trader opsi optimis tentang ekuitas, mereka menunjukkan kekhawatiran terhadap pasar utang. Perbedaan sentimen ini mencerminkan keraguan antara ekspansi pasar saham dan stabilitas pasar kredit.",
+      "title": "Pasar Tampak Tenang Meski Investor Kejar Reli FOMO",
+      "summary": "Investor menunjukkan tingkat relaksasi yang belum pernah terjadi sebelumnya dalam setahun penuh volatilitas, dengan hampir setiap indikasi headline menunjukkan ketenangan pasar. Namun, ketenangan ini mungkin tidak setenang yang terlihat di permukaan.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-latest-rally-has-energized-the-stock-market-but-left-the-credit-market-concerned-70e3d296?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Analisis Rekomendasi Saham ANTM Jelang Lapkeu Semester I",
-      "summary": "Jelang laporan keuangan semester I, berbagai analis mengeluarkan target dan rekomendasi untuk saham ANTM dengan rekomendasi teknikal untuk perdagangan hari-hari mendatang.",
+      "title": "Rekomendasi Teknikal dan Performa Pasar ANTM",
+      "summary": "Analis merekomendasikan saham ANTM untuk perdagangan berdasarkan analisis teknikal untuk hari Jumat (14/8). Saham ANTM menjadi salah satu fokus pantauan dengan kondisi pasar yang dipengaruhi sentimen global dan perkembangan IHSG.",
       "sources": [
         {
-          "name": "Bloomberg Technoz",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjJKRk1uTDhxTGJFdW5sR1Rud1NCMzFwNUdZT0JkOVpSRTlWTEZmRHU5U29icWFiRlI5VTIwZXh0U1RBTUwyWHpfS2JscG94cmhkYUtvbF9wOWpCeDFrOFR2ejVoWGR1WUdic05QRGQzYVhPNEFiYnh5R2Z3cExmV0E1ZW94Mm5ZeUQ2bGZ6RzlNTmRVdGdJN0RjalR3Wl9xTE5CR21FckFtSkYtakJnNmtYZl9Pd0k?oc=5"
-        },
-        {
-          "name": "kontan.co.id",
+          "name": "investasi.kontan.co.id",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmd2VElLZlBwdndWR0ZPRnhKX3lLTVhhRDRqWjQ3LV9xbldhS19jRnNjV0tFaFphekNXTDcyNFF5WkpWMTJYSEVoV3VtU3l0SUdaS213NWZpa1F2RERiMDBkUzlkZGtkMnlCSmpCckl4c2FYSFMzNnU0dEotaXpYNTRSZkE5R2dFSnpNTkl5anUtQmhuZWdVYnQ5V2ljUXYyMDQ1WVFkRlMxOG1CSlRJbdIBqAFBVV95cUxOZm1MRE56VU5GcWxiNzBkNTlEVEdmMEF0eURYR0QteXBESThzTHdVX0xKVkhSS1hkSm1xQV9lY2hSWlg1YllKR3BCajRuRzNKbFJyWFBvWWxzdEJHeTlaYldLVDlFTHJWQ1A3UEVBQjN4dWk4dVoxNzh4SXVTWGNVQkFxMm52bUNXT0xidzIybHRGeDA2UXBJQUYxY0U4S1NjOU1HcUdveXk?oc=5"
         },
         {
           "name": "Bloomberg Technoz",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTRmWEpGWjIyZFNFQkRvWmZwN201cGk2X2tSdktUdXpCVDJxQmVQRE0wQ201V3NyNFZLS1NpV2hWYVBYc1I4QXpfVXVCQ1FuanVfY21yMHBYRFQ5dlNTV2J5eG4wb08zMWp6Sk8tWkNyR2paTmFHMVAwTWdGbHBWZUJDaXZSWjRQc1ZfVkxEQ2YxSVYzdEo2Y1VRN3ZIMk0yNGRDQXVLZDR5S0tEUWFWcmQ0OVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQXkwRzEtOTdySFc4OHJVcTcxcmMtRl84Nk1Qb1lWakJkZGhrUklkVkM2d09vbU1sTG5LeGFoX2NYT2ppU09XdlB4eXZHT2FDNnR3a3YySkFoeGxtR1N3anJaS00tZDRFMlpaUWZyeU1sWDBRdzhYbDJlU3hRSk4tN1JZNDBwenVKZ1JlYnQzUm5SZm9YYVhITVk1bEZ3Rk9TLUA?oc=5"
         },
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWV3Tjk1d2J0Z3FaQjNlVjVXZ29rS0JhMFJaYVpsbmVPSHZ4OVVKSUNsZGtFdDItU2pBaDBMenZpN05LVGxJdGVOVExzdC16UmtXRWZ0cHZYRWNhOTRCMG1FNGJWVjFpQW85OVBTbUx6UnMtenZNZmhBWjRid2JzcUZxSFJ2SnhzdFh1YTVhbVVSSWVla2xrWGdhcnB0X1hNdnZ3NnRWNkcxMWFwX1FZQ3FGYzVTSjhuc1ZwRWhDVGIzRmw0MzdMeDJ30gHKAUFVX3lxTFB1ZXdOOTV3YnRncVpCM2VWNVdnb2tLQmEwUlphWmxuZU9Idng5VUpJQ2xka0V0Mi1TakFoMEx6dmk3TktUbEl0ZU5UTHN0LXpSa1dFZnRwdlhFY2E5NEIwbUU0YlZWMWlBbzk5UFNtTHpScy16dk1maEFaNGJ3YnNxRnFIUnZKeHN0WHVhNWFtVVJJZWVrbGtYZ2FycHRfWE12dnc2dFY2RzExYXBfUVlDcUZjNVNKOG5zVnBFaENUYjNGbDQzN0x4Mnc?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "ANTM",
-      "title": "EKAD Menjual Saham kepada Investor China",
-      "summary": "Perusahaan EKAD akan menjual 51% saham kepada investor asal China, menunjukkan aktivitas korporat signifikan di industri terkait.",
-      "sources": [
+          "name": "Bloomberg Technoz",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEI0aW03NGxTS090TnF6V05MYVJzRWEtVDhFdXV0bTZpUFlWT280S0FyRFR0SlgwakVUWkxkYVNZNTZwTjQ0ZG5zRTh6UEtOOW9pM3ZtZGVlVnpPT2F4WXl2U3B5R2EyQjV0Q3VOSkRfWjRqUXJUTEtSYUc0anhHUXAzZ0JSQnJSQ0NQRjBmRFd5aDhmMXJ3VURwd2tVbDdjNGx5YXFuWVFvaVd2UlNZNkZlX3BYNUA?oc=5"
+        },
         {
-          "name": "KONTAN",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdFo4SVNNZEJFMDVTcmRxYUZNZmJHMDBaVEtkRlZETVp4UEphcjY5MVlnWXBONGFyTWV6RnYyOWl3UDJaMjNQRW9kZnBCYTZ4Q2dPTVdVUEZZWGJPZzV1N25DWDNhU3NGd3FWeVlaeVJpRWZZSXhmQWRMZzdyb3VYUENfWWZsQ1c2c3JXbU1YZGk?oc=5"
+          "name": "Readers.id",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5valFHbXZqSXZpaEJnQnZzMm1xamNhWGlEcTBjTUZFdnJyZFBHb2pYanFBYTFHT0FlZ0dMcFFHbUYxX0lzOGlVaGpSZU53a2JQNDFCX1lQT0N1aE9SUVVVOWhDamd4RUMyMkU0SkJETmFfblU?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BIPI",
-      "title": "Berita Umum tentang Sektor Pendidikan dan Kinerja",
-      "summary": "Ratusan sekolah di Sumatera Barat menerima bantuan revitalisasi dengan nilai mencapai ratusan miliar rupiah, mencerminkan investasi besar di sektor pendidikan regional.",
+      "title": "Berita Umum Sumbar - Tidak Relevan Investasi",
+      "summary": "Berita-berita seputar BIPI di sumber KabaSumbar membahas topik gastronomi Padang, acara pendidikan guru, dan program revitalisasi sekolah, bukan mengenai kinerja atau informasi investasi saham BIPI.",
       "sources": [
+        {
+          "name": "KabaSumbar",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTG5HNW5wLW5ld2RhTm4zeU54QWdCc05zaUltQXNIZk5ycmx6YWpiN3VTYjFHNFBkSHNUdVBURW43ZHc0ZE1Va1hGR1pFNTZQdXhidjVXT3Q4bVRTd3c1dVJDanFsWUhvVnZjX25YQW1pdHYwMDRYLXo4RFd6bHYxdkdkTGRfZUtNeEZWcC1iWGJNdUltUDlQSnFZd3lIX3hSTWc?oc=5"
+        },
+        {
+          "name": "KabaSumbar",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUpfay1JUjF3WjkxejRnOWw3Q3JUNFhIakpmOURhRGRFWnZWaG1LWHZrYmQ2X1ZhbEczTmVJVEhpZXVVdnB6R1VMU0JTQjhvSHF1ZXZ4THJVbHBaUW5QNzZfb2ZzV0pqaUFPR3AwZjA2dUNQVGxGM283Z0p4Mm9TampWbTBhTXI0aFl5TVNSV3E2VENTQ0hLbDdmc0R5ck56amVJ?oc=5"
+        },
         {
           "name": "KabaSumbar",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTZremxjUUNzYkxTM3l0TDBFd0t0Y2lMRnZzSmtlcGtBbmFIQkNQNVpCSjJtaEdKNjJuUzNIVXFDZ3ZpM1lNTFFXR1huLW9pSGJMM0hJT0ZiQndUN0hWWkV2OU50ZDg0bFcxaHdpaHNKMTk0WWhsZDlHY253cFhUNVZFZ1cyWDdraVprVFpMRDBfQW1rQVhoS3lqOEJCUnlQNVFBUFpTWFBnUmpldGFZ?oc=5"
-        },
-        {
-          "name": "KabaSumbar",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTF1WEdwRmh5VkdOVFN2VWJMTGNWUXBiTDBFdUpsaEZxcElhY25vZ0tKWlgwVGY1clhwOEoxYXBGUnFGMktpdDI4TmNNQlNEQTJ0TFduUnpQeGlTUWFpN21EWG93NndGLVNhTjFXckFld0UyTFFGU05DQW5GMDR5LUtjRnVjb0dxLXNBTkdTT0NjLXFBb01ad25DMGZKamRlQ1BxVll5T2J3Q0lJX2xGS0tiMDl6NVlER29Hd29MNVF5dw?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "WIFI",
-      "title": "Berita Makroekonomi dan MSCI Index",
-      "summary": "Utang pemerintah mencapai Rp10 ribu triliun dengan potensi peningkatan indeks MSCI. Pengumuman MSCI Agustus 2026 melaporkan beberapa saham terdepak dan yang bertahan menghadapi ujian November.",
+      "title": "Solusi Sinergi Digital Lakukan Divestasi",
+      "summary": "Solusi Sinergi Digital (WIFI) melakukan divestasi sesuai laporan dari investor.id.",
       "sources": [
         {
-          "name": "Sinar Harapan",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmwwS2JsQnpxcjBhWlBPMm9Jdl81WlhYaUdCN2tFY3dhSUVhTU8wOV9hNkR2Z1ZnVy00V0FpNm9jaUliZkFic0tsWS16WmdQVW5ITzZiY1lYU3lfMFI5STNkU0tjblp6Yi0tSGxQamliWGZ3ZWROdlZ5OVdQbF9UQUw4WVNfdmlkN1piZHZqWVNPWnFNMG5KZ0ZIRnNFMEpzRmdKcTg1TExsZ0pmRVRNcWxXYXBwV29GQkU3MF9ZU0lfS2JIcXZqdXktNE5jYkRDQlpaa9IB2gFBVV95cUxOZkpXejVsRE16THlQMi1PWkJWZEZIM19EUXdqTWFJZ3NiSUFFMFZiZ0wyUkJrZG0ySTFFdGJUdTVvUUVyY3AtdDN5cU1sdnVZN05IR1A3bXIwSFhnM3IzUzRZQjJSS1NzeXJLc09kcEdldkxycGZoSkdvYm8ybzhPWDlHRHE1emVZUWktTzhjMkhfN3g1R3kyQlA5eEdkZXlYNkdwdVEzWC1OWUtXa1ZMSW40NnBRVDVIcU50LXlNcng3TEs2MDJjelRfLWhnYnRmdXpwRmk5SkNSdw?oc=5"
-        },
-        {
-          "name": "Sinar Harapan",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMFNCYlkwcHBDbXREZzRQVDdQRUtFZ216WWwwQnlRYWE5Wmh4M2ppblg5UExuemQ3d3M4YkxRYWMyaWQxaHFBMjYxSVNtRTRHdlQ5OVd6M19CNWt4R0ZCM0F1dTdBQ0JNVEU1aURzemRObTltMEtvb3RPcHk2Sk5hanAwUllhQnB6a1gtZFdMS0JHR2k2NHo5RVY3d3VybWNRdVhqREtKUWVMWUxJaTBub0pOdm1VTUo2WkM2Nkw0N0ZzTXpfRS1oU0lkQXpSZm5KTVVwYmVuaXNmNUotaEZiRWd4bktkWXJHaERjT3FpamtzaHdLRlBXejEzTHlRMFU3ajZVdnJOMUnSAY4CQVVfeXFMT0pTVnZxNmFzUERTbDVGelF6V1R1dmFCbDY5cF9wVU1nV0o5Wm9mOTh0NWRpcE1mSTdWM0hMa05DV3dkYlZpWGlMSDdXcTRqdWhIXzFKVTBLOXJGNmxDaXlBWENEdmVVdWJ0RnUtUDV3a25LbXVMSFNjbjZpUTk4Mm5aMi13b3NJLWVpYWFEamFYdDltRXA1endVSUZEcEZjMTFUSGJKVnVsR3U0YWlES29rYjZxdjc3REk4b29Ua25NamN4RTYyZWtvWFFmWkNmRzExOVVkVEhBcUFSMHFnV0VNSDlEN2dMQTR5dDlZV1RnUjVtd2YtVUFxbWxTRHdBOVN3Qk9mUEdsa3lsNTFR?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "WIFI",
-      "title": "Rekomendasi Teknikal dan Pergerakan Pasar",
-      "summary": "Rekomendasi teknikal diberikan untuk perdagangan WIFI bersama saham lainnya, sementara IHSG ditutup menguat di level 6.373 pada perdagangan Rabu.",
-      "sources": [
-        {
-          "name": "kontan.co.id",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXkyREVacVY0eHlDUXFucUNrSi1DRmpYUzl4MmtJNVJDOFJHTGhHQzRid1VpTXVlVU1xdjAwVVk0akp5TlN4VVBRVkh2OEkzbmVDcjF4ZUZNeHlLdHpTM09VTHhGMG1uLTZYX0hZVlFtVWw4Mi1sRzl3dHpFeVR5T2toYW5iSm0zUWFZa212NlZ2X2dpckU4TTE1VHRCWG1tOUxKOGJWSVdWSHY3RGfSAaYBQVVfeXFMUFhVSWc1NVN6SkJUa0NTdzJKWHZjV0JaZUVVM19sNWg5VndDYTVMZWxPbW9TaEt3RHl3dkh2RWFNcEw5azFGUkp0bGRpQjNScDkxR0RSbGtHYXljQXBWSTN0bTdzcWctQ3Q4WGFTbkpYYjhwcUQ5SnprQmVlUFhQNTdmUUcwd09NeXo5WjBIelF5eEZWWFoxWE5aQkJqY2MyRlRqVkJjQQ?oc=5"
-        },
-        {
-          "name": "Readers.id",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV29Ming5cHBDbXREZzRQVDdQRUtFZ216WWwwQnlRYWE5Wmh4M2ppblg5UExuemQ3d3M4YkxRYWMyaWQxaHFBMjYxSVNtRTRHdlQ5OVd6M19CNWt4R0ZCM0F1dTdBQ0JNVEU1aURzemRObTltMEtvb3RPcHk2Sk5hanAwUllhQnB6a1gtZFdMS0JHR2k2NHo5RVY3d3VybWNRdVhqREtKUWVMWUxJaTBub0pOdm1VTUo2WkM2Nkw0N0ZzTXpfRS1oU0lkQXpSZm5KTVVwYmVuaXNmNUotaEZiRWd4bktkWXJHaERjT3FpamtzaHdLRlBXejEzTHlRMFU3ajZVdnJOMUnSAY4CQVVfeXFMT0pTVnZxNmFzUERTbDVGelF6V1R1dmFCbDY5cF9wVU1nV0o5Wm9mOTh0NWRpcE1mSTdWM0hMa05DV3dkYlZpWGlMSDdXcTRqdWhIXzFKVTBLOXJGNmxDaXlBWENEdmVVdWJ0RnUtUDV3a25LbXVMSFNjbjZpUTk4Mm5aMi13b3NJLWVpYWFEamFYdDltRXA1endVSUZEcEZjMTFUSGJKVnVsR3U0YWlES29rYjZxdjc3REk4b29Ua25NamN4RTYyZWtvWFFmWkNmRzExOVVkVEhBcUFSMHFnV0VNSDlEN2dMQTR5dDlZV1RnUjVtd2YtVUFxbWxTRHdBOVN3Qk9mUEdsa3lsNTFR?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BRMS",
-      "title": "Asing Melakukan Akumulasi dan Status MSCI Global",
-      "summary": "BRMS termasuk dalam daftar saham konstituen MSCI Global Standard Index. Asing melakukan pembelian bersih pada saham-saham pilihan termasuk dalam strategi investasi setelah beberapa saham terdepak dari indeks MSCI.",
-      "sources": [
-        {
-          "name": "achmadnurhidayat.id",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUlEVDlVenI3SVVoZkRSOXE5LVpzbEhScU1PbGk5SXRsY2MxMUlSSVB3XzZwMHFTbjZVaWVxWXlzT29CcnBCcUR3Wi12M2ZUSjJQNXFRSXhfdDE5MDhadWdvWlVIcnAySEZSMFNPYURZLUpJcjRkVEdvYTlCZ0NPTFcxNnNUamt5QkdubklMTWhBR3VzSlVXc05B?oc=5"
-        },
-        {
-          "name": "emitennews.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3dTNWZwYkkwSkYtNXItd19jREZWbHplb2E0S2R6cjk2TWlVdFhDeXBZbUlfN1RCQW1pSjJ5NXBONHdrQ0ZKbTBmd1hyWldoblVUN2FxaW5AOHRDZTA4MWdfM2d5MjFhN3VxRDhlU2QyNXNxNUJGVjA1cFBqd1ZWRTN0QVRrNWY2MWFhYkt2SkZJQzlJQ05UbzhB?oc=5"
-        },
-        {
-          "name": "Mikir Duit",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkdYc1BLcThXM2lFMjZ5ZDRkTnVrM0N6RjlkVS1jRlNSNGNXNVF0T05uRUlXX29INVdWOFpWc25ZYVNZY0RQUjhkZnZWZV9YVWpkV1BjcjV2U01aaUVFYmNzSy1SUDFwVEdkTWhhV3lkMVg0WFM4dnRZVFhIWUtKSFhyd2JrQ0dGWi1MemNkNjdOcTBNT1gwM2dGOHZWNnZpc1RMcg?oc=5"
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQk5ITExuT1NqLVVHSHoxa3QzREF2cWVVcGJpMUtreUcwOHpaa01RLXo0N0h5c0xWQWNzYkhELXFGcWRPR0YzT2EtWUhJckk1bFRMeFYyT19UZFpPYy1iY05ha0UySk1DNnI1NVhZVWphbWdOMGFNMDduNVVBRmVlbUozRFVrdw?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BUMI",
-      "title": "Pergerakan Harga Saham BUMI dan Aktivitas Asing",
-      "summary": "Saham BUMI menguat ke level Rp185 setelah asing melakukan pembelian bersih, menunjukkan pergerakan positif di pasar dengan investor asing memberikan dukungan terhadap saham ini.",
+      "title": "Performa BUMI di Pasar dan Indeks Bisnis-27",
+      "summary": "Saham BUMI mengalami pelemahan dan menjadi penyumbang penurunan Indeks Bisnis-27. BUMI menjadi fokus pantauan investor di tengah kondisi pasar yang dinamis.",
       "sources": [
         {
-          "name": "achmadnurhidayat.id",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZbDhUeEVoU2pYdlhqd3J1WlJXdjV0YzM3b2YwQ3A5SHl5RHRpVzdDV09KTGd5dXNFMTRYYkJBS1ZFcVBZRVdrNEhLbEhyLUh6dTFrSWFzRld3TDFLZnhFTWZjQ25sN2tkX3pyUw?oc=5"
-        },
-        {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUURnU0tMZk1WeWRIMXRFdG55MjhIWHBweThmVTAtUnB2TkduVkNMZHp6b1F2MW9HSVlFelJ0SUhVUU91ZVFhYnhTLVcwVnduaGhjYUhaeFZnMEtqQkFJdnd1NlV2NDhjM3c?oc=5"
-        },
-        {
-          "name": "Bisnis.com - Market",
+          "name": "market.bisnis.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVRfWUVEeTE2VGdIOTVKZ05UZi1oSVNYSkhSWHVxMkx1TER5WlNIV1ZEdk1qcEJTRDJ0VzlxS2E5QWlFbmRJN0ZjLXFveWNkdklEa3l2cE5tR0tyd1hpa24wTGFlUktKT003aThDOGhDNDFVMlhBMVByeFNfLU9NMHEtdE95WWxyeEg4MmJkQ2x4eUhhN0hhdEVzLVpyNTdWdHRTU3BLbERqbkd4YldwbDVFQXRDTTdQWXJCMnJn?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BUMI",
-      "title": "Target Harga dan Berita Populer BUMI",
-      "summary": "Target harga BUMI dipatok tinggi oleh analis, sementara saham bergabung dalam berita populer investor dengan harga saham mencapai Rp185 pada perdagangan terkini.",
-      "sources": [
-        {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWx4cktKQkRBcnh2VjMzclY3V2xmbXNWdDZIWlN6czZOa2FTQlBHVk03aWZKMDNDRWRKVW9sY2xZTVlXRTl4WkZyclNRZFB5dVR4MHUtTDl5b3pKU01lcW1rc1NyaWFZbHU1LU5ZQkJGeGxUUFktTENGaEtDT0FnODN5LWVOUEg2eS04azdZNG41eWhkRGJRellJeG1VSURfZzVYX1FSZGF0TkxHd3hnZGlrQQ?oc=5"
         },
         {
-          "name": "FORTUNE Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1BiczZlUDB4Q3RiNlM1Wlpob1dGUWZJMGV4V3J6bXpvRzZINU9VdGZQaGN6VGV0RWhLallXa0l5ZlRXTVhtTGcwemZQa3N2OGVJZHBhN2N3UExaamFmYi1aQnpxdll4b252b2tiWnRGRXI3TlVXM2NqaTBJQjZZLVBBWFFlZXZxNmRvQk5wMk5BckFzTXJVUWFXSEl5T21EUEFWV3h3cE9TNEJOTXFjcDdR0gG3AUFVX3lxTFBXX0kzZWJQb0VCaHRIM1hoSURGekw1NzBURHREblo4bUNEZkllTzZsZk15NDBJR3o4QXdWWDZfZ1QyTkU1VkVpUE52Q2h0MmsxTGdNMFJFVkNHdlhsRERVLXBGMDlCa0FfUmdCZWpVU0xWUF83a0JTeHVQalhUU0x1NmF2MzFhdFIwMVBLSnFUckt5VGQ3UWpZOE05ZjNrRWhrSUJyaVJ1aU8zRC1CQld2U3MxNWU0UQ?oc=5"
+          "name": "katadata.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVzFzYTdtOV9kcVhUWkFJX3AxT1liQ2tGMzhvenpjLW50WVdjWi1TcmdnZDI2VGRKM2hYVEt3RldyV204MzJySmhWMHdTcWhMakV1NEFQaHIzeWQxWUVrNkVHdVBiVVpFSjU2Ql9SRENZeXVMX2RFY1VHTHNtVUxlUEE1ZUNQaTMtalRoMTg1cVVYNXlIOUNzWTZzcEFBUmJPck12VTBoU3YzLUVWNFJEdF9IYjVNZXVsM1Q0aVltbV9NUWZhdldiM9IBzgFBVV95cUxOTm1UaUg4MHE4TUxyRHdnYnNRYzRNMnZ6Z2NNclItNmdsRkh0TmdpZmRMUXVZY0tLOXg2YVJZX1ZyS21qZTI4S3FBc1gyRlFlR1dzTlhMekxQN29scm1HVF83cWdwRG4tTHVvVTlvMmh2bW9yVmFHZ2RaVGZVYzNoYVBoV2ozQkE0eGJpTGhrNEJOMlJwbjNsOE41WkNlWDh4aHF0em54cnZKS3ZXeGVwdk5NOW9nc2RFajNvYk9fakU0bG5uSDM2UTdJWHNmQQ?oc=5"
+        },
+        {
+          "name": "katadata.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTlZaYXd0NFkwYlRwZEIzM0F4N3JGRVNwVzZ5SHZGdmk5NjVJN3pRaGllTW44Zkt6WEVoSUE4SDRxVFdIeVEyY2xmS0x5WldYTWxjcTdYREZ0Smw2d1VHbVpQSm5XakQzekNTME1rZFNXYzJXVWNRaVA0NFA3UGhOR2lvNHJYenN4aGZMVlJySmhZUTFLWVJ0cUN0QW1vVWJzeUpLU2otOFI1c2QwS3g4TkVoNE4xOXBVRW1yMGZBeEtkUdIBxwFBVV95cUxPNmZCOXhpLUVPODY2QTVYcGJkeERkVmNwc3BQeXFsMFM5SWtHR0xWNW5SeE52ZFZwUEJQZnFueUZGVGRnekJUZEIyVFlkcUFwZGlNaFloZGU5Y2tIbDJYSlVKQmFrc1NHa21yTDFEaFMwN2o4QWFxWlEwNllFMGlDM1pUbG1TYjdsZW9xcEJuYlZvQ05GNlVOV3ZzSHNOSHdzVG9PVzhHNVA2YmdQcnY5M0Zad2M3ekVFdUY3Z0dPQXc3YVlIMnlv?oc=5"
+        },
+        {
+          "name": "katadata.co.id",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc2NSX093MFZRY3lIb0loOUdwZXFYUlp6dWI3a1AzLUxzVFkyOWs0ejBRVnR5ajBhVG01TzFJUndkSlRldW9ZQjdVSlN0SF82M0FoV3B5S3VYSlhfSldWcW1oZmZDUS16NTFnSXZUa3QyOHgtQUt4dlBFWWxhOGNrM3dMcEJGUUlEUnFhaElRQ3F6b1ZoVGdoNHlCdGZSQ2xzY0dMVDU1R1ZKNWRYUFcwWnBMZFBxcVM5ODdKSUxrOGRyWU410gHKAUFVX3lxTE1MaW5BaUhOcEQ2a0ppYmlDUHBPQm90Sk1RTkVaSXZOWFAwNVZrT3NlVkRkdC01Qk8xeGV5aG1XNDZFamR1TWZzeDZFazIwbW91Sng0Rkxqb293Y2F6bWtYWVhFTGNOLVdxc1dZRFFiVGFTUGVKVVBUOFNkZ1VVeURPSHlOazkxaWwwRWlsZS05ZWZrOV9qX0JjQ1JaUVR5ZVlqRENmUlFneU1WUU1ma0NGX2lSTDJOY2hRZnlFMW1Fc2xfZ0dLYzhoZVE?oc=5"
+        },
+        {
+          "name": "katadata.co.id",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmJSN3lnNG0wSmVHLTlaSG9ucjVLNy1jdWtHNnoyWFV6ZXdwd2pYQkRMai1WdHdCTGhFZVJGa1B3enFtSGRkSjdRU2hDMzJqR3JkZHA3QW5udlBON0s2NkxPUXpia041TW9jRzFfaFFtZWlLVzJNd3hka1R2dWJCc05SUms3NHZkdEo5aVVHZTIzdG5SRjA0OGlZWkVUTWl5aGdtaThIVWVOUnY5cFBxLWtEVGRyOUVOaC12NWd5Z9IBxAFBVV95cUxNMWFQZEE3RU12S3VHMnFXVVRKektrbDNuVjBRaGt6Nk1TTVlybXg3am5rc3RsTERRZ1BnTXE2WF9BLW85bGl0bnY4cUJtTnJBV2dnVGdqQ0N1VjBkeFJVV0ZLOE9seHFwbVVEdHdPQkJhSkxQeGVDdFVuTkJid0JMR2Q3Z3pZaFdCVzFlNWEzcU53X0pDM2M5VW5ZVHVLM2x6Q2w2SURTRHV1bEVxdUhETXFxOGROUmNmcG9jeFNBdmNFdXIx?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "Laba Bersih BMRI Juli 2026 dan Aktivitas Bisnis",
-      "summary": "Bank Mandiri (BMRI) melaporkan laba bersih Juli 2026 dan telah menyalurkan KUR senilai Rp25,63 triliun untuk membantu lebih dari 56 ribu UMKM naik kelas hingga Agustus.",
+      "title": "Analisa Teknikal BMRI dan Laba Bersih Juli 2026",
+      "summary": "BMRI menjadi fokus analisis teknikal dengan target IHSG 6.440-6.544, menawarkan peluang menguat di pasar. Laba bersih Bank Mandiri (BMRI) untuk Juli 2026 telah diungkapkan oleh pihak manajemen.",
       "sources": [
+        {
+          "name": "IDX Channel",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHpvR0s0aTNreW4xLUd1SEZMaEhPWDZSQlJHdi1uUnVqcUdudWlfUHhZc2RERFVxXzJOb2lKRjRqazR5YndRcTVpclpjQ05uZzRGNTVNRzhaSEFfYTYxcUVPQzNxX1dMNVJNSFlCaUtfaDQzUjN2ak9pTXE4aE1TQ0xTdTdKem02OXhhWlJLOTFOU2JfZmhObUtxLTFqTWRIVS1FOHpYb2NkeUR5cjdQbVJGVFpGbVp2RlBFRFR2TnNCclRCQW4xZlFn0gHPAUFVX3lxTE9yQVRXeEptTUx3bkhKYlA2VlR5Y2xGV1VwQ0pHdFRXd2I4dEFMd3Z1dC1yQWNEVnI2NURpdUthWDlWZng5enN1OWwzQ1JUYkJTRmx0S3daNFhpWHg2U0lqMEk0aVN3a3dDOFZaV0NmTDVZYUpHWVVHT01iczNkc0ZXdHM5UFhPRVJoUlBZQ3p5WmhxNE5LeHV2SUhMRTVOZEVGby1iTWZSNlBIdnpYWmNOSjNFaEJHelJHMVJTWnU5RnMycU5SZkU0cWVLZGZfVQ?oc=5"
+        },
         {
           "name": "investor.id",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZU81NlZoZ3FBZm5nODdZcGpwMDFsMVI5U1BrTndHYzZJM2I3bFNLNGREUDRWZmU0T1Z2LWktMXc3TVhIcWxldkpsOGM3UUFNazlwLUFoYzFha1FYTlJGaXdRRzB6ZENVUWhCQkc1RjJ2UGVFYTNlbWxmdDNkUWxHNjU2cE0wd25mZGc?oc=5"
-        },
-        {
-          "name": "Media Asuransi News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanQ2ZnBkZjBEZ0U0UDh6QlItNDFldmR1aHQxR3dUcGJjVWd6OGFhU1JaN3lDSUEzVG1odTNfQlFuOHRfVmwxNEJsaXlKZ0IxNEJRMHBDRS1GUHZzSmJ4Q05TSXRLU0Z5QWNyWndlemxTNHdxWGFteWZ2TGl3SS1SS1hEZ2pORHp5NGhLR0djQ0ZNU1BGMi1QWVZtbENaSW9wd1dXbnRsbm5RZVFwX2dIYWl4dDBiR3p0X1NXUUNrbWMtN1daQnhqSTc5MmRCRlk?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BMRI",
-      "title": "Pergerakan Pasar dan Aktivitas Asing pada BMRI",
-      "summary": "Asing melepas saham BMRI saat IHSG mencapai level 6.373. Investor asing juga melakukan pembelian pada saham-saham pilihan emiten Prajogo Pangestu termasuk koneksi bisnis lainnya.",
-      "sources": [
-        {
-          "name": "achmadnurhidayat.id",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ed1VxUE9ZRks3VVpaNnkxUFFyd1VDXzVkNDNDejhzZ3NFRUE1VXZrTDRpdW0wZG5lQ1FvTUZYOXM2eDljalFadjNoU1RGdm5GcWphSVVtcW9keS1VOXB1VnRnQlUxay04UHBfQkE2bW1pbVUyamZj?oc=5"
-        },
-        {
-          "name": "Bloomberg Technoz",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlpDMm41V1oteDVCMXl6d3BsSXRYTHRpY3ZQM3hSMGJNSklDU0E5QlRZeTlFOENDaXlNT1FKcl91NmRXUzhLVWEyZzdsOXFHRmNpQkF3MXMzX1hFeXY5N0YxNmdvZ3R4Tmc4WVI1U2dqX3ZZZTFKYWdnTERtWmlMQVJqSGtCaG1odi1wckdUaWhpSVBPX3RfS3lrYlBuLUE0NGl6OGxPZTFacnM?oc=5"
-        },
-        {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGZ2syQTVhQVR1cjdKaUMxdnNTS0VUTzVUaDZ3dzMzWmlwNUpqcTQwZlgtOTFIcFBYcjJFaVVLQmJ1MzFFSTdId25LQXJmVkZ5Zks4RFNEdHR6RkJoOE9TeHRYRmpvUXlCRnd0dHQ1NkFlNVJqN213eEF4dFB3YjQ?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "SUPA",
-      "title": "Berita Saham PTRO dengan Penguatan Signifikan",
-      "summary": "Saham PTRO menguat 47,75% dengan investor asing mulai melakukan akumulasi, menunjukkan minat investor terhadap saham tersebut.",
-      "sources": [
-        {
-          "name": "KabaSumbar",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84VkNVTk04bHRLUy16R2g5dG1MS1JUNEVXd2FSSFJUZVhfNlVlYnZXQ3p0elZqRHJ1NG1UcDlvU25ZLWw1VW9LTWdEWHlZR3pnR2E2VFU2MHBOQlo2cFRNckVjc1RqeHlYcWNYbVFoME1iWEp1dFdz?oc=5"
         }
       ],
       "category": "personal"
