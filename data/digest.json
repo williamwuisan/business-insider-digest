@@ -1,106 +1,98 @@
 {
-  "generated_at": "2026-08-16T03:31:07.867982+00:00",
+  "generated_at": "2026-08-16T07:58:56.754629+00:00",
   "items": [
     {
-      "tag": "Perbankan • BRI",
-      "title": "BRI Raih Dua Penghargaan Asian Banking & Finance Awards",
-      "summary": "BRI mendapatkan pengakuan internasional dengan meraih dua penghargaan dari Asian Banking & Finance Awards, menunjukkan pencapaian bank dalam layanan dan inovasi perbankan.",
+      "tag": "Makroekonomi",
+      "title": "Target Pertumbuhan Ekonomi 6% Masih Realistis",
+      "summary": "SBY menyatakan target pertumbuhan ekonomi 6% bersifat ambisius namun masih achievable, bukan hanya mimpi yang tidak mungkin dicapai. Pemerintah terus berupaya mendorong akselerasi pertumbuhan ekonomi nasional.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRWg3bGtWQS1EV21id3ppbnJ1dGYtM3hqS0dJSllDeGZ5bnZPMXNhRElGWXVQQm9PTnI5OTkzc19YeXg4YjJ1Y0dRMVpQcGZGMmQ3UDZuNW56S21qWldhNkN5Nnh6MldkQ0dybVRDWUJRWDkyeFU3VGNWTElCakExUkF5czI2R0JQWDNQNGw0enpzZGQ0TE51X3JJVkpXZW9JOFRBTEZzOUY4QWJzZ3NmbkpCOEExWUthUkhhZjZyMTR1SmtWQm9acW5wNmoyUdIBzgFBVV95cUxPRWg3bGtWQS1EV21id3ppbnJ1dGYtM3hqS0dJSllDeGZ5bnZPMXNhRElGWXVQQm9PTnI5OTkzc19YeXg4YjJ1Y0dRMVpQcGZGMmQ3UDZuNW56S21qWldhNkN5Nnh6MldkQ0dybVRDWUJRWDkyeFU3VGNWTElCakExUkF5czI2R0JQWDNQNGw0enpzZGQ0TE51X3JJVkpXZW9JOFRBTEZzOUY4QWJzZ3NmbkpCOEExWUthUkhhZjZyMTR1SmtWQm9acW5wNmoyUQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Perbankan • Regulasi OJK",
-      "title": "Cara Bersihkan Nama dari Catatan SLIK OJK untuk Debitur",
-      "summary": "Prosedur pembersihan nama debitur dari SLIK OJK dapat dilakukan dengan langkah-langkah tertentu meskipun masih terdapat tunggakan, sesuai dengan regulasi yang berlaku.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY0RXUEpCRWJWaWRweERpTXNJMzdSQkJ3NGRuZjYwdmFRREUtSmZsZ2lSNi1iXzZPZDg5bVJUYUxHd2k5anRuYXItZC1BSTZhUEsyNzViMGUxSTR3akxGajhsbWU0Sktrbk11ekE2R1VmaWpodU1rZTNiWHdkZHpaSTNFQ3VlSWR2ZUVVOHNqaVl6VktqVjhoX3Nvd3lJeG1XRk4xdWhfSFVFT1JDT2xEZ0IzTE5CRmZFaC1sSC1rcTAzNXpEOUV4U05VcFlJSTjSAc8BQVVfeXFMTWNEV1BKQkViVmlkcHhEaU1zSTM3UkJCdzRkbmY2MHZhUURFLUpmbGdpUjYtYl82T2Q4OW1SVGFMR3dpOWp0bmFyLWQtQUk2YVBLMjc1YjBlMUk0d2pMRmo4bG1lNEpLa25NdXpBNkdVZmlqaHVNa2UzYlh3ZGR6WkkzRUN1ZUlkdmVFVThzamlZelZLalY4aF9zb3d5SXhtV0ZOMXVoX0hVRU9SQ09sRGdCM0xOQkZmRWgtbEgta3EwMzV6RDlFeFNOVXBZSUk4?oc=5"
+          "name": "CNN Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDFTWURteDBsWmtxbUNrRkNPazBzQzIxdjJEWnBrTDFucU90MXBNRlE2b002RDFmbXY3cGhfWlpUbW5nbVpPOG9qblRWM3Q5Y2JQUFBGUEgzclhXWWtGczJqc2VEZmtVSXo0ZnlOTEVTSE43MFlXRGJubE9hSkNpN2JUWC11TkxMLW0ySnV1UzVLNHd5WDJZbVNsa3VvMTVscTdMWlphczNOUnNGMjFJSXI3N2tPSjRQTnV0ZTQwYXptNEV0NEHSAcsBQVV95cUxOTnVFUzBzcTNMM0I1eDBIVkVWNkF6MzZEdnpMdUw4XzJCa0xpWG5GSzB0WWszbWZ0d24wckEtdFJQdExGbDZFVDJkUXplMmNRVjlNcFl0NkZucEU3dEtsOUhRLUJiQUlWRlZGMGQxWndWVEJsVW1KaVMyMWFXVFpqZWs0eWMyMXFhRmR3VnpGMllWUnNVazFXWkhWWFRqQk5WVlJWVFdwU01FMTZiRkJVVmxVeVZrZFdWRVJYYTFkRWJHSnlSMUIzVlhsNFZscExVMnh3Vkd0V2FrSkhjR1JYVlhkaGVWQlhWbFI0VkZkV01GWlhWbEJT"
         }
       ],
       "category": "domestic"
     },
     {
       "tag": "Energi • Pertamina",
-      "title": "Pertamina Tebar Diskon BBM untuk HUT RI ke-81",
-      "summary": "Pertamina menawarkan diskon bahan bakar minyak untuk merayakan HUT Republik Indonesia ke-81 dengan syarat dan ketentuan khusus yang telah ditetapkan.",
+      "title": "Pertamina Jamin Penyaluran BBM dan LPG Pasca Gempa NTT",
+      "summary": "Pertamina memastikan penyaluran bahan bakar minyak dan liquefied petroleum gas tetap berjalan normal pasca gempa yang mengguncang Nusa Tenggara Timur. Perusahaan juga memberi diskon BBM khusus dalam rangka menyambut HUT ke-81 RI.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczZQcGNfWE5iVW5jaHg5cm1LeGtCR3RuUzVIZUVPZkd5MmNDZjFrQ2NzMXY3NTdpdHJCbjNvaUtRLWNIcWM3d29BeDd4XzdkbWp6X01TSU9LY2JUdFJpYThzakY0aGNRSlJwS0V2ay1TZ2hLM3FoZ00wSkNieWtmTlRVLUZxOExMRnhaczBlZGc3Y1FxQ3IxMTJXVE1pTUloLUlpOHVnamRjUlBGMFd6VWk2dXFQUGswX1Jn0gHAAUFVX3lxTE9mZTNZa3YwTU44Y1UzZnFoLTBDWWhjdmhPajFOQ0c0S3dxZEpkUmVicXhhalVTc25NcEo5NVFfSDg1RklGXzJiVXVQWTlHTnB5bWVBeG5LWkVnUmIwZk1fcklwUlQxUEdWdzZfUllnVEQ1TUduUnlrUnhXd21tZlNhX1Rrc25rUkoyWHhnSHNXMGVNYlJPTjRlWDdBejlqd1Q1WHItQTFqNGZZNHlKTUZHMFBjVThXVWFHSW43OUpSVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0tPOF9fYjgyLUhodFNXblY3czJzRi1zdHhIZ0tvbktSWGQ4dzVyYzZvTWdUOUl3a0l5YnhVcTlJaVVCWFNqSkowakRhWXM5TkVhSlJoUmFwTEFXNTVnWlBta3dveGwtbjNJLVpjYWJNZDFVU1dpY1ROUWE1Uy1pVGFMeDBjNjFOTjZqY2Fzb0ZxYnpKVUd4NFhheWJycmV4YUdGZ2tXSzhPM3VETGs4aDJaVWtBVWhfMEp3UE9adWtlNHpBWk4xamt30gHKAUFVX3lxTE1GUk1SVUpGYkU4eWRHRlFRWGRQVWpCeFVrVjRTVmRVVFhsUGFURktSa0ZKVUU5UGFVNURUMVA1VTBGUFQxUkhSRGhQVjAxVlVrZEZNRWRVVFRGUmVVNUVSMmhPVkd0VFVrZEZNRWRVVFRGUmVVNVVSMmhQVkVGVFRVRkJkMD09"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZmUzWWt2ME1OOGNVM2ZxaC0wQ1loY3ZoT2oxTkNHNEt3cWRKZFJlYnF4YWpVU3NuTXBKOTVRX0g4NUZJRl8yYlV1UFk5R05weW1lQXhuS1pFZ1JiMGZNX3JJcFJUMVBHVnc2X1JZZ1RENU1HblJ5a1J4V3dtbWZTYV9Ua3Nua1JKMlh4Z0hzVzBlTWJST040ZVg3QXo5andUNVhyLUExajRmWTR5Sk1GRzBQY1U4V1VhR0luNzlKUlXSAcABQVVfeXFMT2ZlM1lrdjBNTjhjVTNmcWgtMENZaGN2aE9qMU5DRzRLd3FkSmRSZWJxeGFqVVNzbk1wSjk1UV9IODVGSUZfMmJVdVBZOUdOcHltZUF4bktaRWdSYjBmTV9ySXBSVDFQR1Z3Nl9SWWdURDVNR25SeWtSeFd3bW1mU2FfVGtzbmtSSjJYeGdIc1cwZU1iUk9ONGVYN0F6OWp3VDVYci1BMWo0Zlk0eUpNRkcwUGNVOFdVYUdJbjc5SlJV"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Infrastruktur • Tol",
-      "title": "Pembangunan Tol Baru ke Bali dan Jakarta-Bandung Terus Dikerjakan",
-      "summary": "Pemerintah terus mempercepat pembangunan infrastruktur tol baru termasuk rute ke Bali dan proyek Jakarta-Bandung untuk mengurangi kemacetan dan meningkatkan konektivitas.",
+      "tag": "Kelistrikan • PLN",
+      "title": "Dirut PLN Kawal Kelistrikan Nasional Jelang HUT ke-81 RI dari NTT",
+      "summary": "Direksi Utama PLN mengawasi kesiapan sistem kelistrikan nasional menjelang perayaan HUT ke-81 Republik Indonesia dari Nusa Tenggara Timur. Pemastian pasokan listrik stabil menjadi fokus utama.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlozaGJSTHhSVjhtX3NDZnhOYjlMQ01kMnZwWU5ETUVZQy1TRjIxZkQ5Z2dwa2JlYy1SX3U4RnlubFpCRExPa2lTMGxRcTNock82TE9iS0s0bEpvU3lISVlRRzBlblhIRU5sSWZVdFQtWk12bUNGbWN5UV9HZnVCUTMzV0djcDZnVUMtRVJzM2NjajEyQ3lVdmFlRTRtdnJuYjZxMC1kWVJmUXZOdTRMVlV4bkVBeDlHUUU0aExDSHRidEN5OUZra2JXc9IBywFBVV95cUxNdlozaGJSTHhSVjhtX3NDZnhOYjlMQ01kMnZwWU5ETUVZQy1TRjIxZkQ5Z2dwa2JlYy1SX3U4RnlubFpCRExPa2lTMGxRcTNock82TE9iS0s0bEpvU3lISVlRRzBlblhIRU5sSWZVdFQtWk12bUNGbWN5UV9HZnVCUTMzV0djcDZnVUMtRVJzM2NjajEyQ3lVdmFlRTRtdnJuYjZxMC1kWVJmUXZOdTRMVlV4bkVBeDlHUUU0aExDSHRidEN5OUZra2JXcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdERmS3FITmx2MzQ5MEpjNDVEekJnd3o1RTBQUW5CNkxsU1lIQ0xqV0MyWDNSUFhTbk9lOU1iTDdDaTBaSWV4cWk0SzE1MS03TmlRWmNNeVJVLVRzY3FXdThORHBQS29wczVnUUdKM3B5U1RlQVpqNG4zdHBlZGFkdE8xZE5IM3JxRDFnUVJQTHhReW80TWJlVnpBYWZiMjRxSnRZUDdreVhoa2VBMklNSU0zczJ5Sm12N0lzaEhhLV9MQdIBxwFBVV95cUxQZ0NXMVZrTHNhYVRlX1J0TXlfNGE4Z2VkYmptblZNTGZPcEtVeFhiYjVXV3lUZzFTVlktOGRuSE1FcVVuTFFtVlZJblFvUmdweDdyN3F3ZF9FT3NLQm9KTDQ5Y01mUmdFUXh1YXBHa21QbURZUlNCQ01oNzdHbUxoOVMwWGJtcy1mcHNJYkhWTjYyN3JqMmNyaU1pa2Y4Uk5PZHVFa0NNNWkzUDhOdmtlNDd1Ukk4amY2OTBxWlBoNDh5ajVXRERr"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Ketenagakerjaan • Gaji Tentara",
-      "title": "Pemerintah Naikkan Gaji Tentara 80% per 1 September 2024",
-      "summary": "Presiden memerintahkan kenaikan gaji tentara sebesar 80% mulai 1 September 2024 meskipun kondisi negara sedang menghadapi berbagai tantangan ekonomi.",
+      "tag": "Perbankan • BRI",
+      "title": "BRI Peduli Bergerak Cepat Bantu Warga Terdampak Gempa Flores NTT",
+      "summary": "Bank BRI melalui program BRI Peduli segera memberikan bantuan kepada masyarakat yang terdampak gempa bumi di Flores, Nusa Tenggara Timur. Respons cepat bank menunjukkan komitmen dalam tanggung jawab sosial perusahaan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGt4M3JPcDBpWFFEeEhSNHlHeU8ycFQwaUM2VzRsQWR2SjdTUUUxa3diZVRIZzhBeXBobHVVWjNETERlX1YyMFhmNEVCSEtwZlo0dUszaDMtMm92bVExMXZhaGtEeVZsUnBZaXEzZmtRREFfQ2RwNlUtVGNLTy1yeGVYbmJ0SWxCQUNhTTlfRE1QU0hRRjNXNjJqdU9OSjdKempzelZjbkl3X1hZbzZ4cUNsajE5WWVLODFVUnE3MFRpdl91ODhIdDh4Y9IBywFBVV95cUxNTGt4M3JPcDBpWFFEeEhSNHlHeU8ycFQwaUM2VzRsQWR2SjdTUUUxa3diZVRIZzhBeXBobHVVWjNETERlX1YyMFhmNEVCSEtwZlo0dUszaDMtMm92bVExMXZhaGtEeVZsUnBZaXEzZmtRREFfQ2RwNlUtVGNLTy1yeGVYbmJ0SWxCQUNhTTlfRE1QU0hRRjNXNjJqdU9OSjdKempzelZjbkl3X1hZbzZ4cUNsajE5WWVLODFVUnE3MFRpdl91ODhIdDh4Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXFPSnVVWm04RXhGc2hNdkZfRXZZN2VyTFJrM0tYME1CQjBaTlIzek5mV1lreXJTeVNzcGZ4Y283STVJM2VrQldUS1RpcTQtWTctTk5oQjJvNWZLelJzVkhhblRvamZkMGpDTGpfand5ckRyc1VfR2wxX0N1UC1GVFgyY0JuSVV1ZXU5ZnlQNnJWaHBYczZsTHdGaWlQaFdqeW1tYXZFM2Vfa2dmQ3BZTVZ6TkRzbzZSSVNQWDVZN1d1NTYySXI40gHHAUFVX3lxTE8xcU9KdVVabThFeEZzaE12Rl9Fdlk3ZXJMUmszS1gwTUJCMFpOUjN6TmZXWWt5clN5U3NwZnhjbzdJNUkzZWtCV1RLVGlxNC1ZNy1OTmhCMm81Zkt6UnNWSGFuVG9qZmQwakNMal9qd3lyRHJzVV9HbDFfQ3VQLUZUWDJjQm5JVXVldTlmeVA2clZocFhzNmxMd0ZpaVBoV2p5bW1hdkUzZV9rZ2ZDcFlNVnpORHNvNlJJU1BYNVk3V3U1NjJJcjg"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Listrik • PLN",
-      "title": "PLN Mempercepat Pemulihan Listrik di Flores Pascagempa",
-      "summary": "PLN memprioritaskan pemulihan infrastruktur kelistrikan untuk memastikan fasilitas umum di Flores kembali teraliri listrik setelah gempa mengguncang wilayah.",
+      "tag": "Kebijakan • BPJS Kesehatan",
+      "title": "Menkes Buka Suara Soal Rencana Skema Baru Tarif BPJS Kesehatan",
+      "summary": "Menteri Kesehatan mengumumkan ada rencana skema baru untuk struktur tarif BPJS Kesehatan. Kebijakan tersebut sedang dalam tahap pembahasan lebih lanjut.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQi14YjZhVThjckt6UnY0TFlJTDhtUEZYTS1JVFVFSGlDWmowR0VGVGo0SWNwX1ZFc0NabXE5QldtWXdib2dqbG1CTEJ0OUlkTi1oeW5ybUhrNWozYzlzOTFjZUhMUHpXaThGcjFOVmhOVkkyUC00TnJfRU1Cd1d6VUt4Rnp0b1lsQUExbW1mQTg3dWtoS3BkRFExLUJJcWI0Y2hPaklLRV9pSzRWQmIwd3ZLcjN5OEthUGlENld0VS1VNVVqZlHSAcYBQVV95cUxOQi14YjZhVThjckt6UnY0TFlJTDhtUEZYTS1JVFVFSGlDWmowR0VGVGo0SWNwX1ZFc0NabXE5QldtWXdib2dqbG1CTEJ0OUlkTi1oeW5ybUhrNWozYzlzOTFjZUhMUHpXaThGcjFOVmhOVkkyUC00TnJfRU1Cd1d6VUt4Rnp0b1lsQUExbW1mQTg3dWtoS3BkRFExLUJJcWI0Y2hPaklLRV9pSzRWQmIwd3ZLcjN5OEthUGlENld0VS1VNVVqZlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWVd2TnlkeDhZRDNrenUyenN1WGNjNjNFX2otYVpteGZNNXhpRDlkTUVqUnJvMEZucHBhcS1HZEtBUXZsdC0yV1RjZWFvbUVKWVdDSmtzRy00bXZNTFJFdEF4X3Z4MFNBY0ZpSHdONDhQX2tJSlFrZmtSVnB6Q2N2N2lrbkdmV1YtRlk5aUtjQ3pUdllMUUtkWlkxVHB1bGFubEZvZW40RzhZa29hd2JZUkdtNldEcm5UN1BBSFhFUXlxdzFwSFExWdIByAFBVV95cUxQWVd2TnlkeDhZRDNrenUyenN1WGNjNjNFX2otYVpteGZNNXhpRDlkTUVqUnJvMEZucHBhcS1HZEtBUXZsdC0yV1RjZWFvbUVKWVdDSmtzRy00bXZNTFJFdEF4X3Z4MFNBY0ZpSHdONDhQX2tJSlFrZmtSVnB6Q2N2N2lrbkdmV1YtRlk5aUtjQ3pUdllMUUtkWlkxVHB1bGFubEZvZW40RzhZa29hd2JZUkdtNldEcm5UN1BBSFhFUXlxdzFwSFExWQ"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Ekspor • Pangan",
-      "title": "Indonesia Mulai Ekspor Beras ke Malaysia dengan Potensi 200 Ribu Ton",
-      "summary": "Indonesia memulai ekspor beras ke Malaysia dengan pengiriman awal 1.000 ton dan potensi peningkatan hingga 200 ribu ton sesuai permintaan pasar regional.",
+      "tag": "Kebijakan • Gaji TNI",
+      "title": "Presiden Naikkan Gaji Tentara 80% per 1 September",
+      "summary": "Presiden mengumumkan kenaikan gaji tentara sebesar 80 persen mulai 1 September di tengah kondisi ekonomi nasional yang sedang menghadapi berbagai tantangan. Langkah ini merupakan bagian dari kebijakan apresiasi terhadap TNI.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVRtZW90Q0xoaFlRWEJCM3B3bW1aMkh2NUdayllON2s4T3BYMWJMblRTazkyUTZDMk1iMTh6bXYtdXI5NXI1SDBjbnZibWViMFVHOW9Da1RBX1NVUXc4TkRtMU9rTVNycmx6cVRNWEVja0JnRHdGQVhjanV3S0puQ2JoQldjbHFYSFpHcnVFaFR6eGxhLWZuZzZMeGdsWlRnTGFCS3BUOUx0eHlDT1pjU3RIWVpUczhYekY5ZzJEQ2JRbkhJQU5WctIByAFBVV95cUxNZVRtZW90Q0xoaFlRWEJCM3B3bW1aMkh2NUdayllON2s4T3BYMWJMblRTazkyUTZDMk1iMTh6bXYtdXI5NXI1SDBjbnZibWViMFVHOW9Da1RBX1NVUXc4TkRtMU9rTVNycmx6cVRNWEVja0JnRHdGQVhjanV3S0puQ2JoQldjbHFYSFpHcnVFaFR6eGxhLWZuZzZMeGdsWlRnTGFCS3BUOUx0eHlDT1pjU3RIWVpUczhYekY5ZzJEQ2JRbkhJQU5Wcg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGt4M3JPcDBpWFFEeEhSNHlHeU8ycFQwaUM2VzRsQWR2SjdTUUUxa3diZVRIZzhBeXBobHVVWjNETERlX1YyMFhmNEVCSEtwZlo0dUszaDMtMm92bVExMXZhaGtEeVZsUnBZaXEzZmtRREFfQ2RwNlUtVGNLTy1yeGVYbmJ0SWxCQUNhTTlfRE1QU0hRRjNXNjJqdU9OSjdKempzelZjbkl3X1hZbzZ4cUNsajE5WWVLODFVUnE3MFRpdl91ODhIdDh4Y9IBywFBVV95cUxNTGt4M3JPcDBpWFFEeEhSNHlHeU8ycFQwaUM2VzRsQWR2SjdTUUUxa3diZVRIZzhBeXBobHVVWjNETERlX1YyMFhmNEVCSEtwZlo0dUszaDMtMm92bVExMXZhaGtEeVZsUnBZaXEzZmtRREFfQ2RwNlUtVGNLTy1yeGVYbmJ0SWxCQUNhTTlfRE1QU0hRRjNXNjJqdU9OSjdKempzelZjbkl3X1hZbzZ4cUNsajE5WWVLODFVUnE3MFRpdl91ODhIdDh4Yw"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Perusahaan • Kebangkrutan",
-      "title": "Perusahaan Lawn & Garden Tua Hadapi Chapter 11 dan Likuidasi",
-      "summary": "Perusahaan perhotelan industri lawn and garden berusia 53 tahun menghadapi Chapter 11 dan potensi likuidasi. Hal ini mencerminkan tekanan pasar yang dihadapi sektor industri tradisional.",
+      "tag": "Saham • Tesla",
+      "title": "Morgan Stanley Kirim Pesan Blak-blakan kepada Investor Tesla",
+      "summary": "Morgan Stanley mengingatkan investor tentang tantangan Tesla dengan pesan yang jelas dan terang-terangan. Analisis ini menjadi salah satu guidance penting dari bank investasi global terhadap saham perusahaan manufaktur kendaraan listrik terbesar.",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Perusahaan • Penyelamatan",
-      "title": "Retailer Legendaris Mendapat Penyelamatan Setelah Peringatan Kolaps",
-      "summary": "Retailer bersejarah mendapatkan dukungan finansial setelah memberikan peringatan bahwa perusahaan bisa mengalami keruntuhan. Langkah penyelamatan ini mencegah kebangkrutan emiten retail terkemuka.",
+      "tag": "Saham • Retail",
+      "title": "Pengecer Bersejarah Dapat Jalan Keluar setelah Peringatan Kebangkrutan",
+      "summary": "Sebuah perusahaan retail legendaris mendapatkan penyelamatan finansial setelah sebelumnya memperingatkan kemungkinan kolaps operasional. Langkah ini mencegah perusahaan dari keterpurukan lebih dalam akibat tantangan pasar retail modern.",
       "sources": [
         {
           "name": "Yahoo Finance",
@@ -110,66 +102,78 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Investasi",
-      "title": "Warren Buffett Sebutkan 3 Saham Pilihan Favoritnya",
-      "summary": "Warren Buffett mengidentifikasi tiga saham sebagai favorit investasinya dengan alasan fundamental tertentu. Pilihan saham legendaris investor ini menjadi referensi pasar modal global.",
+      "tag": "Makroekonomi • Suku Bunga",
+      "title": "Perspektif Berbeda tentang Tingkat Bunga Saat Ini",
+      "summary": "MarketWatch menyajikan analisis komparatif yang menunjukkan suku bunga hari ini dari sudut pandang sejarah yang berbeda. Artikel juga membahas pasar perumahan dan opsi investasi saham dalam konteks lingkungan suku bunga global.",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-named-3-stocks-140400163.html"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Pasar Modal • Saham",
+      "title": "Dana Aktif dengan 800 Saham Lampaui Indeks Besar",
+      "summary": "Sebuah dana aktif yang memegang portofolio lebih dari 800 saham berhasil mengungguli indeks saham major dalam kinerja investasi. Contoh ini menunjukkan alternatif dari strategi investasi indeks pasif yang populer di pasar modal.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Prediksi IHSG dan Rekomendasi Saham",
-      "summary": "Investor.id memberikan prediksi IHSG dan rekomendasi saham untuk Selasa, 18 Agustus 2026.",
+      "title": "Rekomendasi Saham dan Prediksi Saham ANTM",
+      "summary": "Analis memberikan rekomendasi saham ANTM dan prospek kinerja emiten unggas di semester II 2026. IHSG diprediksi untuk periode mendatang dengan berbagai rekomendasi saham terkait.",
       "sources": [
         {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkVMVzFvWWhEMlVQbTNqUUM5UzBOeXpwX3lpdTN6TlJUWmlXYU9zYXByaHRLUzVyY3JoQTVURU9IU0NGN0E2TXlyUFp5cTd2Qk5ZY2lxd1daVlliN0ZlOXgxdDgxY3lfZzJzNTNJcUh3blVmU0p2UU9lbmJFNWRmRG9zOWYxVjVjcnFrVWgweklReUJjVnY0?oc=5"
+          "name": "kontan.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelhWYi1BdmdVYTVKcm95QjFpankyN3dNQndOVkxSNS1jbkxLcWFmNkVzQU9KZVNDR0xYbjd0anhwWXoyWHZJdE4tMmUtM1JlNGFZeWRleFhHQlVEMWtRSVdCNnNQYmhCbDNMTjNaR2NzWUh6YzUxa3hDRW9XOU8zUXVTakdjcGZ4ZGE4aE1kWnl0VHpLV1VsWHVDTFpuU1Jta3RZS0Y0dUpvN2lwRGF0c1psVdIBqwFBVV95cUxOd2RBSHBEcTNOaWNJcWVibkFObElEcDhleW80U1lHcENDNUlqbGZJRFE0SXR3dDR0WW1kdmFIQW1rUjlDbUQzNW1mSzdwZzNoSmhXWkxlLUVZNVZMOVdmUGh5cmhDZDdxZTdudjNpM1RWc3J2bGY5TGpGeFhJdE9sNVZvbkYzUjdkVVZjNFk4RUdJbDhJT3llMlhTUjRrOGNHRi1LamZNbExxclU?oc=5"
+        },
+        {
+          "name": "ntvnews.id",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVZySmE4SF95TDRjNmdKbnNtcjhncGduV05VcVN2TkNpNE9YaUQtM0ZPbXF2LW52XzR5SmtLdE5vQlN1NzVVamN6RHVNV3FQQUdDN00taDdRRnROOWdYOV9IYUMzUDQtZ2JVVHJyT2xJT0tvakRTQXpxcnh5cUcwRFlmcjlaQ2RsaWM3V1o1cU5CZnduSThFMjljU0VLNHM?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BIPI",
-      "title": "Kegiatan Paskibraka dan Nasionalisme",
-      "summary": "Paskibraka Solok dan Payakumbuh dikukuhkan untuk menjalankan misi kibarkan bendera merah putih. Wali Kota Zulmaeta beserta Forkopimda membagikan ratusan bendera untuk kobarkan nasionalisme.",
+      "title": "Peliputan Acara Nasional dan Kesehatan di Payakumbuh",
+      "summary": "Berita dari KabaSumbar mengenai kegiatan paskibraka, perayaan nasionalisme, dan inisiatif kesehatan TB yang dilakukan di Payakumbuh dan Solok dengan keterlibatan pejabat lokal.",
       "sources": [
         {
-          "name": "kabasumbar.net",
+          "name": "KabaSumbar",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3JEUXVMY0hOSjRGWEo3dUhxczBKQkNJV29XOTdDSzB0NE0xTWdTMm9UbGhnSW1OaEtfaTZSa3dYNDk0akRKUFJITXZ5QzhUc0xJU0I4czVJM2xQTW5pUXJWQVp4RWl3OGNkXy12cUR1WHRTcEZzaGRWRURidnU4ZllWNzJIV2VGalFmYjBHMnN5WWw1NndkZ001NXgyd2pXRkZiY0JR?oc=5"
         },
         {
-          "name": "kabasumbar.net",
+          "name": "KabaSumbar",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHo3LTJZRGt5SjhMU21GT0hkTDFqajNseEthNFp4THJLN1dJOUVzQTNWcXlCNVZFcFBqNVliMUg3QU1CQXNsTnBqNEFLZ0xhOHpuZjdqUmlNUU5NZkM0OWkyMDBWWFRHQkwzM0t2SnRwYTd3R3NqOTVYOUdKeWE2NDB3TDhNR1M5dUoyZG42VU1NSjVVT1NBcmpicFUzY1lBUlpHcm5n?oc=5"
         },
         {
-          "name": "kabasumbar.net",
+          "name": "KabaSumbar",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlhXVnI3NUo4UVpQVEUzS2UtYUQ1Zi02U2V5SHhOaVJ4Z2RoTVhKekYzWGU4eE1mbG9INXZwUXFFMlZKV01oaUktUVpNQ3ZnbUpKTlZfMTgzRW9ic3V0MW1sS0k5TGgzY1gxZk1KQ1g2a0Fxa2U0b3VZZE1vWkhLSW5yMVVtVmRiZ1ZFcktFLXNPUU1xZDhv?oc=5"
+        },
+        {
+          "name": "KabaSumbar",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGc0Z3lHa2dYVVJJUTBuNFhfNWdpcUlEXy1IVVNXLXg4M3ZOWFUzMDNtcFVRT3MyWHAxa0podW03c1I5c2tBR1RtUjFIVS16QTlyNnVXUk16OWxpOGdGWU5USlMtRTFnVEg2bEVxejAtM0VCekQwbDEtdHpoLVFocHFVSkpzVUNVQzJQMFV2aTNra3lkVUUtSUJmbm83akxJUVVJMFhMcWJHNkxLY09lSA?oc=5"
         }
       ],
       "category": "personal"
     },
     {
-      "tag": "BIPI",
-      "title": "Program Percepatan Penemuan TB",
-      "summary": "Payakumbuh bergerak cepat untuk percepat penemuan kasus TB dan putus rantai penularan penyakit.",
+      "tag": "BUMI",
+      "title": "Prospek Saham Batu Bara Terdukung Sentimen El Niño",
+      "summary": "Saham batu bara BUMI memiliki potensi pertumbuhan signifikan didukung sentimen El Niño dan permintaan tinggi dari Asia. Beberapa analis melihat BUMI unggul dibanding kompetitor dengan potensi cuan menarik.",
       "sources": [
         {
-          "name": "kabasumbar.net",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlhXVnI3NUo4UVpQVEUzS2UtYUQ1Zi02U2V5SHhOaVJ4Z2RoTVhKekYzWGU4eE1mbG9INXZwUXFFMlZKV01oaUktUVpNQ3ZnbUpKTlZfMTgzRW9ic3V0MW1sS0k5TGgzY1gxZk1KQ1g2a0Fxa2U0b3VZZE1vWkhLSW5yMVVtVmRiZ1ZFcktFLXNPUU1xZDhv?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BUMI",
-      "title": "Prospek Saham Batu Bara Terkerek El Nino dan Permintaan Asia",
-      "summary": "Saham batu bara diproyeksikan terkerek didukung sentimen El Nino dan permintaan kuat dari Asia, dengan lima saham utama berpotensi naik.",
-      "sources": [
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNENGYzNIM1NZXy1yall6S2RER2lrZTB2eXk5WXpTMWR0VUhGVWtySVRjM3l1dGVBWTNqVFBqSGtWellmSzZDMnQzalhwVDF3QmlacHZub1NGQXlzRlprMW9LWDQtSWlTUGxReURXSlE0RVpWVHMxZFdIeTIzX3V4RGhBbEtZYkdSdl8xRG1hSQ?oc=5"
+        },
         {
           "name": "achmadnurhidayat.id",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5SE41ZkIxZXFWYlVocWliUV9qMW1uMEJOQzhHRjFCUnEzU0NyQkxXNEJNY0RzamdMR3FjdG8xQzltN2hTa3BkWEFFMEZNZkNyWldBeFhVNlo3cjBvZk9jcm0tUEJ4LWFBUFN1eFc4WVdGMmx3Tldr?oc=5"
@@ -187,36 +191,28 @@
     },
     {
       "tag": "BMRI",
-      "title": "Saham BMRI Murah Meriah dengan Potensi Cuan Dekati 30%",
-      "summary": "BMRI merupakan saham bank besar yang dinilai murah dengan potensi cuan mendekati 30%, sekaligus menjadi saham terbanyak dijual asing dalam sepekan dengan net sell Rp 815 miliar.",
+      "title": "Kinerja Cemerlang dan Potensi Pertumbuhan Saham Bank Mandiri",
+      "summary": "Bank Mandiri mencatat laba bersih rekor Rp30,4 triliun pada semester I 2026 dengan potensi saham naik mendekati 30%. Saham BMRI dinilai murah meriah meski menghadapi tekanan jual asing sebesar Rp815 miliar.",
       "sources": [
         {
           "name": "investor.id",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjlLamRkWTA4cVN2Mk9BcEl4Nm13TlJyRGlVWUdFY042S0REcklhMGNqaUtpTklGeTQ0d3hSUDlkbkNIRFFuNlBvbHBFUGV6VFBYOWhmdFVZUmVLMXFnR3ZVWTZrV1NFRjZUazExM2RJU0lmNllMOHJzdVlReUxVaTBjSUhlb1ZmM3ByUXhNcWl1akFFVGc?oc=5"
         },
         {
-          "name": "Kompas.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRS1ScEp3WHdpXzhVWGJUN1RDYmVlcE1xVElJU1c5c1E2NWdpbG92U3JUa09qaEt2YWQxclNVTG9kUmJnQUZFOUpBcUt1ekhFU0JxeHIwZ1RkT2RoYlhURUx0X0dsVGdxUjNOQWZfNUozN29peXQyZThTMkRFY1p1ZHBmNjJXeWczNkpidTlKWUsyY2p5ZEdvQVpRa1VhczlZSU1sNTNIWGVxYnREQlh3SWNzVS1DdHMzMVgxMThrdw?oc=5"
-        },
-        {
-          "name": "Qoo Media",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcURBSV90R1ZpZGxodVdONnJXWFJuek1LRm5TUnhpRGRsTnhpemRhNHBtRFFqZnlDb2FTN2xQTzJNeEpydlpkVWk5QjRqOWljZWlqeTNaMmNpa0dkeFp6Tk5kbUg0VWlDbGg0QldQVV9oV3hlaWJtMUloVms0QVcxbWYzQ2R0QTVVazVZT3FrMjlXQ2c?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BMRI",
-      "title": "Bank Mandiri Catat Laba Bersih Rp30,4 Triliun Semester I-2026",
-      "summary": "Bank Mandiri mencatat laba bersih rekor Rp30,4 triliun pada semester I-2026 dengan potensi saham untuk naik ke depannya.",
-      "sources": [
-        {
           "name": "achmadnurhidayat.id",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GM0hYOEZwTDBISklSZE5SbkQySFlkWTEzMFlueGt2c2dTcEcxQ00tMGFUd1lnR0xyc1BDZjVhcEZTSzRGdTVGSjRhb1JqaGJpUzRCUWlkZDUtSnJaRFhNdEc2cWhTNXNVVDdjZkgweUdMZGtZMkpMQlRjNGg?oc=5"
         },
         {
+          "name": "Qoo Media",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcURBSV90R1ZpZGxodVdONnJXWFJuek1LRm5TUnhpRGRsTnhpemRhNHBtRFFqZnlDb2FTN2xQTzJNeEpydlpkVWk5QjRqOWljZWlqeTNaMmNpa0dkeFp6Tk5kbUg0VWlDbGg0QldQVV9oV3hlaWJtMUloVms0QVcxbWYzQ2R0QTVVazVZT3FrMjlXQ2c?oc=5"
+        },
+        {
           "name": "Readers.id",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02d1FBY1htaWkxdFNfOVlRX1JuTEJLYlVfTWVxa2FfSWpmQy1NeDIyNjFpYzZKVHFlM0ZfSWZoZS1heERhS1NWNWRySHRfa3YtMUw5UUUxZVVzOG56ZW4yaEVWSQ?oc=5"
+        },
+        {
+          "name": "mediakompeten.co.id",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUElZRDJKUkZHa3RnMGozYV8wbFFHdjRMX2xWcFNKS0xmUWRTVnEyUExiNnlxNE1yUkxjSkFlZ05FZTdXbFRYdUlmVW1zN0pybWpnMmRmV3ByZEFTd1dSalBEUU1MZjUtLXEyaFpvZUo0b0lGZVVXSHdrR2hBQzFVUXo3VmRiM0E?oc=5"
         }
       ],
       "category": "personal"
