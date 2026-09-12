@@ -1,186 +1,182 @@
 {
-  "generated_at": "2026-09-11T23:53:31.271682+00:00",
+  "generated_at": "2026-09-12T11:30:06.167694+00:00",
   "items": [
     {
-      "tag": "Saham • Emiten Minyak",
-      "title": "Perbandingan Kinerja Emiten Minyak Indonesia",
-      "summary": "Video analisis membandingkan kinerja dan profitabilitas perusahaan-perusahaan minyak yang listed di BEI untuk melihat mana yang memberikan return terbaik kepada investor di tengah dinamika harga minyak global.",
+      "tag": "Makroekonomi • Suku Bunga",
+      "title": "The Fed Diprediksi Naik 25 Bps, Dampak pada BI Rate",
+      "summary": "The Fed diperkirakan akan menaikkan suku bunga sebesar 25 basis poin bulan ini, sehingga menimbulkan pertanyaan apakah BI Rate akan mengikuti kenaikan tersebut. Kenaikan suku bunga global ini diharapkan akan mempengaruhi kebijakan moneter Bank Indonesia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0ZCb1ZXRVF6WVhiVGM2TS1VaHdRNFJFNGw4Z0VER3ppN2x0X2VkdkYxV2I3Q05rVF9Dd2VlRE9ZRDBRSWktd3VSQ1d3OTdVc3EzRXRSRVNBYm82MktabVVpc2psUndTTEdPTV9qMEJ2RTlDM1dhVERlZUoyNjhINUxCTmNXQW1qbkw3XzRjWTg5UDVncVpWQ0FyT05xdjZRazlMbFZncGlqQ19tVkRuOFJUSThfRXZpY3lCTjYwNE1rY0JscFd5OQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkRtSlhUWXh0TXFXZ1BQc2EtcW8yVjR5YVN5UzZqTERfN2NUMzlUOXdhR0lqZVBST1JvVF9NLVk4VTl4cWV1dUhJWmk2N2Q4amJ5ZFExdlU4MXFOZVZwYVowTGt2Ukp6ekp2Y2JkbjV3cmUxUGNzcGRsVHoyOU1MT29MSWxtc2x4UVZBbXVBTGhkMmlFU3ViRXZFamlxMnA2V0hTZjlkeWdKaFVYTjhwRFNMcXdUV21PMmgtaDdiTFdUdFNjM25DYQ?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • TELK",
-      "title": "Proyeksi Kenaikan Laba Telkom Hingga 30%",
-      "summary": "Analis Danantara mengungkapkan potensi kenaikan laba Telkom mencapai 30% didorong oleh faktor-faktor tertentu yang menguntungkan di masa mendatang.",
+      "tag": "Makroekonomi • Nilai Tukar",
+      "title": "Rupiah Melemah ke Rp17.585 per Dolar AS",
+      "summary": "Jelang akhir pekan, nilai tukar rupiah ditutup melemah dengan dolar AS menanjak ke level Rp17.585. Pelemahan rupiah mencerminkan tekanan pasar akibat berbagai faktor makroekonomi global.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JfNWhPZXFHSERDZFREbnN3MEF5RTY3dlNyVDVIYzQ0ZmZLS0ZDMXJpTjgzZUtfQnlFWDQxTVh0QmZEcFRGa3FySkFDR2dlUk45bWxvaFNmVmNwODdRZlkyU1pKV1NLdjB2bGNsQU1kanBQYnhMVlRNdmRDMXV5RFNqZWtzTmdHVUhtMzlrZjhEQ1hPUEdCS09TSFJlYXhfYjQtekFIR1BZNUU3a1RYeDFPQnd1V1pIVmw5Yk130gG-AUFVX3lxTE93Ql81aE9lcUdIRENkVERuc3cwQXlFNjd2U3JUNUhjNDRmZktLRkMxcmlOODNlS19CeUVYNDFNWHRCZkRwVEZrcXJKQUNHZ2VSTjltbG9oU2ZWY3A4N1FmWTJTWkpXU0t2MHZsY2xBTWRqcFBieExWVE12ZEMxdXlEU2pla3NOZ0dVSG0zOWtmOERDWE9QR0JLT1NIUmVheF9iNC16QUhHUFk1RjdrVFh4MU9Cd3VXWkhWbDliTXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNFlaSlJBNTMwWVdfOHZBVlplcDNMYW9KbDhzRVRDenFTcXBidG5UZ1hUNDFuQjhaRDZIOVBJLXdGV0g1QjhmMWhuTGJiTjYwN3E5aFRKc2NscDBSTVdQMHZPcmJzNGczZUhBWkNxR0h5dDVlRHBVdDJLWnpndVM4cnZMUmJ3TDRQcjZBdmRKTEF4MGZaYzhXZzZvXzdhZG54djdsWGtEa0tzZTg0TVo1c1YwS1RueTRnU0RwdkxSUW1zN0VfTlpyOXh2Mm7SAcwBQVVfeXFMTTRZWkpSQTUzMFlXXzh2QVZaZXAzTGFvSmw4c0VUQ3pxU3FwYnRuVGdYVDQxbkI4WkQ2SDlQSS13RldINUI4ZjFobkxiYk42MDdxOWhUSnNjbHAwUk1XUDB2T3JiczRnM2VIQVpDcUdIeXQ1ZURwVXQyS1p6Z3VTOHJ2TFJid0w0UHI2QXZkSkxBeDBmWmM4V2c2b183YWRueHY3bFhrRGtLc2U4NE1aNXNWMEtUbnk0Z1NEcHZMUlFtczdFX05acjl4djJu?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Pasar Modal • IHSG",
-      "title": "IHSG Turun 0,73% di Akhir Sesi 2",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) menutup sesi perdagangan dengan penurunan 0,73% setelah mengalami koreksi di tenah ketidakpastian pasar.",
+      "tag": "Makroekonomi • Investasi Asing",
+      "title": "Investor Buang US Treasury, Dampak ke Rupiah",
+      "summary": "Investor secara ramai-ramai melepas kepemilikan US Treasury, menimbulkan pertanyaan tentang efek dominonya terhadap nilai rupiah. Pergerakan ini merupakan indikasi perubahan sentimen pasar global yang dapat mempengaruhi stabilitas mata uang lokal.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaW1MdFBucWQzTmJJWlpqTGNKRnZ1eVJUWFNaZnVueGNZTThSS2UxMVZFbGdGOVpQZFhYaU9LbnEzUUN0M1RIYXdyY0RHSjR1NGRMUnI5M2U5RWlwT281YkVWNG5UdTdSckJNWjNiWUlOa011TTFYVUZsc0J2N1ZnZTZVOWRZOUg3Nm5YQjBrWUpWVmN0MkZiRF9lMUphZFBNSWtJRF9uMnpMY1Nma2pHbzRB0gGyAUFVX3lxTE1pbUx0UG5xZDNOYklaWmpMY0pGdnV5UlRYU1pmdW54Y1lNOFJLZTExVkVsZ0Y5WlBkWFhpT0tucTNRQ3QzVEhhd3JjREdKNHU0ZExScjkzZTlFaXBPbzViRVY0blR1N1JyQk1aM2JZSU5rTXVNMVhVRmxzQnY3VmdlNlU5ZFk5SDc2blhCMGtZSlZWY3QyRmJEX2UxSmFkUE1Ja0lEX24yekxjU2ZrakdvNEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVlQQVI4RlpzNnJNalpOaE0wbUI4MzAxR29NdlV4eDZCaXdCV1lQUlJuVlFTNjlGSVVZMTBVa1k0WC1fNFhDbUlaUnIyUlBEV3N2WXloMThuZUJSYWRfQ0R3eEdSQ201Z1RJNjVPdG1neFo4ZTB4Qm91UWRHMTZ1Y1FtTWc0UE1LTHN5bUxUVW4zSDlWNWFablkzWWQ0RWpFZXQtbVh3T3BReEVaNXBiemhIYTdmaGVVSkFlOXJGc0ZyRzRjVDFB?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Asuransi • MSIG",
-      "title": "MSIG Life Fokus Pertumbuhan Berkualitas dengan Profitabilitas Meningkat",
-      "summary": "PT MSIG Life Indonesia mencatat peningkatan profitabilitas dan berkomitmen mendorong pertumbuhan usaha yang berkelanjutan dan berkualitas.",
+      "tag": "Perbankan • Regulasi",
+      "title": "13 Bank di Indonesia Resmi Tutup per September 2026",
+      "summary": "Otoritas keuangan Indonesia menetapkan 13 bank yang akan ditutup secara resmi pada September 2026. Keputusan ini merupakan bagian dari kebijakan konsolidasi perbankan untuk memperkuat stabilitas sistem keuangan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0p4cnRaX2pFTmFaalBwbGd0QWZtYTRDWUFuLXVpU2xCSUlFVHI5ZHJfRmg0NWhRTG1VUFdSdjJnb1Q0WDcyRnpSQUwxVUVDa1AteWxmOGlETVZyRXVtaGFaVEFtVW5YNnczcHd6RC0tSW9XMGtwdWNsT1JNY1JLQkh4NktfWjhubzdTOWstNzhHRGQ5V2hLdTA5ZzY3S3g2U3UtTklEcW1XaHQtUW1TdHhMTjFRX3ZFeG5Ia1Y4RTdSSExDdGZYbNIByAFBVV95cUxNZ0p4cnRaX2pFTmFaalBwbGd0QWZtYTRDWUFuLXVpU2xCSUlFVHI5ZHJfRmg0NWhRTG1VUFdSdjJnb1Q0WDcyRnpSQUwxVUVDa1AteWxmOGlETVZyRXVtaGFaVEFtVW5YNnczcHd6RC0tSW9XMGtwdWNsT1JNY1JLQkh4NktfWjhubzdTOWstNzhHRGQ5V2hLdTA5ZzY3S3g2U3UtTklEcW1XaHQtUW1TdHhMTjFRX3ZFeG5Ia1Y4RTdSSExDdGZYbA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdE9PVTNlYktsTWJnck5keEZCd0QtejV6MThNRVczOWJVR2xzRnliTk1fTlA0WFowZkxrY2lOeEFvNEZDeUQtUno0QzNwMkx4TXA4YVMtVWhjU1JrUy1sWFdCaGNGX3p3NE9OcTY3NDMyb3RJbTUxT19fcmZPVUZlNXJQU2t1NFhHbjhmdEtaTkQzMG1hcDlaZTViWUQteXYxS0hWUzBiWkk1RF9JbWEtdUFsYVpzbjJDSjVzcnRhY291Z9IBwgFBVV95cUxPdE9PVTNlYktsTWJnck5keEZCd0QtejV6MThNRVczOWJVR2xzRnliTk1fTlA0WFowZkxrY2lOeEFvNEZDeUQtUno0QzNwMkx4TXA4YVMtVWhjU1JrUy1sWFdCaGNGX3p3NE9OcTY3NDMyb3RJbTUxT19fcmZPVUZlNXJQU2t1NFhHbjhmdEtaTkQzMG1hcDlaZTViWUQteXYxS0hWUzBiWkk1RF9JbWEtdUFsYVpzbjJDSjVzcnRhY291Zw?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Investasi • Perbankan Kaya",
-      "title": "Bankir Ungkap Pilihan Investasi Nasabah Tinggi di Tengah Volatilitas Pasar",
-      "summary": "Para bankir dari institusi perbankan besar membuka pilihan instrumen investasi yang dipilih nasabah kaya mereka saat menghadapi kondisi pasar yang bergejolak.",
+      "tag": "Keuangan Publik • BUMN",
+      "title": "Indonesia Jual Saham BUMN untuk Cegah Defisit Belanja",
+      "summary": "Pemerintah mengambil langkah menjual saham BUMN sebagai upaya untuk mencegah defisit anggaran belanja negara. Strategi ini merupakan opsi pendanaan alternatif untuk menjaga keseimbangan fiskal.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc3Q1dXIxQWhRRlRlVF9iOS1NOXRfazlKRnJxU1lsUFB5NVU4Qkd6MGpQa0JUOFBjNXM0bTVsUWtjaV9NYTN6Qm9LSWd0UWRueVJlRDA5ZnAwUVdKNW82OU1mM21QNjJaM05CeGRqQlo0T1lVeVE3YmdnQWdKZzA3ZzNkNUU5WXUtUjduUG5acW5LQjQ2bWF6U0FSczdjUHkyQ2x2cXZhcnhxRVRrQ0c2M2FyLUw5RzY5WkZmRVRtRXREaU5RNTZKcDF2bw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFhYLVdSZnlzelF4MkZraER5RmRzZnJJSHJTVXhfX1VodE9BLVJTcklnbHVaVXVBVy1EeFc5Y3FjRE1QYlZVdVF6enBsaHA1c1M0TnFqSzFzTndUeEJpcXNmWEtiS1dhZF9JaU5JMGlleDV2SDIwa2tTdmZaTjNhUjUtejEzZ1ZJc0NLV1dMSUZXYXgtSEI2U0hpUmptS19QMTMwOWJOSEg0YW1fSm80azhiR1dnUXlQUFZKUw?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Pasar Modal • Bursa Mineral",
-      "title": "Bursa Mineral Meluncur 2027, Pengusaha Nikel Tunggu Dua Hal Kunci",
-      "summary": "Peluncuran bursa mineral Indonesia pada 2027 ditunggu-tunggu pengusaha nikel yang mengharapkan dua elemen penting untuk kesuksesan instrumen pasar baru ini.",
+      "tag": "Perbankan • Cadangan Emas",
+      "title": "Bank Pindahkan Cadangan Emas 94 Ton dari Amerika Serikat",
+      "summary": "Sebuah bank bersiap menghadapi potensi krisis dengan memindahkan cadangan emas sebanyak 94 ton dari AS. Langkah ini mencerminkan mitigasi risiko terhadap ketidakstabilan ekonomi global.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVBzTzNPdGJwNXcxODFtTktBQU1aX283ZUhWaG91T292eC1QbkxCLWVrUWFpTnZMdUh3bXZHQjNmbGRkTGc3eTJyNXZ0VV9Nelo4ZWVwcHlxWFpTd2cxRkx6Z0dnWG1aejcyUnBzV3NWa2c1RGpIdWQ3dFkzY3ZxeUxtS1VEbXZWb3hEbE1aVE02U3ZMSmJ5Vy1kRE9fZENxTDFFcndnNTZvYU16UUVPMFJOQ1E1Wm5HT213RnFrUWwyN240U1pyT0l3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjA2ZWRkNmp6LUpYakltVW91U2IxVExMaEFLVFNfUkxOd1Bna2k3Zk16YktQdWE0Ym1rVmdfOFQyaDBsd2xNdzhRLTc0VExqVHRxR0lubnlvM1FBbW9UQUFVd0RMcmlyaXQ2UnM2azlpSUlhVUljUVJVWFItcFJLUkJRRDI1Vm9xd2tfekFwU1FmRUp3c1F0OFBZVkhKTl8xWEJ4aTNSdWtNVzBncHlPVVhNazZWRmIyMnUyTHhldlRTWkpIbWJuMGtn0gHKAUFVX3lxTE5iMDZlZGQ2anotSlhqSW1Vb3VTYjFUTExoQUtUU19STE53UGdraTdmTXpiS1B1YTRibWtWZ184VDJoMGx3bE13OFEtNzRUTGpUdHFHSW5ueW8zUUFtb1RBQVV3RExyaXJpdDZSczZrOWlJSWFVSWNRUlVYUi1wUktSQlFEMjVWb3F3a196QXBTUWZFSndzUXQ4UFlWSEpOXzFYQnhpM1J1a01XMGdweU9VWE1rNlZGYjIydTJMeGV2VFNaSkhtYm4wa2c?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Perbankan • Sanksi Internasional",
-      "title": "Bank Besar Indonesia Terancam Kena Sanksi Akibat Eskalasi AS-Iran",
-      "summary": "Beberapa bank besar di Indonesia dikhawatirkan akan terkena dampak sanks internasional seiring meningkatnya ketegangan geopolitik antara Amerika Serikat dan Iran.",
+      "tag": "Energi • BBM",
+      "title": "Pertamina Tambah Pasokan BBM di SPBU Sulsel dan Makassar",
+      "summary": "Pertamina menambah pasokan BBM dan nozzle di sejumlah SPBU di Sulawesi Selatan dan Makassar merespons permintaan yang melonjak. Perusahaan juga memastikan BBM subsidi tetap sesuai kebijakan pemerintah tanpa kenaikan harga.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTZXSUhOOG11WThUdEZKb0ctUTg2dmFsb2pmeDFWTVppZUh3Y2RrRjloNWcxU0tDT0cwQ1Zkd3N0djE4cW92VjNIbjFWaGd4YWZ2dm4xSVo4d3RTdHlGZHpRUi0zc21XWXFwLWNSNldDSW44SGNONWpBUUx2LVFuRVNTdUpOWDBmLXBldzFGdHJQR0dkS3RNNUtfbEtoTTJRSUJmQ3ByaTh4TzJ5TzFNeEx6eHA0Z9IBtgFBVV95cUxNZTZXSUhOOG11WThUdEZKb0ctUTg2dmFsb2pmeDFWTVppZUh3Y2RrRjloNWcxU0tDT0cwQ1Zkd3N0djE4cW92VjNIbjFWaGd4YWZ2dm4xSVo4d3RTdHlGZHpRUi0zc21XWXFwLWNSNldDSW44SGNONWpBUUx2LVFuRVNTdUpOWDBmLXBldzFGdHJQR0dkS3RNNUtfbEtoTTJRSUJmQ3ByaTh4TzJ5TzFNeEx6eHA0Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVW9DbFhrZnM2b2czbkp5ajZUYlYwcDBqOGJlU3JvOUlLTGM0SmtQZDNqZm9DcVpYWWVUdFBHZzZCbWthdnRMcHRUR3FkX3JyblBqRm5TdTR2WWl2X0pyWDAzb21yQmxOXzkwOFFKcFRub19Wa253bHh2Tk9oREc4dGxhZ1A1UEd0NTc1WnlzdGZxakVabHVjRUNNVDAJaW0xZnFnUnZZc0FCUk56bUtzanhKMXNWY0hHdHdJelRLSXNPODTSAcMBQVVfeXFMTVVvQ2xYa2ZzNm9nM25KeWo2VGJWMHAwajhiZVNybzlJS0xjNEprUGQzamZvQ3FaWFllVHRQR2c2Qm1rYXZ0THB0VEdxZF9ycm5QakZuU3U0dllpdl9KclgwM29tckJsTl85MDhRSnBUbm9fVmtud2x4dk5PaERHOHRsYWdQNVBHdDU3NVp5c3RmcWpFWmx1Y0VDTVQwSWltMWZxZ1J2WXNBQlJOem1Lc2p4SjFzVmNIR3R3SXpUS0lzTzg0?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFhGeWJUTkZWT1dQSElxMllMYk9tZFM0RW9LdWtpSUZCT0xkNUVOSkVsQWx5RmtxajM4bHpudGNWOEFNSFZZazRna0xzYUlUbVNKVTJZTGdqUlpNUExCYlhBRExjenVlb2RESTBDMW5tZ0dYVjdKQkN0SFlITlZEV2FJc2xwWURval9LODFDZHdkWEIydFhrb3dKQVhHUTZWOXhiMk1fNW5hRUZ3RFpkQkw1Z21adE9ZaGNwTy1qZnVDV3NNTnE1eHAzSG7SAcwBQVVfeXFMTUhYRnliVE5GVk9XUEhJcTJZTGJPbWRTNEVvS3VraUlGQk9MZDVFTkpFbEFseUZrcWozOGx6bnRjVjhBTUhWWWs0Z2tMc2FJVG1TSlUyWUxnalJaTVBMQmJYQURMY3p1ZW9kREkwQzFubWdHWFY3QkJDdEhZSE5WRFdhSXNscFlEb2pfSzgxQ2R3ZFhCMnRYa293SkFYR1E2Vjl4YjJNXzVuYUVGd0RadGRCTDVnbVp0T1loY3BPLWpmdUNXc01OcTV4cHc?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdjFxY21seUc1TkIwaDlkd0xmTWRwdGFXSU5ZWU52NDZ4S1NZZmZkQ0RzVE8yQUNpYXJHLXZOVlBhc2diWUN1M2VjSDZSMUJkc3lFVHhFT01yOGFQVlVsTkNGLW1rc3RnNTZRbEVtaEsxYlUtV2phOEUwblQ0RUhNTVpnZkZDRzRUQVQ2bDZ1M2t0MkVBSC1iWnlHOS1YT0tPcFFiSk9QY0FDXzFYWTFaRHpYTmdRTUx3a3U4ZWFjX0I4aGtUazhucjlnek3SAcwBQVVfeXFMUHYxcWNtbHlHNU5CMGg5ZHdMZk1kcHRhV0lOWVlOdjQ2eEtTWWZmZENEc1RPMkFDaWFyRy12TlZQYXNnYllDdTNlY0g2UjFCZHN5RVR4RU9NcjhhUFZVbE5DRi1ta3N0ZzU2UWxFbWhLMWJVLVdqYThFMG5UNEVITU1aZ2ZGQ0c0VEFUNmw2dTNrdDJFQUgtYlp5RzktWE9LT3BRYkpPUGNBQ18xWFkxWkR6WE5nUU1Md2t1OGVhY19COGhrVGs4bnI5Z3pN?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Korporat • Otomotif",
-      "title": "Produsen Otomotif Besar Alokasikan Rp334 Triliun untuk PHK 60.000 Karyawan",
-      "summary": "Sebuah raksasa otomotif mengalokasikan dana besar untuk program pemutusan hubungan kerja massal sebagai dampak persaingan pasar khususnya dari kompetitor China.",
+      "tag": "Korporat • PTPP",
+      "title": "PTPP Teken MRA, Mulai Implementasi Restrukturisasi",
+      "summary": "PT Pembangunan Perumahan (PTPP) menandatangani Master Restructuring Agreement (MRA) dan memulai implementasi program restrukturisasi perusahaan. Langkah ini merupakan upaya untuk meningkatkan kinerja dan stabilitas keuangan PTPP.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa19vRGZmVTNPdTVGdm02LWRmcTJqS2lQVFZETTFxYkVtdmJ2R2N6V1dQQzdlMW9fRjZ0czVOQXNLYW5NQWtCWjZiNmpfQmQyMW5mZ0tmbEpoX1RWdEd4S2pCUXM4ZlA2UDVDdndLNlhHTVRTbEt3a25JUzJjMk84LVVyWlk0UUJhdFIyT3NNYkp6QUdGclBOX0YzdzBKSnhDZXhsRFk1YjNzaWdwamtGdGZLamt0SkxRUnc4WHpxbUNiU2dxblBWTHFR0gHKAUFVX3lxTE9rX29EZmZVM091NUZ2bTYtZGZxMmpLaVBUVkRNMXFiRW12YnZHY3pXV1BDN2Uxb19GNnRzNU5Bc0thbk1Ba0JaNmI2al9CZDIxbmZnS2ZsSmhfVFZ0R3hLakJRczhmUDZQNUN2d0s2WEdNVFNsS3drbklTMmMyTzgtVXJaWTRRQmF0UjJPc01iSnpBR0ZyUE5fRjN3MEpKeENleGxEWTViM3NpZ3Bqa0Z0Zkt6a3RKTFFSdzhYenFtQ2JTZ3FuUFZMcVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMTlSZ3VMamlXQkRKajFmTEQtNzNQOW44UTJ1OVItRmlGcEsxWXBIY2ZWekZObEFGbFp6T0tIMWFPV3JXaWEwM1FDQWZ0cGVwZklqekZhV3lIX09NRUt3TXBLMlMxcmVNSjF3SXZldGdmNE5FbzlkUnhwNkFYLU9Hb3JxUVVUa1lHcnBzTGJyNGpGenlDT3R6RndYUEtySVBlUjBob0ZHNTdVOFpoOFhOWmMtSUJaZy1G0gG4AUFVX3lxTE4xOVJndUxqaVdCREpqMWZMRC03M1A5bjhRMnU5Ui1GaUZwSzFZcEhjZlZ6Rk5sQUZsWnpPS0gxYU9XcldpYTAzUUNBZnRwZXBmSWp6RmFXeUhfT01FS3dNcEsyUzFyZU1KMXdJdmV0Z2Y0TkVvOWRSeHA2QVgtT0dvcnFRVVRrWUdycHNMYnI0akZ6eUNPdHpGd1hQS3JJUGVSMGhvRkc1N1U4Wmg4WE5aYy1JQlpnLUY?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Korporat • Sumber Daya Alam",
-      "title": "Indonesia-Rusia Rencanakan Pembangunan Hilirisasi Bauksit Menjadi Alumina",
-      "summary": "Indonesia dan Rusia akan membangun proyek hilirisasi bauksit menjadi alumina untuk meningkatkan nilai tambah sumber daya alam strategis Indonesia.",
+      "tag": "Kebijakan • Keuangan Digital",
+      "title": "Pemerintah Bagikan Rekening Gratis untuk Bansos Tepat Sasaran",
+      "summary": "Pemerintah membagikan rekening gratis kepada masyarakat untuk memastikan bantuan sosial tersampaikan tepat sasaran. Program ini merupakan upaya digitalisasi sistem penyaluran bansos dengan teknologi perbankan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaklNcWZBOElGYjBNM0JKenFrOW15OWRncUlycVowVUZTRXBFNmR2SEs3ek0wcGd4RFhEN3JXeDlrZXhIdXhYS05kY1lMUmJYaG9PNVgzRklaV3gzUUp2dzB2azRHcVpxU3dfbnZZUVVaaG9xRzRkZXZYTlRVbTk4ME9iRjJMVDBXMWtxQzFkaEVPLWcwekRpTnd2X3A0UG5yRHRJaFVtTkxFUk1YOU1sTnl0MWotS3N5clljOWc3SVdLU3lhM19F0gHHAUFVX3lxTE5qSU1xZkE4SUZiME0zQkp6cWs5bXk5ZGdxSXJxWjBVRlNFcEU2ZHZISzd6TTBwZ3hEWEQ3cld4OWtleEh1eFhLTmRjWUxSYlhob081WDNGSVpXeDNRSnZ3MHZrNEdxWnFTd19udllRVVpob3FHNGRldlhOVFVtOTgwT2JGMkxUMFcxa3FDMWRoRU8tZzB6RGlOd3ZfcDRQbnJEdEloVW1OTEVSTVg5TWxOeXQxai1Lc3lyWWM5ZzdJV0tTeWEzX0U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUERuY1JvQXFUTnFaUnFPR0VOdVA5amJPR0pKWndycVAyNC1ndDhhSHdNSTNKOXl5Tm53SUFhbWQyLWtLMjFDbGJBQzZDSm9xTDdlaERndl9FSDFRLVpXX0c0Mi1TU1ZTejNaVUZRRk9mazBGclpkbjJxc3hXR1BfSGo2azAtOTdxZ09VSHhjcXpoSFoyYjJ0cUFzRG9Rd0xqbkxTY29VZlNPMHBQVGRmSmZBUld3V1M4TlZPQjZjRlI4QzQ4?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Kemiskinan",
-      "title": "BPS Jelaskan Mekanisme Penduduk Miskin Masuk Kategori Desil 6-10",
-      "summary": "Badan Pusat Statistik menjelaskan fenomena unik di mana penduduk yang tergolong miskin dapat masuk dalam kelompok desil 6-10 berdasarkan metodologi pengukuran kesejahteraan.",
+      "tag": "Makroekonomi • The Fed",
+      "title": "The Fed bisa menaikkan suku bunga tiga kali, pasar siap hadapi ujian",
+      "summary": "Ekonom mencatat bahwa Federal Reserve secara historis tidak puas hanya menaikkan suku bunga sekali, menunjukkan potensi kenaikan suku bunga sebanyak tiga kali ke depan. Pasar diperkirakan akan menghadapi ujian signifikan akibat kebijakan moneter ketat The Fed.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnFsX1pEblVDZkttaWI2QWJWOEFyMVFpOERSVFdEZkdIaE5DSk1ZNGFKVHVjbTU3cnRXbmJnV1JjLS1naUg3empreVBlZGRXNVk1WkFaclNGYlk5NWFfYm93S2x5N1pUQTRsX3ZMc1h1QW9XYmxtUEVjS3duU2k2WlZDcDlZclVUVTNheTRERFFSb3pSZFpfOExBeXAyZjI0U3hZQ2dDZFBva0RTTGdTb0lQdmZSQ1ZyWjI00gG7AUFVX3lxTE5CcWxfWkRuVUNmS21pYjZBYlY4QXIxUWk4RFJUV0RmR0hoTkNKTVk0YUpUdWNtNTdydFduYmdXUmMtLWdpSDd6amt5UGVkZFc1WTVaQVpyU0ZiWTk1YV9ib3dLbHk3WlRBNGxfdkxzWHVBb1dibG1QRWNLd25TaTZaVkNwOVlyVVRVM2F5NEREUVJvelJkWl84TEF5cDJmMjRTeFlDZ0NkUG9rRFNMZ1NvSVB2ZlJDVnJaMjQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Makroekonomi • Pajak",
-      "title": "Rencana Razia Kendaraan Nunggak Pajak Diperluas ke Rumah Pribadi",
-      "summary": "Pemerintah berencana memperkuat penegakan pemungutan pajak kendaraan bermotor dengan perluasan program razia hingga ke lokasi pribadi pemilik kendaraan.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXgzbzR4UVNTeWNFMEFxWXJ0Y2swUlZOLVNUcDZOVWZ6U2RETUkyZmQ4NWZ5MFJBNmFWaUZyOFR5ck0yVUNVclR2NzBucXRPVFN5R25WYnRycGFTOWJERG41VWZCS28zakxYTC1yZHB4TndzLTdVdC1QcG11M3FWZDFPNTczbEY4b2xjTnNIVGNKZGk3TW9za0ZwSk05X18zcmE3Q3l3bXBHM0lfV1ZfOVIyQ3ZBR01GQmxyS0RneUFBMjhpSnBB0gHHAUFVX3lxTE81eDNvNHhRU1N5Y0UwQXFZcnRjazBSVk4tU1RwNk5VZnpTZERNSTJmZDg1ZnkwUkE2YVZpRnI4VHlyTTJVQ1VyVHY3MG5xdE9UU3lHblZidHJwYVM5YkREbjVVZkJLbzNqTFhMLXJkcHhOd3MtN1V0LVBwbXUzcVZkMU81NzNsRjhvbGNOc0hUY0pkaTdNb3NrRnBKTTlfXzNyYTdDeXdtcEczSV9XVl85UjJDdkFHTUZCbHJLRGd5QUEyOGlKcEE?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Makroekonomi • Bantuan Sosial",
-      "title": "Kemensos Ungkap Penyebab Banyak Bansos Tidak Tepat Sasaran",
-      "summary": "Kementerian Sosial menjelaskan berbagai faktor yang menyebabkan program bantuan sosial sering kali tidak mencapai target penerima yang sesuai dengan kriteria.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOekdXd1NTM2x1UGdXMDdiTlRRSGJLUnhqZXpNNE9nODdMRHZLblRSbEVwMzJoVU56SUlLcnVwZ1lRaXhFM01HR25nUWtxakVzTnB5NE1KcDgwOVoxU2JiSk0xbGN4eFZJd3I1WVFEQTNhUXlvOG5tQ3NTRFh5Q3NCZDU0YnlZcGl5YTJqVlZUVGozZ01zRDZsenZfelBfRmJjV2RzN1BQRmdXTlpfdHpOajZEa3hwN21mYzhJLUxsb0dJZ9IBwgFBVV95cUxOekdXd1NTM2x1UGdXMDdiTlRRSGJLUnhqZXpNNE9nODdMRHZLblRSbEVwMzJoVU56SUlLcnVwZ1lRaXhFM01HR25nUWtxakVzTnB5NE1KcDgwOVoxU2JiSk0xbGN4eFZJd3I1WVFEQTNhUXlvOG5tQ3NTRFh5Q3NCZDU0YnlZcGl5YTJqVlZUVGozZ01zRDZsenZfelBfRmJjV2RzN1BQRmdXTlpfdHpOajZEa3hwN21mYzhJLUxsb0dJZw?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Teknologi • AI",
-      "title": "OpenAI Luncurkan ChatGPT untuk Layanan Keuangan",
-      "summary": "OpenAI meluncurkan ChatGPT for Financial Services yang menargetkan pekerjaan junior banker di Wall Street, termasuk riset, modeling, dan pembuatan pitchbook. Produk ini menunjukkan perluasan AI ke sektor keuangan yang traditionally labor-intensive.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Teknologi",
-      "title": "Kinerja Saham Teknologi dan Hardware Setelah Earnings Oracle",
-      "summary": "Dell dan HPE menjadi saham berkinerja teratas S&P 500 hari ini didukung optimisme dari earnings Oracle, sementara Salesforce mencatat kenaikan harga saham ditengarai momentum AI optimisme menjelang Dreamforce conference. Oracle dan industri hardware mengalami sentimen positif berkat prospek spending AI.",
+      "tag": "Suku Bunga • Deposito",
+      "title": "Tingkat bunga CD dan mortgage naik di pasar AS",
+      "summary": "Tingkat suku bunga CD mencapai hingga 4,35% APY untuk tenor 18 bulan, sementara tingkat bunga mortgage mengalami kenaikan untuk hari kedua berturut-turut. Pergerakan ini mencerminkan kondisi pasar bunga yang lebih tinggi di pasar AS.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-12-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000342.html"
         },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-12-2026-mortgage-rates-up-for-the-second-straight-day-100000822.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Oracle",
+      "title": "Oracle atasi kekhawatiran pengeluaran AI, namun saham tertekan",
+      "summary": "Beberapa kekhawatiran bear case Oracle telah berhasil diatasi dalam laporan hasil terbaru, namun sahamnya tetap mengalami penurunan harga meski ada pesimisme yang berkurang. Oracle juga memberikan gambaran positif untuk pemasok perangkat keras seperti Dell dan HPE.",
+      "sources": [
         {
           "name": "MarketWatch",
           "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories"
         },
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Teknologi",
-      "title": "Marvell Semiconductor Buka Peluang Bisnis $30 Miliar",
-      "summary": "Marvell memiliki peluang pertumbuhan besar di luar chip custom, khususnya melalui supporting components dan optical networking yang dianalisis memiliki potensi unlock nilai $30 miliar. Bisnis supporting components dinilai sangat \"sticky\" dan menguntungkan.",
+      "tag": "Saham • Dell, HPE",
+      "title": "Dell dan HPE menjadi saham top performer di S&P 500",
+      "summary": "Dell dan HPE mencatat kinerja terbaik di S&P 500 hari ini, didukung oleh hasil earnings Oracle yang positif untuk sektor perangkat keras. Namun dampak jangka panjang akan tergantung pada kebijakan suku bunga The Fed.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Marvell Technology",
+      "title": "Marvell miliki bisnis 'sticky' yang bisa buka peluang $30 miliar",
+      "summary": "Marvell Technology dikenal sebagai pembuat custom chip, namun analis melihat potensi lebih besar di komponen pendukung dan optical networking. Peluang bisnis ini diperkirakan bisa membuka nilai hingga $30 miliar bagi perusahaan.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -190,9 +186,9 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Otomotif",
-      "title": "Tesla Berpotensi Transformasi Bisnis Truk Kargo",
-      "summary": "Tesla bertujuan mengakselerasi produksi Semi truck dan memanfaatkan harga diesel yang tinggi untuk mentransformasi industri transportasi kargo. Morgan Stanley melihat peluang besar bagi Tesla menangkap segmen pasar truk yang valuable.",
+      "tag": "Saham • Tesla",
+      "title": "Tesla bisa transformasi bisnis truk dan manfaatkan harga diesel tinggi",
+      "summary": "Tesla menargetkan akselerasi produksi Semi truck untuk memanfaatkan harga diesel yang tinggi dan mengubah industri truk. Morgan Stanley melihat ini sebagai peluang sangat besar bagi produsen EV tersebut.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -202,61 +198,109 @@
       "category": "global"
     },
     {
-      "tag": "Investasi • Strategi Pajak",
-      "title": "Investor Besar Alokasikan Miliaran ke Tax-Aware Long-Short Strategies",
-      "summary": "Total aset yang diinvestasikan dalam tax-aware long-short strategies (TALS) telah melonjak melampaui $170 miliar meski disertai risiko yang cukup signifikan. Strategi ini semakin menarik perhatian investor wealth untuk optimasi pajak.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Cryptocurrency",
-      "title": "Bank Berusia 172 Tahun Lihat Potensi Token Federal Bank",
-      "summary": "Sebuah bank dengan sejarah 172 tahun melihat potensi upside 400% dari token \"federal bank\" dalam ekosistem cryptocurrency. Perkembangan ini menandakan adopsi token dan blockchain oleh institusi keuangan tradisional semakin meluas.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Makroekonomi • Inflasi",
-      "title": "Social Security COLA 2027 Kemungkinan Naik $71 per Bulan",
-      "summary": "Kenaikan Social Security COLA yang diproyeksikan mencapai $71 per bulan di 2027 merupakan sinyal bahwa inflasi persisten masih menjadi tantangan ekonomi AS. Kenaikan benefit ini menunjukkan tekanan inflasi yang belum sepenuhnya terkontrol.",
+      "tag": "Saham • Salesforce",
+      "title": "Salesforce naik gelombang optimisme AI, Wall Street tunggu next catalyst",
+      "summary": "Saham Salesforce terus naik didorong optimisme AI, dengan konferensi Dreamforce minggu depan diharapkan menunjukkan bagaimana kemitraan Claudeforce dengan Anthropic akan berjalan. Wall Street menantikan detail lebih lanjut tentang integrasi AI dalam produk Salesforce.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Investasi • Produk Aman",
+      "title": "Investasi aman dari faktor politik, memberikan yield 4,7%",
+      "summary": "Terdapat instrumen investasi yang relatif aman dari ketidakpastian politik baik dari Trump maupun Democrats, dengan memberikan return sebesar 4,7%. Produk ini dilihat sebagai safe haven yang tersembunyi di tengah volatilitas pasar.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Asing Borong Saham Tambang ANTM",
-      "summary": "ANTM memimpin net foreign buy selama 5 hari terakhir dengan pembelian asing mencapai Rp649,4 miliar.",
+      "title": "Harga Emas dan Perak Antam Naik",
+      "summary": "Harga emas Antam naik Rp4.000 dan harga perak Antam naik Rp400 pada 12 September, seiring perak dunia menguat 1,45% ke US$64,37. Saham ANTM termasuk dalam daftar saham tambang yang menopang IHSG sepekan.",
       "sources": [
         {
-          "name": "stockwatch.id",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHRMaUxkRmpERWdUVG53SmxXYi1wcjBQVjM1eEVnQXZtTGN1cEdrSmZVejdRR195eUJNQWViT2xVal9QWTB2MmNZLWxleVBxbkZyRkJfT2o1N2VnTDZkZTMxM0E3N2g1SEJubVdtVDZCUVdlLUJPUUJFbVlrTnpGa3B3U0xacUJud2s0a2VYeVBhT3Y0U1g1c1ZQTThVd2ZQZmJyUV85OTI?oc=5"
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxMTnBEZjZNR1FBbEpxWHRYMUdPMVBwX1pYbVJ2M3JxNE5hQmZraF9HQV9zeGZlTmJBam92MThSaDR5V25EX2lmVUZPejdEUVBMb01tQWRnRHFCMGhGYW5lbXVPbEtlM0hDcXZtZHFNaWxLM01uWUV6TFQtSFVIbUYtN3ROak5EV2p3cS1nRHcyeVJjeEsyT21QTmNnX3pKVmM3VlhWWHVfVkc?oc=5"
+        },
+        {
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalRGbU9uWWl6dFIyMzJwaC1KVXdiM2pnUTdKcjZfX0pWdjcyY2pyd3lXVVdxY0N5a3UxcGptYWlDcUFlVXdIZFNsbGloRVprZUFCbTFmNTQwTWJTNUw2MW1Bc3VydmdlSEFsTFVhd2N5QXZPT1JVYmIwWVRkdkJrRkFIT05IRmVGYUc5a0xrMl96aEVOeDZuUmpMOEttLTZpQWs4OHlIUG91eTg?oc=5"
+        },
+        {
+          "name": "Bisnis.com - Market",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXVxN2JYblhLekJ1c0RUeWthLThiY3FxQWdjNzN6TTIzNXFjWnpTVEJKanNRMEg4MzZMYU1NTl9tdnVjd0ZrU2dSanp4WHZ5X0stczJiMEdGM0dSY0dXR1c4VFV0UklNcEVxWTRFdHJBR2FfVHRIM3pGeTJSZy1UQUlnRkVLWWowbjhvX2JrWUdjanp2eElQeUx2NUNwTDlyMWhwYWFR?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "ANTM",
+      "title": "Strategi ANTAM Dongkrak Laba",
+      "summary": "ANTAM memiliki strategi untuk meningkatkan laba hingga Rp6,91 triliun, tidak hanya bergantung pada emas tetapi juga diversifikasi produk lainnya.",
+      "sources": [
+        {
+          "name": "Ibukotakini",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0lQQXpaQ3NpMmpVTzk1SFV1QlhwdDQ3dElDWXpSa2R2OFlzT0Iya0FGQzQ3dEd6czJObHFNSzFkMDM0bkhxMURhTnVES3JaTlI1REdJdUVHQndvYUpoN2pPaUVtZGMzTkN6aEVOcm5pdWdsZGd6VGpBbTV3bFdwbU1jQ3dtQVhITVZLLTJ5NFFOR0VnNHd5ZDh1N0tBUElkWlFDLU44NmvSAacBQVVfeXFMTUtWS25ZNy1BZG5OM1hlaXlvQy1keHBobTJlNTdLRHZQOGlWdnZ2R09xSHJDOW04dF83UDhncGhnTEp4V2xnQ296amh4dG5iOWdZdEN0U0wtRVlVLVN2WXdYeHJaOEpRaF9sUmJHeGlQeVp4YVVpYmREYkhGUEQ3ekZVZ3pqQWVCYjZpb2lIX214WGt0VFFkVUNISlNUNHJEeHBNYkx1dUk?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BUMI",
+      "title": "Akuisisi Loyal Metals BUMI Ralat Jadi Rp1 Triliun",
+      "summary": "Nilai akuisisi Loyal Metals oleh Bumi Resources (BUMI) diralat turun menjadi Rp1 triliun dari nilai sebelumnya yang lebih tinggi.",
+      "sources": [
+        {
+          "name": "kontan.co.id",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWRvMmZUM0dPa3lCZ2pZYy1KLXFocHJUMGtqWFIxM2pJR3VjWER4LVRMYXJBYlQ2cjB0UWtJX0JVdDFNQWk0cUl3OHZEQ0liMnJycmMzQmNUM1J1NE0zbUx2WDU3eGJWQW1PX05oRFlBSW1IVW5FX2tiNXU2bEJZeGtTZ1FfN3JLWjU1TU02ZE95cU9XQ0pQUmI5OTVKN1BMVEIyUG5QcEk5NVlpa0pWRVpn0gGqAUFVX3lxTE5qdUlhQ05ZWGJKSlh4NjJ0aXVfLVRzX2RrZzU5a2JYWWFRSmNMSHloVExDXy05NVJISks2a2dxZmxtV0h1NDVOaGtTLTJKMUhOYzRzWTliRDBMN1B6UzczN0pqeDkxN0tBWk1CVEA1WkdKcnJNNEt2dUVnLTA1NzNXNmhiYWx3YjB4Vmw4OTk0d3h3ZWwyMmYyU1ZaclRGRlNtUUotazdpT1dn?oc=5"
+        },
+        {
+          "name": "Readers.id",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jV2dwTmJJSlpTSktTMTdwem9pRE5HRFlMUVdTRkdOY3hhc1hOLThzN01RdGVRNjRDVTF2LWxUYjJzcDhXOE1malJPVU1mZHpyYklBbzJQS0U4ZVI1V0h6Ri1WTkNaMmJ5ZHc?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BUMI",
+      "title": "BUMI Masuk Saham Terlaris dan Penjualan Asing",
+      "summary": "BUMI masuk dalam daftar saham terlaris sepekan dan termasuk dalam 10 saham paling banyak dijual asing saat IHSG anjlok.",
+      "sources": [
+        {
+          "name": "Bisnis.com - Market",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzhNVE5odGo3N3FKRDhNME9DVlZWNEd6WVB5TF92aWV5TUZoRnNwUzNWdWlpcjRvVlgxZGJXM29IRTFKZzNRM0tYREhvNm8taFVaMjY1bGtQeTg0Y1FKUzFfYng5VGFYZWNpTXlIQlYxcHY1cV9EVmVkWnR2NDdsM3lmUUNmUklVRTJMcko5dVR3cXRvR3ZQaGlDN0VRcURFUnc?oc=5"
+        },
+        {
+          "name": "Kompas.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTN6YU00UWc2azA4S3g2ZjI3YmQxNmtVR0V1c1Vob080bE83dzJWU3pobkF2M1MzcnNTTGYwWjV5SXZ2TnMwY3FuN0xkNk5fQkVfT292OGZzaTVVN19lTklrLVA2dFBKb0lremQ2RW1VUWdiS3BLbjZ1Ymt1clFCaEl0RWxwOFBISW5kNllTdTk2b0pQREpTa0trblVvRW1OM3NnZ3lkMlNscmxy?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "BMRI Terbitkan Obligasi Dolar",
-      "summary": "BMRI menerbitkan obligasi dolar senilai US$750 juta dengan tingkat bunga 7,35%.",
+      "title": "BMRI di Antara Saham Perbankan yang Meredup",
+      "summary": "BMRI termasuk big caps perbankan yang meredup sepekan, sementara saham tambang seperti ANTM dan AMMN diburu investor.",
       "sources": [
         {
-          "name": "IDNFinancials",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFk5OEVWamxzdGNzZXI0RHF6VUxpeWtJZ1VVeGtaRU9taFdQbm1laEpZaFZEYnpUMXVqNm9zMXhHN25TeWFHMkN0ZlRtTkxMd1JqNGNpQk1jS3h6SjIyZ3BXNnVJaWh5bnVrN1Fyb283ZF9tdFVDZnUzd09HV1BieEgtanJlckdCTERUWmVFbjdvNlFtbUlHUDZoUDQ1OVJ2MzhrVQ?oc=5"
+          "name": "mitrapost.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGNfNlNpOExCTFFuZkxvNDd5VzFCelAzSGRFMXB5NzhCSnM1WlFJUlkwRWhwdGRNaDBJZ2ExVU81aFhLWFpoN0QtSVpuempoUGNqZXg4NXJMTGNHOWJueGJoRVRjbW5sU3RJNEsyWU5kUzFkRFQ1LVl0S1NzeW9zdDFoSEdNQ21oX2JpbHJTbUVGZXlIcEZGRmVNeHJpaHFRZ2lGejZQR2Z3S09FN3hrZGI0TDQyWERyVU1Bb1FZcEtqdw?oc=5"
+        },
+        {
+          "name": "KabarBursa.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlBEUV84eVZYYWtYY1Ryc2dyd0ota0p2dkIxWDAtbktzLVlFV2tZTkM1Rm5XNDV4T05rSkJRdnE0cUJYa0lyVDNmaW5RTEtGWlJDZ2NuOUk4YmhhTEQ4WUNIbmVXelpkRU05ODdYZVFOVmNjS0NLX1FkTlBQZGVLQW5xVzdIUF92VHJFa1lrT3BrLTVWUmpzdkp1emNTcFBJUUdtZDZOX29QcWtCSVU5bms1bXlvVzZsQ0xucTRxSkgzZw?oc=5"
+        },
+        {
+          "name": "Bisnis.com - Market",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWlKTmdyUTh3UXc3cUQ4dkJYcEpTRXpBSjlkZDgzQUZXT3V4dktiTjB1SFp1VlkyS1FTSDJRa1NLQWRrMUhjZWdUc2tMUTM2QmR2clVKdDFEczRIaHJGRWk2aVVFaDNrTktuYkZVeklzSTl5ZS02ekN0YXZfMENlaDQ3eWJLMmR0SXRENk4teVVDTXlDU0Q0b2w1QWZzVVYxd2JpVXJKSmlOMlRvb3RjSW1qU1JlTEk?oc=5"
         }
       ],
       "category": "personal"
