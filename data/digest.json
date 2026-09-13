@@ -1,326 +1,82 @@
 {
-  "generated_at": "2026-09-12T23:43:29.365404+00:00",
+  "generated_at": "2026-09-13T06:32:36.769648+00:00",
   "items": [
     {
-      "tag": "Kebijakan Moneter • Suku Bunga",
-      "title": "The Fed Diprediksi Naikkan Suku Bunga, BI Rate Mungkin Ikut Naik",
-      "summary": "Pasar mengantisipasi kenaikan suku bunga The Fed sebesar 25 basis poin dalam waktu dekat, yang potensial mendorong Bank Indonesia untuk mengikuti langkah serupa terkait BI Rate.",
+      "tag": "Korporasi • Pertamina",
+      "title": "Pertamina Perkuat Green Vessel untuk Masa Depan Industri Maritim",
+      "summary": "Pertamina memperkuat komitmennya terhadap industri maritim berkelanjutan melalui pengembangan green vessel. Langkah ini merupakan bagian dari strategi perusahaan untuk mendorong transformasi hijau di sektor transportasi laut Indonesia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkRtSlhUWXh0TXFXZ1BQc2EtcW8yVjR5YVN5UzZqTERfN2NUMzlUOXdhR0lqZVBST1JvVF9NLVk4VTl4cWV1dUhJWmk2N2Q4amJ5ZFExdlU4MXFOZVZwYVowTGt2Ukp6ekp2Y2JkbjV3cmUxUGNzcGRsVHoyOU1MT29MSWxtc2x4UVZBbXVBTGhkMmlFU3ViRXZFamlxMnA2V0hTZjlkeWdKaFVYTjhwRFNMcXdUV21PMmgtaDdiTFdUdFNjM25DYQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnhmRmtsQ1BpU0tnOXBRWHlDRmJLYy03emZSb1dIQ2NzR3Rkb19BTkFjOEFHNzZiWjFvaTlBMzgxQjBuSWJ0QXhCNXFOMFNrZjVKNkRkSWhMeDJpeVo1UlB6eDBsZ1k1N2lJV3d0d3NKTGY4OG0xd1ZvZC0zUk9nZDNKM2lDSzRKQ0dXM3lGLVRVcDY3T1lKT2tTR3ZIRTJRLW9PQ0xZSXFDZDl6YVQydXZFR2hzX3l5a2ZVR2huejF3d9IBwgFBVV95cUxNQnhmRmtsQ1BpU0tnOXBRWHlDRmJLYy03emZSb1dIQ2NzR3Rkb19BTkFjOEFHNzZiWjFvaTlBMzgxQjBuSWJ0QXhCNXFOMFNrZjVKNkRkSWhMeDJpeVo1UlB6eDBsZ1k1N2lJV3d0d3NKTGY4OG0xd1ZvZC0zUk9nZDNKM2lDSzRKQ0dXM3lGLVRVcDY3T1lKT2tTR3ZIRTJRLW9PQ0xZSXFDZDl6YVQydXZFR2hzX3l5a2ZVR2huejF3dw"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Ritel • Franchise",
-      "title": "Indomaret Buka Peluang Franchise, Berikut Modal Awal yang Diperlukan",
-      "summary": "Jaringan ritel Indomaret membuka kesempatan bagi calon pengusaha untuk membuka outlet franchisenya dengan persyaratan modal minimum tertentu.",
+      "tag": "Korporasi • Danantara",
+      "title": "Danantara Biayai Proyek Jangka Panjang melalui DDMF",
+      "summary": "Danantara menggunakan Dana Dari Masyarakat Untuk Infrastruktur (DDMF) untuk mendanai proyek jangka panjang dengan target pertumbuhan tertentu. Skema ini merupakan inisiatif pembiayaan infrastruktur yang melibatkan partisipasi masyarakat.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTndoX0c5dDJRZEFiZm13WVNqWTY4Qy1fM0hlNkNEZmJpX1R2MEJGdkNBUHQxV1luNktjMTJpdnFXUU52WmNEc2RtdzVxREpqNWVUT2VncnNzMWRtWUstVU5GX2ZQeDJVV0R2d3IySTI4T2hocTFBWEUzQVR4V0pxeFBXV1FiTVdYVDFKMVYwWjZ1NlR0ZlI0SEF5S1hLOUFoSDZoNjBJeUFSVUFtWFh4SGhRblN0QmVoUV9YWFdhZ9IBvwFBVV95cUxNTndoX0c5dDJRZEFiZm13WVNqWTY4Qy1fM0hlNkNEZmJpX1R2MEJGdkNBUHQxV1luNktjMTJpdnFXUU52WmNEc2RtdzVxREpqNWVUT2VncnNzMWRtWUstVU5GX2ZQeDJVV0R2d3IySTI4T2hocTFBWEUzQVR4V0pxeFBXV1FiTVdYVDFKMVYwWjZ1NlR0ZlI0SEF5S1hLOUFoSDZoNjBJeUFSVUFtWFh4SGhRblN0QmVoUV9YWFdhZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0tlMXlxa1FqVy1oUHRRcTc5UUdpM1VneEdrQ3E5RmVsWU5fWlRRcFk2cWxsSTBSbi0ybGNTN2Rkc3ZnNXg2NzFWVlZ6cGpyNzV3NFJnc0NDWTQ1YTRLcVNiMTkwUW9EVncxWldiZzBibHc0eV9FQzZZRDdPYV94Ml9HQncwUmZNbW9FeUg5YTNQNndBSU93b0thWE5zV0xkTzlCcFg5MmMtdjNxSXdfVVEwdllpWFFLazdwaHNZTVBTbjNyQUE"
         }
       ],
       "category": "domestic"
-    },
-    {
-      "tag": "Perkebunan Sawit • Komoditas",
-      "title": "Krisis Iklim Ganggu Logistik Minyak Kelapa Sawit, Pengusaha Dihadang Kendala Transportasi",
-      "summary": "Musim kemarau dan bencana karhutla menyebabkan aliran sungai di kawasan perkebunan sawit menjadi surut, mengganggu pengangkutan minyak kelapa sawit (CPO) yang bergantung pada jalur sungai.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUhXY1lSMkFIMmV4SmVUaUdYX0JoNEZMWmdzQmtrdGptS09vY1VKVkswaXVXRlVSX05meTBUS2ZHVjJaU1VEMnF1WTRBZE5kTTI3eUVYeV9XeXFHM1BlU0lTajEwdmprSzdPcU5STDIzcHRpQlZOdjdBa2RVTlZDX3pKZE1oS0VjNkRXaEZuVHY4OXF3N19TdWFtZ3hWWVJCcWpCYTFmakhZUFdWdUVJUll0bFNlZEs2TDNYWUNkVXdPZWM?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Energi Terbarukan",
-      "title": "PLTP Gunung Ungaran Diharapkan Jaga Lingkungan Sekaligus Dongkrak Ekonomi Lokal",
-      "summary": "Proyek Pembangkit Listrik Tenaga Panas (PLTP) Gunung Ungaran dinilai memberikan manfaat ganda dalam menjaga kelestarian lingkungan dan meningkatkan pertumbuhan ekonomi di daerah sekitarnya.",
-      "sources": [
-        {
-          "name": "CNN Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGMxckp3TkRKZTRpSEZUV0cyMUhKVUFCbDRTcVNXNjI4VDdTNHBReVFqcWtJQW5na0JXOVhkVDdyVzFGVDV5V1dDd05LYjFMZ0xWZThZUVJJdUI0SFpBZ3k2Q0lsa0RfTTlHVmwwUi1yMEE0WkE4dUNtWU5xM0dGQ3BienRTakEzMFBBS3ZmSjlfeTQ2TTA5R3hhMWxKRHlPbXU4ZHlOTm9GZGxBdFdrZ0MwckJ5YlMzZWFhWjhOd1NSVzU2QnE4NGtB0gHKAUFVX3lxTFBEYzFySndOREplNGlIRlRXRzIxSEpVQUJsNFNxU1c2MjhUN1M0cFF5UWpxa0lBbmdrQlc5WGRUN3JXMUZUNXlXV0N3TktiMUxnTFZlOFlRUkl1QjRIWkFneTZDSWxrRF9NOUdWbDBSLXIwQTRaQTh1Q21ZTnEzR0ZDcGJ6dFNqQTMwUEFLdmZKOV95NDZNMDlHeGExbEpEeU9tdThkeU5Ob0ZkbEF0V2tnQzByQnliUzNlYWFaOE53U1JXNTZCcTg0a0E?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Energi • BBM",
-      "title": "Pertamina Tambah Nozzle BBM Subsidi di SPBU Makassar untuk Tingkatkan Layanan",
-      "summary": "PT Pertamina melakukan perubahan konfigurasi dan penambahan nosel BBM bersubsidi di 12 stasiun pengisian bahan bakar umum (SPBU) di Makassar.",
-      "sources": [
-        {
-          "name": "CNN Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0hyd09Lb0tGV3g0ZGx6RDB4QnRrRjU0cndxUTdPMUd5UmtTUElvc1hwUG1MbzNmcEp4Ti1ubm5EZ2FzZFc4NjlrUHRmeXZJY001SkN6MVRoZ1lqZU80U0RJMl9wVG41N1Z5MDZTSzdNeDRMV3RuejIwUUc0X0RvUXZQeGVlaFprWTV2WWtURTIxNGV2aHdOb2lwZ0VrY1dNUUdPd0RQaVc1QTdIbVRRV1VqbnhHbnVKNk9LRzJrUklUS2RMZXNDZV9pSHfSAdIBQVVfeXFMT00ydDFSUHREbWJyOVdpbW9kVmtZMmoxYlU4TEh4bGtGb0pGdXh1TkhITnRGRm1uU0dCZ0JHeWFTNms5RGFndTJNS295LVVOeDVVZHdGeGV3MWk1V0c4QVowVmR1b2dFRUpWS2phZVhZTmEwby12VHlkUGE2Y09GUkd6eC1FSHYxWGU4WUZEOXdZaFBySGc4dFZGYnFJWDVzX2p1TjFEUmNLbmd1ZElXX2tuX282MS05b0I3MFFXV0huOW0zVzk1ZHd1MTJNcGhybEFn?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Komoditas • Logam Mulia",
-      "title": "Harga Emas Spot Naik di Akhir Pekan Meski Sempat Turun, Investor Berburu Kesempatan",
-      "summary": "Harga emas spot mengalami kenaikan di penghujung pekan setelah sebelumnya turun, mendorong investor untuk melakukan akumulasi posisi pada tingkat harga yang lebih rendah.",
-      "sources": [
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTnQzZlBwNkM5X3Vka3BLLVhHcEZCbmJFaEtqWURFRWdocXlKWEdzSTNWcEFGeWppdHFsV0J1c2twNk5KbEVvaUxFRlVFd04wWGc3X1RIVFQ5RmlxUEl6MXpFcWtNT2pmdHdoS1p6czVTMVVubE1CeVBaaDFwOWcyY0lIQXRmVlc1bHlFMnI5dnVRbUlwZkVRRVloQ3hBQ0h2WHE2VtIBnAFBVV95cUxOR3RVaXl5U1d5OTVLNGl5OGJVeGJrTUppTDRxZW40eGtsUER4WklPallyeTBZZlAtaE52LWR5dm1kWEE3Um1kMl9RT0lwOGxBTGdZYUFnM05zQ1NNcGJyVXp1RG1iZkRtLVZjMWRsZ2tTUWJGcm1jZmRKVW54N1VTeFdmVnNYRzVqYkh1ckpmZThvUS1sUzlDMFhHU3Y?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Saham • RAJA, RATU",
-      "title": "Prospek Saham RAJA dan RATU Dinilai Cerah, Analis Berikan Rekomendasi Investasi",
-      "summary": "Dua saham emiten yang diidentifikasi sebagai RAJA dan RATU memiliki prospek pertumbuhan yang positif menurut proyeksi analis, dengan rekomendasi untuk dipertimbangkan investor.",
-      "sources": [
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaU9DR1Jycy1sQkNTSWloVUhlb0t5aDMyR3VQdUhqTEpOUzdadXRWa0ZGQnU1R1lZSG9vRlZ4QV9vQjJCOUw4TWlpMS1GSlItMUVMSzhsMVY3LWZIclBhTzJNbENReU1QdTN0cHF6dmVNdTZxNl9SRmJPckdlQ2JxTnpXZjI4OC1PNDlyZ3BvdHREakVEQ01yUU5Db0VCLXNX0gGYAUFVX3lxTE8waE81RGpfcnVGcDBNbnVwSE9SRGNpTkMzVzZmdU96cGZIcnlQUVFtU2tMUllmVkEwNy1KTEx2YWRWM1JPTDBxSS1XVHhJU1dWQlgtaTRXREVtVFdmMEdWSXg2aUdOUW14Mi0xNEdsazRNNEVTb0lYMmRhc1M2b0xTbG9XaVFNMjdmcmdCUkVkdExCbG9zeWx3?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Saham • GM, Ford",
-      "title": "GM Kembangkan Baterai Domestik Terkait Isu China Ties Ford",
-      "summary": "GM berencana mengembangkan rantai pasokan baterai domestik untuk EV dan penyimpanan energi, merespons serangan Trump terhadap Ford terkait koneksi China. Saat ini, sel baterai masih sangat bergantung pada bahan baku dari China.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • GE Aerospace",
-      "title": "GE Aerospace Akuisisi CPP Senilai $12 Miliar Uji Strategi Pertumbuhan",
-      "summary": "Akuisisi CPP senilai $12 miliar oleh GE Aerospace menjadi ujian signifikan bagi strategi pertumbuhan perusahaan. Langkah ini menunjukkan ambisi ekspansi GE di sektor aerospace.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-12-billion-223833187.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • USB (U.S. Bancorp)",
-      "title": "U.S. Bancorp Naikkan Dividen dengan Momentum Positif Bisnis",
-      "summary": "U.S. Bancorp menaikkan dividen di tengah perkembangan positif kinerja bisnis perbankan. Keputusan ini mencerminkan kepercayaan manajemen terhadap prospek perusahaan.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • QTWO (Q2 Holdings)",
-      "title": "Piper Sandler Pilih Q2 Holdings sebagai Top Pick",
-      "summary": "Analisis Piper Sandler menempatkan Q2 Holdings sebagai top pick, mengindikasikan potensi pertumbuhan saham yang menarik. Rekomendasi ini berbasis pada prospek bisnis dan valuasi perusahaan.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Kendaraan Listrik • China",
-      "title": "China Luncurkan Kendaraan Listrik dengan Harga Terjangkau $19.170",
-      "summary": "China meluncurkan kendaraan listrik bertenaga dengan harga sangat kompetitif sekitar $19.170, memperkuat dominasi produsen EV China di pasar global. Strategi pricing agresif ini meningkatkan tekanan pada kompetitor global.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/china-just-launched-19-170-231700387.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • XYZ (Block, Inc)",
-      "title": "Block, Inc Dorong Bank Charter untuk Ambisi Digital Assets",
-      "summary": "Block, Inc mendorong perolehan bank charter untuk memperluas strategi di sektor aset digital. Langkah ini menunjukkan ambisi Block untuk menjadi pemain institutional dalam ekosistem cryptocurrency.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • ACVA (ACV Auctions)",
-      "title": "ACV Auctions Raih Perolehan Tertinggi Minggu Ini",
-      "summary": "ACV Auctions menjadi saham top performer minggu ini dengan peningkatan signifikan. Kinerja positif didorong oleh faktor fundamental dan sentimen pasar terhadap sektor automotive.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • CRM (Salesforce)",
-      "title": "Salesforce Pertimbangkan Akuisisi Listen Labs Perkuat Strategi AI",
-      "summary": "Salesforce merencanakan akuisisi potensial Listen Labs untuk memperkuat strategi agentic AI di platform mereka. Langkah ini menunjukkan fokus Salesforce pada pengembangan kapabilitas AI enterprise.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • NVDA (Nvidia)",
-      "title": "Nvidia Investasi 2 GW AI Infrastructure di Australia",
-      "summary": "Nvidia mengumumkan investasi 2 GW infrastruktur AI di Australia, memperdalam keunggulan kompetitif dalam ekosistem AI global. Ekspansi ini memperkuat posisi Nvidia sebagai pemimpin infrastructure AI.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • PANW (Palo Alto Networks)",
-      "title": "Pertumbuhan AI Palo Alto Networks Hadapi Valuasi Bar Lebih Tinggi",
-      "summary": "Pertumbuhan AI Palo Alto Networks menghadapi ekspektasi valuasi yang lebih tinggi dari pasar. Tekanan ini mencerminkan persaingan intensif dalam pasar cybersecurity dan AI solutions.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • NVO (Novo Nordisk)",
-      "title": "Peluang Obesitas Pediatrik Novo Nordisk Hadapi Uji Lebih Besar",
-      "summary": "Novo Nordisk menghadapi tantangan lebih besar dalam mengeksploitasi peluang pasar obesitas pediatrik. Persaingan dan regulatory scrutiny meningkat dalam segmen ini.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • DG, DLTR (Dollar General, Dollar Tree)",
-      "title": "Dollar General Ungguli Dollar Tree Pada Quarter Ini",
-      "summary": "Dollar General mengungguli Dollar Tree dalam kinerja kuartalan, menunjukkan perbedaan strategi dan eksekusi di antara dua pesaing retail discount. Divergensi kinerja mencerminkan perbedaan positioning dan consumer preference.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • BMRN (BioMarin)",
-      "title": "BioMarin Naik 5% Setelah Penyelesaian Paten Global dengan Ascendis",
-      "summary": "Saham BioMarin melonjak 5% menyusul penyelesaian sengketa paten global dengan Ascendis. Resolusi legal ini menghilangkan ketidakpastian dan membuka peluang kolaborasi potensial.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • AMT (American Tower)",
-      "title": "American Tower Prediksi Laju Pertumbuhan 2026 Jelang Katalis 5G, AI, dan 6G",
-      "summary": "American Tower mengantisipasi laju pertumbuhan melambat di 2026 sebelum pemulihan didorong oleh katalis 5G, AI, dan 6G. Proyeksi ini mencerminkan dinamika infrastruktur telekomunikasi yang evolusioner.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/american-tower-sees-2026-growth-230156550.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Suku Bunga & Finansial",
-      "title": "Suku Bunga Hipotek Naik Hari Kedua Berturut-turut",
-      "summary": "Suku bunga hipotek dan refinancing meningkat untuk hari kedua berturut-turut per 12 September 2026, mencerminkan pergerakan yield obligasi jangka panjang yang lebih tinggi.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-12-2026-mortgage-rates-up-for-the-second-straight-day-100000822.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • SIRI (Sirius XM)",
-      "title": "Sirius XM Optimalkan YouTube Ad Revenue dan Buyback Program",
-      "summary": "Sirius XM mengeksplorasi peluang iklan YouTube dan mempercepat program pembelian kembali saham seiring pertumbuhan strategi subscription. Inisiatif ini bertujuan mengoptimalkan revenue streams dan shareholder returns.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/media-advertising/articles/sirius-xm-eyes-youtube-ad-220200443.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Real Estate Korporat",
-      "title": "Premium Office Space Unggul Saat Pemilik Rethink Workplace Strategy",
-      "summary": "Pasar kantor premium menunjukkan performa lebih baik sementara pemilik properti mengevaluasi kembali strategi workspace. Divergensi ini mencerminkan peralihan preferensi tenant terhadap lokasi dan kualitas premium.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/real-estate/articles/premium-offices-pull-ahead-owners-215949686.html"
-        }
-      ],
-      "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Tabel Harga Emas Antam 12 September 2026",
-      "summary": "Tabel harga emas Antam untuk semua ukuran pada tanggal 12 September 2026 tersedia untuk referensi investor.",
+      "title": "Pertumbuhan Laba dan Performa Saham ANTM",
+      "summary": "Laba bersih ANTM tumbuh 34% dengan margin yang semakin tebal. ANTM termasuk salah satu saham penopang IHSG dalam sepekan terakhir.",
       "sources": [
         {
-          "name": "insight.kontan.co.id",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzVoOVkyMzdENHpOaDZJVGJBeFhob3hkbDFrdVJ6cWI3LTNCYUIyeHQ1SVVTVkRYWTIwWUdsc2R3cnNBZTNmejVFZURQMGU4WW80d3VFMDA4c2xxTTAzOUl3NGFNdThOaHZtVk82YWttcUhQVXVyWWlnc3l2TmthY2IxWHRJUXhnTXc5dGtLaXp4VW0xbGc?oc=5"
+          "name": "Bloomberg Technoz",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUVKOVh3STNEZWw0MGJGSFJiZHhON1ptRVlIQjl5dlZKZ1p2dV9sdzJTRndQVThQOFc1V1Yyd3BrNmFPVkViLThDZlNBa0tnNlpHWjdWUVd4aVlpdERpeUlJVFZ3VVIzT08wNHI5UGUwV0t3WDc5NWNTVFhlTDZMdWdvZDhCNks5UzRNZTZDMmdUU1VDeGxwVWJORlJaUQ?oc=5"
+        },
+        {
+          "name": "Bisnis.com - Market",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVgtakltYjhSVXlEVy11Ym1VVnF5N1J0T2x2c0pMNEswRlp3S3lrTFBRX0Q4V2hERENnR2RXb2M0TlNaSzJfclBmcmRlRzdlUF9tOEZqTWNIYWZ6Q2pwYl92eUpDQmtsUTZzZTdWVmhPNjNURFF2bUk0RncyMW9UMzZRbEdfSkNQYTgxSTNjTURyLUMzQUswYkZiMlBhck5TeDlOR1doc2Z1bk5PWjlTZ0dSNTNuWnU2Q0hJdktB?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BUMI",
-      "title": "Membaca Volatilitas dengan Analisis ATR dan EMA",
-      "summary": "Analisis volatilitas saham Bumi dapat dipahami lebih baik melalui pengukuran jarak harga terhadap EMA, bukan hanya mengandalkan indikator ATR saja.",
+      "title": "Aktivitas Asing dan Akuisisi Jumbo BUMI",
+      "summary": "BUMI memimpin top stock dengan pembelian asing Rp22,6 miliar dan termasuk dalam deretan 10 akuisisi jumbo emiten sepanjang 2026.",
       "sources": [
         {
-          "name": "PASBANA",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjlPakxjenk0d281ZmlORXlVTnFiNlpMeHNNMDQwcjk4VmdjLTlzeFpMcU80YnEyMlFnUi1GaHhwd1ExOWlmX05HTWpBTnVORHFjOTdBaVVHd0RqbEo2X0hJWFB5UGlPU3pOcUtjamRGajhyNWcwLXk0LUhYMWJlMVB4b2M1WGxxMVRnc1M4amlYaGQ2NkpMMmVvbHN2QXlUZjVGTWU0dzc?oc=5"
+          "name": "KabarBursa.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVVtNlhrT3RvdXJVRFRzMGlVRTZTRFpVU2pPNzNuZngwRWFzNlUtRm8zSXpKMk9EVUZZZ1JLMWFYZkdrVHQxVy02Nkh2bGlmZjlJbWFfOGo4cHlUQ0s5WklIODNwb2hCSUNzVTd0ZGwzWVdyV0tTVmVkVG91cVlTQ0N0NmVra25uUjl2SU9KTXR2SktDQUFwdG9ZRUxFdG1DZG1IZ0EyeERiZnVXajBRQ2Rn?oc=5"
+        },
+        {
+          "name": "Bisnis.com - Market",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT19LN0xCYjFKdG9TWW10MVJNOGtRSTNzTHZ2Rld0bm9LWm5iYTBCcjRWOE5uMmJyb0V1cmhNZWE3LVNUeXNsS1AzWlNHdDgtY1JxNTdWdTdvUWozNXBRUk1rOWNVRU5nTmF6ejhLNHctZ09Id1NkLXRWT0NkSFU5VThiaW5DdUdGQy1MOS1aclRYQlBlN2ZBVU9HZkFsM25HMkFmc3lrNG5CWUI1NWUtNlRxeG5lMm1YMEZITERha2hrZDkz?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "Ramalan Laba Bank Mandiri hingga September 2026 dan Target Saham",
-      "summary": "Proyeksi laba Bank Mandiri (BMRI) hingga September 2026 disertai dengan target harga saham untuk membantu keputusan investasi.",
+      "title": "Proyeksi Pertumbuhan Laba dan Target Saham BMRI",
+      "summary": "Laba Bank Mandiri (BMRI) diproyeksi tumbuh 16,3% hingga September 2026 dengan target harga saham Rp5.660. BMRI juga termasuk saham yang diborong oleh investor.",
       "sources": [
         {
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhhUDZvbkVYRmlRZFhieUpvb21TdDJPOE1QNUA5UzVJTFd2NU5rSkVqOHlJWFNXcXgwMVBRNkY5RzZ1OGRmUTU4YVdzOGZ1SHJKdmRlTHBocWEyU0ZVRTBDcDJZMV95TkFpOHlYTFBLT2QwY2k1b2RfNV8yWmIxSV9OWHFJVWVvZy15bzBVOHdQWVFPMm9iNUhNbnFWRi1YWU5OSUZaaDZpdURf?oc=5"
+        },
+        {
           "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnNMMXJhTmhkRk4ydHlWTWMxNDJBbkJBSXdIR3JRVkFib0RUcEtVTWFIOHpPZVFSMEh5LVJvVk1XVW5wWjZLaUVadGZWMXBpVkxqaillELUhYZXl5WWp5TjdLU1lFMU1UZTBUNVI0U19kLTBoaDlPankteVhJTGk2MjdJamtnQjVlU1E1Z2M5bzd4c3h6MHdQWmU3SXlrdmVPcGJFYi1LMTVXN0U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnNMMXJhTmhkRk4ydHlWTWMxNDJBbkJBSXdIR3JRVkFib0RUcEtVTWFIOHpPZVFSMEh5LVJvVk1XVW5wWjZLaUVadGZWMXBpVkxqallELUhYZXl5WWp5TjdLU1lFMU1UZTBUNVI0U19kLTBoaDlPankteVhJTGk2MjdJamtnQjVlU1E1Z2M5bzd4c3h6MHdQWmU3SXlrdmVPcGJFYi1LMTVXN0U?oc=5"
+        },
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SYlRza2ZsTGNCdG1wd3hmcXNubXI4TG9PSDVSX1BPLTFnZGpfNjRsZHpFZjllLTUzN2dIN0lqV2FjdGc0RmM0VG9XdzhVNHhUQVVQRnJQMUVWOXFpU0hPWXMyc1lRcUh2a19wdmNUUFFzTXM?oc=5"
+        },
+        {
+          "name": "Readers.id",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IWEdLSFhxc1NOQWRaaGlNXzc0M3A5QkduLTZKME5TM2RUZ0xhS0pjdDdVR0FJZmJ4OEZEeHJqd0w5RkR6ZVptVDdicGkxRjR3ejNONFpJMVQzejF3bzZzUHd0Z3VFXzg?oc=5"
         }
       ],
       "category": "personal"
