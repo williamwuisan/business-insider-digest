@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:02:36.925266+00:00",
+  "generated_at": "2026-09-15T12:32:37.602985+00:00",
   "items": [
     {
       "tag": "Saham • BYAN",
@@ -222,138 +222,222 @@
       "category": "domestic"
     },
     {
-      "tag": "Teknologi • AI",
-      "title": "Kekhawatiran AI dan Tekanan pada Saham Chip",
-      "summary": "Peringatan dari Anthropic CEO tentang recursive self-improvement dalam AI dan kekhawatiran regulasi menyebabkan tekanan pada saham chip (Micron, Nvidia) yang sebelumnya dianggap sebagai safe play. Sementara itu, saham software seperti CrowdStrike dan Palo Alto Networks menunjukkan performa luar biasa mengalahkan sektor chip untuk pertama kalinya.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Bank of America",
-      "title": "BAC Proyeksi Fee Investasi Banking Menurun di Q3",
-      "summary": "Bank of America sebagai bank terbesar kedua di AS memproyeksikan penurunan fee investment banking lebih dari 10% pada kuartal ketiga, yang menjadi sinyal awal bahwa AI boom di Wall Street mengalami guncangan.",
+      "tag": "Teknologi • Data Center",
+      "title": "Potensi Perlambatan AI Tidak Merusak Prospek Real Estate Data Center",
+      "summary": "CEO Digital Realty mengatakan bahwa potensi perlambatan AI tidak akan menjadi bencana bagi sektor real estate data center, meskipun stok Digital Realty dan Equinix telah menurun akibat peringatan seputar kemajuan AI.",
       "sources": [
         {
           "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html"
+          "url": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Farmasi",
-      "title": "Novo Nordisk Rebranding dan Strategi Obesitas",
-      "summary": "Novo Nordisk melakukan rebranding dan rethinking strategi obesitas menghadapi persaingan ketat dari Eli Lilly dalam pasar obat penurun berat badan yang kompetitif.",
+      "tag": "Saham • Teknologi",
+      "title": "Kualkomm Terus Mengembangkan Strategi Pivot ke Pusat Data",
+      "summary": "Pivot Kualkomm menuju bisnis pusat data sudah nyata, dan pasar telah menyadari arah strategis ini sejak awal.",
       "sources": [
         {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Komoditas • Energi",
-      "title": "Harga Minyak Meningkat Akibat Konflik Iran",
-      "summary": "Pembeli minyak membayar harga lebih tinggi untuk memperoleh crude oil secara immediate karena konflik Iran mengancam pasokan global, menandai peringatan akan kenaikan harga bensin di pompa.",
+      "tag": "Saham • Teknologi",
+      "title": "Salesforce Tekankan Strategi AI di Dreamforce dan Investor Day",
+      "summary": "Salesforce menempatkan strategi AI di pusat perhatian pada acara Dreamforce dan investor day, menunjukkan komitmen perusahaan terhadap inovasi AI.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories"
+          "name": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/saleforce-stock-dreamforce-ai-strategy/?src=A00220&yptr=yahoo"
         }
       ],
       "category": "global"
     },
     {
       "tag": "Makroekonomi • Suku Bunga",
-      "title": "Yield Treasury 10-Tahun Sentuh 5% Tertinggi sejak 2007",
-      "summary": "Yield Treasury 10-tahun menyentuh level 5% (tertinggi sejak 2007) seiring kenaikan harga minyak dan menjelang pertemuan Federal Reserve, menandakan penjualan obligasi yang dalam.",
+      "title": "Yield Treasury 10 Tahun Mencapai Level Tertinggi sejak 2007",
+      "summary": "Yield obligasi Treasury AS berjangka 10 tahun telah mencapai tingkat tertinggi dalam hampir dua dekade, mencerminkan perubahan signifikan dalam kondisi pasar obligasi.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-121942773.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Pasar Modal",
+      "title": "Pasar Saham Tertekan saat Yield dan Harga Minyak Naik Menjelang Rapat The Fed",
+      "summary": "Indeks Dow Jones turun di tengah kenaikan yield obligasi dan harga minyak, sementara pasar menunggu keputusan The Fed dengan kekhawatiran seputar keamanan AI.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Komoditas • Minyak",
+      "title": "Harga Minyak Naik Akibat Serangan dan Gangguan Pipa Meningkatkan Kekhawatiran Pasokan Arab Saudi",
+      "summary": "Harga minyak meningkat seiring dengan serangan dan gangguan pipa yang memperdalam kekhawatiran tentang pasokan minyak dari Arab Saudi.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Komoditas • Logam Mulia",
+      "title": "Harga Emas dan Perak Turun Seiring Kenaikan Yield Treasury",
+      "summary": "Harga emas mencapai pembukaan terendah dalam beberapa minggu sementara perak turun di bawah $64, didorong oleh kenaikan berkelanjutan yield obligasi Treasury menjelang keputusan The Fed.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-treasury-yields-keep-rising-111454530.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Crypto",
+      "title": "Harga Bitcoin dan Ethereum Melemah Menjelang Rapat The Fed",
+      "summary": "Harga cryptocurrency termasuk Bitcoin dan Ethereum mengalami penurunan di pagi hari sebelum pengumuman keputusan suku bunga The Fed.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Teknologi",
+      "title": "Dana Investasi Membeli Saham AI Meskipun Memiliki Keraguan",
+      "summary": "Beberapa dana investasi terus membeli saham-saham terkait AI seperti HPE meskipun masih memiliki kekhawatiran tentang prospek jangka panjang sektor tersebut.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://www.investors.com/research/ai-stock-funds-hpe-stock-trv-well/?src=A00220&yptr=yahoo"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Meta",
+      "title": "Meta Muse Berpotensi Menghasilkan $2,4 Miliar Setahun dari 10 Juta Pengguna Berbayar",
+      "summary": "Jika Meta Muse berhasil mencapai 10 juta pengguna berbayar, layanan tersebut berpotensi menghasilkan pendapatan tahunan sekitar $2,4 miliar untuk Meta.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-muse-math-10-112958828.html"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Saham • Retail",
+      "title": "GameStop Mencapai Pencapaian Operasional Meskipun Penjualan Inti Lemah",
+      "summary": "GameStop mencapai milestone operasional positif walaupun kinerja penjualan produk inti tetap mengalami kelemahan di pasar.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-gme-hits-operating-milestone-111314959.html"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Asing Lepas Saham ANTM Saat Reshuffle Menteri Keuangan",
-      "summary": "Investor asing ketahuan lepas saham ANTM saat terjadi reshuffle menteri keuangan, dengan beberapa sumber melaporkan aktivitas asing yang beranjak dari saham unggulan ini.",
+      "title": "ANTM Gandakan Kapasitas Emas dan Revisi Proyeksi Laba",
+      "summary": "Antam berencana gandakan kapasitas produksi emas menjadi 60-70 ton, didukung kenaikan harga emas global yang mendorong revisi proyeksi laba ke atas. Investor asing masih melakukan net sell sejalan dengan pergantian Menteri Keuangan.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXFYVFdSNXdSTnZidWFndXVIVDBsMVE4NXBQVExoUjlEdmZHQjBzajhHcDZ2VjkwMVg3S1A2TGpNY3VZYmVKeUJQZUtfRU9NUFpYQUE5dEF6b09LMVVzUS1HbndBMS1ETHJjZHBjNk9FWnFRRzhUOHFPTHppSW1nOG5jQkhvUFMwc2tnNXFCdzdVNEpUZXlia0ZkRWEwSkZzT3lJT3A2QVFqVjFhNU5iS1V3d0plalBZV3VERFZaVU5BQdIBxwFBVV95cUxPa2RiV3N5Q2xQZG9KQ2dETFE2YVhja0NjX0JqY2hKR2dGUzZ0WWhsaUVwTWxiZ2dzeS1PeXpfWnVTYTZvbTlGR3hMSFF5N0hYV0NFMjNYVmtKZENsRE8zOGYzYUdoZVRiVDBaT0FWYjZJRHRYTlZxU3Nzb21mZlV2Wk1TaFFZUmhCVkpuNmFuWVlCU0o1Vm1NbkxKQkl4VHYzTWh1TDVKdk95UnhhMjE3dnpnOTlzbjlMRW83ejdjbUxablh0ekU4?oc=5"
+          "name": "KabarBursa.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3JKMTZfM2pkMmQ5N1dOMVJ6RGdJbE1YU3lEQW13QVIwWEY4blNFdTYydUE2RmZUeEh5QnB3ck1LWFhHMFphNnFPdzhkbVpudlNtN08zSi1PSnhXLVNwWXlXWU95cEpRRUdDbmQ0eEdINzZ1Tzh1Y0czN010b1BCWVREWDNEQVgtbUp5d0ZHM0psbGVoVjVEUkl1QU5KYlFiUVRzVkw0MzA?oc=5"
         },
         {
           "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVV6RkliTVpwY0paSTJMVXVSV2FtNlNCVXVZaERqRE1ENWNHOVlObzZ5SHNKT0Y4ODhKeUtKNzdVajlydW5uVl85U1NWS1NnNTc2bjJtUXRiRkRaM0JGQV9UdVZNYU9WNWF3NFBSVDZJZ3UwUUJkYkJUWDgzdGVRQVFMMFk0YWpw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2ZAOW5XcTRnZHFmdkJRb0pIa1UweVBzbE1NOVMwbGZqaWlrMUtQNFJzdE9YdEJHS2RCaEgwSVN3dlVIN25uQkFPTHVpNXRLZXhfeU5ZbUZKSk56RVgxQ19hZ2kwLTQwd1N1Tms5dXpkYkhYX1F6VFpPUGMtZjZaVkxpR05xaGx1TElXWlk5S2lIWFdua0RRaA?oc=5"
         },
         {
-          "name": "FORTUNE Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVpJQUFzRm02RWNCaHMxb1NHTndwRU13Rk9jZkVLa1B6ejcxemQ5NnBHd015UklMdTVnSXJvTHVldjJqTy11Q1dueW15eUpBZkgydUNWOGFPY3NvLTZ1NW9VRlFHdFFUR3R4M3Ftd1M0eTR2ZVh4NS1aOGlucy1hNU5PckFBMmgxaHJGaE8wTngxVGFCWl9NcEhndWxmR0sybGwwVE9GcjZpY09GdnpYT2hSay3SAboBQVVfeXFMTmwzd3VfNjZnNENlZHBadVhYUzhwRWRnMGVJWm4tY3RaSmFCMUM1dmJsTDI0WklqZGh3dnV2Ukd3X3RhN0lQUUE3dDNJUXNpeHpCQU5ZNXYwUWI5U1c2eFFUTHc4Uk54OUQzNnlHeUF4bEs3T3pGbXh4eVlITFdJbHhoX2lJRVozWm9FMWJza2pPaTdLbVJaUEV3VTZpcHB4M2pNRnNNcDN2UkI2ZkNQMXZWcHJ2T0Q5VGdR?oc=5"
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjFJQ1FnQlJzRENQN2hFXzgyYklxZkF0ZTBBQVB5ZFhGd3hCYVlYSzFPVWtSUzg3LVBDTF9hclhPYlh3UlBPcGU0bGdFbFZtZE50MjAxd1BCN1JxY21za2xCYXotdWNJTndfQmp3Y25Ldl84dFE4TG5CeTFmdTk5SnE2bl8?oc=5"
         },
         {
-          "name": "kontan.co.id",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0hwZURxRXpjTUVxMjEzWV9URi1vVFc4NXppY2NSY2g1YjExaU16QWxQTVE3c2lmSGp0aDVobzhTbWxKXzU4ck9INEZiNkg0ejBPbG9LelpfLW1mVlM1dzVYLUJvSU1jRlZCZVhabXpsc2FLdFE3aFJVNFVfVXBPbWxSSXU2ZGlUYTJFaTJVdGl3NHVBQ2p6VzFzeFV1TGxEYlV0TnVTR2lmQXhTMXVDWnJDa1RkeTZBTlc4OUZicXJsYm5BMGhqNGl2SGMxUQ?oc=5"
+          "name": "InvestorTrust",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDBwWEhMOHpLR05yMEpWeDM3LUdFUjFwcWNUdzRaaW9HZzJ6OE5XaDVDV1VsMURMR2lhOEwtT2xGV3YwME9LakUzRDcxV1F6VjhwWVo2YUEwYlpDOURnMGc5X1RSR2QweVpndHRuaGZGclE2bnJmY0UyekJaYlc5WVRkSC1PekI3RVl4XzVIMUtBcVVYMC1mODZCNlQtcDNDQ0daOA?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXFYVFdSNXdSTnZidWFndXVIVDBsMVE4NXBQVExoUjlEdmZHQjBzajhHcDZ2VjkwMVg3S1A2TGpNY3VZYmVKeUJQZUtfRU9NUFpYQUE5dEF6b09LMVVzUS1HbndBMS1ETHJjZHBjNk9FWnFRRzhUOHFPTHppSW1nOG5jQkhvUFMwc2tnNXFCdzdVNEpUZXlia0ZkRWEwSkZzT3lJT3A2QVFqVjFhNU5iS1V3d0plalBZV3VERFZaVU5BQdIBxwFBVV95cUxPa2RiV3N5Q2xQZG9KQ2dETFE2YVhja0NjX0JqY2hKR2dGUzZ0WWhsaUVwTWxiZ2dzeS1PeXpfWnVTYTZvbTlGR3hMSFF5N0hYV0NFMjNYVmtKZENsRE8zOGYzYUdoZVRiVDBaT0FWYjZJRHRYTlZxU3Nzb21mZlV2Wk1TaFFZUmhCVkpuNmFuWVlCU0o1Vm1NbkxKQkl4VHYzTWh1TDVKdk95UnhhMjE3dnpnOTlzbjlMRW83ejdjbUxablh0ekU4?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BRMS",
-      "title": "Prospek BRMS Tetap Menarik dengan Minat Asing Net Buy",
-      "summary": "Prospek saham BRMS masih cukup menarik hingga akhir tahun dengan asing mulai melakukan net buy, dan beberapa analis merekomendasikan saham ini meskipun IHSG berpotensi turun.",
+      "title": "Prospek BRMS Menarik dengan Dukungan Rekomendasi Analis",
+      "summary": "Saham BRMS masih cukup menarik hingga akhir tahun dengan prospek positif dari rekomendasi analis. Review indeks GDX-GDXJ semakin mendorong prospek saham emas jangka pendek, sementara saham ini tetap diminati investor asing.",
       "sources": [
         {
           "name": "KONTAN",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmNNZ195SExHU2FETlRUV0pvUGNmVE80U0dxSnN6VG5jX1gyZ0tLWGdQSWRNcTRGNkF2dE1nUGtDd2pfWXRxQUkwNlAzZUtYRlNxY25tdHA1bXJxSG1sejJBbHgtTUZUSGh0dEtsMmlLemFkNlctYU9yMnUwd2RENHQyMk9TbFh1RVNXaXVOVTBkX3NFVXc?oc=5"
         },
         {
+          "name": "kontan.co.id",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzItTDFUS3R3THNNUmRvTlp1UE1oMkNSQXB4bzcycXhzcVdNQkx6aC1ZSFgxTjg3RkpFLVAzNFZlN1NOR2xzWlg2el93MF9EZ3RremsweFpZd3M2dV9EbFB4elVncG5fRGxsZ1I2T2VadjBhOFZpZUJLb3BYVkh1SlJjejNWeDZkdDhnVS1wYzRfMlNQMVIxX1Z2RmtSTDJ2Z19tatIBnAFBVV95cUxNZU1CMHdBMjRUWmVkcWI3QkpOYnVGR0EyaGw0Z1IzbXVUUm5pcW5zMmJ0el8xVWgxWTZRU3R0cEtxOGxLSkhyVVE4Q2VKVXdVaGgtenpHQXVxNUttaVRGcXBVRHE5dHFEM0JXTWVlVFZROUR1d19vaEJKUDd4SUxhb3FRM2hsb2VSWG1USUN5MG90YnRsVTJWTFhsU0Y?oc=5"
+        },
+        {
           "name": "investor.id",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTTF4TFhMSklidFY0SmlWTVpKNVkyamV1djRneW9nOTFndk9fbG5zc3piOVV6ZnAyc3lZdlh6RTk4X0wtaWNNTWZGTnpaWFJySVFVbEctT1pOTi1XcEl1ejRQNEM1NG9YTGU1NHZBV3NRbzhGcmt4c3d0OEdHSFdXMkR6cktqZw?oc=5"
         },
         {
-          "name": "Peradaban.id",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcWROUFhMcTFQaVlJdF9UaGpoTEFydjNnQjRlRmR2ZUdUWXBvVXlLcTAtemxOS1pwbzJKc0N6OTRCR29DWlEwZXk3blpzU1JkcmZ0UmVpVlRMeFo3dXc?oc=5"
+          "name": "kontan.co.id",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT29HemMxeWgybTFFZWd0bVlZUXptLTJSbV9ic1R4d3l6OF9kVTA1Q0VTWXNnZ3JPUll0Nmw0MkZTX0xiQ1JLWmlfaTllU0JfR3dDd0g3T29aTWdXU1JrdFpBTUUtRS1reVE2Ym9aWnJrRm8yWnBmLWx0azhqYTNIMGhwa1BZSXFsbWV6ODNXTVZwY3RQTWcwUmZkcGVBYTdoOHg0TFh0U1pUWTdqb2VSYnhTd1VDMmNLbk9MR2530gGbAUFVX3lxTE9Pa2owcDYtaUtJV1V6OW9QWUVZVHBLeHlkd3pQRlVRXzM0SFBGTU5GVm9DQldldGVfQ0pOMHM5eERaeXo0c2JRWWVQWk9wTm5Ya1VpTWJhRFJ0U3BQTm12ckZMWGRoUlZyWldkcW9HZWx0TXJ2MWZNdjJ2c2RMdlRMcXd0TVNiTTlySHJYOXlmRS1lLTZFZ1ZHMEFv?oc=5"
         },
         {
           "name": "Katadata.co.id",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWpvbUFsQzdYMlY1SE5ZVjJBLWFpUnluaDNwcjN1ckpYLXk2cC1PRm5CSDBJNUt6SXRpTnVyQ0lYbTFidlpBck14a0tBb3VBSUhwWDZsbWY2eU92b2ViWl9DOC1sWEFrQ1dtOW1oUXNTd05LSk1RYzI5TTEtemRrV1RMblBGSklGSWpSUXFqdE55NlFKMmFvcVFHUjVfN29WczdzRnF1UFdwMGtqVm9ZZVpTZmdYZ0k5N3UzM09PRXBaZnla0gHKAUFVX3lxTE92VmFjUnVfZ2hEU0VkR2RKSzRuN1hUQVZvY1ZuN3AyOUVCblFVdl9oM3FMTDBTNzd5bEo4dmdnS3dWUFZFQk56QWx5NnZzWF9XSW9YRGdzclphQ0pmakFDQUJucHZqd282V2RBV0ZJd0ZYdlllR05Ral8xdFJsRVBLRldnUUtLZ254c3lrRnhhQ2plMDU3VDZESEN4ZGRpM2hxd2ZzbHdudDdWZ1dQRk5leXctZzI1cXQ1Tlh4cWx0a2hDZGtWTmE2U2c?oc=5"
-        },
-        {
-          "name": "KabaSumbar",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeV9Dc0hwM1ZYM1NNZ2IxZUlNSV9Dd2NLU3lCRk5TQnQyXzJlNDRCa3NtUmdqWGRJQ2p3RUV2Y0RISGoyVno5SUJDT2xtYlYyTHBZZlQ0SjROY1h5V3RWdEc4b04zVExYMUh5aEltV3VBWXRLOEI5NkFfcERkb1ppcUFB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWpvbUFsQzdYMlY1SE5ZVjJBLWFpUnluaDNwcjN1ckpYLXk2cC1PRm5CSDBJNUt6SXRpTnVyQ0lYbTFidlpBck14a0tBb3VBSUhwWDZsbWY2eU92b2ViWl9DOC1sWEFrQ1dtOW1oUXNTd05LSk1RYzI5TTEtemRrV1RMblBGSklGSWpSUXFqdE55NlFKMmFvcVFHUjVfN29WczdzRnF1UFdwMGtqVm9ZZVpTZmdYZ0k5N3UzM09PRXBaZnla0gHKAUFVX3lxTE92VmFjUnVfZ2hEU0VkR2RKSzRuN1hUQVZvY1ZuN3AyOUVCblFVdl9oM3FMTDBTNzd5bEo4dmdnS3dWUFZFQk56QWx5NnZzWF9XSW9YRGdzclphQ0pmakFDQUJucHZqd082V2RBV0ZJd0ZYdlllR05Ral8xdFJsRVBLRldnUUtLZ254c3lrRnhhQ2plMDU3VDZEVEN4ZGRpM2hxd2ZzbHdudDdWZ1dQRk5leXctZzI1cXQ1Tlh4cWx0a2hDZGtWTmE2U2c?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BUMI",
-      "title": "Harga Saham BUMI per 15 September 2026",
-      "summary": "Laporan harga saham PT Bumi Resources Tbk (BUMI) untuk tanggal 15 September 2026.",
+      "title": "BUMI Diminati Investor dengan Diversifikasi ke Sektor Mineral",
+      "summary": "Saham BUMI paling banyak diminati investor meski asing masih melakukan net sell pasca pergantian Menkeu. Bumi Resources kini tidak hanya andalkan batubara tetapi juga mengembangkan segmen mineral sebagai sumber pendapatan baru.",
       "sources": [
+        {
+          "name": "idnfinancials.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWw3a0NTc2N3bkZMUUR4ektNWFNoRlJDUkNHazRxakc1X3FhVzM2QXoyYW9jSW81NkhZaTVwWkt3bHJ3WFBSMGFsTFBDR3B6b2p6VWNuSU1RbDJ6eV93eUw2TTl6RGRQUVdrUVUzM2pKQ1NxYldSdlpmVndKcloyYUYzLWl5Tm5BM0xMUU1ZalBzNVQ1WW8tQjBrUXNNQQ?oc=5"
+        },
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVJkYmZwWE5VclhpbDFqTGl5TmNFanVsUWFLVXZEY2F5emc0VllIZHlQektrLXdMZUVrbXVIUmh2OWkwQVBoQW1DcVk1ZVE1NTJzNEZHMk1BaUhXcmFrdzFkb2loZXA4Q1VvQTdoRXYzcGdTZkhPbi1lX2RKN2lTZXpyR3R5X0dtZkdEV1NlRGNCcllsSkE?oc=5"
+        },
+        {
+          "name": "InvestorTrust",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2JEMGNxb2NvQkJKWWQtNjRFQUZ2cWowbEhRNVpTaUE2OFJEMzA1b2VIRENiVEZqV3ZDU2xWX1NfXzJud1ltdS1HWUNQblhCU3Q0amt2bFQ4Vmk2eU42UlY2cmpTSDBzLTcyX3MzR3JheUNZZGtkT2toenpGYnJ6VXh1RkhLNUJYX1VyMkFkNFY0OC03N2pYVnItTUtxaGpGeEVHd0RNRUJYWUN1TXhOVGtXbko2NFVYU3c?oc=5"
+        },
+        {
+          "name": "Bloomberg Technoz",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0lTOFFWN013LWRQV1ZlNWRfRmZLVlRabVRXdHRjemxCWTlpWF8yV0RuZmRTY19haU04RFRjR19OOUp4ZHVfZElpZXh1bU0wcndXYVR2cnBneEp2dFJyOEgxTjlmM0RGSWRMbFoyRFhralVaYlFkdzVBWXhJNV9SZTIxOEoxTnRsRW16TDFJbXl4OWxCaEhINGl3R0tva1hRNUR1TXdCMGNwSDFQd0VFXzVydW1oSEU?oc=5"
+        },
         {
           "name": "FORTUNE Indonesia",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVC1GcmJpSk11bEUtV2FwOFRDd2hmQmdwenpXS29zZ3hCYU9nQlNvRV85WFFPVjJkZS1fWEZOQzl0dFNhaVJBOHdZODltRkNBY0RwNmJkUU12QXh2VGlPdEw1QU9hUm1MM21MUlJUU3pIT1E2cTNiZVVTeEtqYjlWZGhWOWpIcEJqdURmMmNiN2FpSWVSVTdvVUx5NUo4RThVTF9CMzF2SUtCY0lpaEw0LTRFNVBoUdIBuwFBVV95cUxQdERHY011akd2Q3duWWV6X0x6MW8xYk8zV1ZWb18ycVlHVmdQMDhHcExUcGV6cThBQldLYjBTSFF4dGxDdFZRdTJRazNIdWxDM01PZDlpQmc1TFBINFB5UmlFdHRlQ3pjczJoZUotQmNidkE4Q1ZkNnVQRzEzeTZjOXJHd0MyUDA3VGZOUUhYR1E5b2ROM1drczJZaHV2RTY1cUg5Y2JHb1RaNVNxMXloZktXZUpBZ0hJbGNN?oc=5"
@@ -362,21 +446,41 @@
       "category": "personal"
     },
     {
-      "tag": "BMRI",
-      "title": "Saham BMRI Kompak Naik, Menjadi Pemberat di Indeks Bisnis-27",
-      "summary": "Saham Bank Mandiri (BMRI) mengalami pergerakan positif dan kompak naik bersama saham bank lainnya, namun menjadi pemberat di Indeks Bisnis-27 saat dibuka melemah.",
+      "tag": "SUPA",
+      "title": "Morgan Stanley Melanjutkan Penjualan Saham GOTO",
+      "summary": "Morgan Stanley terus mengurangi kepemilikan saham dengan menjual 997 juta saham lagi, meninggalkan sisa 5,42% dari total saham beredar.",
       "sources": [
         {
+          "name": "idnfinancials.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemVyS3dLWXVubnZ4UEFRdHBwdmRJdW80MFQ2U0kzekxDckVsczNhRzhCbC1vRUpRUjZvRks5TXF6VGFkQTBhUk1oQ0ktRDYySWtfYTlqeFBQaXl5TWdDTnNEU2VyS09yNU5nUkRDSHBZSXluWkZJX0Q5OXVoY3NuU1RwRmZhLUFxTDZidlJzLVRkZnN2Ymk5QjdRTUdlc00?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BMRI",
+      "title": "BMRI Terkoreksi di Hari Cum Dividen dengan Net Sell Asing",
+      "summary": "Saham BMRI pangkas kenaikan kemarin di hari cum dividen dengan investor asing melakukan net sell sebesar Rp 383,65 miliar. BMRI menjadi saham bank yang paling banyak dijual asing di sesi I.",
+      "sources": [
+        {
+          "name": "fxstreet-id.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE5VRnFsWkJySlhLY25LT0NpRnBxTWxKcnZqdkdSc0czNnFpTm1HVGllY29HUzNRcGhvLUdhWUZRc0lVNC14NmowbUhFTEFpdWdDeUpqNVZKWDhqMkRMOEg4SU9laGE1S29CYjRvWFpBYlJfckc0aDhYbU81SEtxeUVfYklYaVdDNW52Tm9qV0F1S0dkTjRfRkpuNVEzUmxR0gGgAUFVX3lxTE44TlVGcWxaQnJKWEtzbktPQ2lGcHFNbEpydmp2R1JzRzM2cWlObUdUaWVjb0dTM1FwaG8tR2FZRlFzSVU0LXg2ajBtSEVMQWl1Z0N5Smo1VkpYOGoyREw4SDhJT2VoYTVLb0JiNG9YWkFiUl9yRzRoOFhtTzVIS3F5RV9iSVhpV0M1bnZOb2pXQXVLR2RONF9GSm41UTNSbFE?oc=5"
+        },
+        {
+          "name": "Kompas.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNV9vb2sycDBKcFhOd0V3LUZfNDN3ZUdQQ2k3V0JQWEU4OWl5NThMM0stOG9hTGVxd0tQS2hCQjFEdExBUHNHd1NleWJIbHY5REhSM0NQVDRYd1NCNWNkVHdlY0NMUWVFUXZ6eFBBWVdRUEkzWkcyWDlueERfenU1M3FtbG5CWjZaQjV4QzR5WUR4NVEwQUtKUmhuX2ktdldpbWJzQXU1M1pCTXBaSmVDMEE5UlljNGFmVkFCTTNGSGM?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUlo0TTJfQVRkQkhVZmV5dmxEbmJpaXAtUERrd0pDRXRfbkIxZUxZLVVaaGJaUWhSdWVSdnBuajBweUo0Zlg0dDFQbVdzbWlsbExIeWg4dDBaQnQ4Nm9odVlLUUE3ckJ1LTVCZGdOaFJ5U1VsN3RlXzlIRE13YXZzbFRSNFZRM0tvMDJPQy1wcU41dWtQUWo0OFZ3eXU5R2JKX1lGdHVlb9IBsgFBVV95cUxPVHR3WWliZS1XTWdMQTFFQ2x1c01DTTNKbnFRbzJQRXhEZEtwV0pmS19jcnpfeFBmMS1iRnhPVFk5alJOcTcyQ19Cd0s5b29vbnZaSTB6QkpGaVA2SXUzSmR0VTFKV1dlRHZYUWE1NUFqNEVpV0h4YUFjbE5lQ1R0ek1wZFFXZE5GclYwT1NOR29VN0tpajdhZnY3VDdfQnhlZTNRUVZZWlA2ZnZkNmIxMU1B?oc=5"
+        },
+        {
           "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93M3JuRFA2dWdlX0hCNkNSUzFzektLUlZxSVFWWFNScmZuN1ZHblVNVkx4UUh3M0ZMQU1TNU85eHU2U09QVk1KNl9nOV92TG1aWmlYcnlTU0FOQUczOVVuak94WVBfMkpHQ0RWcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qR090WlZkLXhSSDlMRF80TnlJTWgyUDhWYTJWR2ZXTDVDVC05SVZrMG9qX3RHeUJwTE8xaWhLenN3dXZCSVVvZGRyM2J4c05xLXdmLWJ1bjFOeHJXUURDNm5iX1JmSWtBck8zeVduTTZ2Zw?oc=5"
         },
         {
-          "name": "Bisnis.com - Market",
+          "name": "market.bisnis.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTlidExjTmllY1pnWFdwejRrbFJkRmliMk9TSm9mMXUwZlV0LUFBWjFqYjJ4ekNydjdOYkp5VkFDVE5LYWVNOW5NR1VRS0hYMi1MdnZ4NEZaWkwtYkZkeUEtZzBHZW1oV0F4aWJpVmZMaVNMVWJRY2FscE9VSWxqck1YaHV0MDFVeHAxa1YydElpZ0JEb3FWbDRWWHNubzNmb0VDNlI5YWtYczRRTFRULVppMWhpekJSeU1EbURqb3o?oc=5"
-        },
-        {
-          "name": "kayonews.co.id",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnhmT3hoRmVKMkJYeUEzR2h5SWx4NzduaWZUYTNqQ2hfXzNadHk4ZjRRLWxfRDMyM1VVejQ3dVo0YnN5S2I1a05tYUVSTjN2MGpaWWJSMjhKcDk1a0gzYWxUV3g1R1NyRTVCOVVyWk9SWHJ1YWFaVWYyalVLNkJFT01GNWU1eXd6MnpyY2VRX1o5QkpUVXZoWWpfWDFBQUE?oc=5"
         }
       ],
       "category": "personal"
