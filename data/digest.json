@@ -1,106 +1,214 @@
 {
-  "generated_at": "2026-09-25T00:18:03.766858+00:00",
+  "generated_at": "2026-09-25T05:08:11.595409+00:00",
   "items": [
     {
-      "tag": "Perbankan • Kopdes",
-      "title": "Cicilan Pertama Obligasi Kopdes Rp37,7 T Jatuh Tempo",
-      "summary": "Cicilan pertama obligasi Kopdes senilai Rp37,7 triliun jatuh tempo besok, dengan Menkeu Suahasil membuka suara terkait pembayaran tersebut.",
+      "tag": "Saham • IHSG",
+      "title": "IHSG Volatil Melemah, Asing Net Sell Masif",
+      "summary": "IHSG bergerak volatile dan melemah ke level 6.200-6.315, dengan investor asing melakukan net selling jumbo di 10 saham terpilih termasuk BBCA. Pergerakan saham mencerminkan sentimen pasar yang sensitif terhadap dinamika global.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjgxZ2dhQnF3N2NXLVNyUm5SdUpEOUloYUpfaU03MXkzR1pFUUU5QXpuSWlwMXFaaFZCQUNMSF8xb3RXbm5oT0xRakRSMFVXdjhIeEZZeDgxclc0RTU0MVZzd0xRTGNiTVMtVF9FOGR5a05fQ2ltT1V0aWstM2t2c0QtNFVHM0l6M0h0d1VhVEcxbjM0dlVCWFpYZ3p4aGROUExxaWNMNG93N2hYeTZrdDJGVHk4T0ZXNjNSc0hQWl9RWDRteUFWMnV30gHPAUFVX3lxTE9aQktZem5qOHRQZk9TS3U2ZHhNMHNMOXVnbzVKQW5XRkV1U2wwR0VjdnlydW9CLWZCeS16QVRSMWp3Mm9tVkpSckx4QUNOa1dTNkZVVEdMeTJIbjRTQXRkMm5BbkNoUWlLMTVRS2dSNGZ1WWNyTVI2TF9rWkFCdWJCTmstdEVCSGpVZFN2Y1Y1NHh0dms5MWpzYkRhSkdwOG9GTmJMQVZwbk8wZVNRYjdyQ04xTnlseG5uUVR1Q2Jld3JuS3FBNjhZV2JhMS1tRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR01vUFB5NFpsSG1wNDlvT0xsdmNIOEtHOGVlNVVTVDktY09BMWMzTl9hRExlT2twNExQWDJqTXJOWDlvTTFKdlR1SWMxLWJKQmFIdzhpN0RDelZNT0NkRnB4TWV5dXNWcWhmZDAwR255R1N2ZjdvS21CZ1VzanQ0QzM3VWZ0V1RVeXZHWndjRGJwallwdzBZZjRzQXJSNFhETGY1WWwycDRfYVRpOTJFOWNpTWVLTGNlQVHSAboBQVVfeXFMTkdNb1BQeTRabEhtcDQ5b09MbHZjSDhLRzhlZTVVU1Q5LWNPQTFjM05fYURMZU9rcDRMUFgyak1yTlg5b00xSnZUdUljMS1iSkJhSHc4aTdEQ3pWTU9DZEZweE1leXVzVnFoZmQwMEdueUdTdmY3b0ttQmdVc2p0NEMzN1VmdFdUVXl2R1p3Y0RicGpZcHcwWWY0c0FyUjRYRExmNVlsMnA0X2FUaTkyRTljaU1lS0xjZUFR?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPclhKVHpFdV8wcUUzMkFSRWpoV24zSVJReWNHXzNkU2F4cjF1V2Q1T21HUnU0NWZtSWp4dFNOdTNwVFVQZjYwS3lidkdJWEozTXREZVhRR0hBSjBiRHN6WW9DcHdoUnUtTWFuSWdHYXFOV1pCbGFkZElpSmJ0T3lQVF9MNmRORW9odGt4V0RXenJqR0I1UlFBaFlyZWFNYlJ4OURlWWZrNExVRHVqZjBscTc1YWxCbVZHbm5pZTByQjZSX001bW5tTWFhd9IBywFBVV95cUxPclhKVHpFdV8wcUUzMkFSRWpoV24zSVJReWNHXzNkU2F4cjF1V2Q1T21HUnU0NWZtSWp4dFNOdTNwVFVQZjYwS3lidkdJWEozTXREZVhRR0hBSjBiRHN6WW9DcHdoUnUtTWFuSWdHYXFOV1pCbGFkZElpSmJ0T3lQVF9MNmRORW9odGt4V0RXenJqR0I1UlFBaFlyZWFNYlJ4OURlWWZrNExVRHVqZjBscTc1YWxCbVZHbm5pZTByQjZSX001bW5tTWFhdw?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR01vUFB5NFpsSG1wNDlvT0xsdmNIOEtHOGVlNVVTVDktY09BMWMzTl9hRExlT2twNExQWDJqTXJOWDlvTTFKdlR1SWMxLWJKQmFIdzhpN0RDelZNT0NkRnB4TWV5dXNWcWhmZDAwR255R1N2ZjdvS21CZ1VzanQ0QzM3VWZ0V1RVeXZHWndjRGJwallwdzBZZjRzQXJSNFhETGY1WWwycDRfYVRpOTJFOWNpTWVLTGNlQVHSAboBQVVfeXFMTkdNb1BQeTRabEhtcDQ5b09MbHZjSDhLRzhlZTVVU1Q5LWNPQTFjM01fYURMZU9rcDRMUFgyak1yTlg5b00xSnZUdUljMS1iSkJhSHc4aTdEQ3pWTU9DZEZweE1leXVzVnFoZmQwMEdueUdTdmY3b0ttQmdVc2p0NEMzN1VmdFdUVXl2R1p3Y0RicGpZcHcwWWY0c0FyUjRYRExmNVlsMnA0X2FUaTkyRTljaU1lS0xjZUFR?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS25CeDJTYlUxbzdvNmtTTTB1M3k1V19IZERKUHFtZFVqUWlkbHVVWGpDZjN1THRXVEhFVXp6TWFMTjNjOURZX3doWndpcl9MdVdZY3lOVUc3ZXNydFdfRTVBM0VUWTlGRFVGVXRhaXRFUDJ4RVhWdV9ISXZSRkpwU0R3UHducGd4Z04tX1pyajlCQzVvekQ2VWk4c1FVMmN5Wk5ha2dyLWxfdjM1LVNZ0gGvAUFVX3lxTFBLbkJ4MlNiVTFvN282a1NNMHUzeTVXX0hkREpQcW1kVWpRaWRsdVVYakNmM3VMdFdUSEVVenpNYUxOM2M5RFlfd2had2lyX0x1V1ljeU5VRzdlc3J0V19FNUEzRVRZOUZEVUZVdGFpdEVQMnhFWFZ1X0hJdlJGSnBTRHdQd25wZ3hnTi1fWnJqOUJDNW96RDZVaThzUVUyY3laTmFrZ3ItbF92MzUtU1k?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVDIxbDk1aTV4Y25sSGoteG5KQUR2bDZuRUF6V0Q0RkszbjlZNkh4RklkeGVVakxhUDBBWnJybUxWMWtPdVdSbl90Y3ZQcjlvbGs3ZmhEMVN0cVZNRENuZFV5Z3kzMGR2RXEtQlVlS0FHQTFfbVVzN1BkZ3ZaU21GUHI3REhFdHJCcWpoVnZ1bzdERE00LWRVWk9lREhPYmZUQUZIMWFzdzEwd1lZVXhJUVZtQVB3Mk83akVMNjZCOULSAcABQVVfeXFMTlQyMWw5NWk1eGNubEhqLXhuSkFEdmw2bkVBeldENEZLM241WTZIeEZJZHhlVWpMYVAwQVpycm1MVjFrT3VXUm5fdGN2UHI5b2xrN2ZoRDFTdHFWTURDbmRVeWd5MzBkdkVxLUJVZUtBR0ExX21VczdQZGd2WlNtRlByN0RIRXRyQnFqaFZ2dW83RERNNC1kVVpPZURIT2JmVEFGSDFhc3cxMHdZWVV4SVFWbUFQdzJPN2pFTDY2QjlC?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON3FHX19kMm5valNYNmR5UHFHNzVLVnMtdWN1RV80MmlWQ0d0NFc4TXdBYXgyTEEwdkZPaEJrd2U1VEY2TjBvak9VbmhyMm9rLVJFMWxhMlp6ZlVFcnRkQUE5d2VtU1huejgtQXNCaDRMUzJOWkc2N0FreWpjaEgzdUF1NzJBS2pETjR2ZEVvVTd2dTFsYVdrcC1uc1lKQ2pISno5d1FDaDdtNWlqdE1CNlUteXBfOUpK0gG-AUFVX3lxTE5YVGhIVEFTUVVTdGFQM2duOXFkRWt1RXlmWkdOVjZ5c1lfOHZETjIwa2FGWjJuUGo5TEpnck04SDRnYTdCbUk1a1J4ZFBWb1Y5dzFXQU9JN2tYcmZQZWh6azNSa29yZ012NlVuQVAwS2VDVnJtcUgzdkJjYzJIdUxhX2hTclRMWHhhZzVubUdWUWRrd08xSjdBTWNDbWdSSEVuMjJtd04wZGtkcWh1VFozMlBkcnFLQ0xuVjJURHc?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • Saratoga",
-      "title": "Petinggi Saratoga Edwin Soeryadjaya Borong 784.100 Saham",
-      "summary": "Petinggi perusahaan Saratoga Edwin Soeryadjaya membeli 784.100 saham perusahaan secara diam-diam, menunjukkan kepercayaan manajemen terhadap prospek emiten.",
+      "tag": "Saham • INTD",
+      "title": "Saham Inter-Delta (INTD) Naik 90% Sebulan, BEI Monitor Ketat",
+      "summary": "Saham Inter-Delta (INTD) mencatat kenaikan nyaris 90% dalam sebulan terakhir, mendorong Bursa Efek Indonesia untuk melakukan pemantauan ketat terhadap pergerakannya yang signifikan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa29JQXYxNl8tUnhFLUlNcnJlZ2hpUmN2X3Rtb2swS3FxQlRwNzVnODVJTnQxWTVNb2NROVZucjdyUDJZUm1hRlpkOVRudUlzbm5QaDNwTkFPT3dELTdHNE9kWnFjLW9ZQ1l6Nnk5ckgtSmxqclZKZ2ktV0JEdkVzV2lVYkxnRDE4ZFVlZ3NEampmZ3NaT0ZpUWJWYUFkUlJLaXdEdlBZa1hKTER5eDdGOHNWQUNCU2ZjR0pzWUtDV3FRemhyY2fSAcsBQVVfeXFMUG9NcGJwWEV1RFNxWm9ZUGNrWWY4ZG5SeDRWNDBSTWFoTWkyckdxQUdZbUs1Wnc3NThsN2JyRWg2ZmZoUXR3Qzdla3BQaXRQc2duX2RObDIyNmhrWUJpdFZPVHo0Q2lVdEhnWVlVVmxqRXcyWHBDS0ZBR3Y2c1g5Vm1ScnVZWkdsbjVqVExlcTh6cjh6SWNCeV9zUzgxbzRiTjJqMmFVZjJuSXR6eFdKVUpHcE9hRWpjTE5JWWFuOTYwYUJQN18tZmlWdFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHVEUE0wR3N6MUlHTjkzOFd5aWNmVWtQVUsyTE1tWHNPS0NMUVBJbW5ZNWpzMVhOalBmd3JWU1BmZ0p1RDg5TTNCZGR5Nk1LSmNjYzR3UDZkTVZZckpDa2Z2N1lSUFJTQkVDa044OFZPeE1vVFNkeUpWSHBiQkQ1UEpSZW1LNE1lVmx5VjNPS3RfOWhIWHlha2VHd3hzZUpVZWZDaTlRbmZiaWUtU29hbnFWUDlGckYyR1VPZGhNUlVNdFhZX0l6el930gHKAUFVX3lxTE1UdURQTTBHc3oxSUdOOTM4V3lpY2ZVa1BVSzJMTW1Yc09LQ0xRUEltblk1anMxWE5qUGZ3clZTUGZnSnVEODlNM0JkZHk2TUtKY2NjNHdQNmRNVllySkNrZnY3WVJQUlNCRUNrTjg4Vk94TW9UU2R5SlZIcGJCRDVQSlJlbUs0TWVWbHlWM09LdF85aEhYeWFrZUd3eHNlSlVlZkNpOVFuZmJpZS1Tb2FucVZQOUZyRjJHVU9kaE1SVU10WFlfSXp6X3c?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Perbankan • Kebijakan Moneter",
-      "title": "Koordinasi BI-Kemenkeu Terkait Likuiditas dan Surat Utang",
-      "summary": "Menkeu Suahasil mengunjungi kantor BI untuk membahas likuiditas dan surat utang, serta membangun kerja sama lima pilar antara BI dan Kemenkeu.",
+      "tag": "Obligasi & Korporat",
+      "title": "Waskita Karya Gagal Bayar Pokok Obligasi Rp 722 Miliar",
+      "summary": "PT Waskita Karya (WSKT) gagal memenuhi pembayaran pokok obligasi sebesar Rp 722 miliar, mencerminkan kesulitan keuangan yang dihadapi perusahaan konstruksi BUMN tersebut.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUo5bkFsVzh0UmJ6YkZMYXBUTC1zQlhsTm9RSTA3S3dxRUhsOF81M3dXbWhOb2hhb2hjQzlJU1F2OWk2SEwzTUdCQ09scUpuQVYtVldrUEdRTHhLMWlMcVZMUGk0ei11Ry1mcHdSV04zWWN5R2NlTkE2M1JXc2REdklKWnVTb0RPa255aEhXZnBON0tZWVVsU1ZGZjVodFA5d0NBM1hwbWNfdnZGNEw00gG0AUFVX3lxTE1yS3dGZHFscS0wLTBWc2hoQ2RLd0lIX3NnLWJhNExjR1Awd2NZTDR2Sk9HMTc3NVNsTi1iQkpEeGktLWNHMUgzMkZkRkI4Ri1RN2kyQm5sU001ZFFVUDlKZG94NGlqdGFMVFlXRzBVU016Z3kwTGNva2FacnlfTi1tOWliaEtDbXZKUWVjZXB2c0J2ME9VZVYxM1RITlV4NzZWRzZtYmZjQnV1UDBNT3ZrZURkUA?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2hYUlFjaDdaQk9Cc3RwMTdDZXFtRll6VVItNF9qaHg5UkQzLUVITnptSDhjMzZzZlVzSHR1eUZXQ2ZEUlh2RkhRc1UzNXNCQ0liU0s5NDRLc2FWYnA1UFhNR2xmRWU1ZUNtQWhPcTRBRG5Lez9T0jZLUTBLMEdZVm80YkhQWl9RWDRteUFWMnV30gHPAUFVX3lxTE9aQktZem5qOHRQZk9TS3U2ZHhNMHNMOXVnbzVKQW5XRkV1U2wwR0VjdnlydW9CLWZCeS16QVRSMWp3Mm9tVkpSckx4QUNOa1dTNkZVVEdMeTJIbjRTQXRkMm5BbkNoUWlLMTVRS2dSNGZ1WWNyTVI2TF9rWkFCdWJCTmstdEVCSGpVZFN2Y1Y1NHh0dms5MWpzYkRhSkdwOG9GTmJMQVZwbk8wZVNRYjdyQ04xTnlseG5uUVR1Q2Jld3JuS3FBNjhZV2JhMS1tRQ?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1VubWc5c1JoZWNnM3V5b3JucHlPVkw2RlViRHhnb1kwZGI4cjVwSkdSZjhBR1JHbXZtYXFxNWhjeGdXSGtLYXhwZ0pWWGdvakIxVzZNbVpzTldQYnBOa0tRVzY3RHl6c0NpRkh1bzNQYXN2SnZyNlRDWkNGNnBxdWNRVUJsbmt1M3FyTXJZRS1sR3VEdjJMb255N1A2amd2dk5pQjQwLVpGUFk0b25NNFlXcFVhNnlIVE9hV05NVmXSAcABQVVfeXFMT1dVbm1nOXNSaGVjZzN1eW9ybnB5T1ZMNkZVYkR4Z29ZMGRiOHI1cEpHUmY4QUdSR212bWFxcTVoY3hnV0hrS2F4cGdKVlhnb2pCMVc2TW1ac05XUGJwTmtLUVc2N0R5enNDaUZIdW8zUGFzdkp2cjZUQ1pDRjZwcXVjUVVCbG5rdTNxck1yWUUtbEd1RHYyTG9ueTdQNmpndnZOaUI0MC1aRlBZNG9uTTRZV3BVYTZ5SFRPYVdOTVZl?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzQ1R2JHV2lENVpUbHJHcjhZcFVWeWV0X2l6d0piQjNFdURXWDZiYXVjWUpULTlhMnhKM2w1ZnBxYklrcUJxMTlHYnZVZ3VjYnNaaEtPSU01Y0RfeUc4Y0tkeUdPQWczdm5RVnpPb2xfaHA5eTZEVENvbzNLWHVzWTJuVUt2REN5RHAwMXVOUl9oRDExdWNPWlN2N2JuUGQzWWhoR3ppY05Ua2tKcXNLb253c2lGUzDSAbcBQVVfeXFMTzM0NUdiR1dpRDVaVGxyR3I4WXBVVnlldF9pendKYkIzRXVEV1g2YmF1Y1lKVC05YTJ4SjNsNWZwcWJJa3FCcTE5R2J2VWd1Y2JzWmhLT0lNNWNEX3lHOGNLZHlHT0FnM3ZuUVZ6T29sX2hQOXk2RFRDb28zS1h1c1kyblVLdkRDeURwMDF1TlJfaEQxMXVjT1pTdjdiblBkM1loaEd6aWNOVGtrSnFzS29ud3NpRlMw?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXA0cy11dy1lUVNtd1FVYXNOdmVEU0hoanEyc3R3M2p5WW81bEdrTVg3LXpzM2t2dnJNZGRIZUpOWGQ1QTUxQXB1SWxTUllLcGhCNE9SWmZZZGY2andKY2xSZ3Z5cE1MQXFSODhWRC00WUZJRFZQUVp0UnVFcHZzMWxPQk1QNnEyRk1zOEwyd0pxelZzNGhWdUlvTW1vc3JaeENQcGJhZU93OVpTWUxVMmtNcnE4eVVvaE1JQUVRSDFweUVXOUtqM9IBzgFBVV95cUxPY1JCTU5UZnhZT0ZYYjM0UlZ3bmpBS3RsUXQ4amNBV3JwcnVXNzZyUkZuUFdoc0VrRkwzdGlvXzFqR1k2RlVhSk9rR3ZyWk5IT2xZQm02M3dLYktmU3NkTmVqc214WXpOT2gySnJHcUFSWnRKR0pKcS1IdTZ2TzJpLWI0QjJ2NWZxdGtIRml1aXlqNUJmQkw3ODlsNmVzcnFURFFmOGtqWWw1ZEZVWFN5QWJ1LXpKUVc0Z1k4WVFydzUyTXhZcTNtbXRxRFZnUQ?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUk9FaElReUd0UEw2cW9NemxOWnkyME1jakxlNU5qUmczRnhITEFZX3lLcDNHZ3BreFhvQ0pCYzA0aTNZN1dIbGloTk9HTlgzLVc2ajUtTndnSkg5ZkJhMFUyRDZfTTRLejJvdGJhcm5EaTVESEJKSkU2ZTltaXo0TTRGXzFDNkhoNlVQdUhMRW9hNXdvanRqVE5TNE9NYzYyU2Y5dk85dDJwNk1KQkEtSll4UFZhSUnSAbwBQVVfeXFMTUxFS0Z6LUR5Q2NwYkFpM3RiNDd4SGxFUlJkTFNDd3BDNHRVc29ReDRVYUpGTnNkQVNZSm9hYlVwN3g0WGFuS1d2Y00xX0V0ODhhOFFTYUFjUk5MSjg1X2FwSG9wZjlZQXROM2tqeWhWUkJkMGxITEo2VXh3NlJVMTRBM0ZaTEpjWHI5U0Z0R2o5MkUxVnk1WWQ1eGhlNlNzZVB6YS1INkJVMU5wVnhNTmd3YS1hWnNwMUg2RUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObk9yQUNSODVzWGFmS3ZYVFRXQmJhbDNTQ2wzbXY4ZE1NbjZ0Rk9TUVRYcjR3WldfV09LenQtWnBVWklCSzhoNWNzRVJzQjJCZkdYcGg3Y05iZk5URzNFaW5YRWoxU3VpbllwU2ZJaHhtQkdyTDRYYzZ1aXdDVXN5NXRSS1VrNXl4cmFUazhBMXJOYW5fT3h6M1JOMzR1OVUzVk0yZ0tCWnBDTUxDOW1XOFo0d1VTYzRhWm9hS2xXX3ViMGYyWUHSAcYBQVVfeXFMTm5PckFDUjg1c1hhZkt2WFRUV0JiYWwzU0NsM212OGRNTW42dEZPU1FUWHI0d1pXX1dPS3p0LVpwVVpJQks4aDVjc0VSc0IyQmZHWHBoN2NOYmZOVEczRWluWEVqMVN1aW5ZcFNmSWh4bUJHckw0WGM2dWl3Q1VzeTV0UktVazV5eHJhVGs4QTFyTmFuX094ejNSTjM0dTlVM1ZNMmdLQlpwQ01MQzltVzhaNHdVU2M0YVpvYUtsV191YjBmMllB?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Pasar Modal • OJK & BEI",
-      "title": "OJK Izinkan Calon Investor BEI Genggam Saham di Atas 5% dengan Syarat",
-      "summary": "OJK memungkinkan calon investor bursa saham genggam saham di atas 5%, namun dengan berbagai syarat yang harus dipenuhi oleh calon investor tersebut.",
+      "tag": "Perseroan • BUMN",
+      "title": "Perubahan Manajemen Pelindo Jasa Maritim dan Jasa Armada Indonesia",
+      "summary": "Komisaris Silfester Matutina dicopot dari Pelindo Jasa Maritim setelah hanya 5 hari menjabat, sementara Jasa Armada Indonesia mengangkat Dwi Rahmad Toto sebagai Direktur Utama baru.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS044VXBMVThOMTU0clBmaGt6YjRJLVp5V3hDaFlTVEVBWG8yR0RGblJpWkRVS3NwNklxdXozU2JnUm5udnFkQkExYlNQNS1hZkhXaXdXMG1IeWMtTEtyR1IwSzBHWVZvNGJIUGFoX3hMV1E1a2dPSnRDblk3WHd5LWNxN1pWYmNGNWp5UFZlWklsSWRtbmdQOVpDVXR3anZsTkhteUdFVTRFbHphelVTczU4djAyNnVkRXQxMTdMSHhJa3dT0gHEAUFVX3lxTE9LTjhVcExVOE4xNTRyUGZoa3piNEktWnlXeENoWVNURUFYbzJHREZuUmlaRFVLc3A2SXF1ejNTYmdSbm52cWRCQTFiU1A1LWFmSFdpd1cwbUh5Yy1MS3JHUjBLMEdZVm80YkhQYWhfeExXUTVrZ09KdENuWTdYd3ktY3E3WlZiY0Y1anlQVmVaSWxJZG1uZ1A5WkNVdHdqdmxOSG15R0VVNEVsemF6VVNzNTh2MDI2dWRFdDExN0xIeElrd1M?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Perbankan • Kredit Nganggur",
-      "title": "BI Beberkan Penyebab Kredit Nganggur Tembus Rp2.548 Triliun",
-      "summary": "Bank Indonesia menjelaskan alasan jumlah kredit yang menganggur mencapai Rp2.548 triliun, mengindikasikan tantangan dalam distribusi kredit perbankan.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTNWNXNLUXpwNGJMaHJZMHc3X2FXWGlpWVpVdFNBeGVUSGZWdlpySm5CbERwY19lU0hadFNwZVhVSGNBY1NYZDEwUFpfR3RXQU5ibFYxOUJLeUJocWJqTzJaT0pmSEVhVG1Vd1lIdEpCOUt6SlU5ZWNtckNmbl9naVFQOTk1dXBrRXhKeWFOMkhKQnNZTkpWWXFHOE53UG03SWgtaDl3Q1RaY0lHb2tFMFcxMHFOV014c1liTV9QY9IBxAFBVV95cUxNQnB5dGVQdzF0WjZPeVo5R0xuRE01bVp3TWRaMlJfeEZmd2xBclIxeml4VnE2b0N6N25XeTNPTV9neXZ1Qk8wTjdheUJROVEyeC1DcFBkekJFVm93ODZ2QVcwQ3lEbmZvRDBkSG9OTXNnY1BuT1JfWGJ5V2FKTlZ0U09ORlN2SkM2YmVyY2RzYlkzQk1oWjJESmtiRDJXNEJIbGxwczV3enZtZGlubnZ2TmhtdXFXUnBrQVdQUGUxaGdXRk14?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Infrastruktur • KRL",
-      "title": "KRL Jakarta-Bogor Diperluas ke Lido, Bekasi, dan Cikampek",
-      "summary": "PT KAI merencanakan perluasan jaringan KRL Jakarta-Bogor untuk menjangkau kawasan Lido, Bekasi, hingga Cikampek, memperluas aksesibilitas transportasi publik.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZLSU90QnJfTG5ENTdDS0dCaGY3aENLUGY2Z3pHNm43MjZlSlluNjEzWWdtN09pQXVORW9oWW1pV3czdjRNRWFYMThULVdZaHN6UEw5T3VqSlgzWDY5UU5EcGtJSXlreXBhTTNRRm1SRklmaGp5cnpRcjZPbllYemNQcmtqYUYxMi0zS2sxOVFVV2YxTmtQd3B6UGVyMFM2T0prR2RKNDB2eEphTUVZbURvQ2x3ZDRhaTdmU29sWFlTd9IBxwFBVV95cUxPWHBXTk5mcnU0bWVNX09hb01iVldsQUVZMXRvNmM1UjhSSWI2ZUNSYXJYWTNmSUNUam1fYnpoMXliQUpHaDVHeTI2cUZnZTMyYVJLM0FMWU1WMUEtdVhJVEJVQnF1QnpUclRCczF4RzJYUnlpR291ZFljc2pPM1FaU25URE1Ld2V6ajF5dUowSTh5M0p5OTA5WTFqaFV5UU5Mb053d0I2cUxOS3dTVHI1bkUxM3QwT09hOTA0YXNSRnYtYWp4R2Ew?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUJlTEdabk82NVBvRG05Xzdnbll5eWFnX2JMenFwUmlxbl83WEpsWHYwbUF0WlZnUW5pSXhudnJDMUJRS2ZwR1VudFdHR2F2WGFJZkZwTDh4Q1ZnaVZ6b05iSlZ1eE40UFZOcmdNamRYUEV4SlgzVnF2b0pEa3p6LVdCc2hiM3lSQllPUVo4YnJScmhyY1VFSnU1QjlNdTdhLVBheDVMMGRabF9hS2o3YWNtS1dDUktYMjQwWFlSajVKS1pCRHZvMm1YZnVoRm_SAc8BQVVfeXFMT1VCZUxHWm5PNjVQb0RtOV83Z25ZeXlhZ19iTHpxcFJpcW5fN1hKbFh2MG1BdFpWZ1FuaUl4bnZyQzFCUUtmcEdVbnRXR0dhdlhhSWZGcEw4eENWZ2lWem9OYkpWdXhONFBWTnJnTWpkWFBFeEpYM1Zxdm9KRGt6ei1XQnNoYjN5UkJZT1FaOGJyUnJocmNVRUp1NUI5TXU3YS1QYXg1TDBkWmxfYUtqN2FjbUtXQ1JLWDI0MFhZUmo1SktaQkR2bzJtWGZ1aEZv?oc=5"
         },
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0J2YlFQUnpTOTZxc2F1ZFNKQ09BRzZGa0szWDRjemQyb3REMk4tTzdRZVZnRTNLS3Z0dWRnc28ySGNwOE9Gd1Z4ZThWaUNlcFZrNnNIdU5oWlpJY0R0Wk9aMWxtTVdMV2RWXy1CVS0wNTBQQVc1OFJNSThwOEFCM0xsc0tuRzVkRDdCcU5PLTFtdk1KYXlzUjNlLW5UZ1I5dV95YjY1T3pPN1hrbjRoTUl6MUhnZnliM0hOcdIBwgFBVV95cUxQSld3TjZkTE1leV9CNm1aUUctNXVzNDZFaDN3ZzRJTDQtOF9qUHdRcG1QcVJoUXBTWWFta01XbUcydk1zTlRucnVabS1fNWNjWXJ1eXlfQ0VGaFVxRzdmaHdXcXhqdGY3TmlvNVRmZlNkQjlEUGtvNldzUE50akxyR3JjZEk4YzRBWGptYlo5TWx5MFk3a21WN3BEdVdxQXRvZ1pjdm5NNEM2c2JDclJHcDVtcFp4bHk3X1JhMDB3WXZrUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFNZdy1Sbi0wVEluRmZyaEZqV3J0NHlYOUxCc3RNQnl4c1ZrZEk4Z29GX0ZNb3NXdzNGVmV0MWRCT3pCMTlEa3M4bDI4aGJVYkJyYm9xc1NvY2Zha0NOZlp5Q2I4Mm9aa1dwb2EzZjQwT29qT3VkRnBMMU1HbXRKZEYtdjlwWnB4c3BKWS15dzJTZmF0WW5PTzFWUFk5SUYwS3hVWVVnN3duNjZDd0paTGRJNjlPYVMtekp5U0xtYWJmYUpnd01UdVV30gHKAUFVX3lxTFBwU1l3LVJuLTBUSW5GZnJoRmpXcnQ0eVg5TEJzdE1CeXhzVmtkSThnb0ZfRk1vc1d3M0ZWZXQxZEJPekIxOURrczhsMjhoYlViQnJib3FzU29jZmFrQ05mWnlDYjgyb1prV3BvYTNmNDBPb2pPdWRGcEwxTUdtdEpkRi12OXBacHhzcEpZLXl3MlNmYXRZbk9PMVZQWTlJRjBLeFVZVWc3d242NkN3SlpMZEk2OU9hUy16SnlTTG1hYmZhSmd3TVR1VXc?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • Industri Otomotif",
-      "title": "Hyundai Diskon Ford di Q3, Kompetitor Tertinggal Hybrid",
-      "summary": "Hyundai diproyeksikan melampaui penjualan Ford pada kuartal ketiga karena produsen Detroit tertinggal dalam penawaran kendaraan hybrid. Ford dan General Motors menghadapi perlambatan penjualan akibat keterbatasan portofolio kendaraan ramah lingkungan.",
+      "tag": "Akuisisi",
+      "title": "Siloam Rampungkan Akuisisi 5 Rumah Sakit Milik First REIT Rp 3,47 Triliun",
+      "summary": "PT Siloam Hospitals menyelesaikan akuisisi lima unit rumah sakit dari First REIT dengan nilai transaksi Rp 3,47 triliun, memperkuat ekspansi aset medis Siloam.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORW5FeHFFeDZ0cnBYaTVYWmxxV1J4VnFtM1ZveDk0WjN1WlZnOXVzSTAzVmo5emIyajdSamF1R1hGNDRmS2FhanpPZ0dKWXM3WW00bS1WcnZHVnRaRXhoYUhVTlVXQUQtZm9PY3JDbWRKczU1VE9jWWdqRXdhX2F4WlUtY3pBOTVsazRfSEhFQjdjZjB6SVZJQTZPRUpveVZxeWJEYVBJVkF6dXVxWEUtaXZ4TXZrMlRHSDJqRmtUcHpicms1UV9IONIByAFBVV95cUxORW5FeHFFeDZ0cnBYaTVYWmxxV1J4VnFtM1ZveDk0WjN1WlZnOXVzSTAzVmo5emIyajdSamF1R1hGNDRmS2FhanpPZ0dKWXM3WW00bS1WcnZHVnRaRXhoYUhVTlVXQUQtZm9PY3JDbWRKczU1VE9jWWdqRXdhX2F4WlUtY3pBOTVsazRfSEhFQjdjZjB6SVZJQTZPRUpveVZxeWJEYVBJVkF6dXVxWEUtaXZ4TXZrMlRHSDJqRmtUcHpicms1UV9IOA?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Valas • Rupiah",
+      "title": "Rupiah Melemah, Dolar AS Tembus Kembali Level Rp 17.900",
+      "summary": "Rupiah dibuka melemah dan dolar Amerika Serikat kembali menembus level Rp 17.900, mencerminkan tekanan pada nilai tukar di pasar forex.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdElyLTRwR181MkZrWU5rU1BWN3RIb21WalZ3ajdvaVd4OHJEOU9oX3JXTW00OUktY0lvSFRhWXFsVzhreThzRU9rSWk1WFB4eU1tYnFXMHZ4Yjdld3k2RGxIa295TDltR0I4ZGZUUU10M0o2OHFyMlNwNXF0YnlFcHdlb2ZiNk5YdG1Na0RjRzdEUmd4WWRTNXdORFl1akh2bXhJSGN0a2pZVWF4ZzBIUV9JWXo3akVnRGZv0gG7AUFVX3lxTE50SXItNHBHXzUyRmtZTmtTUFY3dEhvbVZqVndqN29pV3g4ckQ5T2hfcldNbTQ5SS1jSW9IVGFZcWxXOGt5OHNFT2tJaTVYUHh5TW1icVcwdnhiN2V3eTZEbEhrb3lMOW1HQjhkZlRRTXQzSjY4cXIyU3A1cXRieUVwd2VvZmI2Tlh0bU1rRGNHN0RSZ3hZZFM1d05EWXVqSHZteElIY3RrallVYXhnMEhRX0lZejdqRWdEZm8?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Pasar Modal • BEI",
+      "title": "BEI Gembok Perdagangan 4 Emiten Akibat Pergerakan Harga Liar",
+      "summary": "Bursa Efek Indonesia melakukan pemberhentian sementara perdagangan (trading halt) untuk empat emiten karena pergerakan harga saham yang sangat volatil dan tidak normal.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEpoTlRtbDdzVXhwRnhMMTVqQlNJMXdOX2Z2azRCYzQzRktaSENoQ3VXMjlCNk5qOU04V09OLWU1aDhGU2lEYjVhdjBkNGJzaHZUVExFOXh1Uk1tU3o0eWpIRmVNR19jY01jTjJTa2k4M3pjOXRjMXlSQV9SNUU5cy1qSFNTaG53Vko1Y2RWakRjdmg5UkljTWg2T0QyRVM3ZmNaX1NNR3N4d0U5NzB0YUFsb0IzS2tPeXdUMnFoWGnSAcYBQVVfeXFMT1F3MDR1ZXBETjN3R01HZUpzdHdXbW9vMklyNWdWNXdHQnBhdHdsdk82MmlPT1BlYmNORFBoV24xRjlENlFhclJNa1laSkozRm1GdFRoX0ZmQkxzYXB1eC1rNThsT3VBZTJqQndqQUVNc3NzZkdwU2Vsc3U4cm9MY1JPTlBGRjEtdzFDald5MkZqMUg4YTNhLVdWblB5RkUtVE4tZ3ZjYTlScnRXYnBJVnRITXQyb0xGaTVjWGdrYWZSbkF6UG9R?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Makroekonomi • Kredit",
+      "title": "Kredit Nganggur Tembus Rp 2.548 Triliun, BI Jelaskan Penyebabnya",
+      "summary": "Gubernur Bank Indonesia menjelaskan penyebab tingginya kredit yang belum disalurkan mencapai Rp 2.548 triliun, mencerminkan tantangan dalam ekspansi kredit perbankan.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnB5dGVQdzF0WjZPeVo5R0xuRE01bVp3TWRaMlJfeEZmd2xBclIxeml4VnE2b0N6N25XeTNPTV9neXZ1Qk8wTjdheUJROVEyeC1DcFBkekJFVm93ODZ2QVcwQ3lEbmZvRDBkSG9OTXNnY1BuT1JfWGJ5V2FKTlZ0U09ORlN2SkM2YmVyY2RzYlkzQk1oWjJESmtiRDJXNEJIbGxwczV3enZtZGlubnZ2TmhtdXFXUnBrQVdQUGUxaGdXRk00?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perbankan • Fintech",
+      "title": "Bank Mega Jadi First Mover QRIS Cross Border dan Kartu Kredit Internasional",
+      "summary": "Bank Mega menjadi pioneer dalam menyediakan layanan QRIS lintas negara dan kartu kredit internasional (KKI), memperluas solusi pembayaran digital.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM1RqZUVZM21tblQ3T2dqZU5mbHZDSXhzczI4X3RhTE5Ya3JiSW9MdlliLW0zZmExQ0NyZm4zM25SZktVNFlrWnhzN3dCVmdaSDdsZDQ2a1I1ZGx5cjVVZERLUDM4eTM3RU1nM0d4OS1Zc2hSSnl2NVVoZHhnZEQya1BxZVlsUmw3c2MyWHZWVkwzNGNncjBnWnBISG1vazdNTzhjWUNaZ3VtUXBGdFFxSkNmbkhkZnZ6Ymh6UENHRDJYMU9uLVl2Y2Vn0gHKAUFVX3lxTE8zVGplRVkzbW1uVDdPZ2plTmZsdkNJeHNzMjhfdGFMTlhrcmJJb0x2WWItbTNmYTFDQ3JmbjMzblJmS3U0WWtaeHM3d0JWZ1pIN2xkNDZrUjVkbHlyNVVkREtQMzh5MzdFTWczR3g5LVlzaFJKeXY1VWhkeGdkRDJrUHFlWWxSbDdzYzJYdlZWTDM0Y2dyMGdacEhIbW9rN01POGNZQ1pndW1RcEZ0UXFKQ2ZuSGRmdnpiaHpQQ0dEMlgxT24tWXZjZWc?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Moneter • Obligasi",
+      "title": "Yield Obligasi AS Rekor Tertinggi 22 Tahun, Investor Global Jual Obligasi",
+      "summary": "Yield obligasi Amerika Serikat mencatat rekor tertinggi dalam 22 tahun terakhir akibat aksi jual obligasi global yang massif, mencerminkan tekanan di pasar utang dunia.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVVpYVZydUJfYWxDN3RuSVRuaWd4THVtY0NZQUM4NHlsbUxrTUJFWmEyUjU2bVM5blpRSE1uanNJZTlnUU1TM1JCcFlWNm4yaFl1dmZkVGNsaHF5VWNRTTlKUHRjUGY1cDdNLVBkbzNCLXMxSUdvOWxWUEdyb29odDBRYlV2bGxZekppbjBheU04bzNYQXkza0NyNWlwR0J3MDVxZ2dtLTVVY2lnOHMxRFdKTVhsVkFUd002aS1QTDBEU0hZY0ZQNEllbjVjQdIBzgFBVV95cUxNWVVpYVZydUJfYWxDN3RuSVRuaWd4THVtY0NZQUM4NHlsbUxrTUJFWmEyUjU2bVM5blpRSE1uanNJZTlnUU1TM1JCcFlWNm4yaFl1dmZkVGNsaHF5VWNRTTlKUHRjUGY1cDdNLVBkbzNCLXMxSUdvOWxWUEdyb29odDBRYlV2bGxZekppbjBheU04bzNYQXkza0NyNWlwR0J3MDVxZ2dtLTVVY2lnOHMxRFdKTVhsVkFUd002aS1QTDBEU0hZY0ZQNEllbjVjQQ?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Pasar Global",
+      "title": "Bursa Asia Dibuka Beragam, Investor Cermati Yield Obligasi AS",
+      "summary": "Bursa-bursa di Asia menunjukkan pergerakan beragam di saat investor fokus memantau dinamika yield obligasi Amerika yang terus meningkat dan dampaknya ke pasar global.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU02dGFFLXpUTDdJaHFYRG5yQndDNEhRWlFrTWJIYVFWNUlhV2VoNktIYWJobnRYTUliWE12aWp0YU9sR1Q5ZDR5djExZTlNS3g1S0FBUDN6a1hMczc2TWRvZFc2TXhoc0o3TldaMjRMT1U0WTBNTW5ySDlobk13OWJYTW9Ndi03dnJ4WEJHbkdvenh3TFg2eEtGck1DNXRFcmhpQ0h6aTdCaHFJQzNFWkVJU241WFZRX0g2NTRIQVRlNWJR0gHEAUFVX3lxTE9JTTZ0YUUtelRMN0locVhEbnJCd0M0SFFaUWtNYkhhUVY1SWFXZWg2S0hhYmhudFhNSWJYTXZpanRhT2xHVDlkNHl2MTFlOU1LeDVLQUFQM3prWExzNzZNZG9kVzZNeGhzSjdOV1oyNExPVTRZME1NbnJIOWhuTXc5YlhNb012LTd2cnhYQkduR296eHdMWDZ4S0ZyTUM1dEVyaGlDSHppN0JocUlDM0VaRUlTbjlYVlFfSDY1NEhBVGU1YlE?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Fiskal • Utang",
+      "title": "Obligasi BLBI Lunas, Namun Pemerintah Masih Punya Beban Utang Besar",
+      "summary": "Meskipun pemerintah berhasil melunasi obligasi BLBI, hal ini tidak berarti beban utang pemerintah kepada Bank Indonesia berkurang secara keseluruhan.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOXVQYzAwTnRDQjBZR1R6b0xLUVBaNG80X25MeWxxd3RKOHVMVWNPaUh4X0F6eWNOSnM5bGJ5dHBiSGRqMUI0VWlHaHdKd2Y5Z1otRzRuNC1BVnBXb2pOTUpjRmlCRW1wc1l1bVFINEhXaVFtMnBoUkRIQWdnVWFCcVlPYWhYMnZ3MEFOR2piOG1Jc3M3TXVObkNJcjZCY3BQRm41VkpUa3dCTUY4SG5tM2c1QWFXZ3pneDBRUlJ5Ny02cFlzWFNxcDhR0gHKAUFVX3lxTFA5dVBjMDBOdENCMFlHVHpvTEtRUFo0bzRfbkx5bHF3dEo4dUxVY09pSHhfQXp5Y05KczlsYnl0cGJIZGoxQjRVaUdod0p3ZjlnWi1HNG40LUFWcFdvak5NSmNGaUJFbXBzWXVtUUg0SFdpUW0ycGhSREhBZ2dVYUJxWU9haFgydncwQU5HamI4bUlzczdNdU5uQ0lyNkJjcFBGbjVWSlRrd0JNRjhIbm0zZzVBYVdnemd4MFFSUnk3LTZwWXNYU3FwOFE?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Pembayaran Digital",
+      "title": "QRIS Digunakan 67 Juta Orang, Nasib Uang Tunai di Masa Depan",
+      "summary": "Dengan 67 juta pengguna QRIS aktif, sistem pembayaran digital Indonesia terus berkembang, membangkitkan pertanyaan tentang peran uang tunai di era yang semakin cashless.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1BLLVB5WlpmOEJEUVFQZlpCX1dRT0lERlllTzhyNWE2N1ZiQ1B4aGVLWVR1VlNJSzhfSHZYMDAxdmtXcV9vMW1XVjNxNGNrVVNlTWhhSDJ2OUtYZUZOSllrNkdZaFBEVWl3NWtnNHNVdUl6WUxrdzRXb2VLbXJ0cTJxR1pXSGtrbUJYMmY1aEZKSl94eW1iY2tKa1UxTU1RcHR4alEtNDNOblk3bFUwTzFVVkPSAbQBQVVfeXFMUGdQSy1QeVpaZjhCRFFRUGZaQl9XUU9JREZZZU84cjVhNjdWYkNQeGhlS1lUdVZTSUs4X0h2WDAwMXZrV3FfbzFtV1YzcTRja1VTZU1oYUgydjlLWGVGTkpZazZHWWhQRFVpdzVrZzRzVXVJellMa3c0V29lS21ydHEycUdaV0hra21CWDJmNWhGSkpfeHltYmNrSmtVMU1NUXB0eGpRLTQzTm5ZN2xVME8xVVZD?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Internasional • Fintech",
+      "title": "BI dan Bank Timor Leste Teken MoU, QRIS Meluas ke Timor Leste",
+      "summary": "Bank Indonesia dan bank sentral Timor Leste menandatangani memorandum of understanding untuk mengekspansi sistem QRIS ke negara tetangga, meningkatkan koperasi pembayaran digital regional.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0FBUXpRTVVsMm85X3kyVTI4N1I5dDEwTHlOQlNYNHdjbU16Nlo4RVpqUVktWnliNVRFcWluWUJRbk43TkZxem5xSzM3cnh2WVl0U09PTEY1Y1RrYmdPRGRtU3oyZ1BlTmZsdXc0bWE5ckZNOEU4YVJ3M05UbXFFOEJRZHJIVl9DMDg5Ykk5RElXTUpUZWU5LWpiTk5mNDRyTi11aXpSNk9zZlY1cHA3WFR3N1ZaanlpOUgwS0F30gHDAUFVX3lxTFB1dl9GWjJURDY5QUJ1NHpuMVR0eGJ2eVFOcno3Q1Q0dVFjWG8tNnBQQkhLekZZVmtrRjZtRGFfdkNxLTNzV1ota0lyTWRXNzBCQy0zQlJEeDdYZzl1ZExSVGJvM3ZUUGRrbFVQTGZpdlFXYVFBWFhaeDBhLVB4eFdBMmFyd1JmVnA2MzFoWjhudjBnTUFPMjRDVUZ4c3VZdWcxNDdLSUp5a3Zzd3dvcUdnQUJWdEZTb0pTQmhib3lLd01RMA?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Uang Kertas • Rupiah",
+      "title": "Rupiah Bertanda Tangan Purbaya-Perry Baru Dicetak, BI Tanyakan Minat Kolektor",
+      "summary": "Bank Indonesia mencetak uang rupiah baru dengan tanda tangan Gubernur Purbaya dan Perry sebagai pengganti, dengan Bos BI menggoda para kolektor untuk memilikinya.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVnJJYzRnOUNLM2szQWVsWXpzNUNXZlJxakN6TlpOM0p3aHQyc0NfTXUzdUhLR3ZhQ0lrMFo0X3JPS0VIQ2ZJSzJ3Vk4tLVhuMV80MXI3bjVHNk5DMG5SSjB2WF9KVm03SDRfRXVwSURkUmRQQVpLbU5CUmNKQ2EzZVBhN3BYbzk4OGxseHh2SjhzelRJSjZaaHJicWRvLUFJS3VVYlRPNG9aR0tJdkhnNk52VTJYN0Z0akc3VnJDejctbVVlUWdj0gHMAUFVX3lxTE12SGc3QzhMXzdFQlhldnEyZGZ2R1ZkZF9wUjFvazFrUGE2MHZwRUhlbkYweWRPcDZEZlcwQlY3bWVMRFBjbVRLbThCVzBUVHZvdTFjSDkwbjAtbDJDSVdFQUZHaEJtUmRrZUpUTEJEVUw0UFBUQ3ZzcENIV19XR20zWmpNbGk4VXhpc1RNTUNLZklNaGtiMHlGS3hNc3RSLS04cHlCN3Y1UHd3RU9ENzBNanRYOXhPTFVZSmItN2lIdnJfSWJuckxGc3ZiRA?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Otomotif",
+      "title": "Hyundai Diprediksi Lampaui Ford di Q3 karena Kurangnya Kendaraan Hibrida Detroit",
+      "summary": "Analis Cox memprediksi Hyundai akan melampaui Ford dalam penjualan kuartal ketiga karena produsen Detroit (Ford dan GM) tertinggal dalam segmen kendaraan hibrida. Kurangnya opsi hybrid membuat kedua pabrikan Detroit kehilangan pangsa pasar yang signifikan.",
       "sources": [
         {
           "name": "CNBC International",
@@ -111,8 +219,8 @@
     },
     {
       "tag": "Saham • MGM Resorts",
-      "title": "People Inc. Batalkan Tawaran Akuisisi MGM, Saham Turun 11%",
-      "summary": "Barry Diller's People Inc. mencabut penawaran untuk membeli saham publik sisa MGM Resorts, menyebabkan saham perusahaan jatuh 11%. Pembatalan ini menandai akhir dari usaha akuisisi yang sebelumnya diumumkan.",
+      "title": "Saham MGM Resorts Terjun 11% Setelah Barry Diller Cabut Penawaran Akuisisi",
+      "summary": "Barry Diller melalui People Inc. membatalkan penawaran untuk membeli sisa saham publik MGM Resorts. Pembatalan tersebut menyebabkan harga saham MGM terjun 11% dalam perdagangan.",
       "sources": [
         {
           "name": "CNBC International",
@@ -122,33 +230,9 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Retail & Teknologi",
-      "title": "Lowe's Luncurkan Layanan Drone Delivery Bersama DoorDash & Alphabet Wing",
-      "summary": "Lowe's memulai layanan pengiriman drone melalui kemitraan dengan DoorDash dan Alphabet's Wing untuk efisiensi distribusi. Inisiatif ini merupakan bagian dari ekspansi teknologi logistics di sektor retail.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Saham • Starbucks",
-      "title": "Starbucks Tutup 250 Toko di Amerika Utara dalam Fase Transformasi",
-      "summary": "Starbucks akan menutup sekitar 250 kafe (1% dari total Amerika Utara) sebagai bagian dari strategi turnaround perusahaan. Penutupan ini merupakan lanjutan dari upaya restrukturisasi yang sedang berjalan.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html"
-        }
-      ],
-      "category": "global"
-    },
-    {
       "tag": "Saham • Darden Restaurants",
-      "title": "Saham Darden Melemah, Olive Garden Alami Pertumbuhan Melambat",
-      "summary": "Saham Darden Restaurants merosot seiring melambatnya pertumbuhan same-store sales Olive Garden di beberapa kuartal terakhir. Perlambatan penjualan tersebut mencerminkan tekanan pada bisnis food and beverage.",
+      "title": "Saham Darden Turun Seiring Pertumbuhan Olive Garden Melambat",
+      "summary": "Saham Darden Restaurants melemah setelah dilaporkan pertumbuhan same-store sales Olive Garden melambat dalam beberapa kuartal terakhir. Pelambatan pertumbuhan mencerminkan tekanan pada kinerja operasional restoran.",
       "sources": [
         {
           "name": "CNBC International",
@@ -159,8 +243,8 @@
     },
     {
       "tag": "Saham • Micron Technology",
-      "title": "Investor Micron Perhatikan Perjanjian Pelanggan dan Buyback Saham",
-      "summary": "Analis Rosenblatt mengharapkan Micron melaporkan perjanjian pelanggan tambahan, kenaikan harga, dan pembelian kembali saham saat mengumumkan hasil kuartal depan. Fokus pasar tetap pada momentum pertumbuhan dan valuasi perusahaan.",
+      "title": "Tiga Hal yang Perlu Diperhatikan Investor Micron Menjelang Laporan Kinerja",
+      "summary": "Analis Rosenblatt menyoroti tiga fokus untuk laporan kinerja Micron minggu depan: kesepakatan pelanggan tambahan, kenaikan harga, dan program pembelian kembali saham. Ekspektasi pasar terhadap kinerja dan prospek perusahaan cukup tinggi.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -171,8 +255,8 @@
     },
     {
       "tag": "Saham • Teknologi",
-      "title": "Everpure Jadi Penampil Terbaik S&P 500, Saham Data Storage Melonjak",
-      "summary": "Everpure, perusahaan penyimpanan data terbaru di S&P 500, memimpin kenaikan indeks pada hari Kamis. Momentum saham teknologi ini menunjukkan performa unggul di tengah aktivitas pasar yang dinamis.",
+      "title": "Everpure Menjadi Saham Teknologi Pendatang Baru S&P 500 dengan Performa Terbaik",
+      "summary": "Perusahaan penyimpan data Everpure yang baru masuk S&P 500 menjadi pencatat kenaikan tertinggi pada Kamis. Saham tersebut menunjukkan momentum positif sejak ditambahkan ke indeks.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -183,8 +267,8 @@
     },
     {
       "tag": "Saham • Costco",
-      "title": "Costco Lampaui Ekspektasi Investor, Dukungan Refund Tarif",
-      "summary": "Costco melaporkan hasil kuartal keempat yang melampaui ekspektasi, didorong oleh refund tarif yang membantu laba. Meski optimis, investor masih menunjukkan kehati-hatian terhadap prospek jangka panjang.",
+      "title": "Costco Lampaui Ekspektasi Namun Investor Tetap Berhati-hati",
+      "summary": "Hasil kinerja Costco kuartal keempat melampaui ekspektasi berkat refund tarif, namun investor masih menunjukkan sikap hati-hati terhadap prospek ke depan. Perbaikan laba didorong oleh manfaat kebijakan tarif daripada pertumbuhan operasional organik.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -194,9 +278,9 @@
       "category": "global"
     },
     {
-      "tag": "Makroekonomi",
-      "title": "Suku Bunga Hipotek Melambung, Level 8% Kembali Menjadi Kemungkinan",
-      "summary": "Dengan Treasury 10-tahun melonjak signifikan dan prospek ekonomi AS tidak jelas, beberapa analis memperkirakan suku bunga hipotek 30-tahun bisa kembali ke level 8%. Kenaikan ini mencerminkan volatilitas pasar obligasi yang terus berlanjut.",
+      "tag": "Makroekonomi • Suku Bunga",
+      "title": "Suku Bunga Mortgage 8% Bukan Kemustahilan Seiring Treasury Melambung",
+      "summary": "Dengan yield Treasury 10-tahun naik tajam dan prospek ekonomi AS tidak pasti, beberapa analis menyatakan suku bunga mortgage 8% kembali menjadi kemungkinan. Tekanan pada pasar obligasi terus berlanjut dengan kondisi finansial yang semakin ketat.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -206,9 +290,9 @@
       "category": "global"
     },
     {
-      "tag": "Pasar Modal",
-      "title": "Investor Mundur dari Upaya Treasuri Menenangkan Pasar Obligasi",
-      "summary": "Lelang Treasury notes berturut-turut melemah, menunjukkan bahwa pembelian kembali obligasi pemerintah belum berhasil merangsang permintaan pasar. Ketidakpercayaan investor terhadap instrumen obligasi masih kuat.",
+      "tag": "Pasar Modal • Obligasi",
+      "title": "Lelang Treasury Terus Lemah, Upaya Pemerintah Stabilisasi Pasar Belum Efektif",
+      "summary": "Lelang Treasury notes secara berturut-turut menunjukkan respons lemah dari investor meski pemerintah mencoba menenangkan pasar obligasi yang goyah melalui pembelian kembali. Kurangnya permintaan obligasi mengindikasikan kepercayaan pasar yang masih terguncang.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -218,9 +302,9 @@
       "category": "global"
     },
     {
-      "tag": "Strategi Investasi",
-      "title": "Morgan Stanley: Saatnya Diversifikasi Portofolio AI Ke Sektor Lain",
-      "summary": "Analis Morgan Stanley menyarankan investor untuk diversifikasi dari saham perangkat keras AI ke berbagai industri yang mulai merealisasikan manfaat AI. Masih ada ruang pertumbuhan untuk hardware stocks, namun diversifikasi menjadi kunci strategi.",
+      "tag": "Investasi • AI & Teknologi",
+      "title": "Morgan Stanley: Saatnya Diversifikasi dari Saham Hardware AI ke Industri Lain",
+      "summary": "Morgan Stanley menyarankan investor untuk mulai beralih dari fokus pada saham hardware AI dan mendiversifikasi ke berbagai industri yang mula merasakan manfaat AI. Analis melihat masih ada ruang kenaikan untuk saham hardware AI, namun peluang lebih besar ada di sektor lain.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -230,25 +314,57 @@
       "category": "global"
     },
     {
-      "tag": "WIFI",
-      "title": "Rekomendasi Teknikal Saham WIFI",
-      "summary": "Simak rekomendasi teknikal untuk saham WIFI dan instrumen lainnya pada hari ini untuk membantu pengambilan keputusan investasi.",
+      "tag": "ANTM",
+      "title": "Harga Saham ANTM dan Pergerakan Pasar Umum",
+      "summary": "Harga saham ANTM dipantau pada 25 September 2026 dalam konteks pergerakan IHSG yang kembali sentuh level 6.300.",
       "sources": [
         {
+          "name": "FORTUNE Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0x2ZlpsV2JQUTktWTlWVjBNRUh3ZVVGRUh0RlNwYjRNbDMtRnZLOENrai0yT29ONjJZOHVIX2VraVhEMFFtSlVxZmVlRWRqVzhEVDZvMnh0UE42TWV5TnQtVnhUWmNab29YWW1ZbWd1QVZtX3JTYVdWUVJqUDdyZVQyaVpaZzRqYmxnMEx3bWJfLU9DbldhQVRacG9CQmRlUmdYcTg2Tl9rWWhfYS16ZVBBRFTSAboBQVVfeXFMTW02c3UzYjE2QVVGTXRXbzR6VVA5TzdUb0oyNWREYi1DRWhPM01GRE9WNmkzY3JEcmhsNEFzdVhfTVlRNklSc2lvOXlQaXpoZGtCdHphLXNBQ25Ea3plZkxTQVVCcE1vaTJFdWgwUUU5ZDkwWlhsMnpRZU9IT3lET1JpbVRJbDdnQU1lY0NNck5xcDJoUi1jVEYzd2FQSGVmY2dSTnA3STk3c01fdmM2UDhCMzdrak1yRHFR"
+        },
+        {
+          "name": "liputan6.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1lYU01xdkx5LVZXMjV0SF9MZWNNdXpmd2JXU212YTBDVjhaeUtFa3k2c2c0RktHRDNsbWl5eWRNaXlTWmVUYmp3QkVlQWpRWDNHQng2M0plYmVaSWlra0dMU2NUc0dBMlFZSzBMSFl2UnhwTWY1d0Q1UEp4VERVM1N2cFRyVHRyUFljMjJpTEx4M2hxYjJNTl9KMlZreUJN0gGXAUFVX3lxTE9kVERwcnBLZGlXUDlGcTlGcnIwSUZEa3F0N3ZTaDdTbkM4YU9fWjgwU09ZMVRjOUJ2cjd1OEhMY0VsRHRJZTV0ZzYtREZwRzhadl96SVh4UHBNaVpSdWFPdmxBOUpfWWtDaXBIbnEtVGVKWjNvTzhZRUxJMnNSRXRlR2Mxd2EweVZTNEEwMTJxNjB6TDFJNDg"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BIPI",
+      "title": "Rekomendasi Saham BIPI",
+      "summary": "BIPI termasuk dalam rekomendasi saham hari ini bersama MEDC dan TAPG.",
+      "sources": [
+        {
+          "name": "ajaib.co.id",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUW5Fa1FIZUduN0g2RU0weTY0VEJRYWxDaXpRbExTSmczamNVTnBtc3E0di1veGM3TnkxTHVWTWRVb0Y1dFZVTUdXS3dwSTdtdTlTVEpzdDI3ell2am5IZWk0aDM1SUpmYWpPMlVXRTlkVlYzMUJ5VWhCdF9xSTZJMQ"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "WIFI",
+      "title": "Jadwal RUPSLB dan Rekomendasi Teknikal WIFI",
+      "summary": "Jadwal RUPSLB Solusi Sinergi Digital (WIFI) telah berubah empat kali dengan jadwal terbaru dirilis, sementara rekomendasi teknikal saham hari ini mencakup beberapa emiten lainnya.",
+      "sources": [
+        {
+          "name": "KabarBursa.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbjlScTFsVnBGaEdtbU55aW5ucmw3cmtaOXo3dEs3ZV9SQVhLaUpRUEdIZy0xcTlOZ09SN0kwenl6ZFROeS1TNTJJNjhjclh4UFdGSEIzdGdXRS1vNjBWOGhua3NmQjlGU2h0am1XY044YUcyVHVIbldYTkVad3Qwb3NBaGNtV1dPeVhpUldwRlVTREdjWUVBY0RHNFNwdXB2NHlOY25EbmtGU0N4OWJXbTFWalBiQQ"
+        },
+        {
           "name": "kontan.co.id",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOE5oQWszb2EtLWx4N0VjT1ZUOTNtd1d2V01NTmE0Nk1QLXgzeXRzWXVwN3ZHYjk2ZV81WlNnaWtUeko4OFVOd0NwNUZ1OFpPWV9Mb0Y3ZlBuckJ2elZQWV9oM1NEWnhkcE9OaTBtcklncWxvcUF2b1U1S28tQU1zOHJ0d3RQUG9sVGtQN1VWZEI5OFItTHpUUkJYTFloRl9aT0HSAZoBQVVfeXFMTmNTajJ3LW9pVkFkbzNBNlhLdERDZ3NVNEZiT3dMYUY2UG55dnBoakE3ZlN3TlM3X21JeVEzVE1QTHVNeW5PX01mMng2dXh6M1pJSjU4VG03aUota0RCZmc5WG1pa1lOanpCbFdaZVNwMmF5aWdYUlVwa09JNzRjZ1p5Y0ZyLWF1SkU5eUpIWEttVzAwdzNIYnVqZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOE5oQWszb2EtLWx4N0VjT1ZUOTNtd1d2V01NTmE0Nk1QLXgzeXRzWXVwN3ZHYjk2ZV81WlNnaWtUeko4OFVOd0NwNUZ1OFpPWV9Mb0Y3ZlBuckJ2elZQWV9oM1NEWnhkcE9OaTBtcklncWxvcUF2b1U1S28tQU1zOHJ0d3RQUG9sVGtQN1VWZEI5OFItTHpUUkJYTFloRl9aT0HSAZoBQVVfeXFMTmNTajJ3LW9pVkFkbzNBNlhLdERDZ3NVNEZiT3dMYUY2UG55dnBoakE3ZlN3TlM3X21JeVEzVE1QTHVNeW5PX01mMng2dXh6M1pJSjU4VG03aUota0RCZmc5WG1pa1lOanpCbFdaZVNwMmF5aWdYUlVwa09JNzRjZ1p5Y0ZyLWF1SkU5eUpIWEttVzAwdzNIYnVqZw"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BRMS",
-      "title": "Putra Mahkota Bakrie Akuisisi Saham BRMS",
-      "summary": "Putra mahkota Bakrie melakukan akuisisi ratusan juta saham Bumi Resources (BRMS) dalam transaksi terbaru yang menunjukkan aktivitas pergerakan saham signifikan.",
+      "title": "Direksi BRMS Borong Saham",
+      "summary": "Direksi BRMS membeli 5,2 juta saham, menunjukkan sinyal optimisme terhadap proyek emas Palu.",
       "sources": [
         {
-          "name": "Warta Ekonomi",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ293VWFNZllkSGRyV3lxcFQ2V1lFOEFyOFFnWTNhN1pCT3pGNkNOdDhOWlpHcFM0Q0ZnekRnZnNJYzhKVy1xTGhsRXpmc3pQMVI0b3dUVHFORUViaU9EeVowM3RyeGRNSldWbU1BTUwtMG84em5ZQzBKcVBBd0xuQkRLLTJSS2I1Rkd4c2NfNVBOaEJZNFVISks2Z0FtWTJTUFlkTUk3Yi13VkHSAasBQVVfeXFMTWdveVVhTWZZZEhkcld5cXBUNldZRThBcjhRZ1kzYTdaQk96RjZDTnQ4TlpaR3BTNENGZ3pEZ2ZzSWM4SlctcUxobEV6ZnN6UDFSNG93VFRxTkVFYmlPRHlaMDN0cnhkTUpXVm1NQU1MLTBvOHpuWUMwSnFQQXdMbkJESy0yUktiNUZHeHNjXzVQTmhCWTRVSEpLNmdBbVkyU1BZZE1JN2Itd1ZB?oc=5"
+          "name": "Energika.id",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUENUTnZnRGtGQ1dDVDBOb1hQdHNQVUhyZkVOa2E5YkFlVUMtVUZ6N1hoRndrczdFREFTOEwwQTNzMHVwUnlFWnJRYllvb1J6RWZtMmVicjZ1eXVLcjdPYzhVcXVGZlVscnR6bUtDZ2tpRTV5cFIyRlJhbmhHQ1lmYmoweEExa3g0ZFJuYnJmMEJ2MDktOU82Q3JScjJmNzRIaWdxa1h3ONIBowFBVV95cUxNNUppR3cxRmpqMnR2akhFX1RuTTd1MXBQc0N4NlNqOG1semM3Y3NJdTM4ZHh3ejFlcjRVTDUzODd5b3MyZlJONnptcDh3c1NkX1p2b1c2eDZrdjk2TnB1UGxMVElta0tuQzAzQ1hndjlnTmctVUI1Y0hLb01Eb0ZINRF3LTZHZmlFLTNHMEQybnVrdWI4M0hGYVp0VmVPbWZTTG1B"
         }
       ],
       "category": "personal"
@@ -256,51 +372,63 @@
     {
       "tag": "BUMI",
       "title": "Saham BUMI Terbang Pasca Akuisisi Loyal Metals",
-      "summary": "Saham BUMI terbang setelah mengumumkan akuisisi Loyal Metals dengan analisis teknikal dan fundamental yang positif mendorong pergerakan harga.",
+      "summary": "Saham BUMI meningkat signifikan setelah akuisisi Loyal Metals dengan analisis teknikal dan fundamental yang positif.",
       "sources": [
         {
           "name": "cetro.or.id",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0U1TXVxenQyWmpxMEY2eS1BZWM2cktlY19KOHNEZzNreVVfYThYb0N1LWxRNmVHeDNBVUtvbmdHODFiczFlSWhmSXIxRE5MbG02bXhsVC1HOTRRc09HaVROdXRRWjNNNWpiYU1IZ2k5RVYwZVRQZ3RqTmRGVlZLbXVJRFl1bXZrQUxSSFlzM21jeE90bjZCZ3M3MXFRcFozWHdTdQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0U1TXVxenQyWmpxMEY2eS1BZWM2cktlY19KOHNEZzNreVVfYThYb0N1LWxRNmVHeDNBVUtvbmdHODFiczFlSWhmSXIxRE5MbG02bXhsVC1HOTRRc09HaVROdXRRWjNNNWpiYU1IZ2k5RVYwZVRQZ3RqTmRGVlZLbXVJRFl1bXZrQUxSSFlzM21jeE90bjZCZ3M3MXFRcFozWHdTdQ"
+        },
+        {
+          "name": "Warta Ekonomi",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHFmRFFGOWt0RTlDQndUMGdzQW5ydHlRbmFoZmJuTUJvdzg5WTZtOHNOUFVUTmotUXBnX0JTZlJnaWJHa3lXdzFyTFVvLV9vMTRzNnFqNHlZYW5Vd29iUHlGV3EwN3BFUzdTQkd5SUZFVnVpdkVQMmVaV0M2aTU5dnpPYmw5NU1EZXVObERqWm9lZVJo0gGaAUFVX3lxTE9CWTlqYkhtOEZsQVg2V3Zhd0tBYjIwRUFQaGU3TF90YXJjQm8yeEtTWWh4WXdHR3ozTmw0a0UtQnJTT0xhTEg5c2JyRzAwMFBEQWIwdnlfMG9jdGtwcjlaVGtPQ2ppOHhaTGo5ZmhES3FlYUUwYXdpRW5aWTZYQ2otdFdoSlktWkdLclhyNFN5ZUlwZVVvRHlZQ2c"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BUMI",
-      "title": "Aktivitas Akuisisi Saham BRMS oleh Putra Bakrie",
-      "summary": "Putra mahkota Bakrie melakukan akuisisi ratusan juta saham Bumi Resources yang juga termasuk dalam group BUMI dengan transaksi strategis.",
+      "title": "Pergerakan IHSG dan Proyeksi Pasar",
+      "summary": "IHSG menguat di akhir pekan naik 0,30% ke 6.317,44 tetapi diprediksi kembali uji level 6.186-6.200 akibat tekanan global.",
       "sources": [
         {
           "name": "Warta Ekonomi",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ293VWFNZllkSGRyV3lxcFQ2V1lFOEFyOFFnWTNhN1pCT3pGNkNOdDhOWlpHcFM0Q0ZnekRnZnNJYzhKVy1xTGhsRXpmc3pQMVI0b3dUVHFORUViaU9EeVowM3RyeGRNSldWbU1BTUwtMG84em5ZQzBKcVBBd0xuQkRLLTJSS2I1Rkd4c2NfNVBOaEJZNFVISks2Z0FtWTJTUFlkTUk3Yi13VkHSAasBQVVfeXFMTWdveVVhTWZZZEhkcld5cXBUNldZRThBcjhRZ1kzYTdaQk96RjZDTnQ4TlpaR3BTNENGZ3pEZ2ZzSWM4SlctcUxobEV6ZnN6UDFSNG93VFRxTkVFYmlPRHlaMDN0cnhkTUpXVm1NQU1MLTBvOHpuWUMwSnFQQXdMbkJESy0yUktiNUZHeHNjXzVQTmhCWTRVSEpLNmdBbVkyU1BZZE1JN2Itd1ZB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQll4b29oMmdOWHhORHpDRkQ3SmJZQWZldlBodHNCc1Q1T0VKYkNHUGJKdGQzc2xmSjNCNnlpVzZzZXZPZFVCZUNIN0U4M2cwRlhqdktFQUlPa0N3aXExZWR4LVdQS1Q0SVZIZnlUVGxqVDg5cE1HMTFBbFdkRFdXNkNfRUNuMGtHUTNyeG5oVXQ0c0lDX1RoYlgyUEpnMWhWdTNGYnZyamJMb0XSAbABQVVfeXFMT0RWdG1pNThCNndXVkY5ZW1wcWozMXlfUWNkVkl6aEdtdnhRVEcxRnlsTDlZSmhIYzRNc3QwTURiOWh2aDgyYk5XWUxuZm5hTUxGWC15ckFadmhJOTlUb0hHbGJBbVpWdWExak1RU2FmV19UMGJlSHZPVno3b0xOYng5WlM3SnVzcVFJMlljaWxEdVp6RWFabWxhN21oN1N2cU96VjFKYTRwZk9TYmVkMEE"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BUMI",
+      "title": "Kontroversi Komisaris BUMN Silvester Matutina",
+      "summary": "Silvester Matutina yang berstatus buronan sejak 2019 sempat diangkat jadi komisaris BUMN dan kemudian dicopot hanya 5 hari setelah menjabat, memicu kritik publik.",
+      "sources": [
+        {
+          "name": "Warta Ekonomi",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWFhBbU1ua0xNSFVIZlBib0FCcllvLWtGSHNfSHBJcm1nUF9Ca25iQ0VZNzc3a3M2VnVfMkR0OUg5RW5aY2d4RUdMS21rZ2o2MmlwVXBZOGZ5Qi1oOUM1S2N2S0dydXZCaUQycElnNHZpd2pXWUF6MVRwWDhqUE1tVWVFMnVHNklFakN0RW1xc0gzX19Ta1NxdVBiRVVad0F2R2wwdXhjbVh2OHA2U18tNDh3Q0hMNVg5bUZUS3BA0gHDAUFVX3lxTE9TNVh6TjM0QmFvb0c0SUN0Q3otdzZlMTlPcHZxUVR0NUJRNHlwajhieTRMeHFfWU1mQ21uYnhEZUlRMlh2dW5ZRmxrdWhCQUtzZ1VqMG5OQzM3NFJYMUFLS3l4Qnk4a29hWHB6dkJRYWpZV1B2ZmpqSXdrR3BEWDhZcGtBRFh5c1RNNWt1Q2lJX1NmeEF1d0Y5azdCNnRGeFNnaXd5em8ycHM1a1dWVFl2ZnUwUFB3Q3NHSzRiMVJlTmtfTQ"
+        },
+        {
+          "name": "Warta Ekonomi",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLTNmSUlTa2NGTGNwWHBIVGp5N0Nxc29QYlhXTXAzLXV3bHE2cWlNeFJmMUNIZTliZDR5ZG9iVXBWMFowYy1uaGx1enZ4eTREYTI2a3k4N0NjQUNCZ2dqTTR1eEpXSThtUmYtOC1mdTAxTk4wYjlUSGlDXy15X1huNmJrcHFtczhiSm1ObTRreERQd0JsN2lRTDFCaHF1Tk5uU1dTaE0wNWVsX0ZuaVE1OGtXSTZxMXVmbTFYMWZCQXQxMkl1Ri1mQ2FFSUdJWjl1MHpoVWJNRzZCWXNCSGIwRFZ30gHnAUFVX3lxTE84aU5FTHNTMl80YTZUOWl6UXl1aVhVSXdDTE9LamtCVUlCdExlLWZueWtla0FYV1J2TXYyOEtrYjBVdlE1RGF3LW1WbXRBdFJEQUgzV2ppbXlQV1RmSU1TR1U5U0hVMC1uWkVyd05vWmYxUUVjY3c3WE1BNmQ1aFJXRERCd2t1RnRBb3dPNDNkNTBfWTBuZGZ5QnJpNGNxUkdvbzl4NThFS1pTZDBRYzdxa2RWWXNiTG8tTlA0NVItZTV1Y1drVG83dmhhWVdSSkRpekRla1JDbEs1czZQWUhiNndmcGhTQQ"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "Aktivitas Asing pada Saham Bank Mandiri (BMRI)",
-      "summary": "Saham BMRI mengalami net sell yang signifikan mencapai triliunan rupiah dengan asing masih buang saham big banks termasuk BMRI di tengah euforia menkeu baru. Saham Bank Mandiri diam-diam diserok menunjukkan aktivitas transaksi investor besar.",
+      "title": "Pergerakan Saham BMRI dan Aktivitas Investor",
+      "summary": "Saham Bank Mandiri (BMRI) mengalami pembelian oleh investor dan termasuk saham yang naik ketika IHSG sesi pertama turun di bawah 6.300 dengan 517 saham melemah.",
       "sources": [
         {
-          "name": "InvestorTrust",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHpmWF9Zc2FiN0xFaFp1bXl4RG1BNnk0UF9sNVA5UzRUNkpCQjVwWDF5ZHhtdVVIWE1Vc1NJV1ZIT1pNdkgzZjRncmNVcnd1SzVvZmtrdTU5SjZBV0wzYlJSX2hFMllkLXMzdnc5UGM2dzRtdFZwb004Mjc3QW02WGtKT0h1dUlwcWQ5MGxWWjFwWmt4V21mRXRTdzY2NGVSU2xQVVVZZ1l0T001RzZQUXVUcXVaQQ?oc=5"
-        },
-        {
-          "name": "KONTAN",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSTFuSFE0OTkyY201bm1LZExkaWRIdlY0TjN4ek1GQ2FuOHh0b0ltelhPODozZ0FWc3ZOaFRUeWFIdFRhVWpKOWdjaHR5UzVlMDYyRjJMTGstUUdWY2YyVG5qM0ZObF9ISUU5a2ktbDZGNlJjSUUzbERwRUd3YUlhTUZLaHVWVC1MZ3g0WE1JMTE5VGxaZFlua1ZiU0pFMnVYNHRsdGVkYnZvV1U?oc=5"
+          "name": "Bloomberg Technoz",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcERIVWU5UDA1UjVLS1l1emZNRkRaU01teEhfV3FGTUZieDJMQUljRGxTY1pTWE93Z1Q0TWNKa21XcTRlaVc0QWVTaFpiRklGVFlHVzR3YV9rZW40NTVmX1pETUxfeTFnVmRsUnJEM1lRLUwwdmlUYVY5NWVLMUNVYVNIbFZHZmduQXdCMUVjM3hqVm16OTBpY0pPVElBTWlUQ0NsNXppUVBNaFQ4VnRhZnlHNA"
         },
         {
           "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nbjZpYXZsaGNtbGhQdEE0VlhkQkpDTThPNWRybTVxM3BfejNkWElST1ZlczM3ZVoyVTdUdjNMamh0cmtWR2E0YnhrZ2lQSnlKM3BnYXdFRENHdnJieVZWX1BHb2JaVTBxeXNGQ0dObERoSlNiTHRiZzd1SWNsRVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nbjZpYXZsaGNtbGhQdEE0VlhkQkpDTThPNWRybTVxM3BfejNkWElST1ZlczM3ZVoyVTdUdjNMamh0cmtWR2E0YnhrZ2lQSnlKM3BnYXdFRENHdnJieVZWX1BHb2JaVTBxeXNGQ0dObERoSlNiTHRiZzd1SWNsRVk"
         },
         {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3d3pEUElfeGNJY1dEZHZVU1NaNkhmdnJ0Z1AwSDQxZmxiZXZKLUNsWW50VFZfR1g4NWFTc1E0aWlzZmVzNUNUZjRSYTZUMnVzYTZQUlhPMmx5aUxKRlBQWVJXWnZ5a1U?oc=5"
-        },
-        {
-          "name": "kontan.co.id",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXpsME41MzVILS1la0gxNVA0TjVIMFR4R01kTjdxVEtHWFRqZHA2aW1WejBiYVhKanhkQjFQc19leEFySTRNQ1AtNUdLZVlUVXdtQnhNVFdfaDZQY3NtWEhoRE9BMVVCeHFnT2lLSFJCRzRYcTJud0dSUzRvUkt1VzZERzhPMzU4UnBLQUNEeXAta3VjTUNGalBWZmdiQ1BaMXBySmk0OVV2S0NY0gGmAUFVX3lxTE1aUEtyV1JyQ082NVNqR1laWVlpcWt5NldQQ3FkUFc2eHJtcURmeWVBdmx6YXZOYVF2eFVhVkJQZGxjRF9DSVU2M1J1LTZkMjQxUzc5VEx0MVM0aFNlX3RZYXlybElSSGhKR091YktadXNFY0hONFNDNUpBdjZpMVhWU1prV1luRlpRRVpQd2VEMWpDVVlfOGtPZ0MtTFlvZUdpMkoyMlE?oc=5"
+          "name": "stockwatch.id",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm1xaG5jMy0yckQxdnlNamNTVkVHQTR4dVJxUHBmbUNWSnVraDc1NEZoWEVFSjRGclpxY2cyOVRIRUxGTS1DaDh5Mks4Rlo2ZU50dEFad25vMUo0SklNZzI2Z2d2UzNLaGpRdXBRSFl1V0JWN3htWm1zcUp1Nzk1UTREK2xDOUpnR1VHTkNPb2htSEFXRktNX1M4ZkhHVG9uMFVoaFpUOXo5M1Jfcm0xaTZwdWI1UHRM"
         }
       ],
       "category": "personal"
