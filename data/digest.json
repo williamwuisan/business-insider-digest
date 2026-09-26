@@ -1,102 +1,74 @@
 {
-  "generated_at": "2026-09-26T05:18:24.257252+00:00",
+  "generated_at": "2026-09-26T12:03:46.670062+00:00",
   "items": [
     {
-      "tag": "Perbankan • Regulasi",
-      "title": "15 Bank di Indonesia Resmi Tutup per September 2026",
-      "summary": "Otoritas Jasa Keuangan (OJK) telah menetapkan 15 bank untuk ditutup secara resmi per September 2026. Kebijakan ini merupakan bagian dari upaya konsolidasi dan penguatan stabilitas industri perbankan nasional.",
+      "tag": "Perkeretaapian • KAI-INKA",
+      "title": "Permasalahan KRL CLI-225: Recall dan Impor Bekas Jepang",
+      "summary": "INKA membuka suara atas recall 7 unit KRL CLI-225 oleh KAI dan rencana KAI mengimpor 23 KRL bekas Jepang dengan target masuk akhir 2026. KAI telah memesan 16 KRL baru CLI-225 dengan INKA baru mengirim beberapa unit sejauh ini.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHQtOUZOR1BUdVEwNTgwbXZRUmhIbHUwY3VnejhtNk8tWkMwZndGTlhuQ0dJem5fZEU0VENwRTU0LVRBUmhONXRZdk5UTzdnS2xZREs0VnZ6ZHpBY21sbnpkTmh3ZFFMU05IRkFha0xrYWI1WFl1ZmYyTmJ5OVdTV3BxaEpnczUxNklMTWlFWjE1YzR1WkNoMDlVUlRDaFRuMG9RT0FfdlN2TVA5bXNfdWF6SFF6VFdoZ0duSDcwWVJRZ9IBwgFBVV95cUxNbHQtOUZOR1BUdVEwNTgwbXZRUmhIbHUwY3VnejhtNk8tWkMwZndGTlhuQ0dJem5fZEU0VENwRTU0LVRBUmhONXRZdk5UTzdnS2xZREs0VnZ6ZHpBY21sbnpkTmh3ZFFMU05IRkFha0xrYWI1WFl1ZmYyTmJ5OVdTV3BxaEpnczUxNklMTWlFWjE1YzR1WkNoMDlVUlRDaFRuMG9RT0FfdlN2TVA5bXNfdWF6SFF6VFdoZ0duSDcwWVJRZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckcwMW1vV01jZXFCZ0NlUVdqSXVBRXZsbXd5enQ0a0ExajUwRHZjSzZDSVZoZlpPOHNOU1pUcVRmMjgtOGExdS1hYWpQM2JsN1ROZ3gxbU5uNEF5amZxWVozUjhhS0ZkZEFRbkdNVnlzbEdJZ25CVXZMa0cxdnY3NWJXLWxKeVR2bUJWUVpBZUxKczlQbEprSXRGUjNyX2JfWmxsS09SdlpMWkxqWVJENFNXVU9CQlB6SXJNanJicTQybGo2U19xbNIBzgFBVV95cUxOS2dDWmxkWWRGZVdYSTd2a2pvUnhrOFNtV25kTjRQVUNVRjdIdHdWc3E2YW05clZFaWRJc25hSVhmWktXZ1FpTFdTdmpoRXF6NGE3WHJGWWNPY3k5ZUtEbnpkcHU0dm54S0xEMVRnbkNJaHlYN281ZG1aVGk3UHBQQUVmc1RoRFhBejJ5MVFqNll2azJCRFRyb0MtNVNJd0lUVnBUWU5aalVsZzRkOTJLLUs2V0ZNOHVZSmo3ZEpnQ09zZnlGNlM5QXd4c1Jrdw?oc=5"
         },
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZEs0WmJZbVlxSFkyamxhMHI0YUZrbHB0b24tMlpBQzFLQWpELWE4Unc1YjhPVlVuMlV4NXczeVJYQU1DSVBGeDZnTWJ6TDI0czRmLTRhWnAtUU1rbVZGejlfSTN3aVF1a0VXeXZ3STlTS1d5Z2NTdk54ajlSSlFJLWJkREhlb3hQY3E0QTZVRC1JUFNKOFNocDliT2g4QVk2TlN4UXQwVHcxVmg4YWY1X3JNV2t4TjU0Wl9RRmNsc3ZZOUtQS3FGOVVpR3RtZTNmOGk4WG9CVC1mMzZQV08xTHlqV1RuTHZCYVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDhnQl8yNm1kZmZIdmdrMk05YXRyeFI3UTdtbWhodUExeW1uOW5RSlR0VHBtREFVSW5CLXdxSU9idkYyZ1JFN0N2OHZBZGRUand6Zk55MENqRDAaMHZmVGtaMnpoQ1lfTGQ3VnZjM3Q5Qml5SUlDOUJYZzdhN1RDZnZ6Vy1kWEo2XzJEMWg1RmRMczVBT3RTMVJsNmxqeENiMHR0RlYyV1FRUP04dFU5YzQyY3FTRFBMdWdz0gG7AUFVX3lxTE5IOGdCXzI2bWRmZkh2Z2syTTlhdHJ4UjdRN21taGh1QTF5bW45blFKVHRUcG1EQVVJbkItd3FJT2J2RjJnUkU3Q3Y4dkFkZFRqd3pmTnkwQ2pEMFowdmZUa1oyemhDWV9MZDdWdmMzdDlCaXlJSUM5QlhnN2E3VENmdnpXLWRYSjZfMkQxaDVGZExzNUFPdFMxUmw2bGp4Q2IwdHRGVjJXUVFQTzh0VTljNDJjcVNEUEx1Z3M?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcU1oOXJVbXNVQU0tNHFxVU44QWhiVThjSmtMYm5Fck1iNHYwMlRxUUxaalpHQ2hHTGJvc3JEYTZSbGh0SldmTkJwT1VwQlJ2eW5ZYkMzZzRweVM2S0hNUUozRDV1V3ZVVEhBaVFfTXRsSnljSjExcjU4MzU2TnRwdElGbUlzUWJsdjMzSFF4eXNQMTl2WUxvQXBTYU41UzQxOEM5el9POGJrZndLQmp6R04wUWfSAboBQVVfeXFMTlRZZTM5dzFGOWhBTkh1T3JWdmt4ZUxTSm9taEtKVG5uaUw1eHRrY0w2T0xPWEo3cTNsNEtjaWUzdG94T19pMFlGeGtDY281Vk9GTW8wZ3pYTVJqcWxINnNjUjAwd0sxMzdDN3JIcDNSSDNaSFF1d2ltVlNFNjhsc0hNZlRYU19iYy05THZKS2xPMEpzLW1PQTJKZmJBQnhFV20xUXhVbF9sQVRmZ3pJeDBCUW9JeUZCaWJB?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEl2N21XcW5GVG5Uc3JvanpnQmtzdXlxOFBfMnJLcHNGTG95blI1OEoxMXZYMXdQV3ZuZEd0dzJMTjgyUXhROWVHRThWblRQVFJObFlEbFFHS1ZwQV9VU1RDZUJmY2R6eUZFZGVySnhqVGxpMlhWanVvcGluSzdja3Jwckk5TDd0Z2V3ejU2U0FodWJFRnJDQXhFNk1lSVVNNFdjSktvSW5kbFdNRUFuTE43SFREY01KYmx4Yk1B0gHDAUFVX3lxTE51MFNacUhYUGZtQ2V2R18yTjJQT1F3RUhPTFd5TFRaYy1palNwMGtDQjJiRnc2ekRnNG0wUUNaUGxIZTBuTnFyWkZtT2JYM2dkR3lKSUkxQlhJSHF4WDk4eTE3MUFsV0NtSDdZSVBxdjZHV1JuV21faEdOa19SMHdqOG4wMWdsaEJFTUdPUC1pSU56ZFBUa3VOQUdtcnhjUFBOT1NtVUZBekJRRmx0VTBJaGdtVTZYUzBvN2RmYlNEQzhpZw?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perbankan • AI & Transformasi Digital",
+      "title": "Bank Amar dan Asuransi Manfaatkan AI untuk Layanan Pelanggan",
+      "summary": "Bank Amar menggunakan AI sebagai alat pendukung operasional, bukan pengganti sumber daya manusia. Perusahaan asuransi juga memanfaatkan AI untuk menargetkan segmen nasabah muda seperti sandwich generation.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZlVuYW55UEVta2daTnZDczZiQm10Nll0ZmxlYkc0NEgyaVBEUktpZWRqaGhfcXNWa0FCVlhhbU5uTEJhNzFKaFZKRER4YlFCcS1jdXNZeDdab1N5UXI1ano2X1Q1OE5fRE55NVJJVV9rZDBZOVJJZVA5czl4TkY2N0drYXJDZVFqTV9GeWlJR0NxNHJMM2VtcHhaYXB4ZDl5bGMwd3U0WWpqZWxzQkNzaVRfQnJjcEJSSkVXNzh1RkZRNEE?oc=5"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb291c2Z5R29ST3Yza0JsMVd4dUVHN0R4cjMxREhtRFduNUFhTHhRYmYxdmxyOXBkelNlU3hqcnlOUFdKS2I0dnVjTU9RdWg1UjlHeS1GZ0d5S0tDSHBuSXR6N3BJaVJLM1ZDNGtjblNkenFTTG03T1kwLWs0WVp0RmRTUXJsTnRYMFJLbkluT1VjZC1MLXd3RXVfMjNnd204RFZRQ29icDE0VXk4VmF3aDJYcnRSSU90eHMzN0o3aDhPSFU?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
       "tag": "Pasar Modal • BEI",
-      "title": "Danantara Berupaya Menambah Kepemilikan Saham BEI",
-      "summary": "Perusahaan investasi Danantara sedang dalam proses meningkatkan kepemilikan saham di Bursa Efek Indonesia (BEI). Upaya akuisisi ini merupakan bagian dari strategi ekspansi dalam sektor pasar modal.",
+      "title": "Danantara Ingin Akuisisi Saham di Bursa Efek Indonesia",
+      "summary": "Konglomerat Danantara menyatakan keinginan untuk memiliki saham BEI dengan perkembangan terbaru sedang diikuti. Langkah ini merupakan bagian dari ekspansi di sektor pasar modal Indonesia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWRINEUtM3RxLV8wMzJUMzdCWDVRZXo4ZjRGU1BwNXduNDZuaDdGTmlTREpfVExYVkNTR0hrbUJZNl9wM08tN0pDQ1huYXJLUzBibzZ0NklrZFlqYXByR0MwMVNQaUtWQUVMM3NnQjFXM0Y3SmdtVDBhQmliS29SZGI4b3JVOTA1c0FqeW5BQXROTElNNDBYQ2xQZUFUVVhKVWhreUtSbFRLZHk1X0ZfLTFKcFPSAboBQVVfeXFMUE96TmR0TUl4eEJudnVaM2V3V2hGOXpFVkEtUThfWHd2TWZ4akdrUHo0NVV1VG5xX2M4bHJ4ajlibWptTE9FNEtNaExxWlp1RGRvSkl4S1pteTZTbVZXWmV6VDhET0psdEwwemxVaFhJdDRuLTB6WXdldTNmWE5CME5vZUZGOTlEQWZjNnpuSVlsUFFrMGpyUEx5aEs2TzRWSktEZExvZkxjaG9FMlZZRHRpUmJqX0otbkVn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT3pOZHRNSXh4Qm52dVozZXdXaEY5ekVWQS1ROF9Yd3ZNZnhqR2tQejQ1VXVUbnFfYzhscnhqOWJtam1MT0U0S01oTHFaWnVEZG9KSXhLWm15NlNtVldaZXpUOERPSmx0TDB6bFVoWEl0NG4tMHpZd2V1M2ZYTkIwTm9lRkY5OURBZmM2em5JWWxQUWswanJQTHloSzZPNFZKS0RkTG9mTGNob0UyVllEdGlSYmpfSi1uRWfSAboBQVVfeXFMUE96TmR0TUl4eEJudnVaM2V3V2hGOXpFVkEtUThfWHd2TWZ4akdrUHo0NVV1VG5xX2M4bHJ4ajlibWptTE9FNEtNaExxWlp1RGRvSkl4S1pteTZTbVZXWmV6VDhET0psdEwwemxVaFhJdDRuLTB6WXdldTNmWE5CME5vZUZGOTlEQWZjNnpuSVlsUFFrMGpyUEx5aEs2TzRWSktEZExvZkxjaG9FMlZZRHRpUmJqX0otbkVn?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Komoditas • Emas",
-      "title": "Temuan Emas di Sawah Petani dan Gunung Berapi Erupsi Terkandung Emas",
-      "summary": "Seorang petani Indonesia menemukan 16 kilogram emas di sawahnya, sementara gunung berapi yang sedang erupsi juga mengandung emas dengan estimasi 80 gram per hari. Penemuan ini menunjukkan potensi kekayaan mineral alami di wilayah tertentu.",
+      "tag": "Perbankan • Likuidasi",
+      "title": "15 Bank di Indonesia Resmi Ditutup per September 2026",
+      "summary": "OJK telah menetapkan 15 bank untuk ditutup secara resmi per September 2026 sebagai bagian dari proses konsolidasi industri perbankan nasional. Daftar lengkap bank-bank yang akan ditutup telah diumumkan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3VXeHFmaFA4REZ3UkhqR19uR2tDNXppOEdJRXlTS2JFQXphWEp6VEp6cnBzbnBtX2pCejdhOTJzcE5NV3JNY3FsaHNWQ25wU1lTWnh6X0FjUlBscjBybnI3NVNfdmFLM3I0RXpPNDdVQmVuYjR3b0dMQ3cxNW1IeHBTaHo2Mm9lOWRXWTlZbGR6UTJhdzlCalR6a0lSV1VQTHFPXzV30gGmAUFVX3lxTFBndVd4cWZoUDhERndSSGpHX25Ha0M1emk4R0lFeVNLYkVBemFYSnpUSnpycHNucG1fakJ6N2E5MnNwTk1Xck1jcWxoc1ZDbnBTWVNaeHpfQWNSUGxyMHJucjc1U192YUszcjRFek80N1VCZW5iNHdvR0xDdzE1bUh4cFNoejYyb2U5ZFdZOVlsZHpRMmF3OUJqVHprSVJXVVBMcU9fNXc?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcklKV3U1cWlyR0x6QnJEWlhiZTFqTDhjaHlSR2thWU9PT0FDRzVHTVM5Q00zUDBfSUlRbzM1ZWlzOC1xd0JvaVFPU1hsTDBCMExxRC1GUVlWTndNakpWMU9hLVFzTk5FUlRWc01pOHhYSFVYRFUzS0Z3enM0RlB3OXNyTHNEUnJoQUlxNE1KNjdrQTJib2I1NTRJU08zczRuLWgwZC12RkVVM3pvZHlzRUpydXNtMjB1eElR0gG7AUFVX3lxTE5ySUpXdTVxaXJHTHpCckRaWGJlMWpMOGNoeVJHa2FZT09PQUNHNUdNUzlDTTNQMF9JSVFvMzVlaXM4LXF3Qm9pUU9TWGxMMEIwTHFELUZRWVZOd01qSlYxT2EtUXNOTkVSVFZzTWk4eFhIVVhEVTNLRnd6czRGUHc5c3JMc0RScmhBSXE0TUo2N2tBMmJvYjU1NElTTzNzNG4taDBkLXZGRVUzem9keXNFSnJ1c20yMHV4SVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHQtOUZOR1BUdVEwNTgwbXZRUmhIbHUwY3VnejhtNk8tWkMwZndGTlhuQ0dJem5fZEU0VENwRTU0LVRBUmhONXRZdk5UTzdnS2xZREs0VnZ6ZHpBY21sbnpkTmh3ZFFMU05IRkFoa0xrYWI1WFl1ZmYyTmJ5OVdTV3BxaEpnczUxNklMTWlFWjE1YzR1WkNoMDlVUlRDaFRuMG9RT0FfdlN2TVA5bXNfdWF6SFF6VFdoZ0duSDcwWVJRZ9IBwgFBVV95cUxNbHQtOUZOR1BUdVEwNTgwbXZRUmhIbHUwY3VnejhtNk8tWkMwZndGTlhuQ0dJem5fZEU0VENwRTU0LVRBUmhONXRZdk5UTzdnS2xZREs0VnZ6ZHpBY21sbnpkTmh3ZFFMU05IRkFoa0xrYWI1WFl1ZmYyTmJ5OVdTV3BxaEpnczUxNklMTWlFWjE1YzR1WkNoMDlVUlRDaFRuMG9RT0FfdlN2TVA5bXNfdWF6SFF6VFdoZ0duSDcwWVJRZw?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • Retail",
-      "title": "Suami-Istri Untung Rp29 Miliar dari Saham Gegara Nguping",
-      "summary": "Seorang pasangan suami-istri memperoleh keuntungan sebesar Rp29 miliar dari transaksi saham akibat informasi yang didapat melalui nguping (mendengarkan percakapan). Kejadian ini menunjukkan potensi keuntungan besar dari aktivitas pasar saham.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXd4dTJNX3FGelY4SHdESU5HZFJ0VEdiN1Y5bmlRaUVId1d1Vk93SFNiWkpkNU1BUWt1SGtaNW44QXFjY3FxdG5Scl9YUHp4T056VHQ5LW1wYmFCMWJTMUhQU3JfZG5JN2p1eVRNeFd6QnZKRFJoSGlhekFLSFJzS3lUeWs2aUx0M3RzTmtQTTdnUjYwa2hRUzZUaVZWaWJLNnhFbXlzazVneXppSjh2RV9DdlBFVGE0M2N1YjNnY9IBxAFBVV95cUxNaTcyQTU5bm9JRXBUM2txZGF2UDdHRnNQWHFpVTdUMDRDYWdhenNVN2pjVVRaSW1sSnZlLVpXOGFTRGJHRi1INnJfUlpKY3VZQzlWckc4TDRuNGxtc2JxNkY4ZDNnVGJSWFNYVnRPcXFWTjFPLUlHTjNTd0RmVEZNdWIxRFlGM2diWkZLUHRlUmppOVlleTBZRlpyWWo1S0xvekNyOXBKRXUzTThqTC1NMUtKNm85dEFPd0RRaGFROWkwdUJ6?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Infrastruktur • Investasi",
-      "title": "Banyak Proyek Transit-Oriented Development (TOD) Baru Akan Muncul di Jakarta",
-      "summary": "Jakarta akan menjadi lokasi pembangunan sejumlah proyek Transit-Oriented Development (TOD) baru yang menggabungkan transportasi publik dengan pengembangan properti. Proyek-proyek ini merepresentasikan investasi infrastruktur besar di kawasan Metropolitan.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUs5T0U3T19nLUdSclQ3cUJjbjdmZXgyelNBdFpNYVNtSUt5N1lMRkg0STZpSjFjTzRPb054TGJTZDZvNmxtLWxWV1Z2b0dUdTduMEFPMllqLXZwS09kZWI4ZHdoMWlFV0Y2eVpGUUp1cEYza0JVNk1LaWJkUkVXTFRVQnN0djlhMDl1S1E4SDlUdkpzbTBoVGp1cjJ1blNiZVNxbzl5dnM5ZHpXS0FpZFFaam5jRUprYVdB0gHAAUFVX3lxTE5BUy1EV3ZORmtPelA2eFpMWUwwTjQ1czJBYW1lbl9xR1hZX1pyc2JhTEY0cEMyTDV1UzhfdndWaGFGQVJLaGNaQWJ4LWQ2cEQ3MWZlek52cXVQRGFVd2JvY0hfVmFlNGVEcGVxLVFvYkFvZ0E4RE9pSU9ZN2pMU2ZBZEFYb2JuZXVjUzZ2djVDX3U5QXlreGotemtqQWdlSE43a2ticDRKZl9WSzB0aVJDc0hxWGE4RmNuN0hvVmVjYw?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Energi • Kebijakan",
-      "title": "DEN Terangkan Urgensi Transformasi SKK Migas Menjadi BUK Migas",
-      "summary": "Dewan Energi Nasional (DEN) menyampaikan pentingnya transformasi Satuan Kerja Khusus Migas (SKK Migas) menjadi Badan Usaha Komersial (BUK) Migas. Langkah ini merupakan bagian dari reformasi industri energi dan migas nasional.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWItOU1YcXc5ejR1d2pmQlVEZHpwOTlqMzlRb3A2QjFBeGxqZERjbXNTWDJaRFY2cXYxbUVoaG14Qm1RMHJwOUJIcXVRT0ZMMkJKbWVtR0ZrUE50U1dCS2JKekgxVGF4UUMwNUl2NkpCQVpMY0NLM3RtSnM1RlpNN3pGWnZfWENGUjBFMjRSNjkzcXBoaG9Gd2o3X3hUbWFidjhEM1l5LXQ0ODBkaDNBNnVDd294c0JmODBDUWlZQQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Keuangan • Korupsi",
-      "title": "PT CNI dan Eks Pejabat ESDM Jadi Tersangka Korupsi Rp401 Miliar",
-      "summary": "PT CNI dan mantan pejabat Kementerian Energi dan Sumber Daya Mineral (ESDM) menjadi tersangka dalam kasus korupsi senilai Rp401 miliar. Kasus ini melibatkan penyalahgunaan kewenangan di sektor strategis energi nasional.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2lQMjdKVUtyREhIREtFSkxab0hDUnJyMmU4clRGV3FqSnI2Zl9acGtjNndHMDBlNWtGem1VODRYb0tadUxRNEozSWNQUDROa2NhV1RGNW9tY2E1Qnh4aGFwRXFVWm1Wczl4eUExbVd2RVRlSFJ3ZGtlSzFzbVhLLTN3MU5DRV85N0JqaDhET1dEQWppU25uaWU0ak5BRjd6VFlXU2tZVmJDWHpVV3dZM0l4QkZTa0NvUjNVT3B0YXNkdGI5RFpYedIByAFBVV95cUxPS2lQMjdKVUtyREhIREtFSkxab0hDUnJyMmU4clRGV3FqSnI2Zl9acGtjNndHMDBlNWtGem1VODRYb0tadUxRNEozSWNQUDROa2NhV1RGNW9tY2E1Qnh4aGFwRXFVWm1Wczl4eUExbVd2RVRlSFJ3ZGtlSzFzbVhLLTN3MU5DRV85N0JqaDhET1dEQWppU25uaWU0ak5BRjd6VFlXU2tZVmJDWHpVV3dZM0l4QkZTa0NvUjNVT3B0YXNkdGI5RFpYeQ?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Saham • Teknologi",
-      "title": "Microsoft stock rallies to highest level of 2026",
-      "summary": "Saham Microsoft mencapai level tertinggi tahun 2026 setelah investor semakin optimis terhadap narasi AI perusahaan. Kinerja pemulihan saham ini terjadi setelah awal tahun yang kurang baik.",
+      "tag": "Teknologi • Microsoft",
+      "title": "Saham Microsoft Capai Level Tertinggi Tahun Ini",
+      "summary": "Saham Microsoft mencatat penutupan tertinggi tahun ini seiring meningkatnya sentimen investor terhadap narasi AI perusahaan selama beberapa bulan terakhir. Akselerasi ini menandai pemulihan signifikan setelah kinerja yang lambat di awal tahun.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -106,45 +78,45 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Teknologi",
-      "title": "Apple's premium iPhones pose margin risk amid rising component costs",
-      "summary": "Analis Bernstein memperingatkan bahwa iPhone baru yang mahal Apple berpotensi menurunkan gross margin perusahaan akibat kenaikan biaya komponen smartphone. Wall Street mungkin belum memproyeksikan dampak ini secara memadai.",
+      "tag": "Teknologi • Meta",
+      "title": "Meta Muse AI Viral, Tantangan Integrasi Pengguna Jangka Panjang",
+      "summary": "Meta berhasil mencapai volume unduhan tinggi untuk asisten AI Muse, namun tantangan utama kini adalah mengintegrasikan agent tersebut ke dalam rutinitas pengguna sehari-hari. Kesuksesan awal harus dikonversi menjadi adoption berkelanjutan.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Teknologi",
-      "title": "Tesla Semi launch disappoints investors",
-      "summary": "Harga saham Tesla turun mengikuti peluncuran Semi truck yang gagal membangkitkan antusiasme investor. Meski autonomous trucking menawarkan peluang menarik, detail target awal Semi truck Tesla masih tidak jelas.",
+      "tag": "Pergerakan Saham • Paramount/Peraturan",
+      "title": "Paramount Selesaikan Penyelesaian Antitrust dengan Janji ke Hollywood",
+      "summary": "CEO Paramount David Ellison menyelesaikan peraturan antitrust yang meringankan beberapa kekhawatiran teater, tetapi pertanyaan tetap muncul mengenai masa depan setelah perjanjian lima tahun berakhir. Kesepakatan ini menjadi kunci bagi Paramount dalam ekspansi bisnis media.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Saham • Semikonduktor",
-      "title": "Micron faces volatile trading amid Nvidia product ramp timing",
-      "summary": "Analis memperingatkan investor Micron untuk bersiap menghadapi volatilitas saham akibat timing Nvidia product ramp yang mungkin menggeser beberapa proyeksi revenue ke tahun depan. Situasi ini memerlukan keseimbangan strategi investasi bagi holder Micron.",
+      "tag": "Korporasi • Coca-Cola",
+      "title": "Coca-Cola Tunjuk Eksekutif Monster Energy untuk Pimpin Operasi Amerika Utara",
+      "summary": "Coca-Cola merekrut Rob Gehring dari Monster Energy untuk memimpin operasi di Amerika Utara dalam upaya mempertahankan pertumbuhan di tengak tekanan konsumen akibat kenaikan harga gas dan groceries. Langkah ini menunjukkan strategi perusahaan untuk adaptasi terhadap kondisi pasar yang menantang.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Makroekonomi • Nilai Tukar",
-      "title": "Dollar headed for 'death cross' technical signal",
-      "summary": "Analisis teknis menunjukkan potensi 'death cross' untuk dolar AS, sejalan dengan pernyataan Treasury Secretary Scott Bessent tentang kontrol pasar finansial. Perkembangan ini bisa menguntungkan bagi administrasi Trump.",
+      "tag": "Makroekonomi • Mata Uang",
+      "title": "\"Death Cross\" Dolar AS dan Implikasi Ekonomi Trump",
+      "summary": "Analisis teknis mengindikasikan potensi \"death cross\" pada dolar AS, senada dengan deklarasi Treasury Secretary Scott Bessent tentang kontrol pasar keuangan. Fenomena ini mengambarkan dinamika ekonomi makro yang dapat menguntungkan agenda Trump.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -155,9 +127,17 @@
     },
     {
       "tag": "ANTM",
-      "title": "Penemuan Emas di Sawah",
-      "summary": "Petani Indonesia menemukan emas seberat 16 kilogram di sawah, menunjukkan potensi sumber daya alam yang masih tersimpan di lapangan.",
+      "title": "Harga Emas Antam Naik",
+      "summary": "Harga emas Antam mengalami kenaikan signifikan mencapai Rp2,72 juta per gram dengan lonjakan Rp23.000 per gram. Selain itu, ditemukan penemuan emas 16 kg oleh petani di sawah.",
       "sources": [
+        {
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX21mbWdFZ3ZqYmpmQlgxYzhmTTdUbG1fdzJBN2NLczRJY1lVcE5mdVA1aFFuUUduU2JkT2NMNWdUb2VsVlZ5U1ZISk1BZ0JGcF9PTnNEU0E1TFJXUE9hNjI5QzFLcWFNLV9qOXNYcEdmbUNPSTR5QkFmYTFQSnlsMTZuUE1TejNUbVE?oc=5"
+        },
+        {
+          "name": "cetro.or.id",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2JiQWxwdkl3ZllIU2xYUXB5eWwzdHdXZkZYRWEtYm1UT1JGMU9uTTEteHR3RlJhRWJUelY3RXhEM0ZHTDFZSHpSYlFvZlhmM0lFOXdVVFB4Z0ZKV3NackZLekhRYncyLXdHWWxWOUJSV1lmLXo2R1M5azhCQUtyU2s5dFlaOWh4VnpBQmd3ZEs0aVdabVZ4OVpCa1pRR1BCSy1mYTFpNUxGTE9wMEJhUFkxVUVkSG8?oc=5"
+        },
         {
           "name": "CNBC Indonesia",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3VXeHFmaFA4REZ3UkhqR19uR2tDNXppOEdJRXlTS2JFQXphWEp6VEp6cnBzbnBtX2pCejdhOTJzcE5NV3JNY3FsaHNWQ25wU1lTWnh6X0FjUlBscjBybnI3NVNfdmFLM3I0RXpPNDdVQmVuYjR3b0dMQ3cxNW1IeHBTaHo2Mm9lOWRXWTlZbGR6UTJhdzlCalR6a0lSV1VQTHFPXzV30gGmAUFVX3lxTFBndVd4cWZoUDhERndSSGpHX25Ha0M1emk4R0lFeVNLYkVBemFYSnpUSnpycHNucG1fakJ6N2E5MnNwTk1Xck1jcWxoc1ZDbnBTWVNaeHpfQWNSUGxyMHJucjc1U192YUszcjRFek80N1VCZW5iNHdvR0xDdzE1bUh4cFNoejYyb2U5ZFdZOVlsZHpRMmF3OUJqVHprSVJXVVBMcU9fNXc?oc=5"
@@ -166,25 +146,29 @@
       "category": "personal"
     },
     {
-      "tag": "BRMS",
-      "title": "Truk Listrik di Tambang",
-      "summary": "Truk listrik mulai digunakan di pertambangan sebagai solusi untuk meningkatkan efisiensi operasional dan menarik minat investor terhadap modernisasi sektor tambang.",
+      "tag": "BUMI",
+      "title": "Harga Emas Antam Naik dan Cukai MBDK",
+      "summary": "Harga emas Antam naik Rp23.000 per gram, sementara Gapmmi meminta pemerintah untuk mengkaji matang rencana cukai MBDK yang akan berlaku pada 2027.",
       "sources": [
         {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXBReW1hT1JEc1Z1RmxnOXNUWV9wU2FiZmRRTzFvamJfNnRtemVyMlAxUERaT01NcnN2cFN2Z3hIUkhvRXdfTlh0YjZDTDVpY0x5NEo5R1ZleU1CbU9yamVhYW8ycE9ETEN5UGZlaTl2LTVuTGZELXB3eUZpMWZ5VTVxUGFaTWd0Y2lJd0Y4LVJpcTVhbUtLbkh6eUhlN1k?oc=5"
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX21mbWdFZ3ZqYmpmQlgxYzhmTTdUbG1fdzJBN2NLczRJY1lVcE5mdVA1aFFuUUduU2JkT2NMNWdUb2VsVlZ5U1ZISk1BZ0JGcF9PTnNEU0E1TFJXUE9hNjI5QzFLcWFNLV9qOXNYcEdmbUNPSTR5QkFmYTFQSnlsMTZuUE1TejNUbVE?oc=5"
+        },
+        {
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdURGQ3V0N01XOEJudFRmNjRER05sVjhKT2ZkN0JMSnpnTUZUMGJTTkpuRmpjd19pNkctVzFMVURZN1ljdXhVZ1pka01XQlhIYjFsTW5ValpuMWI5RjZWYUVvck9LaGZyUmNSZ1RTbmRtdWhmR2RFQVRzUFpQa01DVFJ1N1NJVTRKeFhWOGFNUVlLVTU3Y3BybA?oc=5"
         }
       ],
       "category": "personal"
     },
     {
-      "tag": "BUMI",
-      "title": "Livin' Merchant Perkuat Digitalisasi UMKM",
-      "summary": "Livin' Merchant memperkuat program digitalisasi UMKM untuk membuat transaksi dan pengelolaan usaha lebih praktis bagi pelaku bisnis kecil dan menengah.",
+      "tag": "BMRI",
+      "title": "Saham Asing Masuk dan Keluar Dalam Sepekan",
+      "summary": "Terdapat aktivitas jual-beli asing dalam saham-saham tertentu, dengan deretan 10 saham yang dijual dan diburu asing dalam sepekan terakhir.",
       "sources": [
         {
-          "name": "topik.id",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUw1MUVCQW8xY0h0bXcxM3MwV0cxcXdMVy1iSzBqOGg1NzVJc0tpcTNNcTdFSWtYMDJUNHoxUFMyUDEtcVdSdERrekFwdksyTEtvY3hYdFh3T0w0b1V2WEVRSWhoYlRFTEtjdVJDUEROVExBeWlWQzVfdmFGTXBrOGhKVEVXREM1VnZvRk5pbjhtblRKS2p0b2pQcm9UeEVuMGhPdzk5NVZiLS04djh0c0RR?oc=5"
+          "name": "RCTI+",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNN0tDd1hSclJwT1JmeXBnUUVjcVR3UWdITnZmWTdNbUpfaEhOMHN3cTVLWVhrc1VLRkF6MkxZRW8wUWlrTnZGMHozRzJXeEZzMDhFbldpb1lFeDQ4cllxODh4aXdnamlEeWl6dXhiRnVvMnp1ZHdxM1M1dmI1Qi10bWRtZVZBVUhXV0MtMWRlcGNnMUFrVkR1RjVwN2hzY2xHV3JGVFlxSXdTa1B2UTNKTV8zY1ZIbFJ2S2hOeUZpblNxYzNmS0hZQXdUSDQxN0M4aGtrS1VURTdOdUNad3NKckpncklDWHdRY0pRdWN5ajV2SG1JdHI0T0o3b29WdDl4b0NEbG5sblFRaHBmeFdoaFhR?oc=5"
         }
       ],
       "category": "personal"
