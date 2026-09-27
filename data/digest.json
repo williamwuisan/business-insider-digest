@@ -1,198 +1,162 @@
 {
-  "generated_at": "2026-09-27T00:13:27.527659+00:00",
+  "generated_at": "2026-09-27T05:19:11.182038+00:00",
   "items": [
     {
-      "tag": "Transportasi • KAI/KRL",
-      "title": "KAI Recall KRL CLI-225 dan Perluasan Armada Kereta",
-      "summary": "INKA membuka suara terkait recall 7 unit KRL CLI-225 dari KAI yang dipaksa masuk bengkel. KAI juga menargetkan kedatangan KRL impor bekas Jepang mulai akhir 2026 dan telah memesan 16 unit KRL baru CLI-225 dari INKA dengan status pengiriman sedang berjalan.",
+      "tag": "Makroekonomi • Rupiah",
+      "title": "Rupiah Melemah Terhadap Dolar, Risiko Menembus Rp 18.000",
+      "summary": "Rupiah mengalami tekanan dari sentimen global negatif. Proyeksi nilai tukar pekan depan menunjukkan risiko rupiah untuk menembus level Rp 18.000 per dolar AS.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckcwMW1vV01jZXFCZ0NlUVdqSXVBRXZsbXd5enQ0a0ExajUwRHZjSzZDSVZoZlpPOHNOU1pUcVRmMjgtOGExdS1hYWpQM2JsN1ROZ3gxbU5uNEF5amZxWVozUjhhS0ZkZEFRbkdNVnlzbEdJZ25CVXZMa0cxdnY3NWJXLWxKeVR2bUJWUVpBZUxKczlQbEprSXRGUjNyX2JfWmxsS09SdlpMWkxqWVJENFNXVU9CQlB6SXJNanJicTQybGo2U19xbNIBzgFBVV95cUxOS2dDWmxkWWRGZVdYSTd2a2pvUnhrOFNtV25kTjRQVUNVRjdIdHdWc3E2YW05clZFaWRJc25hSVhmWktXZ1FpTFdTdmpoRXF6NGE3WHJGWWNPY3k5ZUtEbnpkcHU0dm54S0xEMVRnbkNJaHlYN281ZG1aVGk3UHBQQUVmc1RoRFhBejJ5MVFqNll2azJCRFRyb0MtNVNJd0lUVnBUWU5aalVsZzRkOTJLLUs2V0ZNOHVZSmo3ZEpnQ09zZnlGNlM5QXd4c1Jrdw?oc=5"
+          "name": "Kontan",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFhBanZaZFc5eTJYZVhXQzlVSkljM2p6N1hWeVpOSnU4MV9XZkZUTk00VVd6c2c5VGhra3MtODNyX2V3WTlUY3B2OFk3b2VTQXBHQVRudmhGVzQ4UmpzRGtfck9SdjZZTTJBLXFNTHJwcWJJSDJxNGJoSFFkaFoweG5WQTA0QmlpakUxSVlfa0ZaVk5jbUhsMU9vTlQ4VHc5VHN4ZUtaV3dNQQ"
         },
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdTBTWnFIWFBmbUNldkdfMk4yUE9Rd0VIT0xXeUxUWmMtaWpTcDBrQ0IyYkZ3NnpEZzRtMFFDWlBsSGUwbk5xclpGbU9iWDNnZEd5SklJMUJYSUhxeFg5OHkxNzFBbFdDbUg3WUlQcXY2R1dSbldtX2hHTmtfUjB3ajhuMDFnbGhCRU1HT1AtaUlOemRQVGt1TkFHbXJ4Y1BQTk9TbVVGQXpCUUZsdFUwSWhnbVU2WFMwbzdkZmJTREM4aWfSAcMBQVVfeXFMTnUwU1pxSFhQZm1DZXZHXzJOMlBPUXdFSE9MV3lMVFpjLWlqU3Awa0NCMmJGdzZ6RGc0bTBRQ1pQbEhlMG5OcXJaRm1PYlgzZ2RHeUpJSTFCWElIcXhYOTh5MTcxQWxXQ21IN1lJUHF2NkdXUm5XbV9oR05rX1Iwd2o4bjAxZ2xoQkVNR09QLWlJTnpkUFRrdU5BR21yeGNQUE5PU21VRkF6QlFGbHRVMEloZ21VNlhTMG83ZGZiU0RDOGln?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFllMzl3MUY5aEFOSHVPclZ2a3hlTFNKb21oS0pUbm5pTDV4dGtjTDZPTE9YSjdxM2w0S2NpZTN0b3hPX2kwWUZ4a0NjbzlWT0ZNbzBnelhNUmpxbEg2c2NSMDB3SzEzN0M3ckhwM1JIM1pIUXV3aW1WU0U2OGxzSE1mVFhTX2JjLTlMdkpLbE8wSnMtbU9BMkpmYkFCeEVXbTFReFVsX2xBVGZnekl4MEJRb0l5RkJpYkHSAboBQVVfeXFMTlRZZTM5dzFGOWhBTkh1T3JWdmt4ZUxTSm9taEtKVG5uaUw1eHRrY0w2T0xPWEo3cTNsNEtjaWUzdG94T19pMFlGeGtDY281Vk9GTW8wZ3pYTVJqcWxINnNjUjAwd0sxMzdDN3JIcDNSSDNaSFF1d2ltVlNFNjhsc0hNZlRYU19iYy05THZKS2xPMEpzLW1PQTJKZmJBQnhFV20xUXhVbF9sQVRmZ3pJeDBCUW9JeUZCaWJB?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMEI4UlRfT09jVV9YOGdUblp6MHMxYm5kQ21VRDJGZnBPSDRGbkZBNXFCa1BWSEdrNDZQRkcyckFJUkZtampXaEt2dkM1QmMtZDBVVEFDYVd2N25oYWprSDB1WlZmWFgxOS1RV0xvY3BLVzl6WXB6dFlmMGJndDh0SFZXZ1hvemJIYVlzUWxYSXRTYkRZSUNsZTYtOEgzZnVfajVIckRuXzdwSTZBbEsxYjZXNzR4YUxucTN2cHZsMUhKWHlDVEp6YTg2ckjSAcwBQVVfeXFMTjBCOFJUX09PY1VfWDhnVG5aejBzMWJuZENtVUQyRmZwT0g0Rm5GQTVxQmtQVkhHazQ2UEZHMnJBSVJGbWpqV2hLdnZDNUJjLWQwVVRBQ2FXdjduaGFqa0gwdVpWZlhYMTktUVdMb2NwS1c5ellwenRZZjBiZ3Q4dEhWV2dYb3piSGFZc1FsWEl0U2JEWUlDbGU2LThIM2Z1X2o1SHJEbl83cEk2QWxLMWI2Vzc0eGFMbnEzdnB2bDFISlh5Q1RKemE4NnJI?oc=5"
+          "name": "Kontan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNERQcElLS2Y0Q2xEcXVabFphSTh1bXptcGRyeHJ3Zl9BMjUzeWdFOURjeVpkVzY1cmpnZE1aRkptTDU2QmVIQUFPaVF2ajYxRmk5Skk2RUQtR2p4MjBBN2dNS29YNE9WMUhfUzFEd3o5UF95bXp2QXVFYl96bkREWTRIdE4xcU9LNFh3MUEybzc4czlFUmp5U3V1ZGxNaEFmNzk0YlU1S3Jmd0lQSmY"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Infrastruktur • Jalan Tol",
-      "title": "Pemerintah Guyur Rp 1,9 Triliun untuk 3 Proyek Tol di Jawa",
-      "summary": "Pemerintah mengalokasikan Rp 1,9 triliun untuk 3 proyek jalan tol di Jawa, termasuk rute Semarang-Yogyakarta yang diharapkan selesai di 2027 dengan panjang 69,19 km. Investasi ini bertujuan mempercepat konektivitas antar kota di Pulau Jawa.",
+      "tag": "Pasar Modal • Regulasi",
+      "title": "BEI Ubah Aturan Papan Pemantauan dan Batas Harga Saham",
+      "summary": "BEI mengubah aturan papan pemantauan khusus berlaku mulai Senin 28 September 2026. BEI juga menurunkan batas harga saham minimum menjadi Rp 1, namun analis soroti risiko volatilitas yang meningkat.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcW5PdDdwMTlmcWdZN08yZ2pZQVRZOC1VYXhtamhkTW5rVHFsS2Z6Uk1kdVlKUF9uZzV0NWxrd1B6aWxlbEdpUW1za05oT1owU3dRajJVNlpjanFqUzByZXp5R29FNUlXWWRLdXZ5dXNGYng0R2lyRTBXYkxsaWZhZXMyTDRrY1IzSFRMU2lmRnl0VkFpTUZBSHNiUWprNm91N1FseHpZVG9PTHJDamlVOVZqZTdLeUpSWHRhWERlMDZyejMt0gHEAUFVX3lxTFBxbk90N3AxOWZxZ1k3TzJnallBVFk4LVVheG1qaGRNbmtUcWxLZnpSTWR1WUpQX25nNXQ1bGt3UHppbGVsR2lRbXNrTmhPWjBTd1FqMlU2WmNqcWpTMHJlenlHb0U1SVdZZEt1dnl1c0ZieDRHaXJFMFdiTGxpZmFlczJMNGtjUjNIVExTaWZGeXRWQWlNRkFIc2JRams2b3Y3UWx4ellUb09MckNqaVU5VmplN0t5SlJYdGFYRGUwNnJ6My0?oc=5"
+          "name": "Kontan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOThFeGw0S2tWVVVaQWZnUC0yMU94UXhRWlNDRDFpVGRPLU5WMGlUSDdJM1NhUnRfcnpCc3JOY2RJZC1PeFM5OS1PZ3l6OU5WVFpZa1RDN1I2cmxYcV9GdmlHLW1May1Fc2swT0Z4VjhacTlvSERKTWF3eWlIRFVFQXZraXpxRWNsejVTRFpqZEQ5bVBiN3ZEUEVqa01QbG5oaUtWd1J0"
         },
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2Y3dFEzdGE5VU0xOVVqNklwNlhJNThSeGdRVzkydVZ5ZjcteFFWdWFBUlh2TTh3eHJ0MWZ6MEVuZHdkTElnNzlrYTh0OUJjc3M1WDAyTjlkc2wwd0hvZV9jZm91RmZUZGRCMnlEaUtMbjd2ZkJBM3RzNG4yNzNJQXBjcU4xc3Z6Rl9HSFBpb1BjT0U0U0VTb2NpS2ptMi1xQlY2VFdzTE1ZYTdiTTZSWDhsandNcFM3TjZKQ0lPZXFNV3RQY1dCNFdR0gHKAUFVX3lxTE1DZjd0UTN0YTlVTTE5VWo2SXA2WEk1OFJ4Z1FXOTJ1VnlmNy14UVZ1YUFSWHZNOHd4cnQxZnowRW5kd2RMSWc3OWthOHQ5QmNzczVYMDJOOWRzbDB3SG9lX2Nmb3VGZlRkZEIyeURpS0xuN3ZmQkEzdHM0bjI3M0lBcGNxTjFzdnpGX0dIUGlvUGNPRTRTRVNvY2lLam0yLXFCVjZUV3NMTVlhN2JNNlJYOGxqd01wUzdONkpDSU9lcU1XdFBjV0I0V1E?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelFVWHdjY0duVXZGQzRpbDFXRTlRbU5GQUNWdzlVQ3ZrMVo3TXR6TFpsZ0pSMTVuU0psY21sRHpsc0JmMS1KS1poZUFnalRPQlVNWEpuX3k5Y1dPS3pZWkc5eFJZbTE5WU5pWWx5dkJRbkRxTUphZy1VcnBaUl9ncC1TVDRZRFdlRklaUnN5THlCbk0tU0dZb2o3eXc5eHNBdEpVaEFxLUZUMEpBV2dybFB3TERyOUw1aURNZEc5dVpoSlFaeGpCMtIByAFBVV95cUxNelFVWHdjY0duVXZGQzRpbDFXRTlRbU5GQUNWdzlVQ3ZrMVo3TXR6TFpsZ0pSMTVuU0psY21sRHpsc0JmMS1KS1poZUFnalRPQlVNWEpuX3k5Y1dPS3pZWkc5eFJZbTE5WU5pWWx5dkJRbkRxTUphZy1VcnBaUl9ncC1TVDRZRFdlRklaUnN5THlCbk0tU0dZb2o3eXc5eHNBdEpVaEFxLUZUMEpBV2dybFB3TERyOUw1aURNZEc5dVpoSlFaeGpCMg?oc=5"
+          "name": "Kontan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDRIN19GbmV1dTJsZS11OVV1bjN0Um80MzRKMHFoUkhpSV9VSEFac1d2OGRBQ0pFWFFzelZRenFramN5dVZxOHNYTWt4bm1QRldSQVZZM2NDVUpicDhOQVc0T3NUbmVwdDJ5LUpDWWZWUGdJaVFRYzBPMnJvZ2dDOElDWm5SQjZvbFNhdldxNGpkandWeElDNUgwYWdSTndsZjM1Ty14ZkRXSUtaLWc"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Transportasi • KRL Expansion",
-      "title": "KRL Diperluas ke Sukabumi, Cikampek, dan Merak",
-      "summary": "Rencana perluasan KRL akan menghubungkan kota-kota di sekitar Jabodetabek termasuk Sukabumi, Cikampek, dan Merak untuk meningkatkan konektivitas transportasi massal di kawasan tersebut.",
+      "tag": "Pasar Modal • IHSG",
+      "title": "IHSG Diprediksi Sideways Cenderung Melemah pada Senin",
+      "summary": "IHSG diproyeksikan mengalami sideways cenderung melemah pada hari Senin 28 September 2026. Pergerakan pasar dipengaruhi oleh sentimen negatif dari berbagai faktor.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0tnZmh2VnMwTHlTekRuanZfejR0aFpXT05WQzcyY2h6M281LUZZTEQyTEc2TUxEdHBkOU1jRzV0a0c1WUN1N0RGSXoxeXFCUWo3b2J4al84WnBaUlp3cEtvemw1VjM5eHJuWUY0eVdCS1V0MXZXVDRleHhnNmt0N0plbFNxcks5c3BXQVRRYXAweTZEUnBSaEVFY1l1V2hMNk0zZGJvLVZBZ9IBqgFBVV95cUxQX0tnZmh2VnMwTHlTekRuanZfejR0aFpXT05WQzcyY2h6M281LUZZTEQyTEc2TUxEdHBkOU1jRzV0a0c1WUN1N0RGSXoxeXFCUWo3b2J4al84WnBaUlp3cEtvemw1VjM5eHJuWUY0eVdCS1V0MXZXVDRleHhnNmt0N0plbFNxcks5c3BXQVRRYXAweTZEUnBSaEVFY1l1V2hMNk0zZGJvLVZBZw?oc=5"
+          "name": "Kontan",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0VxbnpiY1hEX290aTRIdEFfa2FjYnR6Z01TclJDY1JJNEF2d1FXM3lJSHVjc3VHWHlkdkRMc2I5aWp5emhnUkNDWVNhYXhXRlJGUUdlWmJjdmZJVWNubnJESWZVa3BsYlhGR29YMFZtVGhLSlRpbkVYeWwxRTY5UHBLVHF0dlFvX0k3MVJWcDdMbU01RVdQcVRYc0QyclRyMEMweF9GVkVoemNwWWl0a2Vpc2lwNmk"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Energi • Minyak & Gas",
-      "title": "BUK Migas Kelola Petroleum Fund untuk Eksplorasi Migas",
-      "summary": "Badan Usaha Khusus (BUK) Migas akan mengelola Petroleum Fund untuk memperluas eksplorasi minyak dan gas di Indonesia sebagai bagian dari upaya meningkatkan produksi sektor migas nasional.",
+      "tag": "Saham • Lapis Dua",
+      "title": "Prospek Saham Lapis Dua di Tengah Pasar Lesu",
+      "summary": "Analisis terhadap prospek kinerja saham lapis dua menunjukkan peluang investasi di tengat kondisi pasar yang sedang lesu.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3VJU29NOE1Xd2ZXUnNTWlRUNksxaUMyaWdiNW96NW9RWWZjS2FjT0tsSkZ1cDRINmctc09kUjF2TG5qa0NPTFNDREVKekg3QThpUWhwQWk4RWVIczFnRHEtbEdoaUJDMWFxZGVCcFNQdlZaQ3RfTi1nMEVyN09JTXlURG4zaERaN3BEZ1N5TTA5MF9hWFNvLWFqT2phU1lqWFh5RkI2U1JKR3pFUE9ZX2RPVmpLLUJtQmxOeWNXQktqZEswbUE?oc=5"
+          "name": "Kontan",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZk5TZHhzWnN2YWNGUm51b2djUjRyZ2Q3czZwcFh3b1RrV3NPaU1ramR4U0c2YzlyWDlRTFJRZkVoUm5YXy1aTUxpVjMzMTVIOXZSbjVySFVqaDJvV0JCS3lNcDg1SVFqRk9yRzR0dXh3cEdILVZsblVQN3lOWDkyLU5zcEh6U2tBQkMyMHJpemgwcXM"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Transportasi • Transportasi Lokal",
-      "title": "Bali Rencanakan Trem Baterai dan Kereta Ekonomi Kerakyatan",
-      "summary": "Bali menargetkan pembangunan trem baterai dengan rute tertentu pada 2028 sebagai pilihan transportasi modern ramah lingkungan. Sementara itu, KA Ekonomi Kerakyatan direncanakan untuk melayani rute yang sebelumnya ditangani KA PSO.",
+      "tag": "Makroekonomi • Komoditas",
+      "title": "Harga Kakao Melonjak, Meningkatkan Kesejahteraan Petani",
+      "summary": "Naiknya harga kakao membuat petani semakin sejahtera dan lebih rajin merawat kebun kakao mereka.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWndQVUN1bHJjQkZMdEVMaUtrdHVJX1JOZlpkX1gtOF9pcU1fbkVjaHhqQ3Z4c0xwSEpmRWlKdUVWdXpwOGlaMER2NkRFWV9jNGlfSGd1YjJZazE5REZmLTlRWWtmQk1ZOFgtc09UbDNyYllxOThOUU9aUFZPcnAtUzBjbmZfX3MrVG1jWGluUGZ1SHNSd1Jub2lFNnJQY1dVNFlzcmZxb19pVzdzeXdXdTIyblVPem85a0tGeXVQUkE?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3k2MlAtdHBNdTFlTUxISUVIQ1Zqdzl5NFh6QXlJRm40VDlTcWZLbkdtTVdXMVRtYk1HT0VUSU5meU9nR083ci1iU2N5TEVsYWtTTHZxcVVIXzM2VkZwRjM4c0xNTGU3QXhwUF85VU1Qd0hfWWQtdHNUYXhQY045TF80Nk9XRlhBSmNHenJVTlAxSUJoNmdwTWZNdnRGWnl0aU5DcVVob3dTSGFQZ2pwb3k2b9IBswFBVV95cUxQY3k2MlAtdHBNdTFlTUxISUVIQ1Zqdzl5NFh6QXlJRm40VDlTcWZLbkdtTVdXMVRtYk1HT0VUSU5meU9nR083ci1iU2N5TEVsYWtTTHZxcVVIXzM2VkZwRjM4c0xNTGU3QXhwUF85VU1Qd0hfWWQtdHNUYXhQY045TF80Nk9XRlhBSmNHenJVTlAxSUJoNmdwTWZNdnRGWnl0aU5DcVVob3dTSGFQZ2pwb3k2bw?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTlaZGk5YnRiYWRHMG5NeEhHVjROR2hsMUptdk0zLTBDdTBRaHFYVGRzR0gyWHlwR2lGVGtmN2tRbVVoMUhmVEgyV2Z0U0pWNU9neFlOVFVKOEJlalNNTDdPb0JtMnlxUG03THdpUzN3c3hNOVZRU2xRaXFwWEcyay1FYmhPMG9SeVM2dGJhTkc3elMyMWxfQTJNRnhCeUNubE9iUm1idXExTVpUVXU3YWZB0gGyAUFVX3lxTE9ZOVpkaTlidGJhZEcwbk14SEdWNE5HaGwxSm12TTMtMEN1MFFocVhUZHNHSDJYeXBHaUZUa2Y3a1FtVWgxSGZUSDJXZnRTSlY1T2d4WU5UVUo4QmVqU01MN09vQm0yeXFQbTdMd2lTM3dzeE05VlFTbFFpcXBYRzJrLUViaE8wb1J5UzZ0YmFORzd6UzIxbF9BMk1GeEJ5Q25sT2JSbWJ1cTFNWlRVdTdhZkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2V5ZlVfODFmZG9SVk92Z0ZWRm5ON1BiQ05leUFPeTYydmZaYWtWbVRQWVp5ODR3WFR1NkZITzdOcUFoaVF0a3pWUG90ald0NkZ6UTNBVWZEbWZSNWdwNGNQNFRab1k0YklKX3laZVJ0d3BpcVZ0MnAyU3ZKeG5rYTd2d2tUS2ZGY1V2MzZIYjRKOEFKMkc0VkRyUU4tY3VETHpCaVdGQVlHRFIyRmVRRGV0WXVpdXJlZWEzbHhmQWpqT3c"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Transportasi • Kereta Khusus",
-      "title": "Kereta Sultan dengan Kapasitas 36 Penumpang Diluncurkan Bulan Ini",
-      "summary": "Indonesia akan meluncurkan kereta premium dengan kapasitas penumpang yang terbatas (36 orang) yang dirancang untuk memberikan pelayanan kelas atas pada rute tertentu.",
+      "tag": "Makroekonomi • Energi",
+      "title": "DEN Pastikan RUU Migas Dorong Dekarbonisasi dan Investasi",
+      "summary": "DEN memastikan RUU Migas dirancang untuk mendorong dekarbonisasi sekaligus menarik investasi di sektor migas.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1dlVjltOW1pTTFidmpLYTZ3SXkwMmkyMnB6dHVqVGJsZ01CcEVzSWxUMFRnV0FHUVd2OE9IckJaYnY2cUNYcXZhekI5S2R2VVBhenhKbzIxbUlpaTVyRFV0aUpIbHNPa1h4V0ozdzRIVGdYWUpzdEpxelpvVTFfMHJqYXlmV0hLUmkxNGlEd0xJZVExMVVuV3k1d3d2blNpdld5MVlBbGM0V184REFkclptSlBpdVBybDZieGZBOHRFZ3ZxeXUxVlV5UHnSAcwBQVVfeXFMTW9XZVY5bTltaU0xYnZqS2E2d0l5MDJpMjJwenR1alRibGdNQnBFc0lsVDBUZ1dBR1FXdjhPSHJCWmJ2NnFDWHF2YXpCOUtkdlVQYXp4Sm8yMW1JaWk1ckRVdGlKSGxzT2tYeFdKM3c0SFRnWFlKc3RKcXpab1UxXzByamF5ZldIS1JpMTRpRHdMSWVRMTFVbld5NXd3dm5TaXZXeTFZQWxjNFdfOERBZHJabUpQaXVQcmw2YnhmQTh0RWd2cXl1MVZVeVB5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVTBCeU42QXFPcThBUUtwcFpuYlN3Wm1fbjVXQjNZVi1rU1RCXy1BUXJxTFliYjhzMk5za0RoUFBzdk9DaGt0UExYZ1lLcUVRMEtJX0s2NUVFbXdiOE94X3cyV2wzckV4OGE3VWJKVHVYanB2MFJONlZIeEU0VWE2YnZha3lBUndGdEhiMXRwRXJYVDFCdTlIeVBxMVhZZnluZ0FxOTQ1QlgyZ21PSWlUR0RtTG40LXE1LW5SRGY3V1UwcGc"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Inflasi",
-      "title": "Inflasi Melanda Ekonomi AS Selama 5 Tahun Terakhir",
-      "summary": "Harga konsumen telah naik signifikan dalam lima tahun terakhir, dari harga telur hingga kendaraan, melemahkan kepercayaan konsumen dan menggerus daya beli masyarakat Amerika.",
+      "tag": "Makroekonomi • Geopolitik",
+      "title": "Negara Kaya Minyak Rugi Rp 1.068 Triliun dari Konflik AS-Iran",
+      "summary": "Negara produsen minyak mengalami kerugian finansial signifikan senilai Rp 1.068 triliun akibat ketegangan geopolitik antara AS dan Iran.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories"
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnU4clBheFV4UHk1MW9TbkE3ZXlEdk5qc0g0eHF0NXRhTUdnNWcyT0NhQUdrb210SkRGYUY5cWI5VTBfa3RKOGdYeUFrQTlVWllXMTN6V2tOektrVExDdDB6N2NhenpvelM5aDdON0NjTG9SZkh0Z2pjbDl5eFRUNlk2cC1LT1NjVDM2cTF0ekxrX1lteDJIeFJEaENKQkJ1TS1WWGJrSFpzLVd0d1QzSC1jamxFaV8xUEJWRnNlLW1CSXM"
         }
       ],
-      "category": "global"
+      "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Jaminan Sosial",
-      "title": "Proyeksi Pemotongan Benefit Social Security AS",
-      "summary": "Benefit Social Security diproyeksikan akan dipotong sebesar $540 per bulan dalam enam tahun ke depan, menandakan krisis yang semakin parah dalam pembiayaan program jaminan sosial.",
+      "tag": "Investasi • Cryptocurrency",
+      "title": "JL van der Velde, Sosok Misterius di Balik Tether dengan Harta Rp 680 Triliun",
+      "summary": "Profil JL van der Velde, tokoh kunci di balik stablecoin Tether, yang memiliki harta perkiraan mencapai Rp 680 triliun.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories"
+          "name": "CNN Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVJQcG9Ea05NVlcxTFhObzdxWEtkZ2tLWDg2dzFtLWZyeDJ4d1JOdGtZQ0tYLUE0ZGY2bXdTTW1LdTQ2MWtzTks2eUlIRFJiMmVDb2VLWGxPUlRSX0RYSW5XZE1PdnFGYzhkZDU4WlFobUFVYXd4Q0J6SEJZbVZMc0JqaUdOWXdIRWJHeVlFekhnaWpJRFhwVDE2NzdSSGE5NWM5OHNCVS01LVpmVEppUk9BZlRvZ1hUWW1NNkk5NnQ3LWo3blNDS3ZJQjU"
         }
       ],
-      "category": "global"
+      "category": "domestic"
     },
     {
-      "tag": "Pasar Modal • Obligasi",
-      "title": "Yield Obligasi Muni Mencapai Titik Manis Relatif terhadap Obligasi Korporat",
-      "summary": "Yield obligasi municipal (tax-free) telah meningkat signifikan relatif terhadap obligasi korporat dalam dua bulan terakhir, menciptakan peluang investasi menarik bagi investor berpajak tinggi.",
+      "tag": "Bisnis • Kecantikan",
+      "title": "Benings Pratama Buka Opra Tower, Perluas Ekosistem Bisnis Kecantikan",
+      "summary": "Benings Pratama membuka Opra Tower untuk memperluas ekosistem bisnis di industri kecantikan.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories"
+          "name": "CNN Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQREtMRkVUSHh4ajBDYmRaeW14VW1TU0h6ZUhRR2dLblFQWkpkRDZWdGpfSGZzUEozdVYzbDJTYnV1a2Itc3FZb0NnMjlpWVNKYm1NZ2ZtSGFuakpEVlQ4V0o4dFk2OU4tcjdLLWtiNnpBYURVOEk2TFRmZURUT0ZFam9RQ1RyekNoc2ZqR3J2UjlsLWxTNFAxVEk4dG5JZHpWTzg5QURZSmhjRHI5dmt0QWJJeC1TYTRXdUhLNG55eDBBeURvYTh0WG5EUQ"
         }
       ],
-      "category": "global"
+      "category": "domestic"
     },
     {
-      "tag": "Kebijakan • Healthcare",
-      "title": "Jutaan Orang Akan Kehilangan Medicaid Akibat Peraturan Kerja Baru",
-      "summary": "Perubahan kebijakan Medicaid akan memotong pengeluaran federal sebesar $1 triliun dalam 10 tahun, dengan dampak terberat pada kelompok masyarakat tertentu yang akan kehilangan perlindungan kesehatan.",
+      "tag": "Infrastruktur & Regulasi Media",
+      "title": "Paramount-WBD Merger: Kesepakatan Antitrust dan Kekhawatiran Jangka Panjang",
+      "summary": "Paramount CEO David Ellison berhasil menyelesaikan perselisihan antitrust yang mempermudah kekhawatiran industri perfilman, namun pertanyaan masih tersisa tentang kondisi setelah perjanjian lima tahun berakhir.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Emas Antam Naik dan Dampak Net Sell Asing",
-      "summary": "Harga emas Antam mengalami kenaikan Rp23.000 per gram pada 26 September. Investor asing melakukan net sell senilai Rp4,39 triliun dalam sepekan terakhir, dengan ANTM termasuk saham yang banyak dijual.",
+      "title": "Asing Net Sell ANTM",
+      "summary": "Asing melakukan net sell saham ANTM sebagai bagian dari penjualan masif senilai Rp 4,39 triliun dalam sepekan ke depan.",
       "sources": [
-        {
-          "name": "topik.id",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX21mbWdFZ3ZqYmpmQlgxYzhmTTdUbG1fdzJBN2NLczRJY1lVcE5mdVA1aFFuUUduU2JkT2NMNWdUb2VsVlZ5U1ZISk1BZ0JGcF9PTnNEU0E1TFJXUE9hNjI5QzFLcWFNLV9qOXNYcEdmbUNPSTR5QkFmYTFQSnlsMTZuUE1TejNUbVE?oc=5"
-        },
         {
           "name": "KONTAN",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZU1FOFl4c2RrQ0N3NTgxWW9pd1k2WGstbnNzQlZFbndkeE5nQVFGUDc4MDJfM1FBNzkxaGFFRE95OVhsSGRNTXZ3V3lBQTdIeFhzdi1uenZlTV94QVRIMEJETExwVklZenJ2SzJIRGdhYTJ2ZnVSQ2NYMHNXbW95UE5zWkxkYktaOFZkd0FrQU1wU2FTWBJVS1lUdWtPNXBpVllVekFuMTNIUdIBqgFBVV95cUxNZU1FOFl4c2RrQ0N3NTgxWW9pd1k2WGstbnNzQlZFbndkeE5nQVFGUDc4MDJfM1FBNzkxaGFFRE95OVhsSGRNTXZ3V3lBQTdIeFhzdi1uenZlTV94QVRIMEJETExwVklZenJ2SzJIRGdhYTJ2ZnVSQ2NYMHNXbW95UE5zWkxkYktaOFZkd0FrQU1wU2FTWBJVS1lUdWtPNXBpVllVekFuMTNIUQ?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BUMI",
-      "title": "Emas Antam Naik dan Rencana Cukai MBDK",
-      "summary": "Harga emas Antam naik Rp23.000 per gram pada 26 September. Gapmmi meminta pemerintah mengkaji matang rencana cukai MBDK yang berlaku pada 2027.",
-      "sources": [
-        {
-          "name": "topik.id",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX21mbWdFZ3ZqYmpmQlgxYzhmTTdUbG1fdzJBN2NLczRJY1lVcE5mdVA1aFFuUUduU2JkT2NMNWdUb2VsVlZ5U1ZISk1BZ0JGcF9PTnNEU0E1TFJXUE9hNjI5QzFLcWFNLV9qOXNYcEdmbUNPSTR5QkFmYTFQSnlsMTZuUE1TejNUbVE?oc=5"
-        },
-        {
-          "name": "topik.id",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdURGQ3V0N01XOEJudFRmNjRER05sVjhKT2ZkN0JMSnpnTUZUMGJTTkpuRmpjd19pNkctVzFMVURZN1ljdXhVZ1pka01XQlhIYjFsTW5ValpuMWI5RjZWYUVvck9LaGZyUmNSZ1RTbmRtdWhmR2RFQVRzUFpQa01DVFJ1N1NJVTRKeFhWOGFNUVlLVTU3Y3BybA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZU1FOFl4c2RrQ0N3NTgxWW9pd1k2WGstbnNzQlZFbndkeE5nQVFGUDc4MDJfM1FBNzkxaGFFRE95OVhsSGRNTXZ3V3lBQTdIeFhzdi1uenZlTV94QVRIMEJETExwVklZenJ2SzJIRGdhYTJ2ZnVSQ2NYMHNXbW95UE5zWkxkYktaOFZkd0FrQU1wU2FTWEJVS1lUdWtPNXBpVllVekFuMTNIUdIBqgFBVV95cUxNZU1FOFl4c2RrQ0N3NTgxWW9pd1k2WGstbnNzQlZFbndkeE5nQVFGUDc4MDJfM1FBNzkxaGFFRE95OVhsSGRNTXZ3V3lBQTdIeFhzdi1uenZlTV94QVRIMEJETExwVklZenJ2SzJIRGdhYTJ2ZnVSQ2NYMHNXbW95UE5zWkxkYktaOFZkd0FrQU1wU2FTWEJVS1lUdWtPNXBpVllVekFuMTNIUQ?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "Asing Net Sell Rp559 Miliar, BMRI Paling Banyak Dilepas",
-      "summary": "Investor asing melakukan net sell Rp559 miliar sepekan ini, dengan BMRI menjadi saham yang paling banyak dijual asing akibat pelemahan IHSG.",
+      "title": "Penjualan Asing Masif di BMRI",
+      "summary": "Investor asing melepas saham BMRI senilai ratusan miliar rupiah dalam sepekan, menjadikan BMRI salah satu saham paling banyak dilepas asing. BMRI tercatat sebagai saham murah bersamaan dengan BBNI.",
       "sources": [
         {
-          "name": "IDX Channel",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWpnekVqUUZiclJMRlhub0h1QVdrdVdJbWYtMzJmSTA4WUhWQ0w2NDNIRmQ1NV9Rb3N3c2JFM3lqU3BZX3NCVndCMDlzOFBnTTdwVzNoZUppb2t1M19BM18xNWwyTFd1ODdVTUNrdlgxdjd2ZHZldDBEaTdxRkI3QmwxaVpHdHh4cXlIMHNJcUFVLWhTYVlRSUc4SDJja2_SAaQBQVVfeXFMTzZmRXRZNnRSQkJmc01sdjVNWkU0MkpqSXhIakdQR29Ka3ZXcm1KejBFX0ZMendxdlFEXzNTZlVxT1VIMmxEeHpXZGVHcDNMNWFNWVpXa2N5SFRpQmhRNkhyZUFLd1ctQ2dEWFhKRFZwVmZGZnpnNlJvNmZjVUYtUmtSSnNEYzlkTTFCSnFJRlc3QXJxQkNzaFBqcTNadmVKZWVpc20?oc=5"
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yeE5pcHBoMmZGSXgwUnEyd1Z5ZHhkdm8tWGVESGVFdjJGZ3FLVnBSdHZPbldNbDgzRjY5TVY4a1RXVDI5MHBLR0FzaXZVOWQwdGZSVUczR1lKbnh0S3BuTHNFLW5fWEkwdi0wbjh4MXN5U3AydF9kSENQSQ?oc=5"
+        },
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41V1lGWW9SY0xTUEMtLWZNNDBaMTMxcVJ6Ukx5N3pmNkFSWHNKb1d2aUtHSm5WQUNOcVVfWlhHY1NGbHBGSHdnZmRSelZJdW1PQzVWZXVQaWtrZHVYMlVISFdMbGNFeDhZZm9xQkg3ZXkwandnd29KZEREZzl1enM?oc=5"
+        },
+        {
+          "name": "Katadata.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWktUM0VLeEhWOWNqa0trajdxazV6SWQwOGNLcm5ZUTRmZ3lIc1ppRVEzaUE0S1FLRHZ0RWZPb1pDV2Q3b182SFNuS0NpTThteTIxMUt1WUZrSERmeWNwbDdVMzd4WmJwWHYybkRKREJtcmp2cWhOMURCZXA3aVlrNVg0QVRfVkVQRnFNYV83YkcxZnlvVldfX1pJNmhPbjNNYmdROEZXejRrWGIzck1aZ2RyZlAxVDNlOXJpTjNYYzlVcGVmU21MddIBzgFBVV95cUxQajYtblhjTFRjVEtWZmJMZktlbUc0VEJkeTdrMW9SdHMtMlZ1dElNT1hyVkZwUG1iWWFoOWE5U3dwWkRnNWFucmxQaHlaMlJBWTRIOUtzdDhnMmpCc3g4d3JpYllWV1l2a0htMk8wOXZuSldBQ29GQnd4dE9vN2lOOGlQQkEta2t4N1pDOVhtV25mUjhKeGxWeVAtMTB3V3ZjTkdCdlZMQ0d3Z0RCVmRmclJ4WUxBSTBXTkttajZyUXBjeDJyVTM2TmR1eVhGZw?oc=5"
         },
         {
           "name": "Pena Insight",
@@ -200,7 +164,7 @@
         },
         {
           "name": "CentralBatam",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oalY1RDlZT0tZYm5US3QydlRLbFlKMl8tcDM5Qzl4amdudHpUR0ZXQW9Idkt1MGxYaVluUGI1dFFqTU5oekRUVVFuZVFKOEw5U1o1TWVhc1pMOGk4d2pmSEpJSEN5QWF2TzRwUUVVajZZTExU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oalY1RDlZT0tZYm5US3QydlRLbFlKMl8tcDM5Qzl4amdudHpUR0ZXQW9Idks1dDAybGXaVluUGI1dFFqTU5oekRUVVFuZVFKOEw5U1o1TWVhc1pMOGk4d2pmSEpJSEN5QWF2TzRwUUVVajZZTExU?oc=5"
         }
       ],
       "category": "personal"
