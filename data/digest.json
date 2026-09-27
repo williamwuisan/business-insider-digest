@@ -1,78 +1,70 @@
 {
-  "generated_at": "2026-09-27T05:19:11.182038+00:00",
+  "generated_at": "2026-09-27T12:43:44.746570+00:00",
   "items": [
     {
-      "tag": "Makroekonomi • Rupiah",
-      "title": "Rupiah Melemah Terhadap Dolar, Risiko Menembus Rp 18.000",
-      "summary": "Rupiah mengalami tekanan dari sentimen global negatif. Proyeksi nilai tukar pekan depan menunjukkan risiko rupiah untuk menembus level Rp 18.000 per dolar AS.",
-      "sources": [
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFhBanZaZFc5eTJYZVhXQzlVSkljM2p6N1hWeVpOSnU4MV9XZkZUTk00VVd6c2c5VGhra3MtODNyX2V3WTlUY3B2OFk3b2VTQXBHQVRudmhGVzQ4UmpzRGtfck9SdjZZTTJBLXFNTHJwcWJJSDJxNGJoSFFkaFoweG5WQTA0QmlpakUxSVlfa0ZaVk5jbUhsMU9vTlQ4VHc5VHN4ZUtaV3dNQQ"
-        },
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNERQcElLS2Y0Q2xEcXVabFphSTh1bXptcGRyeHJ3Zl9BMjUzeWdFOURjeVpkVzY1cmpnZE1aRkptTDU2QmVIQUFPaVF2ajYxRmk5Skk2RUQtR2p4MjBBN2dNS29YNE9WMUhfUzFEd3o5UF95bXp2QXVFYl96bkREWTRIdE4xcU9LNFh3MUEybzc4czlFUmp5U3V1ZGxNaEFmNzk0YlU1S3Jmd0lQSmY"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
       "tag": "Pasar Modal • Regulasi",
-      "title": "BEI Ubah Aturan Papan Pemantauan dan Batas Harga Saham",
-      "summary": "BEI mengubah aturan papan pemantauan khusus berlaku mulai Senin 28 September 2026. BEI juga menurunkan batas harga saham minimum menjadi Rp 1, namun analis soroti risiko volatilitas yang meningkat.",
-      "sources": [
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOThFeGw0S2tWVVVaQWZnUC0yMU94UXhRWlNDRDFpVGRPLU5WMGlUSDdJM1NhUnRfcnpCc3JOY2RJZC1PeFM5OS1PZ3l6OU5WVFpZa1RDN1I2cmxYcV9GdmlHLW1May1Fc2swT0Z4VjhacTlvSERKTWF3eWlIRFVFQXZraXpxRWNsejVTRFpqZEQ5bVBiN3ZEUEVqa01QbG5oaUtWd1J0"
-        },
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDRIN19GbmV1dTJsZS11OVV1bjN0Um80MzRKMHFoUkhpSV9VSEFac1d2OGRBQ0pFWFFzelZRenFramN5dVZxOHNYTWt4bm1QRldSQVZZM2NDVUpicDhOQVc0T3NUbmVwdDJ5LUpDWWZWUGdJaVFRYzBPMnJvZ2dDOElDWm5SQjZvbFNhdldxNGpkandWeElDNUgwYWdSTndsZjM1Ty14ZkRXSUtaLWc"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Pasar Modal • IHSG",
-      "title": "IHSG Diprediksi Sideways Cenderung Melemah pada Senin",
-      "summary": "IHSG diproyeksikan mengalami sideways cenderung melemah pada hari Senin 28 September 2026. Pergerakan pasar dipengaruhi oleh sentimen negatif dari berbagai faktor.",
-      "sources": [
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0VxbnpiY1hEX290aTRIdEFfa2FjYnR6Z01TclJDY1JJNEF2d1FXM3lJSHVjc3VHWHlkdkRMc2I5aWp5emhnUkNDWVNhYXhXRlJGUUdlWmJjdmZJVWNubnJESWZVa3BsYlhGR29YMFZtVGhLSlRpbkVYeWwxRTY5UHBLVHF0dlFvX0k3MVJWcDdMbU01RVdQcVRYc0QyclRyMEMweF9GVkVoemNwWWl0a2Vpc2lwNmk"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Saham • Lapis Dua",
-      "title": "Prospek Saham Lapis Dua di Tengah Pasar Lesu",
-      "summary": "Analisis terhadap prospek kinerja saham lapis dua menunjukkan peluang investasi di tengat kondisi pasar yang sedang lesu.",
-      "sources": [
-        {
-          "name": "Kontan",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZk5TZHhzWnN2YWNGUm51b2djUjRyZ2Q3czZwcFh3b1RrV3NPaU1ramR4U0c2YzlyWDlRTFJRZkVoUm5YXy1aTUxpVjMzMTVIOXZSbjVySFVqaDJvV0JCS3lNcDg1SVFqRk9yRzR0dXh3cEdILVZsblVQN3lOWDkyLU5zcEh6U2tBQkMyMHJpemgwcXM"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Makroekonomi • Komoditas",
-      "title": "Harga Kakao Melonjak, Meningkatkan Kesejahteraan Petani",
-      "summary": "Naiknya harga kakao membuat petani semakin sejahtera dan lebih rajin merawat kebun kakao mereka.",
+      "title": "Perubahan Harga Minimum Saham ke Rp1",
+      "summary": "Otoritas Jasa Keuangan (OJK) menurunkan harga minimum saham dari Rp50 menjadi Rp1 mulai Senin depan. Kebijakan ini bertujuan untuk memperluas akses investor ritel dan meningkatkan likuiditas pasar modal Indonesia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2V5ZlVfODFmZG9SVk92Z0ZWRm5ON1BiQ05leUFPeTYydmZaYWtWbVRQWVp5ODR3WFR1NkZITzdOcUFoaVF0a3pWUG90ald0NkZ6UTNBVWZEbWZSNWdwNGNQNFRab1k0YklKX3laZVJ0d3BpcVZ0MnAyU3ZKeG5rYTd2d2tUS2ZGY1V2MzZIYjRKOEFKMkc0VkRyUU4tY3VETHpCaVdGQVlHRFIyRmVRRGV0WXVpdXJlZWEzbHhmQWpqT3c"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ193dnRTTFlaUndDcXBqWC0zUktOM2JTWnZETXpJdjExLUtIcDJRblU3MlJqVVhXMDJ6VGFabGVINHN3dGVscFlJNHFsVHBGMzZIZkdjOTdPNkV0QmhZel9nNjdOZ3dBUzdCeEQ0MHlfNlVEcU1MSXJQRHRJdnUzRFZja1hidzEtT2QxS25ibGhWNUtiN3hlalZxVS1FNmhta2FfSEJnLXV4bTc4Q1FkS3ZVYVVjNVpJemlR0gG7AUFVX3lxTE5DX3d2dFNMWVZSd0NxcGpYLTNSS04zYlNadkRNekl2MTEtS0hwMlFuVTcyUmpVWFcwMnpUYVpsZUg0c3d0ZWxwWUk0cWxUcEYzNkhmR2M5N082RXRCaFl6X2c2N05nd0FTN0J4RDQweV82VURxTUxJclBEdEl2dTNEVmNrWGJ3MS1PZDFLbmJsaFY1S2I3eGVqVnFVLUU2aG1rYV9IQmctdXhtNzhDUWRLdlVhVWM1Wkl6aVE"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Energi",
-      "title": "DEN Pastikan RUU Migas Dorong Dekarbonisasi dan Investasi",
-      "summary": "DEN memastikan RUU Migas dirancang untuk mendorong dekarbonisasi sekaligus menarik investasi di sektor migas.",
+      "tag": "Pasar Modal • Broker",
+      "title": "Ekspansi Bisnis Sekuritas ke Saham Asing",
+      "summary": "Broker sekuritas Indonesia memperluas layanan dengan memungkinkan penjualan saham asing kepada klien. Langkah ini merupakan bagian dari strategi ekspansi bisnis untuk menarik investor ritel yang ingin diversifikasi portfolio internasional.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTV0TGoxS2FjbjZ2VXRTbndvOXNiSExIeTdpMXFYczQ2VDNDSzRvTDk0UzhJNlE4aklMdUpLcm5SVUZJUXZ2akpEb1VxSzhVM3J6UW1RR1BBWXZzNEJaUXlKTFVmQjZDUkJ3cXFzZ2E3Zl9Fd1FTbEE3bUtqOVlfS2tsLUZ1NjRlb0NtLXBQVl80bndrel85T0M3OTZsRTFtSGNtaWhkREhiU3pZcVBldlJuWlBWY0pJOXV4MTIxZGk"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Perbankan • Kredit Berkelanjutan",
+      "title": "Bank Himbara Fokus Penyaluran Kredit Bisnis Berkelanjutan",
+      "summary": "Bank Himbara mengintegrasikan komitmen untuk menyalurkan kredit ke bisnis yang berkelanjutan dan ramah lingkungan. Inisiatif ini sejalan dengan agenda dekarbonisasi dan transisi energi yang didukung pemerintah.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnpaYTRhaVdHclVYR0w4SDd6U01sX0o5Uzd6WU9BVDNmQ0RzVkNHVFBhek16emlCU0syemQ5dFJjYUg3NV8tN0d0czF1NmhvNUtaeUtYaHUtSk5JNXRhcXF6MWY0TFZIa2dtTjVHVjRFMEN3c3BkOVktaE1xWlVaQVZudVV5S3Q3dXdUT0lDNlhadG9taUozSnJuTVowdzZXNUZyX2RTOTBWQ3RpeXpNMzJwNHBwbDRWWFFwY0UyaFN6LU0"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Komoditas • Emas",
+      "title": "Kepemilikan Emas Warga RI Mencapai 1.800 Ton",
+      "summary": "Data menunjukkan warga Indonesia menyimpan emas senilai sekira Rp4.500 triliun. Kepemilikan emas ini mencerminkan preferensi masyarakat terhadap aset tangible sebagai simpanan jangka panjang dan hedge terhadap inflasi.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2RseDdsX1BFY1UtYVhBRFNKZDZyY2M0N1kwakxXb3pzRlZEVXNWUzdVUXdySk5tbTA4Yk0tUjc3bVBIXzN6eVRkZHVQdVlwcnVucnhIbGdJNkVFNTR3a1JvOWJvT0FIZW9FbWhWS2Npclk5cm1nM2Z1cENOd050NkdBRjFLUG9YdTE3THVFNGFSX3RTUnRzM0NjaVZWMFVvVUxvUnJmX0VSeWt2eXY2REF1UjVPaHBJQ2UydnFfYWdkVlVHMkxlaE1CTGF5QdIBzgFBVV95cUxPV2RseDdsX1BFY1UtYVhBRFNKZDZyY2M0N1kwakxXb3pzRlZEVXNWUzdVUXdySk5tbTA4Yk0tUjc3bVBIXzN6eVRkZHVQdVlwcnVucnhIbGdJNkVFNTR3a1JvOWJvT0FIZW9FbWhWS2Npclk5cm1nM2Z1cENOd050NkdBRjFLUG9YdTE3THVFNGFSX3RTUnRzM0NjaVZWMFVvVUxvUnJmX0VSeWt2eXY2REF1UjVPaHBJQ2UydnFfYWdkVlVHMkxlaE1CTGF5QQ"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Saham • BYAN",
+      "title": "Akuisisi BYAN oleh Jhonlin Tidak Beban Keuangan JARR",
+      "summary": "Akuisisi saham BYAN (PT Bayan Resources) oleh Jhonlin terbukti tidak memberikan beban signifikan kepada PT Jaringan Bayan (JARR). Transaksi ini menunjukkan efisiensi manajemen aset dalam konglomerat pertambangan dan energi.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUZvVDFsdF9YaGhrZGZ3TzZSaHVGbmYtWTVDRlgyc0Z2emtDWnZvOEhoUkxlc0ZSVG1WMUhkc241U2xPMFVwUFo4Sll0WkREUHA2RFV3VEtyVXpTdWNjc2VPQlNfUkY5OXlSRll0Tjk2UkJmQWZjNVI2Ny1pdnVKaUJlNlo3VjBzUlZTbVNnQmExX2dicWRXSUYwczI2S0RfM2J6UWdFeF92enpLQ3JmeGl6MGxEWklr0gG-AUFVX3lxTE5nMjhfWXQ0cFI2TF8xSFJBa01LNmtUMGhKdmxXRFlQWTdZT2o3bDd2ZnRvTnVzTkg2SFZwSl9Td1RCeEkzYzU5ZXQ3dTdlSnBUWElqUEIzcTV4YTBfNHE5RERQWUlnQnlzMzB6OEN5MDFDQnA0UG5fclVSTmZIWnVGZFFXaTFPN0dFZk9sSlBuZXNRR051dWhWM281NVRNLTFxTncwZzFuUjkxV2lGeEszSm1TX2lHRWI5d0hUQlE"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Energi & Sumber Daya • Migas",
+      "title": "RUU Migas Dorong Dekarbonisasi dan Investasi Sektor",
+      "summary": "Pemerintah memastikan Rancangan Undang-Undang (RUU) Migas mendorong dekarbonisasi sekaligus menarik investasi berkelanjutan di sektor minyak dan gas. Regulasi baru diharapkan menyeimbangkan transisi energi dengan pertumbuhan ekonomi.",
       "sources": [
         {
           "name": "CNBC Indonesia",
@@ -82,70 +74,82 @@
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Geopolitik",
-      "title": "Negara Kaya Minyak Rugi Rp 1.068 Triliun dari Konflik AS-Iran",
-      "summary": "Negara produsen minyak mengalami kerugian finansial signifikan senilai Rp 1.068 triliun akibat ketegangan geopolitik antara AS dan Iran.",
+      "tag": "Komoditas • Kakao",
+      "title": "Kenaikan Harga Kakao Meningkatkan Kesejahteraan Petani",
+      "summary": "Kenaikan harga kakao global mendorong petani Indonesia untuk lebih intens merawat kebun dan meningkatkan produksi. Peningkatan nilai komoditas ini memberikan dampak positif terhadap pendapatan dan kesejahteraan petani lokal.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnU4clBheFV4UHk1MW9TbkE3ZXlEdk5qc0g0eHF0NXRhTUdnNWcyT0NhQUdrb210SkRGYUY5cWI5VTBfa3RKOGdYeUFrQTlVWllXMTN6V2tOektrVExDdDB6N2NhenpvelM5aDdON0NjTG9SZkh0Z2pjbDl5eFRUNlk2cC1LT1NjVDM2cTF0ekxrX1lteDJIeFJEaENKQkJ1TS1WWGJrSFpzLVd0d1QzSC1jamxFaV8xUEJWRnNlLW1CSXM"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2V5ZlVfODFmZG9SVk92Z0ZWRm5ON1BiQ05leUFPeTYydmZaYWtWbVRQWVp5ODR3WFR1NkZITzdOcUFoaVF0a3pWUG90ald0NkZ6UTNBVWZEbWZSNWdwNGNQNFRab1k0YklKX3laZVJ0d3BpcVZ0MnAyU3ZKeG5rYTd2d2tUS2ZGY1V2MzZIYjRKOEFKMkc0VkRyUU4tY3VETHpCaVdGQVlHRFIyRmVRRGV0WXVpdXJlZWEzbHhmQWpqT3c"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Investasi • Cryptocurrency",
-      "title": "JL van der Velde, Sosok Misterius di Balik Tether dengan Harta Rp 680 Triliun",
-      "summary": "Profil JL van der Velde, tokoh kunci di balik stablecoin Tether, yang memiliki harta perkiraan mencapai Rp 680 triliun.",
+      "tag": "Perikanan • Ekspor",
+      "title": "KKP Perluas Budidaya Lobster untuk Pasar China-Jepang",
+      "summary": "Kementerian Kelautan dan Perikanan (KKP) memperluas usaha budidaya lobster dan komoditas laut lainnya dengan menargetkan ekspor ke China dan Jepang. Strategi ini bertujuan meningkatkan nilai tambah ekspor perikanan Indonesia.",
       "sources": [
         {
-          "name": "CNN Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVJQcG9Ea05NVlcxTFhObzdxWEtkZ2tLWDg2dzFtLWZyeDJ4d1JOdGtZQ0tYLUE0ZGY2bXdTTW1LdTQ2MWtzTks2eUlIRFJiMmVDb2VLWGxPUlRSX0RYSW5XZE1PdnFGYzhkZDU4WlFobUFVYXd4Q0J6SEJZbVZMc0JqaUdOWXdIRWJHeVlFekhnaWpJRFhwVDE2NzdSSGE5NWM5OHNCVS01LVpmVEppUk9BZlRvZ1hUWW1NNkk5NnQ3LWo3blNDS3ZJQjU"
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTl9hemg1VDFQRDBNNWVYSVl0enB5TTRBVmFUVjVDRXpxdnlvcUU3bWFVdEhDYmFsOHNublpraENVMjF5UnVuV2JHMm5PaUZadXg3WlhVUWVNbVd4M1NqTmtSWGZKeU8yN1NMSVdsRlZiRFR5TlNyTkZpREtfM2sxQTVtRjdlOFpxdjE2Z2pZemVtRnFDRnREaTFlRXNvQ3k1RGlTSTRZQ2pEWGctcHhhRUZrQXNWczJqWl9GdmJDOGRZUkNV"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Bisnis • Kecantikan",
-      "title": "Benings Pratama Buka Opra Tower, Perluas Ekosistem Bisnis Kecantikan",
-      "summary": "Benings Pratama membuka Opra Tower untuk memperluas ekosistem bisnis di industri kecantikan.",
+      "tag": "Pariwisata • Investasi",
+      "title": "Mentawai Tarik Investor Global ke Sektor Pariwisata Bahari",
+      "summary": "Pemerintah dan stakeholder Kepulauan Mentawai mengundang investor internasional untuk mengembangkan sektor pariwisata bahari dan kelautan. Inisiatif ini diharapkan meningkatkan ekonomi lokal dan penciptaan lapangan kerja.",
       "sources": [
         {
-          "name": "CNN Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQREtMRkVUSHh4ajBDYmRaeW14VW1TU0h6ZUhRR2dLblFQWkpkRDZWdGpfSGZzUEozdVYzbDJTYnV1a2Itc3FZb0NnMjlpWVNKYm1NZ2ZtSGFuakpEVlQ4V0o4dFk2OU4tcjdLLWtiNnpBYURVOEk2TFRmZURUT0ZFam9RQ1RyekNoc2ZqR3J2UjlsLWxTNFAxVEk4dG5JZHpWTzg5QURZSmhjRHI5dmt0QWJJeC1TYTRXdUhLNG55eDBBeURvYTh0WG5EUQ"
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTdZZm9oM3Rfak0zZGZuaDhlQ0cwU0RoMU9IcWpGLUM4Qk5HZmtyaDRzTC1PZnJoc2M4R0RFREgydk41UWtYWHdsVy1DbE5wTG1tcVpISFpOWW9KbFF6Tl9jUVZNV0dCb3dfRXJZdzJtM0tSZGl1WGRoRTgwN1BSS1Flbll6TGMwZnB3alhIbE1WUGFXa3B0cWppbzdYYzA0dVFUTXVycEp6VzctSldBb2VHMHBSa3R5VlQ1U0lBS1cwdEJrcXc"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Infrastruktur & Regulasi Media",
-      "title": "Paramount-WBD Merger: Kesepakatan Antitrust dan Kekhawatiran Jangka Panjang",
-      "summary": "Paramount CEO David Ellison berhasil menyelesaikan perselisihan antitrust yang mempermudah kekhawatiran industri perfilman, namun pertanyaan masih tersisa tentang kondisi setelah perjanjian lima tahun berakhir.",
+      "tag": "Makroekonomi • The Fed",
+      "title": "Laporan Pekerjaan Akan Mendorong Yield Treasury dan Suku Bunga",
+      "summary": "Laporan pekerjaan yang kuat dapat meningkatkan yield Treasury 10 dan 30 tahun, sekaligus mendorong Federal Reserve untuk mempertimbangkan kenaikan suku bunga lagi di Oktober.",
       "sources": [
         {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Asing Net Sell ANTM",
-      "summary": "Asing melakukan net sell saham ANTM sebagai bagian dari penjualan masif senilai Rp 4,39 triliun dalam sepekan ke depan.",
+      "title": "ANTM Keluar dari Papan Pemantauan Khusus",
+      "summary": "92 saham termasuk ANTM keluar dari papan pemantauan khusus yang kemungkinan meningkatkan volatilitas perdagangan. ANTM masuk dalam rekomendasi saham murah yang layak dijadikan pegangan di tengah kondisi pasar yang masih gelap.",
       "sources": [
         {
-          "name": "KONTAN",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZU1FOFl4c2RrQ0N3NTgxWW9pd1k2WGstbnNzQlZFbndkeE5nQVFGUDc4MDJfM1FBNzkxaGFFRE95OVhsSGRNTXZ3V3lBQTdIeFhzdi1uenZlTV94QVRIMEJETExwVklZenJ2SzJIRGdhYTJ2ZnVSQ2NYMHNXbW95UE5zWkxkYktaOFZkd0FrQU1wU2FTWEJVS1lUdWtPNXBpVllVekFuMTNIUdIBqgFBVV95cUxNZU1FOFl4c2RrQ0N3NTgxWW9pd1k2WGstbnNzQlZFbndkeE5nQVFGUDc4MDJfM1FBNzkxaGFFRE95OVhsSGRNTXZ3V3lBQTdIeFhzdi1uenZlTV94QVRIMEJETExwVklZenJ2SzJIRGdhYTJ2ZnVSQ2NYMHNXbW95UE5zWkxkYktaOFZkd0FrQU1wU2FTWEJVS1lUdWtPNXBpVllVekFuMTNIUQ?oc=5"
+          "name": "Kompas.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd3FBUjhtUTlfTm5idWx0c2pQVXptQ2gtb2c4ZE95aXJwdDEtRWVvWnhQS1hqZXY1alpVY19vNG9FMXJrTFRKLUROcW1CMjNjSS0yd01pd3NFVGhxZDVLeF9SRDdDS2RYOFY4d2JHQmJaajZWRG9LdmZDX2ZuUkZhRUw1N1Z5eHc4OFpBZV9pdjk1SUdrTWtiRUxrYXdDQTJnenZlWU5HUXllM1dTZ01WUG5UMTlnd0RabjN4eFBxcWNRSnMtMEZ5ZlNMQVJuSmZsTU5qWW5kRQ?oc=5"
+        },
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMllLdTA2bURnRGhncFJkY3ExRkpDa2FycnN0Z0Z5NkE0RTAtVUJXRWlKN2lFZTRWWDE4cEpwaHdJeTNXaVRhNk51ak9OSlgxR29PcW85aUZ0SjJKUWZPT01nVXQtMnhjbFYtZlZiemlGbGE4b2VnZFNrSzgxaU5xU1VlcW1ZSjliYkl6TFprOA?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "Penjualan Asing Masif di BMRI",
-      "summary": "Investor asing melepas saham BMRI senilai ratusan miliar rupiah dalam sepekan, menjadikan BMRI salah satu saham paling banyak dilepas asing. BMRI tercatat sebagai saham murah bersamaan dengan BBNI.",
+      "title": "BMRI Mengalami Tekanan Penjualan dan Dinilai Murah",
+      "summary": "BMRI banyak dilepas investor dalam transaksi pekan ini dan termasuk dalam kategori saham big cap yang sedang murah bersama BBNI. Saham ini menjadi target jual dalam aktivitas pasar terkini.",
       "sources": [
+        {
+          "name": "KabarBursa.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3I4b1diOHdNaEVQNWxBdk9pSUlRNy13amRQV2RsTW5XbmNkQVJYcFl5R1J2VTVkUFRabU01VUlEZEd6VTZnOEg0RU9TbkstbERWdUpFNkdXVWVzUVBrczVKOUpYcFRodXM1YXgzdEJkYTlfcFczM2VKUkFkYng5bWpJMGdYLVlmeGo2OHh5MG9GQ3BuQ1I5OXNFS09RT1lfOF8zdHlOTUdVb1JZNURQSnVScWxNY29wSlY2Tmx3?oc=5"
+        },
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVDhveTMzLTJvLUxsLVRlWVJZRExndlpoWnRYTVI4UFpuaG1aVElWMnh3Q29rQWRwVXo0YlNzX3R3UjlIUGNSQUgxelRJMXdqdEVVcFRfcDQtcGQxdzAyeU1wV2txRTYyUTN3djcyNA?oc=5"
+        },
         {
           "name": "investor.id",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yeE5pcHBoMmZGSXgwUnEyd1Z5ZHhkdm8tWGVESGVFdjJGZ3FLVnBSdHZPbldNbDgzRjY5TVY4a1RXVDI5MHBLR0FzaXZVOWQwdGZSVUczR1lKbnh0S3BuTHNFLW5fWEkwdi0wbjh4MXN5U3AydF9kSENQSQ?oc=5"
@@ -153,18 +157,18 @@
         {
           "name": "investor.id",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41V1lGWW9SY0xTUEMtLWZNNDBaMTMxcVJ6Ukx5N3pmNkFSWHNKb1d2aUtHSm5WQUNOcVVfWlhHY1NGbHBGSHdnZmRSelZJdW1PQzVWZXVQaWtrZHVYMlVISFdMbGNFeDhZZm9xQkg3ZXkwandnd29KZEREZzl1enM?oc=5"
-        },
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BMRI",
+      "title": "BMRI Fokus Graduasi UMKM melalui Program KUR",
+      "summary": "Bank Mandiri menargetkan akselerasi graduasi puluhan ribu UMKM melalui program KUR pada tahun 2026.",
+      "sources": [
         {
-          "name": "Katadata.co.id",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWktUM0VLeEhWOWNqa0trajdxazV6SWQwOGNLcm5ZUTRmZ3lIc1ppRVEzaUE0S1FLRHZ0RWZPb1pDV2Q3b182SFNuS0NpTThteTIxMUt1WUZrSERmeWNwbDdVMzd4WmJwWHYybkRKREJtcmp2cWhOMURCZXA3aVlrNVg0QVRfVkVQRnFNYV83YkcxZnlvVldfX1pJNmhPbjNNYmdROEZXejRrWGIzck1aZ2RyZlAxVDNlOXJpTjNYYzlVcGVmU21MddIBzgFBVV95cUxQajYtblhjTFRjVEtWZmJMZktlbUc0VEJkeTdrMW9SdHMtMlZ1dElNT1hyVkZwUG1iWWFoOWE5U3dwWkRnNWFucmxQaHlaMlJBWTRIOUtzdDhnMmpCc3g4d3JpYllWV1l2a0htMk8wOXZuSldBQ29GQnd4dE9vN2lOOGlQQkEta2t4N1pDOVhtV25mUjhKeGxWeVAtMTB3V3ZjTkdCdlZMQ0d3Z0RCVmRmclJ4WUxBSTBXTkttajZyUXBjeDJyVTM2TmR1eVhGZw?oc=5"
-        },
-        {
-          "name": "Pena Insight",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjJKeEFmSDJmRzRCWXdQUFVvaWdQRkxtc3VkSXFwdjJjSmJkTWtmYlBpeDJ0eEY1bklfOHVlamNfMU5QSWgwVkhTT20tU3hyaTluUTV0a0d5RDl2MUtVazlCcUFDRzNySUtnUWtTd1RHRzQ2SkstR0wwZmFrcXNDWWx4LVVGSGtwQWFMVUdYWDZ2UXVZNDNoeFlGczFiWjNGOUI0aUFuYjlTYTkw?oc=5"
-        },
-        {
-          "name": "CentralBatam",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oalY1RDlZT0tZYm5US3QydlRLbFlKMl8tcDM5Qzl4amdudHpUR0ZXQW9Idks1dDAybGXaVluUGI1dFFqTU5oekRUVVFuZVFKOEw5U1o1TWVhc1pMOGk4d2pmSEpJSEN5QWF2TzRwUUVVajZZTExU?oc=5"
+          "name": "cetro.or.id",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYU05YVEyNVE1ZFVNeF9IZXhfbUZEVFhDSXk1QnQzLXl2YXFCVU5mc01RaWNRYkgwYjI0TUEzYnRIOGRuS1hKSUhoaEItUUFueFQ5LXc5bElUc2czU2dtOERJOTBnNGtwWU5ZbEpGVEtTckt3X1RSS3Vyd0RsUjhQQm1lcGF4WjAyemRBSDk3RHB6UlQ5X2E1UktCaFo4UW5ibjBfb0FWRjR2WWxsT2lJcUlkMno5WWk4b1VIN3R3Zkw0ek0?oc=5"
         }
       ],
       "category": "personal"
