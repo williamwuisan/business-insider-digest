@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T02:11:06.134847+00:00",
+  "generated_at": "2026-10-02T08:30:04.988793+00:00",
   "ihsg": {
-    "value": 6025.33,
+    "value": 6041.359,
     "previous_close": 6147.859,
-    "change_percent": -1.99
+    "change_percent": -1.73
   },
   "gold_world": {
-    "value": 4176.5,
-    "change_percent": 0.19
+    "value": 4215.6,
+    "change_percent": 1.13
   },
   "gold_antam": {
     "buy": 2726000,
