@@ -1,114 +1,98 @@
 {
-  "generated_at": "2026-10-04T00:21:53.024071+00:00",
+  "generated_at": "2026-10-04T06:11:20.297050+00:00",
   "items": [
     {
-      "tag": "Makroekonomi • Rupiah",
-      "title": "Strategi Indonesia Perkuat Nilai Tukar Rupiah",
-      "summary": "Indonesia perlu mencontoh kebijakan Ringgit Malaysia dan Dolar Singapura untuk memperkuat daya Rupiah di pasar global. Pemerintah diharapkan merumuskan strategi komprehensif dalam penguatan mata uang nasional.",
+      "tag": "Pasar Modal • IPO",
+      "title": "Aktivitas IPO Meningkat Sepi di Bursa Indonesia",
+      "summary": "Perusahaan yang ingin melakukan IPO di pasar modal Indonesia mengalami penurunan aktivitas dalam beberapa waktu terakhir. Fenomena ini disebabkan oleh berbagai faktor yang membuat minat go public kurang bergairah.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTJkelNlc3JTbjVlU2I1Wk1yUTQyd3dNckxwS3dJUVdPLVVtdVZFQXFNU3g0QW5oek9NelI5VkRwTVI2Q2JmVEJKdlVSZURobkdHTzVlcWh1aGxwemV3TzBYYlZYQlE2Z2M0QktuNDVyeGl0OU15ZUdsalhFTWR4YXVNdVB1ZFBzV3YzZmF1UFM2SVJLUUxjNGgtT2lUeGVzTjBGNmlPT3JDdjhSYlVrUndRWEM2R21JX1hQQ01vOHA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN25tOXJFVERjWHU2elFrVzNEa210LTVDcmVxYnJqV0Zodnd2NEJGelhlZTdsSDFuRVB2bkk3a1JpLWhVaVZYTllvbXBES2NMTFRWcWJJLUcwZXpZNVY1b1JOaUxueHpFSDE3NGU2QmVBcHNyM2RlRnVkTDRTMnFfWkJNZExIRmpMdzB2QnprTjUwUExvMERxZ1ZWUks3SkFqNUhPbXZXY21PajNPMG9UeXk5RXI1QUdKVnpqam1Pajdtem95LXA4SNIByAFBVV95cUxPN25tOXJFVERjWHU2elFrVzNEa210LTVDcmVxYnJqV0Zodnd2NEJGelhlZTdsSDFuRVB2bkk3a1JpLWhVaVZYTllvbXBES2NMTFRWcWJJLUcwZXpZNVY1b1JOaUxueHpFSDE3NGU2QmVBcHNyM2RlRnVkTDRTMnFfWkJNZExIRmpMdzB2QnprTjUwUExvMERxZ1ZWUks3SkFqNUhPbXZXY21PajNPMG9UeXk5RXI1QUdKVnpqam1Pajdtem95LXA4SA?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Fiskal",
+      "tag": "Makroekonomi • Defisit Fiskal",
       "title": "Pemerintah Komitmen Pertahankan Defisit Fiskal 3% PDB",
-      "summary": "Menteri Keuangan Suahasil menegaskan komitmen pemerintah pada aturan defisit fiskal 3% terhadap PDB. Kebijakan ini merupakan bagian dari upaya menjaga stabilitas keuangan negara.",
+      "summary": "Menteri Keuangan Suahasil menegaskan komitmen pemerintah untuk mempertahankan aturan defisit fiskal sebesar 3% dari PDB. Komitmen ini menjadi bagian dari strategi stabilitas fiskal Indonesia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUMxM01xbG9RVjM4VW9uSTgxYWFwaVByamR3cjFmNWlVbmFJRzJHUmJxNFBlQ05GNy1PNTQ2STRBSm15bXpwdUxNM1JyZGl5aW4tblh6TFUwX29ldUtlRmNaeEdKbktXalFqNzVFRzJIUnpHWXhieGFXZ01OeUtPVG01YS05Q3FqbW5mSFQzODhIN015b180M0UzZXlVRlozNHBRWXpZS1JxZ2ZwNThaelNqZW10UlZWa0g1TkhwMWwtZ9IBxwFBVV95cUxOeTVzSjRSMjRibXlHby1qMXNrVE1QTkFGSmNobllLYlEzczR5Qzdyd0JrYkhqVlNSTnpUODI2S3B0VS1BZVg2UThoQmRwRXNCWm5fWGk4XzhCZXRGRXJodjU3Z2hHUWdRUmN1LTVXUTN4NFNQR0dYbGtrNERtcE0yZk1lSENHb0g2N2docHkxWXA0ZUtaYnJYOTJhc3V3bkVTajhhSlRTRUxqMHpfZWFvZU8tWmpHTHhRcTFQay1uVzBCWmlnaDIw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTVzSjRSMjRibXlHby1qMXNrVE1QTkFGSmNobllLYlEzczR5Qzdyd0JrYkhqVlNSTnpUODI2S3B0VS1BZVg2UThoQmRwRXNCWm5fWGk4XzhCZXRGRXJodjU3Z2hHUWdRUmN1LTVXUTN4NFNQR0dYbGtrNERtcE0yZk1lSENHb0g2N2docHkxWXA0ZUtaYnJYOTJhc3V3bkVTajhhSlRTRUxqMHpfZWFvZU8tWmpHTHhRcTFQay1uVzBCWmlnaDIw0gHHAUFVX3lxTE55NXNKNFIyNGJteUdvLWoxc2tUTVBOQUZKY2huWUtiUTNzNHlDN3J3QmtiSGpWU1JOelQ4MjZLcHRVLUFlWDZROGhCZHBFc0Jabl9YaThfOEJldEZFcmh2NTdnaEdRZ1FSY3UtNVdRM3g0U1BHR1hsa2s0RG1wTTJmTWVIQ0dvSDY3Z2hweTFZcDRlS1piclg5MmFzdXduRVNqOGFKVFNFTGowel9lYW9lTy1aakdMeFFxMVBrLW5XMEJaaWdoMjA?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Pertanian",
-      "title": "Kemarau Panjang Dampak Produksi Beras, Permintaan Pompa Irigasi Melonjak",
-      "summary": "Kemarau panjang menurunkan produksi beras Indonesia, namun meningkatkan permintaan pompa irigasi dari para produsen. El Niño diperkirakan terus memburuk dampaknya terhadap sektor pertanian.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeHptN2xUMDBaTVBRWmVXbGVINTVNQXRlNUNmaGh1YlpZVU91LVQ2R3YtYzF1MWJMRnpqQ21wVVJzZmtoMFBPcDlvTk1KSmw5dG9CYnFoMnM4SDJNT2hPbDllRmRFdEV6Q2lYeVNuZlVHWDEzSm1NQURCbzJCSU96Q1JmRGQxcmNJVVJFdHZYZjd5Z2NTSWZXMlhPeUNFcXpCOC1Ka05Ib3BqZU1iYk44cnhxbTB3dTV1MUtIczZzMTBPaElzaDNF?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE43Y3BRR2dxQU5OQlFKTzEzZFVwOTBQWFNwZlptUTlXeks1bGl3WVJDUjY0RlF4TGNuSXJKYkNlU3dSMkFnVlFuc0xpM2hpc1Fvb2RsXzNwQW1aNEVFc2lkQWFqTEJ3cURYN083TGpGX1dUZ0Q1dkJsTERzS0oxLVVZWFc3WG1JSldpWktRb0w4RFhDdXhrc05zbi1WQmlBNkV4a1BPZWdlSmM5NWfSAbMBQVVfeXFMT2Jmay1vcEM4YTZtNkZtbHhJajNpd0stWVAtbG9COW84WEFqbjJDRGZ6ZWFXTmVRM0dlczZrSFJsUnJvMlBuWU42U3RPU2lQekx0dlVHd3N3MFZiaTltZ0lpSkhtaG1hcTFJS1RzcDdhMGJlenNlbHhybm82SG9DTWZTM1Y5eVhFVWcwZU9mcVdlRUpNSnNMTEZ1a29SemZMTV9wdkQ3SFV3NkIzZDl3OXRMZWs?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Perbankan • BRI",
-      "title": "BRI Gelar Gebyar Lelang Serentak di 74 Lokasi",
-      "summary": "Bank BRI menyelenggarakan gebyar lelang serentak di 74 lokasi sebagai bagian dari aktivitas operasional penjualan aset.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTU2ak9KSzFlVW42Z2JJZGZYdmhCTFFXYTRDVnJabXdSNG1JNnBYbzh4YmlJUk85NTBlUjVTMlF1S0FqRUlkZWNDQzN0RzBBTDdsWmZCUTJoVVd1Z083YUQ1LWNHXzkzYTZpbHlKck43WkVBYmN0SFE0UFdVWmVVOUFVOTE1UXBVaUpCR2NlNFhtekNLbkxMNFd4MHNRNzdyVGJKbEFTTXJDSzF3dTdGNWh2NE9VNmfSAbcBQVVfeXFMUGE1NmpPSksxZVVuNmdiSWRmWHZoQkxRV2E0Q1ZyWm13UjRtSTZwWG84eGJpSVJPOTUwZVI1UzJRdUtBakVJZGVjQ0MzdEcwQUw3bFpmQlEyaFVXdWdPN2FENI1jR081M2E2aWx5SnJON1pFQWJjdEhRNFBXVVplVTlBVTkxNVFwVWlKQkdjZTRYbXpDS25MTDRXeDBzUTc3clRiSmxBU01yQ0sxd3U3RjVodjRPVTZn?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Infrastruktur • KPBU",
+      "tag": "Investasi • KPBU",
       "title": "Pemerintah Tawarkan 76 Proyek KPBU Senilai Rp1,13 Triliun",
-      "summary": "Pemerintah Indonesia menawarkan 76 proyek Kerja Sama Pemerintah dan Badan Usaha (KPBU) dengan nilai total Rp1,13 triliun untuk mendorong investasi sektor infrastruktur.",
+      "summary": "Pemerintah RI menawarkan 76 proyek Kerja Sama Pemerintah dan Badan Usaha (KPBU) dengan total nilai investasi Rp1,13 triliun. Proyek-proyek ini menjadi kesempatan bagi swasta untuk berpartisipasi dalam pengembangan infrastruktur nasional.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelVfd0tWSkVCeTlYZEdYaE9VYVJid3JIS1VfcGJ3YU9hZDNacTZfYVc3QzRiTVh3dkc2cUtWbGxUNlpoZVBERUdnT2N0SGlaN0s2eHhxZnFpcEx3MDFkVUs5eWZKZTZlYWpUWkRFeGdQcy1wZFVkYUVMdnBJR056LWlhT3hRaTdLT0FMN2V0bjhWVUxveXc1VWZBUWQ4U0pyN3lwV2ZQc0c3MF9UVlI0clRCQnQ2SXYyN1FUeC1ZUzlvQdIBxwFBVV95cUxPRmJiR1BKM0plSV9TSHhKR0hiSWY2QXpoRVR2Q1lYM3NQMHpraW9XSlF1ZktyX0lKUFpvR01OU1M2V2dTN0tqVlVIcHF6eGozR292bnE0WlRrN01TbThEdXlOWUZIMlphUmFJWnN4UENUTnFBWUc1Sy14UWlOUnU0TjcwWWcwUUxUTE1TRG1PbV81QUgwdExaUFNzS1MtSWV0ZlZfdEU1SndTT0JOR1Z5WUVIdXJBMjZfT21MbmJqZHlzVmxIZnBB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmJiR1BKM0plSV9TSHhKR0hiSWY2QXpoRVR2Q1lYM3NQMHpraW9XSlF1ZktyX0lKUFpvR01OU1M2V2dTN0tqVlVIcHF6eGozR292bnE0WlRrN01TbThEdXlOWUZIMlphUmFJWnN4UENUTnFBWUc1Sy14UWlOUnU0TjcwWWcwUUxUTE1TRG1PbV81QUgwdExaUFNzS1MtSWV0ZlZfdEU1SndTT0JOR1Z5WUVIdXJBMjZfT21MbmJqZHlzVmxIZnBB0gHHAUFVX3lxTE9GYmJHUEozSmVJX1NIeEpHSGJJZjZBemhFVHZDWVgzc1Awemtpb1dKUXVmS3JfSUpQWm9HTU5TUzZXZ1M3S2pWVUhwcXp4ajNHb3ZucTRaVGs3TVNtOER1eU5ZRkgyWmFSYUlac3hQQ1ROcUFZRzVLLXhRaU5SdTRONzBZZzBRTFRMTVNEbU9tXzVBSDB0TFpQU3NLUy1JZXRmVl90RTVKd1NPQk5HVnlZRUh1ckEyNl9PbUxuYmpkeXNWbEhmcEE?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Pajak",
-      "title": "Pajak Penghasilan: Gaji Setara UMP Bakal Bebas Pajak",
-      "summary": "Pemerintah menetapkan kebijakan pengecualian pajak untuk gaji yang setara dengan Upah Minimum Provinsi (UMP). Kebijakan ini dimaksudkan untuk meringankan beban pekerja berpenghasilan rendah.",
+      "tag": "Komoditas • Produksi Pangan",
+      "title": "Dampak El Niño Memperburuk Produksi Beras Indonesia",
+      "summary": "Kondisi El Niño terus berdampak negatif terhadap produksi beras Indonesia. Fenomena iklim ini mengakibatkan produksi pangan nasional mengalami penurunan yang signifikan.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdk9VbnFrZWhDOS1CbmxyTzF6dzBZMEVJclNqbDdHT3JLOU5yV3RMdmxkSWlUTUVGXzFBUUR2WXY3UGQ0NTV1TlBWOEZZZmlFYlRFSTlRNVBGcGh4d056RThfenZzbldRUjgtQmp2RU5SeS13b0owSk82Ri1IT3hLQ2ljdTVnVTE2YzlyRWItdUk3N3cwSVotSFJPTmbSAZwBQVVfeXFMTXZPVW5xa2VoQzktQm5sck8xencwWTBFSXJTamw3R09ySzlOcld0THZsZElpVE1FRl8xQVFEdll2N1BkNDU1dU5QVjhGWWZpRWJURUk5UTVQRnBoeHdOdkU4X3p2c25XUVI4LUJqdkVOUnktd29KMEpPNkYtSE94S0NpY3U1Z1UxNmM5ckViLXVJNzd3MElaLUhST05m?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmZrLW9wQzhhNm02Rm1seElqM2l3Sy1ZUC1sb0I5bzhYQWpuMkNEZnplYVdOZVEzR2VzNmtIUmxScm8yUG5ZTjZTdE9TaVB6THR2VUd3c3cwVmJpOW1nSWlKSG1obWFxMUlLVHNwN2EwYmV6c2VseHJubzZIb0NNZlMzVjl5WEVVZzBlT2ZxV2VFSk1Kc0xMRnVrb1J6ZkxNX3B2RDdIVXc2QjNkOXc5dExla9IBswFBVV95cUxPYmZrLW9wQzhhNm02Rm1seElqM2l3Sy1ZUC1sb0I5bzhYQWpuMkNEZnplYVdOZVEzR2VzNmtIUmxScm8yUG5ZTjZTdE9TaVB6THR2VUd3c3cwVmJpOW1nSWlKSG1obWFxMUlLVHNwN2EwYmV6c2VseHJubzZIb0NNZlMzVjl5WEVVZzBlT2ZxV2VFSk1Kc0xMRnVrb1J6ZkxNX3B2RDdIVXc2QjNkOXc5dExlaw?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Media & Hiburan",
-      "title": "Private Capital dan Perubahan Struktur Finansial Hollywood",
-      "summary": "Skydance menunjuk Ynon Kreiz sebagai co-CEO untuk memimpin merger perusahaan baru, menjawab pertanyaan tata kelola yang krusial. Sementara itu, modal swasta semakin membentuk industri film Hollywood dan mengubah jenis film yang diproduksi.",
+      "tag": "Regulasi • G20",
+      "title": "G20 Tolak Komoditas Pangan Jadi Alat Ancaman Politik",
+      "summary": "Forum G20 mengeluarkan keputusan menolak penggunaan komoditas pangan sebagai instrumen ancaman atau tekanan dalam hubungan politik internasional. Keputusan ini menekankan pentingnya keamanan pangan global.",
       "sources": [
         {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html"
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaVZHQjlsVDBwOENfVzlVWjNSb2ZxeEFVZ2VaX0RzRUNGTG5IUElhNTZ4TC1PQXV2SENXdElWMXpWNHRuUUttOGNyYTZvMWJvYTVxNE1YdnRGZ3BKX0dNUUlGMUFvamdXaDRQUi11cC1PX2ZpQ2lBN21uOTZQVHhtYjJiS1lDdHRsSGZwUWJwV1l4dXJzSUdiWi1uR2xJczVva1J6cUxtUXZhSkt3M0hWV1h0MWU0R3RJVS1V0gG7AUFVX3lxTE1pVkdCOWxUMHA4Q19XOVVaM1JvZnF4QVVnZVpfRHNFQ0ZMbkhQSWE1NnhMLU9BdXZIQ1d0SVYxelY0dG5RS204Y3JhNm8xYm9hNXE0TVh2dEZncEpfR01RSUYxQW9qZ1doNFBSLXVwLU9fZmlDaUE3bW45NlBUeG1iMmJLWUN0dGxIZnBRYnBXWXh1cnNJR2JaLW5HbElzNW9rUnpxTG1RdmFKS3czSFZXWHQxZTRHdElVLVU?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Regulasi • Pajak",
+      "title": "Gaji Setara UMP Bakal Bebas Pajak",
+      "summary": "Pemerintah RI menetapkan kebijakan pengecualian pajak penghasilan untuk gaji yang setara dengan Upah Minimum Provinsi (UMP). Langkah ini bertujuan meringankan beban pajak para pekerja berpenghasilan rendah.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdk9VbnFrZWhDOS1CbmxyTzF6dzBZMEVJclNqbDdHT3JLOU5yV3RMdmxkSWlUTUVGXzFBUUR2WXY3UGQ0NTV1TlBWOEZZZmlFYlRFSTlRNVBGcGh4d052RThfenZzbldRUjgtQmp2RU5SeS13b0owSk82Ri1IT3hLQ2ljdTVnVTE2YzlyRWItdUk3N3cwSVotSFJPTmbSAZwBQVVfeXFMTXZPVW5xa2VoQzktQm5sck8xencwWTBFSXJTamw3R09ySzlOcld0THZsZElpVE1FRl8xQVFEdll2N1BkNDU1dU5QVjhGWWZpRWJURUk5UTVQRnBoeHdOdkU4X3p2c25XUVI4LUJqdkVOUnktd29KMEpPNkYtSE94S0NpY3U1Z1UxNmM5ckViLXVJNzd3MElaLUhST05m?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Sosial • Program Bansos",
+      "title": "Era Baru Distribusi Bansos dengan Data Digital dan Agen Perlinsos",
+      "summary": "Pemerintah mengimplementasikan sistem baru dalam penyaluran bantuan sosial menggunakan data digital untuk mengidentifikasi kelayakan penerima. Polisi berperan sebagai agen perlindungan sosial tanpa menjadi penentu penerima manfaat.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSldjQzlXeF82VTJfM19RTEFzZklQRXN0bkhIek52OTQ4dVpMa25NRE40YzVDRTFMdVRRYWxMZkJFa2pYRmVPQkVxYl9oSTZWWlNWR3ZiM3ZJZlI2YkRWQ01uVmtsX1JrdjVTV2hwc0lGbVhXanI5R3ZXd2FMcmtvNUNWRkdJOXhpdGdwM2ZTOGlGdk5HbGNqSHo0YVFrWUpRNmxLbWtGYUE3Qms2aHRzcTJRLURLWVU0MjBJU1dCejJNaU4xR05XRk5iR2/SAcwBQVV95cUxQSldjQzlXeF82VTJfM19RTEFzZklQRXN0bkhIek52OTQ4dVpMa25NRE40YzVDRTFMdVRRYWxMZkJFa2pYRmVPQkVxYl9oSTZWWlNWR3ZiM3ZJZlI2YkRWQ01uVmtsX1JrdjVTV2hwc0lGbVhXanI5R3ZXd2FMcmtvNUNWRkdJOXhpdGdwM2ZTOGlGdk5HbGNqSHo0YVFrWUpRNmxLbWtGYUE3Qms2aHRzcTJRLURLWVU0MjBJU1dCejJNaU4xR05XRk5iR2o?oc=5"
         },
         {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html"
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS3ZpRm80T19hbGRwTE44Qm5rdFFDbGtqMEk2Q1BURlM5d0dFbG9ROU1BOFBYX0hOZVB6NGNKdi1lZUtFbTV3ZnZhX3NIcnlpMUFiVVh6cjE1U1k2YWNza0REdmFobEdPNHFrVU40R0MwQlNDYzQ5Ulk3U0JJNTNtSWFwa1A5Yk8yTWJnV1FKMWFBUURWc1VUOHNUM0YwRDdXbElZVkJ3LWJyUVZWVEVqdjR0MzVxeE1zRXRMa1ZYTFA5TEtHZ3fSAcYBQVV95cUxPS3ZpRm80T19hbGRwTE44Qm5rdFFDbGtqMEk2Q1BURlM5d0dFbG9ROU1BOFBYX0hOZVB6NGNKdi1lZUtFbTV3ZnZhX3NIcnlpMUFiVVh6cjE1U1k2YWNza0REdmFobEdPNHFrVU40R0MwQlNDYzQ5Ulk3U0JJNTNtSWFwa1A5Yk8yTWJnV1FKMWFBUURWc1VUOHNUM0YwRDdXbElZVkJ3LWJyUVZWVEVqdjR0MzVxeE1zRXRMa1ZYTFA5TEtHZ3c?oc=5"
         }
       ],
-      "category": "global"
-    },
-    {
-      "tag": "Industri Otomotif",
-      "title": "Kendaraan Berteknologi Tinggi Mendorong Kenaikan Biaya Perbaikan",
-      "summary": "Investasi dalam peralatan kalibrasi ADAS, komputer, dan langganan perangkat lunak mendorong peningkatan signifikan pada biaya perbaikan kendaraan, termasuk untuk penggantian kaca depan atau penggantian oli.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html"
-        }
-      ],
-      "category": "global"
+      "category": "domestic"
     },
     {
       "tag": "Makroekonomi",
-      "title": "Kondisi Ekonomi Mengingatkan Dekade 1970-an: Gaji Menurun, Energi Mahal, Inflasi Tinggi",
-      "summary": "Pertumbuhan utang di kalangan lansia Amerika meningkat seiring pola gaji yang turun, harga energi melonjak, dan inflasi tetap tinggi. Kondisi ini mulai mengingatkan pada dekade 1970-an yang sulit.",
+      "title": "Inflasi dan Stagnasi Upah: Analogi Dekade 1970-an",
+      "summary": "Analisis memperlihatkan kesamaan kondisi ekonomi kini dengan tahun 1970-an, ditandai kenaikan harga energi, inflasi tinggi, dan stagnasi upah. Pertanyaan muncul apakah playbook finansial dari dekade yang sulit tersebut perlu diterapkan kembali.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -118,37 +102,41 @@
       "category": "global"
     },
     {
-      "tag": "BRMS",
-      "title": "Direksi BRMS Tambah Kepemilikan Saham",
-      "summary": "Direksi BRMS meningkatkan kepemilikan saham di perusahaan tersebut, menunjukkan keyakinan manajemen terhadap prospek bisnis ke depan.",
+      "tag": "Pasar Obligasi",
+      "title": "Strategi Obligasi untuk Return Aman 5% Ditengah Kenaikan Treasury Yield",
+      "summary": "Dengan meningkatnya yield U.S. Treasury, perencana keuangan melihat pertumbuhan minat pada obligasi, terutama di kalangan investor yang mencari pendapatan tetap untuk pensiun. Strategi obligasi kini dapat memberikan return aman sekitar 5%.",
       "sources": [
         {
-          "name": "ChatNews.id",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DSUdCbnFMallRRDRBQ2xPRWU1ZVpKYVRhVVRlVDN2RFpwa3ZfX1NQUlVxeG8yelJOU2k3Mm5OcUZTQW04OU9NQWVVeDY0ZkNneS1oZGd4MFY0ODlRTEdQQ19hTkZsUXlk?oc=5"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "WIFI",
+      "title": "Kepemimpinan Berubah, Saham WIFI Merosot",
+      "summary": "Hashim melepaskan jabatan Komut WIFI, menyebabkan harga saham perusahaan anjlok sebesar 15,34 persen dalam sepekan.",
+      "sources": [
+        {
+          "name": "kabarbursa.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFdDY20zQXExTHRxMm5PdG1tbmVVQlliOVUtRVNHUjJBdDhQYkxRSEEtQ2xVak1YUjNtVWtoVTA0bnFvSUlyYjRtbXZ5V2hYRGhEUlNIQy1sZjluMVdrMFkydDcwQW9jcE9sY1BUVFVXa3RYeGtTVW5sSkt0UDZNRjRqM3VXdGUzZ0ZjclN1UDVOVEQxU2xvQzgxUkxvQ3k3REZFUzBwWklBZnVwOEhB?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BUMI",
-      "title": "Saham BUMI Diramal Melejit 48%, Astra Mau Tender Offer",
-      "summary": "Saham BUMI diramal dapat melejit hingga 48% seiring rencana Astra untuk melakukan tender offer terhadap perusahaan tersebut.",
+      "title": "BUMI Lakukan Penambahan Modal Usaha",
+      "summary": "Envy Technologies siap melakukan penambahan modal usaha dengan menerbitkan 2,51 miliar saham baru untuk mengejar target laba 2024.",
       "sources": [
         {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkRNYVRJeXhKWDR1U1BQTWZ3dGI3MW9DRHp4N1lxNjFKYWlmUVJ4WjZOTnhlWWt0UlU1VVhZZkZfeUxId0hwaVU1TDhiM0dfQ1BFT2MyenNDT0hIek1KTU82aTlkVVlDS3pSSGhOVXBqLVlSZlYxMUwzQUhMRWl4TlJIVXp0eFBuVkM3aWZn?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BMRI",
-      "title": "Bank Mandiri Salurkan Dividen Rp50 Triliun Sepanjang 2026",
-      "summary": "Bank Mandiri (BMRI) merencanakan penyaluran dividen sebesar Rp50 triliun selama tahun 2026, memberikan keuntungan bagi para pemegang saham.",
-      "sources": [
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXRFYW14WTJ2bVkzZ25UMXRDSlNmV0lsMEJSd1NRd1FqRW1QeWdhQ0JFQjlMcHkwZVp3eFFWSTdzYW5ENVpnQ2V2X2c0WjluYVdRUnBxVm9OZlpPQWVkU3dvWFU1Vi13YmkxMG5lanB1bFItT0JFN2ttWWI0M21CYTdwZVQxT2JsTXZsRE03Vk5xZ1EyZjRDM1VhVQ?oc=5"
+        },
         {
-          "name": "ChatNews.id",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96WFlXWWhRTHcyX2g2Uldub2ZQX2lMZG5Id0F4TDFlcE5pdkpVaVBxby0zaGdna1BVYTJhR1pmVFg2d3Rmb1piUkh3NTFNTThOQWZQSjVRbFh2Mzg5SGVhZFh5RFE?oc=5"
+          "name": "topik.id",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVplUnN5UWdKejJXRUptUzdlQ3RhU0E0WTVMMW5TUVJHSUFaUkpVbk0tc3NwUTZyZjIxWllkOHEwbk1DVVcxZ2d0NTBSeGx5cmo1VHhZQkh6YTdBZEZ2dXlEbldHZDB1dGNDemtFamhEWFd2blNIeGVQYnBVcFk2YXNhM3FUV1k?oc=5"
         }
       ],
       "category": "personal"
