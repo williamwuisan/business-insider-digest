@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-10T07:42:14.871084+00:00",
+  "generated_at": "2026-10-10T14:00:45.874151+00:00",
   "items": [
     {
-      "tag": "Perbankan & Keuangan",
-      "title": "BI Respons Cepat Jaga Stabilitas Rupiah",
-      "summary": "Bank Indonesia mengambil respons cepat untuk menjaga rupiah dan memastikan volatilitas tetap terjaga di tengah dinamika pasar finansial.",
+      "tag": "Perbankan & Regulasi Keuangan",
+      "title": "BI Respons Cepat Jaga Stabilitas Rupiah dan Volatilitas Pasar",
+      "summary": "Bank Indonesia mengambil tindakan cepat untuk menjaga stabilitas nilai tukar rupiah dan memastikan volatilitas pasar tetap terkendali di tengah kondisi ekonomi global yang dinamis.",
       "sources": [
         {
           "name": "CNBC Indonesia",
@@ -14,9 +14,9 @@
       "category": "domestic"
     },
     {
-      "tag": "Perbankan & Keuangan",
-      "title": "Nomor HP Aktif 10 Tahun Sebagai Pengganti Skor Kredit untuk Pembiayaan",
-      "summary": "Sistem pembiayaan baru memungkinkan peminjam yang tidak memiliki riwayat kredit resmi untuk mendapatkan akses pembiayaan dengan menggunakan nomor HP aktif minimal 10 tahun sebagai pengganti skor kredit tradisional.",
+      "tag": "Perbankan & Pembiayaan",
+      "title": "Nomor HP Aktif 10 Tahun Jadi Pengganti Skor Kredit untuk Pembiayaan",
+      "summary": "Industri fintech dan perbankan mengembangkan metode alternatif penilaian kelayakan pembiayaan dengan menggunakan riwayat aktivitas nomor telepon seluler selama 10 tahun sebagai pengganti skor kredit tradisional.",
       "sources": [
         {
           "name": "CNBC Indonesia",
@@ -26,21 +26,9 @@
       "category": "domestic"
     },
     {
-      "tag": "Perbankan & Keuangan",
-      "title": "Modus Baru Pencurian via Mobile Banking, Dana Rekening Terkuras Habis",
-      "summary": "Muncul modus baru pencurian uang melalui aplikasi mobile banking di mana dana nasabah terkuras habis dari rekening mereka tanpa seizin pemilik.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2E4WGlKRXdxeThjVEZvTURzNW94bjVvY1lRN0NKOFhfeVFyY0daWS1kZlRUTXBIZGxZNTAtcU9UMlFfUV9hRHp5NlB6a0J4TExvbGdJOVlLS0Jtc1VqajhSUlRQN21wY3VUSjlMU2Zja1F5cWZqdjVvWlRybUNlclVtc291aDRjRFl4VnFOeWRMNHhqSDZ5Q0hiYVhhVlA1SzNvZlQxLUtGODJsdVl5cWxxWTJXYWxuYXo5VjRKUU9IRXkydE1kYS1n?oc=5"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Regulasi & Perbankan",
-      "title": "Hanya 4 Negara Siap Hadapi Krisis Kegagalan Bank",
-      "summary": "Survei global menunjukkan hanya 4 negara yang dianggap siap menghadapi skenario kegagalan bank, dengan pertanyaan apakah Indonesia termasuk di dalamnya.",
+      "tag": "Perbankan & Sistem Keuangan",
+      "title": "Hanya 4 Negara Siap Hadapi Krisis Bank Gagal, Apakah Indonesia Termasuk?",
+      "summary": "Laporan global menunjukkan hanya empat negara yang telah siap dengan mekanisme dan regulasi untuk menangani krisis bank gagal, membuka pertanyaan tentang kesiapan Indonesia dalam menghadapi skenario tersebut.",
       "sources": [
         {
           "name": "CNBC Indonesia",
@@ -50,33 +38,69 @@
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi & Perdagangan",
-      "title": "Harga Pangan Impor Meningkat, Pengusaha Antisipasi Risiko Produksi",
-      "summary": "Kenaikan harga pangan impor global mendorong pengusaha untuk mengantisipasi risiko terhadap biaya produksi dan kemungkinan dampak pada harga produk lokal.",
+      "tag": "Perbankan & Regulasi",
+      "title": "Cara Membersihkan Nama dari SLIK OJK Setelah Kredit Macet",
+      "summary": "OJK menyediakan mekanisme bagi debitur yang memiliki kredit macet untuk membersihkan reputasi mereka dari Sistem Layanan Informasi Keuangan (SLIK) dengan memenuhi persyaratan tertentu.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWJvOENfTmJwNDczYUVkVVFyS1NTSnpaeW0tMkY0NUh4WXpCSHNDSTFhXzc2c3d1TkFianZmVG02c3hrWVFTSE01NUtWa0RKbXE4bjJNUGxueFM4cXNOX0JBSGF5YWdyQjlUdXFxZVVNM1pmZzFpaHZCcTZVaU5Ia194NDRLUjI3UEUzZ0k2RXpETmtWNzNRUWJabno0VFlHUmd3OW9rMmdhUVVSWnpxUHJFTVZ4dzhINFZTN3FfZjAwT2s?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDBmYmdCdVg2ejFwTzNDbWJQalFtUnMtYUY1eElEcWZmTUE1SEowa1hZUUdPYmZwT3piQUlJSG1XVlM3aWtBRVhOVmRrdGFhSU9ELWdfMV9yeENPaE1QVjhmakNldVJCX2lPcW9vTGRsZm44TGZ5azRRdTNieVNMRjl2LW9Oenc1ejhkc2JqdGNtNXd0aTljSDNPUWI4SUtfNl9vckM2SXZYbFZWLTVObEd6Wm5VcVZ5Vm9obUZuVXNqSElVYXhrVA?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Regulasi & E-commerce",
-      "title": "Empat Platform E-commerce Mulai Pungut Pajak Mulai 1 November",
-      "summary": "Empat perusahaan e-commerce besar akan menjalankan sistem pemungutan pajak penjualan online mulai tanggal 1 November sesuai regulasi pemerintah.",
+      "tag": "Keamanan & Fraud Perbankan",
+      "title": "Modus Baru Pencurian M-Banking: Rekening Terkuras Habis",
+      "summary": "Kasus pencurian melalui mobile banking terus berkembang dengan modus baru yang menguras rekening nasabah secara cepat, memerlukan kewaspadaan dari pengguna perbankan digital.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHVwNHM4eGpCMEJCdVQxRS01ZHRiSnhzN0tQTnprUkQ5NmViTFBzWE1lYVN2enVXS2Z3SVFEOW9qZmJCRUZxZDRwT3c0Z2xQSHhmdG96OUJNT0s4T3Jsa2dEdm5ad2xRdmp5QmNzNm1rYUxxVXNWMG02STV5SnZtcmtWQ2VYSEpYNDY2aXhZSDQ4aWdWYmtURTFpVlBmaGY0VV9MOFpGeEdac3k5UmVrVG9iUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2E4WGlKRXdxeThjVEZvTURzNW94bjVvY1lRN0NKOFhfeVFyY0daWS1kZlRUTXBIZGxZNTAtcU9UMlFfUV9hRHp5NlB6a0J4TExvbGdJOVlLS0Jtc1VqajhSUlRQN21wY3VUSjlMU2Zja1F5cWZqdjVvWlRybUNlclVtc291aDRjRFl4VnFOeWRMNHhqSDZ5Q0hiYVhhVlA1SzNvZlQxLUtGODJsdVl5cWxxWTJXYWxuYXo5VjRKUU9IRXkydE1kYS1n?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Energi • Pertamina",
-      "title": "Pertamina Tambah Pasokan LPG untuk Mendukung Pertamina Grand Prix 2026",
-      "summary": "Pertamina meningkatkan pasokan LPG untuk mendukung infrastruktur dan operasional Pertamina Grand Prix Lombok 2026.",
+      "tag": "Keamanan Data Keuangan",
+      "title": "Data 7 Perusahaan Keuangan Bocor, Polisi Turunkan Tim Forensik",
+      "summary": "Kebocoran data dari tujuh perusahaan layanan keuangan memicu penyelidikan mendalam oleh polisi dengan melibatkan tim forensik digital untuk mengidentifikasi sumber dan skala pelanggaran keamanan data.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDNqMDhwTVhSc00tS2p4OHFNSWlMSHpEekoyaWhCX2pwaF8wVWVseEpqaDNUT3h4V1JxYjhKVnFfcFFOQlhHZDNpTFZ6Q0xxcVZPZkJxeHpHVVo2WmQwZlZXSkZ6WHRrZmc3ajhESzJ5TmZ5azF3cnZYaXpfVlRvN2YtOVJRNlJzLUJCS19YZmVoQ09ZQ2xZcFJkVEhDSy1yX3RVX25vaHJhVXJ0Y1pWb3JWZWpld2J5VW5teWNTTWFfcGRydnhuaFIwZw?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Pajak & Regulasi Fiskal",
+      "title": "Tagihan Pajak Rp132 Miliar Dihapus Setelah Pemerintah Ubah Aturan",
+      "summary": "Perubahan kebijakan pajak oleh pemerintah menghasilkan penghapusan tagihan pajak senilai Rp132 miliar bagi wajib pajak tertentu, menunjukkan dampak langsung dari reformasi regulasi perpajakan.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGtRbDhSeHI5TDhjc2lFdGtwT3FxNmZtTy1OUUtwMHI2UXRvV0U0NTJSQ25Nb3ZGS1N3ZDZhU0ZKd25SMkFDNUcxaHhZbjR1czRjcjUyMWtlUXE2aUI2dmkxTGhkT0RiamtrWnR6ZGZRTVd3VEtnYXdvQ3JDb1ZESVJkSm1tOFV4R0gwdWxrTV9wRkZPa1JCQTZMYV81QjRMWG5zVkE5dUdfLTBhX21yRTF1RU1xZXdyeVFCYTc2MnJNNkFFLXZJMmxn?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Infrastruktur & Investasi",
+      "title": "BUMN Konstruksi Ekspansi di Proyek LRT Filipina",
+      "summary": "BUMN sektor konstruksi Indonesia memperluas jangkauan bisnis internasional dengan terlibat dalam proyek pembangunan Light Rail Transit (LRT) di Filipina, menunjukkan peningkatan kapasitas ekspor layanan konstruksi.",
+      "sources": [
+        {
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1c5VlhDa2JGbkJWaDBYTk5WLUFpUV9PcFM4N1dQNzRkRUtJU2h3cm1xeUhKTnFZZ2tGc1Z0NmNIMkJrS1dWMFJDMnZVNkh2R210cFU1bE5LYTQwUjFqVUdSRWtoVkg5RmQ1dThMWWRMZ2dTTDZ2aHdJeEUzYlNQQmFudEtRSG9sVUNadHJCdHhWM0hDa1RNZU5Hb1FXeHNxQ1VnMnRteF9IeDRoVHNDVjU4WHk0TVlYT1FZM3JYR3lodnNy?oc=5"
+        }
+      ],
+      "category": "domestic"
+    },
+    {
+      "tag": "Energi & Infrastruktur",
+      "title": "Pertamina Tambah Pasokan LPG Dukung Grand Prix 2026",
+      "summary": "Pertamina meningkatkan penyediaan LPG untuk mendukung kebutuhan energi dalam penyelenggaraan Pertamina Grand Prix Formula 1 2026 di Indonesia.",
       "sources": [
         {
           "name": "CNBC Indonesia",
@@ -86,73 +110,61 @@
       "category": "domestic"
     },
     {
-      "tag": "Teknologi • Apple",
-      "title": "Permintaan iPhone 18 Menunjukkan Tanda-tanda Pendinginan",
-      "summary": "Pesanan komponen untuk iPhone 18 Pro dan iPhone 18 Pro Max turun sekitar 15% pada Oktober, menurut laporan Nikkei Asia. Penurunan ini mengindikasikan potensi perlambatan permintaan produk unggulan Apple.",
+      "tag": "Saham • Retail",
+      "title": "Retailer Besar Menyusut Assortmen untuk Tingkatkan Pertumbuhan",
+      "summary": "Brand retail besar seperti BJ's dan Lululemon sedang menyusutkan pilihan produk untuk mencapai pertumbuhan yang sehat, dengan strategi kurasi yang lebih baik untuk stabilisasi bisnis.",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories"
+          "name": "CNBC International",
+          "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Teknologi • Saham",
-      "title": "Saham Chip AI Goyah Meski Kejelasan Isu OpenAI Meningkat",
-      "summary": "Saham perusahaan chip AI seperti Nvidia dan Micron mengalami volatilitas, kendati laporan terbaru menampilkan kondisi finansial OpenAI dalam cahaya lebih optimis. Sentimen pasar masih terbagi terkait prospek sektor AI.",
+      "tag": "Saham • Teknologi",
+      "title": "Nvidia Terhindar dari Krisis Kredit AI yang Menghantam Broadcom dan Oracle",
+      "summary": "Sementara Broadcom dan Oracle terguncang krisis kredit AI dengan P/E ratio turun dan CDS spread melebar, Nvidia menunjukkan ketahanan dengan valuasi yang relatif stabil di tengah kekhawatiran sektor.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Teknologi • Saham",
-      "title": "Microsoft Menjelang Pencapaian Milestone Kapitalisasi Pasar $4 Triliun",
-      "summary": "Microsoft terus mendekati rekor kapitalisasi pasar $4 triliun, yang akan memperkuat pemulihan perusahaan. Saham Microsoft juga diperkirakan akan menembus rekor tertinggi baru.",
+      "tag": "Investasi • Strategi Portfolio",
+      "title": "Ray Dalio: Strategi Portfolio untuk Menghadapi Potensi Bubble AI",
+      "summary": "Pendiri hedge fund ternama Ray Dalio merekomendasikan pencarian inflasi proteksi dan peluang underappreciated dalam AI untuk membangun portfolio yang tahan terhadap potensi popping AI bubble.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
-      "tag": "Telekomunikasi • Saham",
-      "title": "Saham Telekomunikasi Jatuh Drastis Akibat Ancaman SpaceX",
-      "summary": "Saham AT&T, Verizon, dan T-Mobile mengalami penurunan harian terburuk dalam lebih dari satu dekade, seiring Wall Street mengevaluasi ancaman yang tumbuh dari SpaceX di sektor telekomunikasi. Kompetisi baru dari layanan satelit menjadi tekanan signifikan bagi operator telekomunikasi tradisional.",
+      "tag": "Pasar Modal • Instrumen Derivatif",
+      "title": "ETF Baru Tawarkan Taruhan All-or-Nothing pada Indeks S&P 500",
+      "summary": "Wall Street meluncurkan ETF baru yang menawarkan taruhan ekstrem kepada investor—posisi S&P 500 di level 10,000 atau nol, mencerminkan pengaburan garis antara investasi dan spekulasi.",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories"
-        }
-      ],
-      "category": "global"
-    },
-    {
-      "tag": "Komoditas • Energi",
-      "title": "Trump Rekrut Rusia Untuk Tingkatkan Pasokan Diesel Global",
-      "summary": "Administrasi Trump menjalin kerjasama dengan Rusia untuk meningkatkan pasokan diesel di AS dan global guna menurunkan harga sebelum pemilihan midterm November. Strategi ini dinilai mungkin tidak cukup efektif untuk hasil yang signifikan.",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
       "tag": "ANTM",
-      "title": "Antam Alokasikan Dana untuk Eksplorasi dan Rights Issue",
-      "summary": "Antam mengucurkan Rp134,39 miliar untuk memperkuat cadangan emas, nikel, dan bauksit melalui eksplorasi. Sementara itu, investor masih memiliki sisa dana dari rights issue 11 tahun lalu yang disimpan di bank dengan bunga 6,5%.",
+      "title": "Antam Rights Issue dan Investasi Eksplorasi",
+      "summary": "Investor masih memiliki sisa dana rights issue dari 11 tahun lalu yang disimpan di bank dengan bunga 6,5%. Antam mengalokasikan Rp134,39 miliar untuk memperkuat cadangan sumber daya emas, nikel, dan bauksit melalui program eksplorasi.",
       "sources": [
         {
           "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3pvTVRhWjl2TF92eHVtZk56VjRZdm5PV213QlhFVGsxX1pCVkwxOVZxQ1JWWlN4Z2ZWZzhpUE5BaFZfMDBvNXJVeDFyald1b0YtWUg0NlV5STE5UnRZQ3B1aWFTYUN1TDV3ZXlZNXJfaGlXSkpiMS1ibjRvdXBySjIxdzhwemVXTjVPQXc0ckxJRkx6WTJlVUF5MFg5cmMyaUhv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3pvTVRhWjl2TF92eHttZk56VjRZdm5PV013QlhFVGsxX1pCVkwxOVZxQ1JWWlN4Z2ZWZzhpUE5BaFZfMDBvNXJVeDFyald1b0YtWUg0NlV5STE5UnRZQ3B1aWFTYUN1TDV3ZXlZNXJfaGlXSkpiMS1ibjRvdXBySjIxdzhwemVXTjVPQXc0ckxJRkx6WTJlVUF5MFg5cmMyaUhv?oc=5"
         },
         {
           "name": "Supernews.co.id | Suara Perjuangan Indonesia",
@@ -163,33 +175,53 @@
     },
     {
       "tag": "BRMS",
-      "title": "SKK Migas dan Pertamina di Sektor Migas dan Tanggung Jawab Sosial",
-      "summary": "SKK Migas membawa kabar baik terkait investasi migas Thailand senilai puluhan triliun rupiah dan komitmen RUU Migas. Pertamina juga mendukung pengelolaan sampah di kawasan wisata dan proyek CSF Conrad Petroleum melibatkan Krakatau Steel dengan target TKDN 65%.",
+      "title": "Pertamina Eksplorasi Minyak dan Inisiatif Sosial",
+      "summary": "Pertamina EP melakukan tajakan sumur AKP-004 untuk meningkatkan produksi minyak hingga 1.000 barel per hari. Pertamina juga memperkuat ekosistem MyPertamina, mendukung pengelolaan sampah, dan berkomitmen pada dampak sosial ekonomi lokal melalui berbagai program.",
       "sources": [
         {
           "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzBRb0FtXzM1VEpCek1FVFVqOGs0eGdXSUJWSGF4a3dlaVJWbUhUQjhueFVUaDlTN3pNY2lSZE9fc21DMUV5Wm5EOEM1Zk9iUEFhYVI2V3R6UGR2d1R1V2ZmMm8wM1FMdzByY0lFODRVZUdIVzJHUkhDTVFHdTB1OEd3ckVGdTR1S2d5emFBZUI1TGNUSUEzcmxtVmJjU0tOb3JVQUlCNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3h5VVZYUW5VWS1fRzlPRWdLWXpaSUprYUZlaW9vM2E4ekZ4c21IWHdVaUFyV1BQak0ySlBYRGlZdzlVenp3czQ0cnhqbUpvWEJ5Z1A2M3hGMndldFVCVW55QU5NUTdtZk1TeVk4cWl3YldmRUFfRzg0d213RDdyX3hkMEFiYk91VDNtYjd2RTdHV0IyREs4dVF2ZmUtVVIyc3h0dVd0VUtOb0NxNWtEMFlrWHBlY0lCV2U1dg?oc=5"
         },
         {
           "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3JETElmamxlLU84eGhQWkp5cGVObUlrUGYzWlQ0X2hkeE5YenZpOEtLYmMySEQ2S3VuNzg1NUdWaHpGVHppOC1HRHdIQmpsLW5XQTRVQzB5SldYVVFlNUEyQVpfdlFEVk42T2paTWVKRG9xZkpQN1RFTGF0ZUUxbGtGSlo5VlpfWE5JN29QMWpVMThLdy0xdHdlcXVTSUljWTd4bFlUdWFrdXk4SmhYVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXRpNmRtb1RBajZnOS1HZzNMQ2E0dFhrT2liOTNJQi1ZLTZCeEpIMWN4aU9EQm1OYlAwWXRPeXg2N19LX01aRFJtanF3QWY0TExuVDFKd0V3NFBZNy1pb3NtdFhsY0lqRnlZeGJRTEpGRGpWRmN2V0lZVTVQdXFOQjZGT3EwTVpwUEVRYVhVeEtFQ1ZvWlIyNGVFaGVrVkw1dnJFUnlyMDFuVVZHNE1R?oc=5"
+        },
+        {
+          "name": "RuangEnergi.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXJELTVtWEhJNFMzMkJnNTAtcGwzaW05RnQ0RThwNmdjdVluVUIxYXU5bF9RR3Jqb1JZekgyOUhUSkZJaTk1RGtxd1gwLXRNalBmczRpTUIzVWF0eDFHdUduNUlzVDZxUVFSU2FBNEZnLTkxWTF0UU5WcUxITWl4STYwdGVmOERrUGJEajJGYjJaSXY3WmxhTFJ1V2tGaVZ6bTUyQ29YSmhhMmpyQkVTckFnT1JoNU0?oc=5"
         },
         {
           "name": "RuangEnergi.com",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ0hjSTJJQXMzRkVhVEFsSGNWdlU1VEVvdlZfS2MyN2p0cTNyY3F0S0x4VVlZT1ZpRk13TWtjX2xHckNZVl9kOHdVUm1RMjdhY1QxZ29EVFBKOXNxTzZWdnlBeUQ5NGNvYjExNUk3TmFRUHFKX1dNVFotT2pfdklseUxpWFpxUDFSX0VkNGduTXJKbHdGMHZjWnZpdGs2SHlzbEdFSkRfdTY0YUhCdEh4QVVyMmYydGdfWmdoQ0tHZ3Y5anVmbTZpWXVFd3Jnc3FMbVE?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "BUMI",
+      "title": "BUMI dan Akuisisi Haji Isam di BYAN",
+      "summary": "Pengendali BUMI melakukan gadai saham PGUN dan JARR kepada Bank Mandiri sebagai agunan kredit dalam konteks akuisisi Haji Isam di BYAN. Emiten Bakrie termasuk BUMI diproyeksikan panen proyek dari pemerintahan Prabowo.",
+      "sources": [
+        {
+          "name": "Bisnis.com - Market",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFVvVTB0V1RRaUVEWXhHWVJ5M2xpS0FKMWpqakRDbGpBZzZiMVd0TmtqbkNVZWZNSjI1ZF9QZ18zRTJXdjlGejFBZnZuaWFfUWFQSTJqTUd1NGRVMEZJSW5LdnlzNUpXOF9talY3T0ZBalBWNVVmeGJHRTgyUTd1Z2JaMTZBazE3X05KalFuajZqZGNnMTVyS3hERjREa01YQ0tjVjIySWJHSy00VHlJcXFpRkktcEZjZkJJ?oc=5"
         },
         {
-          "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFFYcW1lQUdfQl8zYS15WFozU1c0UUFlakVlZC1iWHNJVTEzUXREZEt5VFNpeXJSdXp3Qnlod0lqNGxPb2htZE9OUXVPbF9Kbi1UMlQ3R1lMcWNaOFFlcGU4UFBRdE1Ib1BPdVNpUDl6MUFmcExlUHoyb1Y2NmtIZnBfMEdxSnVNRGxpZ05QMFVoYmZ3eHNXZmNVZUlxOTh0QTV6M3VWdkU5WDN0SmZmbA?oc=5"
+          "name": "Katadata.co.id",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmdFSm1Zek9FVTNfUmVXS2hSXy1Bck9uNlJJT19VakZYRUlhOENoT3RqbDdYVE15aGNrXy1idUJnSkp6ZV84UVQ3Uzh0VmkwRnB0N0FCN0FUd2QtZ3h6d2NGUDFqaXNQSDhkckhRSWVuTm9QYmQ1bDl3LWVJdDJiRS03ZFVTZFBmN1NYa1NoZC04Y0pLOFNvbXQ1T1Y3RUh3UDRtcHlvS2ZUQm5vWDJpQWp6bEtMWUxRWjlfLU0xZ3kwZEs4a1HSAcsBQVVfeXFMTWxxRXB6ZTZXQnd1SEpZVE44dWMySm5razVpWVFMSWlRb0owdUhUbVpiN1ozLXUxVGZyM3ViZ2prQkpaSUg1b1JPR0xPSGJIQWdWdmNRRktSTmNiakMwVmlpZTdDekxic0p2cHBZVzg2cG05WVZieTl2OU5rVVE4T1FCNlpIT3BDRUZobElYV2pmZlNJbGhCalFVaXJTaGxESGpxSzVQSmlKUWY0bUVpaVJSNDljRUNudWdCcXR3YlRfeXpaeTg0ZFJqeWc?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "Bank Mandiri Terima Gadai Saham Pengendali JARR dan PGUN",
-      "summary": "Bank Mandiri menerima gadai 100% saham pengendali JARR dan PGUN sebagai agunan kredit. Penerimaan gadai ini membawa risiko tertentu bagi bank sebagai pemegang hak jaminan.",
+      "title": "Bank Mandiri Terima Gadai Saham dan Analisis Pasar",
+      "summary": "Bank Mandiri menerima gadai 100% saham pengendali JARR dan PGUN sebagai agunan kredit dengan berbagai implikasi risiko. Kondisi pasar saham bank-bank besar sedang mengalami fluktuasi dengan saham tertentu mengalami penurunan signifikan.",
       "sources": [
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEcVk0Und6VXpCVk1mTmt3SFRZSjZReXNydFpTb3RVeWNWQXZtRnZWVk9YQkZMMGJ0SXNLa0JjUE1EME5GLWlpclBBYWV4Y0FvZm5vVEhXS05KX1BFZWFwblgtUGF1NUtoRVE?oc=5"
+        },
         {
           "name": "kontan.co.id",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTdXRXRLWHU5X1VfRGFQWFRObU5oR3FZRHR2N2hCNldITURCUlhFSUhSbzBNZ3pibGFwbl96eGhzT1VxSUc1R2t5QjhDb29GR25kU1UxRF9qSFd5aW1USm56VUN1UXl3WDlFa1BYSU5XNThzRFo3NjVsaldHRUNVQjZtWXRjdTh6ekZkYjctb1dyYVNQbHh1M2p2Vkk4OTZ6OHBPMtIBngFBVV95cUxQeEkyamU4c2N5YXZicnZtTlBJUUVCWnljbzdPWUI0d1huWC1NcVNqa0JQY0RQd1JWWlZxRjhYenlyNlY3Vl9zVjYtZ0tqM2xvZkRneHpVTERHUzV0ZmhpZEFmVDQ5WGtmMnVBZy1oR0dtOUNod0RMRzBoa2o5V1NIQUdzRWd3LW16TERVRjhQTF9oYlJqZzh3YnZNQXgxUQ?oc=5"
@@ -197,6 +229,10 @@
         {
           "name": "Demokratis.co.id",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2xvYXpyQzJiVDNZS2YzSFgtRkUzNU1KOXhNN2ZWbTJ1YWtjdnhuWm9HbEZiWVRVZFlVS2JCOUtoMUtCUXo3Tjdma3RDWEM4ZnI1aW1vb21FMmxJckoxSk5EWUFBYVR6NWZ3YU0tazdqd053QkNSYmozbkJ0Z1l6OVQyX1lIc3hsY3pkN1l6Vzk2dXJJSWlJ?oc=5"
+        },
+        {
+          "name": "JournalArta",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaHFnM2JRNUFwb0lNSG1iR2F5c1FSZW5fSGdtSkRzSXRMTVEwYkJXcUJUUHlVbkFaRDV2ZEVqdDdZbGVma24xZGVxRHZaQ0xkMlF6OWJQQlkwYlFHc0xPYmdxdEpqbW5sOHVXMENwa0o5OThPUWtsR1hCVlpKMDdlU2xmS0dPb1pwVDdsa0V4cHVicUszX1hkWDFKbjBvZw?oc=5"
         },
         {
           "name": "SuaraGarut.ID",
