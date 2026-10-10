@@ -1,106 +1,94 @@
 {
-  "generated_at": "2026-10-10T01:31:24.287795+00:00",
+  "generated_at": "2026-10-10T07:42:14.871084+00:00",
   "items": [
     {
-      "tag": "Makroekonomi • Rupiah",
-      "title": "BI Siapkan Intervensi Rupiah Jelang Tekanan Global",
-      "summary": "Destry mengidentifikasi tekanan rupiah berasal dari faktor global bukan dalam negeri, sementara BI mengakui kerentanan rupiah akibat capital flight global. BI siap melakukan intervensi agresif jika kondisi global memburuk lebih jauh.",
+      "tag": "Perbankan & Keuangan",
+      "title": "BI Respons Cepat Jaga Stabilitas Rupiah",
+      "summary": "Bank Indonesia mengambil respons cepat untuk menjaga rupiah dan memastikan volatilitas tetap terjaga di tengah dinamika pasar finansial.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3hFWTRvYk1zaktPbjhnX0QwUVRpNlFNZnNDOGM5bWRaSHBEekk4Z1dMTWdCeUR5QXl2S1Z5MWV2VmlpdTJXbGRNdHpYeTVORk5tdmVtMGhXZF9IVng1NlpDOTZZYmVRcWp1WXBWVmlncmR1ajJXLWFLVU5HM2R4cjZ0SmNQVkVDeS1JVklha0h4MzR0OXUxc2lzUENVTG9LTkhtOE9ibHFKeVhHajFaVlp3TXVEYkhfMWhtd2VhMNIBvwFBVV95cUxQQ3hFWTRvYk1zaktPbjhnX0QwUVRpNlFNZnNDOGM5bWRaSHBEekk4Z1dMTWdCeUR5QXl2S1Z5MWV2VmlpdTJXbGRNdHpYeTVORk5tdmVtMGhXZF9IVng1NlpDOTZZYmVRcWp1WXBWVmlncmR1ajJXLWFLVU5HM2R4cjZ0SmNQVkVDeS1JVklha0h4MzR0OXUxc2lzUENVTG9LTkhtOE9ibHFKeVhHajFaVlp3TXVEYkhfMWhtd2VhMA?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWZmblA2cmdBMFNCWTQxdUtQMXhaQzFPT2xyZTFoRDBvdkV3d3hPLWhPU2VIYzkzbVQ5QW9PTFhMUUFiTkZ3NFZmNDNRV2I2T2hoa1EwajF6aGltSnRZQi1pcGtkRDNvMVU5eEthUWl1ZVY0dGNJWk9leVp5cFNTZXhPQmxsaWt6a1BEYWN6ek9uX1Y1UmpkeHMzbkdZNl9jeUM1dFNWNWpPWklSUE9XN3F3VXdBY094eXBPeEx6Y9IBvwFBVV95cUxNbWZmblA2cmdBMFNCWTQxdUtQMXhaQzFPT2xyZTFoRDBvdkV3d3hPLWhPU2VIYzkzbVQ5QW9PTFhMUUFiTkZ3NFZmNDNRV2I2T2hoa1EwajF6aGltSnRZQi1pcGtkRDNvMVU5eEthUWl1ZVY0dGNJWk9leVp5cFNTZXhPQmxsaWt6a1BEYWN6ek9uX1Y1UmpkeHMzbkdZNl9jeUM1dFNWNWpPWklSUE9XN3F3VXdBY094eXBPeEx6Yw?oc=5"
-        },
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmpZMkcyNG9xZ21Rd1VuZjRQM3YtRVp0NklmR1EydDJhM0h2eElzRFBOMVhSR0ZubG56LTFzRGhSYlZkR2dxeFk5X2RLMUlzRkVLdnhpdF8zSGJSbkQ2X1ppZnMwRHI3SW1nMVYzS2JXM1U5aVVEUVdhNHZyanluZnhaTjVHdkF0d0ZVUDE2Q2FyeE05blhHX2REeFVxOTJMc1VOTTdITG9uQmpNRWxwZUxLWGhzTVBzakdsdHFlZWNEUWZBSDlYbG8wTdIB0AFBVV95cUxQeXlWNkdYVXdpeXlhczdFQTRfRDZuZkhnUEV3eVlCc1ZGR0RURnRWQUxoWUFNMFVqNlBwMnhIVjlJSXBrWVR2MnhybGtCWm9sLURaNnpGUXlvYkt0Sk5TQVdka05ta3FCMDVDS1kzdGJQSUtQbTJFa0p2bW5rMGNNaGwxSE9HeTByY25vZWlva1Y5WEdQY2ZhSVFieWJQR2pmdWNpSVhMYk9lTXRoLW9uWlFaVU9obHJIYm9GLTEwdkZkWXBDd2FaNEp3NXFLbVIx?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdm5lVGptUHNoYzlHVFNCN2J3MmJkdXpIaTN2Tm9jUDY0M0wyVjFEbDVPc3AtVGdjODhLQkl5UXVqRXM1S1ZjZjZiUU9HZDFRUWZsT09RTlo5d3JjRzdJck1ZZnNpYlp2Y3dQbGh1MzlaQnE1WWxuQTNWUTBXbXgxSzJTdkZnN0JLR01QcWluWWxpaU03eERqUmVZazdKZXl1QlhNZ3F3TXp5ZEZIX0JsVVJxMHQtNjdqMi16NlIxM0w1eGs?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Makroekonomi • Suku Bunga",
-      "title": "Era 'Higher for Longer', BI Persiapkan Strategi Jangka Panjang",
-      "summary": "Dunia memasuki era dengan suku bunga tetap tinggi untuk waktu lama ('higher for longer'), mendorong BI untuk menyiapkan strategi kebijakan moneter dengan perspektif jangka panjang.",
+      "tag": "Perbankan & Keuangan",
+      "title": "Nomor HP Aktif 10 Tahun Sebagai Pengganti Skor Kredit untuk Pembiayaan",
+      "summary": "Sistem pembiayaan baru memungkinkan peminjam yang tidak memiliki riwayat kredit resmi untuk mendapatkan akses pembiayaan dengan menggunakan nomor HP aktif minimal 10 tahun sebagai pengganti skor kredit tradisional.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT09lTWl1OWtjbHNaVC1UUWRuY2lOZVFzR3B5VXRTclJDZWZSaE9tc3p6TW5uSUFYUmh3blZMRWYtT19vT0s2djVXNXkxQm4xZC1pYllfeG51MUZUcGlBbzloQUlCSmN4cmdXd3Q4S2FNbzZaR0RLNGZyRHJJWkNhcUlDUDJsa2xNWGszeE1STzhVaGdpclpzRnl2amowTEtVNWhacnFFTmwxQmIzZ1BFcWRCcUhGUm9YZWRQU3lwcmZ1MTTSAcMBQVVfeXFMUE9PZU1pdTlrY2xzWlQtVFFkbmNpTmVRc0dweVV0U3JSQ2VmUmhPbXN6ek1ubklBWFJod25WTEVmLU9fb09LNnY1VzV5MUJuMWQtaWJZX3hudTFGVHBpQW85aEFJQkpjeHJnV3d0OEthTW82WkdESzRmckRySVpDYXFJQ1AybGtsTVhrM3hNUk84VWhnaXJac0Z5dmpqMExLVTVoWnJxRU5sMUJiM2dQRXFkQnFIRlJvWGVkUFN5cHJmdTE0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOakZBS1hrZExFWDZtSkJNLTJLQ01GOGluQ1I4MVlxTWFrQ2JRUkNwYXRGMGpWcFBaVF80bFJMWlI2SS1xSkQ0bVl6TUZpTnFGZVhHc0oxMXM4bEVUVllTYlFFT1dCcE80X0l1cWgyYjNoblJidUNibExaNTdZV0UxRTZFeDNKXy0tLWxldjdyU2xVTFB5MHFnM2swdG0zc3Z5ZzEtY1JVQS0yQkRoX3JvS2s4N0w5LWVwYmFTTXNKY2FMTEpnSXRTMGpPNlg3dw?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Pasar Modal • Obligasi",
-      "title": "Asuransi dan Dana Pensiun Kuasai 27% Surat Utang RI",
-      "summary": "Asuransi dan dana pensiun memegang posisi signifikan dalam portofolio surat utang Pemerintah RI dengan nilai Rp137,4 triliun, mencapai 27% dari total penawaran obligasi pemerintah.",
+      "tag": "Perbankan & Keuangan",
+      "title": "Modus Baru Pencurian via Mobile Banking, Dana Rekening Terkuras Habis",
+      "summary": "Muncul modus baru pencurian uang melalui aplikasi mobile banking di mana dana nasabah terkuras habis dari rekening mereka tanpa seizin pemilik.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYXQ4SVZjMjBRanRyanRJRFl3VDZ4RUo2OU1UdzRQNkFnbC1LNWhwSlo1QXlXQzkwN3dzc3JpNUg3LXlnTGpjS0dqLTgxaTRlR19hN21xbElaZlN2aklVU2NYcGxNd2ZvTktzbWVJOUNuczJiU3FwNDB6SnFNWjZrUG5YVUJWSmp4enE0WDBXYWN5WnZ6Uy03WkFDelpfYWVsWlZCanNHSUZKWmh5aTNWOXQySVRnSWtMcWVLM2lOOUtBNlRwZ3dkZEpn0gHKAUFVX3lxTE9hdDhJVmMyMFFqdHJqdElEWXdUNnhFSjY5TVR3NFA2QWdsLUs1aHBKWjVBeVdDOTA3d3Nzcmk1SDcteWdMamNLR2otODFpNGVHX2E3bXFsSVpmU3ZqSVVTY1hwbE13Zm9OS3NtZUk5Q25zMmJTcXA0MHpKcU1aNmtQblhVQlZKanh6cTRYMFdhY3ladnpTLTdaQUN6Wl9hZWxaVkJqc0dJRkpaaHlpM1Y5dDJJVGdJa0xxZUszaU45S0E2VHBnd2RkSmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2E4WGlKRXdxeThjVEZvTURzNW94bjVvY1lRN0NKOFhfeVFyY0daWS1kZlRUTXBIZGxZNTAtcU9UMlFfUV9hRHp5NlB6a0J4TExvbGdJOVlLS0Jtc1VqajhSUlRQN21wY3VUSjlMU2Zja1F5cWZqdjVvWlRybUNlclVtc291aDRjRFl4VnFOeWRMNHhqSDZ5Q0hiYVhhVlA1SzNvZlQxLUtGODJsdVl5cWxxWTJXYWxuYXo5VjRKUU9IRXkydE1kYS1n?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Perbankan • Stabilitas",
-      "title": "Hanya 4 Negara Siap Menghadapi Skenario Bank Gagal",
-      "summary": "Survei mengidentifikasi bahwa hanya 4 negara di dunia yang memiliki kesiapan penuh menghadapi krisis perbankan, sementara analisis dilakukan terhadap posisi ketahanan sektor perbankan Indonesia.",
+      "tag": "Regulasi & Perbankan",
+      "title": "Hanya 4 Negara Siap Hadapi Krisis Kegagalan Bank",
+      "summary": "Survei global menunjukkan hanya 4 negara yang dianggap siap menghadapi skenario kegagalan bank, dengan pertanyaan apakah Indonesia termasuk di dalamnya.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVBQM1hOVHlGbzhXdjFWMU9LSnZ2VUI0VGQxTkVIa0owd1VUeWZ3ZzJ3TFBfdXBEUWdteHhxTEhvcmJJaXI4MDlfdTVmenBXdFFjMm9MaFlfSm5Bc2FmWGdrU01CLUpzMUs0dGRSV0x5S01UZThRYkM4b3dPNVVBaXpTWXU5VUgzNmhqSDZxeTNDMUJ3NnVzUFZHVkxZVW1kWWFuN2JadkNLTGx6ZXZiaGphMlBoTlFRb1HSAb8BQVVfeXFMTWpGTF9wbXI0Um1tdmh0ZVA1VjdoUmMzQUFfY3I5S2xabGhFbnVzc0NNVmtCYjFVaTZnUGFMbjhnZkNWUWZncC1SWjE1R2gxQXpxM3lzeldnMGw4NWxTaTZONXZSTl9FWjJCSzRiTDh4bi1DaTA3QUxmU091N1pJczFmSjBmWmxocExsbF9YRUNST3ZFUXBZZmVEbnNLYnRfRk9jcGMwOEVnWkxfblFTdWNxSkd0YThVSFZhWDFoemM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakZMX3BtcjRSbW12aHRlUDVWN2hSYzNBQV9jcjlLbFpsaEVudXNzQ01Wa0JiMVVpNmdQYUxuOGdmQ1ZRZmdwLVJaMTVHaDFBenEzeXN6V2cwbDg1bFNpNk41dlJOX0VaMkJLNGJMOHhuLUNpMDdBTGZTT3U3WklzMWZKMGZabGhwTGxsX1hFQ1JPdkVRcFlmZURuc0tidF9GT2NwYzA4RWdaTF9uUVN1Y3FKR3RhOFVIVmFYMWh6Yw?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Keselamatan Data • Geopolitik",
-      "title": "Rusia Manfaatkan Bank China Kecil untuk Menerobos Sanksi AS",
-      "summary": "Investigasi mengungkapkan metode Rusia memanfaatkan institusi perbankan mungil di China untuk mengakali sanksi ekonomi yang ditetapkan Amerika Serikat.",
+      "tag": "Makroekonomi & Perdagangan",
+      "title": "Harga Pangan Impor Meningkat, Pengusaha Antisipasi Risiko Produksi",
+      "summary": "Kenaikan harga pangan impor global mendorong pengusaha untuk mengantisipasi risiko terhadap biaya produksi dan kemungkinan dampak pada harga produk lokal.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzBzUzAtRTBLT0JiRVJwdzFncktGWkV6VERfbDZleWN5d1kwSHBjS0N2RjNzbUpBaHJ3Zzl3MnNRN29vZDVMbFVtTW8zc3JWc1ZNOVJ6ekhhQUstMlRlRFVFYU55MWMxMHlsNFVyelR1aXNQSU1nM09MV2FwSllEYnhlc0NZUWo2UzM4QmlWVFJfVGYxMEZEdTJ2bnRvUkhRTDctTzk4ZDlkaFA1WnlhTnVNSml0UFBzVmRKNUc2RFN4dnAw0gHKAUFVX3lxTFB3U3BXcS1jc0JmYXJUN2RNdmxMdXJ6dGNjUEZVcWpibWIxYW5Nek5VSkhLbUdGbERHTjl4ZXdraTBjVzlyMzBsWEY2QWJZUkRwbDBjdGFBOG9FQVZHckg2RW5VYU9YX3V2Z0JNRm1KOUFSOVdpUnV3LXJySVU0NVpvdElsQUlfeEs4OEQ4dzI2Vk5JSTJCLS1QbW5aZHVaTkVhZDdDUS1BbDJMMTl4aWIzcHJCTnB4UVFSZnQxcGZ1ejRpaXZncXo5LWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWJvOENfTmJwNDczYUVkVVFyS1NTSnpaeW0tMkY0NUh4WXpCSHNDSTFhXzc2c3d1TkFianZmVG02c3hrWVFTSE01NUtWa0RKbXE4bjJNUGxueFM4cXNOX0JBSGF5YWdyQjlUdXFxZVVNM1pmZzFpaHZCcTZVaU5Ia194NDRLUjI3UEUzZ0k2RXpETmtWNzNRUWJabno0VFlHUmd3OW9rMmdhUVVSWnpxUHJFTVZ4dzhINFZTN3FfZjAwT2s?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Pajak • APBN",
-      "title": "Dirjen Pajak Kejar Target Setoran Rp750 Triliun Tahun 2026",
-      "summary": "Dengan sisa tiga bulan di tahun 2026, Direktorat Jenderal Pajak membuka strategi agresif untuk mencapai target setoran pajak sebesar Rp750 triliun kepada pemerintah.",
+      "tag": "Regulasi & E-commerce",
+      "title": "Empat Platform E-commerce Mulai Pungut Pajak Mulai 1 November",
+      "summary": "Empat perusahaan e-commerce besar akan menjalankan sistem pemungutan pajak penjualan online mulai tanggal 1 November sesuai regulasi pemerintah.",
       "sources": [
         {
           "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObzJTTTNUNUd6Uk9hMkNmN0tlVnFobk5DRmxSQjBBVjdIOWgtR0ZDSnZkUmR5TFZuWl8xQzRzUXIyS3Rlb0MxTFRDenVZSW9OYWRoOEZTUi1lX1VVMXZMQUFlRkxLbG40Q2s3bGthSXZxazg4S1NNTmxNeW1vY3F4ZkdIUzNfRVlETVBESXVCZThoZmM1TlM1cFNxZjd4UzVFS3VYbE5XRF9aNld3QU5JNVl4S2YydEV0dlp5REpIbmJHb3pXOURTdjdKMHXSAcwBQVVfeXFMTm8yU00zVDVHelJPYTJDZjdLZVZxaG5OQ0ZsUkIwQVY3SDloLUdGQ0p2ZFJkeUxWblpfMUM0c1FyMkt0ZW9DMUxUQ3p1WUlvTmFkaDhGU1ItZV9VVTF2TEFBZUZMS2xuNENrN2xrYUl2cWs4OEtTTU5sTXltb2NxeGZHSFMzX0VZRE1QREl1QmU4aGZjNU5TNXBTcWY3eFM1RUt1WGxOV0RfWjZXd0FOSTVZeEtmMnRFdHZaeURKSG5iR296VzlEU3Y3SjB1?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHVwNHM4eGpCMEJCdVQxRS01ZHRiSnhzN0tQTnprUkQ5NmViTFBzWE1lYVN2enVXS2Z3SVFEOW9qZmJCRUZxZDRwT3c0Z2xQSHhmdG96OUJNT0s4T3Jsa2dEdm5ad2xRdmp5QmNzNm1rYUxxVXNWMG02STV5SnZtcmtWQ2VYSEpYNDY2aXhZSDQ4aWdWYmtURTFpVlBmaGY0VV9MOFpGeEdac3k5UmVrVG9iUQ?oc=5"
         }
       ],
       "category": "domestic"
     },
     {
-      "tag": "Saham • Delta Air Lines",
-      "title": "Delta Air Lines Turunkan Proyeksi 2026 dan Pertimbangkan Rute Riyadh",
-      "summary": "Delta Air Lines melaporkan earnings Q3 2026 yang mengecewakan Wall Street untuk pertama kalinya dalam dua tahun, mengakibatkan penurunan proyeksi 2026 akibat lonjakan harga bahan bakar. Maskapai juga sedang mengevaluasi peluncuran rute baru ke Riyadh, Arab Saudi dengan keputusan keselamatan menjadi faktor utama.",
+      "tag": "Energi • Pertamina",
+      "title": "Pertamina Tambah Pasokan LPG untuk Mendukung Pertamina Grand Prix 2026",
+      "summary": "Pertamina meningkatkan pasokan LPG untuk mendukung infrastruktur dan operasional Pertamina Grand Prix Lombok 2026.",
       "sources": [
         {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html"
-        },
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
+          "name": "CNBC Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVhuV3loNmo5dU5obXlSTENFQUpDNlF0TFRCOHRxdXdGYklVajhzMkxZVGNtSUdjRk5mYzZFZFBWZG5ZN3RDYmNoemtRWmxpU3ZCcExsTTZRZXVfdS1ibTdmNU9oOG03dW5QSVdSeHpFX1ktU01NcHR2SWpoOVp1T3Nod2xfU24zaXVfX2trenlkeUxKVWZQOWF5Q2hHeVktOTFyLVZFMkIxaDZsSF91eDlXRFFRQUQwYTVGTkdmblpWUQ?oc=5"
         }
       ],
-      "category": "global"
+      "category": "domestic"
     },
     {
-      "tag": "Saham • Apple",
-      "title": "Permintaan iPhone 18 Mendingin dengan Penurunan Pesanan Komponen",
-      "summary": "Pesanan komponen untuk iPhone 18 Pro dan Pro Max turun sekitar 15% pada Oktober, menunjukkan kemungkinan melemahnya permintaan produk flagship terbaru Apple.",
+      "tag": "Teknologi • Apple",
+      "title": "Permintaan iPhone 18 Menunjukkan Tanda-tanda Pendinginan",
+      "summary": "Pesanan komponen untuk iPhone 18 Pro dan iPhone 18 Pro Max turun sekitar 15% pada Oktober, menurut laporan Nikkei Asia. Penurunan ini mengindikasikan potensi perlambatan permintaan produk unggulan Apple.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -110,9 +98,9 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Teknologi",
-      "title": "Saham Chip AI Fluktuatif di Tengah Kejelasan Prospek OpenAI",
-      "summary": "Saham perusahaan chip AI seperti Nvidia dan Micron mengalami volatilitas, sementara laporan terbaru menggambarkan prospek finansial OpenAI dalam cahaya yang lebih optimis.",
+      "tag": "Teknologi • Saham",
+      "title": "Saham Chip AI Goyah Meski Kejelasan Isu OpenAI Meningkat",
+      "summary": "Saham perusahaan chip AI seperti Nvidia dan Micron mengalami volatilitas, kendati laporan terbaru menampilkan kondisi finansial OpenAI dalam cahaya lebih optimis. Sentimen pasar masih terbagi terkait prospek sektor AI.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -122,9 +110,9 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Microsoft",
-      "title": "Microsoft Mendekati Pencapaian Valuasi $4 Triliun",
-      "summary": "Microsoft hampir mencapai rekapitalisasi pasar sebesar $4 triliun, menandai pemulihan signifikan perusahaan dengan indikasi rekor baru dalam penawaran.",
+      "tag": "Teknologi • Saham",
+      "title": "Microsoft Menjelang Pencapaian Milestone Kapitalisasi Pasar $4 Triliun",
+      "summary": "Microsoft terus mendekati rekor kapitalisasi pasar $4 triliun, yang akan memperkuat pemulihan perusahaan. Saham Microsoft juga diperkirakan akan menembus rekor tertinggi baru.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -134,9 +122,9 @@
       "category": "global"
     },
     {
-      "tag": "Saham • Telekomunikasi",
+      "tag": "Telekomunikasi • Saham",
       "title": "Saham Telekomunikasi Jatuh Drastis Akibat Ancaman SpaceX",
-      "summary": "Saham AT&T, Verizon, dan T-Mobile mengalami penurunan harian terburuk dalam lebih dari satu dekade ketika Wall Street mengevaluasi ancaman kompetitif yang berkembang dari SpaceX.",
+      "summary": "Saham AT&T, Verizon, dan T-Mobile mengalami penurunan harian terburuk dalam lebih dari satu dekade, seiring Wall Street mengevaluasi ancaman yang tumbuh dari SpaceX di sektor telekomunikasi. Kompetisi baru dari layanan satelit menjadi tekanan signifikan bagi operator telekomunikasi tradisional.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -146,9 +134,9 @@
       "category": "global"
     },
     {
-      "tag": "Makroekonomi",
-      "title": "Trump Mengaktifkan Rusia untuk Tingkatkan Pasokan Diesel Global",
-      "summary": "Administrasi Trump telah berkolaborasi dengan Rusia untuk meningkatkan pasokan diesel AS dan global dalam upaya menurunkan harga bahan bakar menjelang pemilihan midterm November, meskipun strategist berpendapat inisiatif ini mungkin terlambat.",
+      "tag": "Komoditas • Energi",
+      "title": "Trump Rekrut Rusia Untuk Tingkatkan Pasokan Diesel Global",
+      "summary": "Administrasi Trump menjalin kerjasama dengan Rusia untuk meningkatkan pasokan diesel di AS dan global guna menurunkan harga sebelum pemilihan midterm November. Strategi ini dinilai mungkin tidak cukup efektif untuk hasil yang signifikan.",
       "sources": [
         {
           "name": "MarketWatch",
@@ -158,58 +146,54 @@
       "category": "global"
     },
     {
-      "tag": "BRMS",
-      "title": "Sumur JNE-6 Catat Uji Produksi 60 MMSCFD",
-      "summary": "Kepala SKK Migas Djoko Siswanto mengumumkan kabar baik bahwa sumur JNE-6 telah mencatat uji produksi 60 MMSCFD.",
+      "tag": "ANTM",
+      "title": "Antam Alokasikan Dana untuk Eksplorasi dan Rights Issue",
+      "summary": "Antam mengucurkan Rp134,39 miliar untuk memperkuat cadangan emas, nikel, dan bauksit melalui eksplorasi. Sementara itu, investor masih memiliki sisa dana dari rights issue 11 tahun lalu yang disimpan di bank dengan bunga 6,5%.",
       "sources": [
         {
-          "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3Y5cGhObUtlUUkxU1dBQmUxYjRkM2hGbURVU1VLYm1seUZCZHNDT3JVYkxabTNFSF9TMzBuV0xmOHlHRUYtRjg2dFJmbllsNFZQNVN0aXVPNXhnTU9GQXQtV1Nwelp3MlVLcTNZSzM2b2hGZDFzd3NueWhBVVlURk80eHVUTWpZNENPQlZaYjVObkRrV3ozQUpyeGYwSnZqYnlUYXdfaHhIbXdONm15bDMyamE3TDQ?oc=5"
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3pvTVRhWjl2TF92eHVtZk56VjRZdm5PV213QlhFVGsxX1pCVkwxOVZxQ1JWWlN4Z2ZWZzhpUE5BaFZfMDBvNXJVeDFyald1b0YtWUg0NlV5STE5UnRZQ3B1aWFTYUN1TDV3ZXlZNXJfaGlXSkpiMS1ibjRvdXBySjIxdzhwemVXTjVPQXc0ckxJRkx6WTJlVUF5MFg5cmMyaUhv?oc=5"
+        },
+        {
+          "name": "Supernews.co.id | Suara Perjuangan Indonesia",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFJNN3pyekRmQ0JxQ2VldEk0aGhGS2VWZDc4a0o3M0UxQzFfekR4NnJxWGpueHRyaW01OU9sWXltTkpwZkNJMTB0d3ZjYTNRZFBudjdlM0VORjFNd1J2OVVMWEQ2ckRPcTZDSExLY0Z5VHVWb3JyU0JmcWNTTUppS3lOZXV1enozaTNCSjNaN2JRTnpVTXlFTDFxUUpIUExBdTZ5ZVhwdmpiYnVyWVFZeDFETTc5WkVSLWg1a2hDVVZWNHpJV3c4dDl4bGVPZzg2eDVPODVLQUxxYno1RmFvZUdQTUdvVktsekE?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BRMS",
-      "title": "Perumahan Hijau Berbasis PLTS dengan Lahan Hibah 30 Hektare di Meikarta",
-      "summary": "Duet Bahlil-Ara sedang menyiapkan perumahan hijau berbasis PLTS dengan lahan hibah seluas 30 hektare di Meikarta.",
+      "title": "SKK Migas dan Pertamina di Sektor Migas dan Tanggung Jawab Sosial",
+      "summary": "SKK Migas membawa kabar baik terkait investasi migas Thailand senilai puluhan triliun rupiah dan komitmen RUU Migas. Pertamina juga mendukung pengelolaan sampah di kawasan wisata dan proyek CSF Conrad Petroleum melibatkan Krakatau Steel dengan target TKDN 65%.",
       "sources": [
         {
           "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGVYQVE2V2d3aU5DOW9ETnJBUHZwb3dSQm4tV0QxeUs1RTZWSUYtNW5FLXFGUVBZRWtncWpZOEIyRUZJX28wQjdZVHp3dVBiOHJjRk1PRVl2Z1h5SGNveTh3YnVJX2Q4WTMyekNoU2VVOXVEc1pZQUc5NkRvYWtqdEUtNGZnbXZuTklJaXh6WmdCSXhSSUVkNHh0VkVfSDZMWU5hQ3NhQTY1QTZvT0ZwQlJvc0dmbjZfQWRkREFDYzhHNUpS?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BUMI",
-      "title": "Akuisisi Bayan Diduga Didanai Utang",
-      "summary": "Akuisisi perusahaan Bayan diduga didanai melalui utang yang signifikan.",
-      "sources": [
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzBRb0FtXzM1VEpCek1FVFVqOGs0eGdXSUJWSGF4a3dlaVJWbUhUQjhueFVUaDlTN3pNY2lSZE9fc21DMUV5Wm5EOEM1Zk9iUEFhYVI2V3R6UGR2d1R1V2ZmMm8wM1FMdzByY0lFODRVZUdIVzJHUkhDTVFHdTB1OEd3ckVGdTR1S2d5emFBZUI1TGNUSUEzcmxtVmJjU0tOb3JVQUlCNA?oc=5"
+        },
         {
-          "name": "Kompas.id",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYWE2WHpDYS1FbWJUbnhwSU4zS1BNTVVLN1BUUlk0a2dmRGtYZ3MtVkNFYWZtU19GVkd1ZlVCZmUwVDNmRXJIMjBHWDAySTlDR2RJczhPNFVKSXdDemFuaEUtaUxyeEJfczdnV0ZTbl9kQlhmSUFGT1FZTWd4ODRjQWxIbnBIU3V2RVNJczNkMXJjNGhZQW50cTIydDZ5cG9DNUJIaGFrenpFSk4ydzljM1hwZ0F1WEVQUlpJ?oc=5"
+          "name": "RuangEnergi.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3JETElmamxlLU84eGhQWkp5cGVObUlrUGYzWlQ0X2hkeE5YenZpOEtLYmMySEQ2S3VuNzg1NUdWaHpGVHppOC1HRHdIQmpsLW5XQTRVQzB5SldYVVFlNUEyQVpfdlFEVk42T2paTWVKRG9xZkpQN1RFTGF0ZUUxbGtGSlo5VlpfWE5JN29QMWpVMThLdy0xdHdlcXVTSUljWTd4bFlUdWFrdXk4SmhYVw?oc=5"
+        },
+        {
+          "name": "RuangEnergi.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ0hjSTJJQXMzRkVhVEFsSGNWdlU1VEVvdlZfS2MyN2p0cTNyY3F0S0x4VVlZT1ZpRk13TWtjX2xHckNZVl9kOHdVUm1RMjdhY1QxZ29EVFBKOXNxTzZWdnlBeUQ5NGNvYjExNUk3TmFRUHFKX1dNVFotT2pfdklseUxpWFpxUDFSX0VkNGduTXJKbHdGMHZjWnZpdGs2SHlzbEdFSkRfdTY0YUhCdEh4QVVyMmYydGdfWmdoQ0tHZ3Y5anVmbTZpWXVFd3Jnc3FMbVE?oc=5"
+        },
+        {
+          "name": "RuangEnergi.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFFYcW1lQUdfQl8zYS15WFozU1c0UUFlakVlZC1iWHNJVTEzUXREZEt5VFNpeXJSdXp3Qnlod0lqNGxPb2htZE9OUXVPbF9Kbi1UMlQ3R1lMcWNaOFFlcGU4UFBRdE1Ib1BPdVNpUDl6MUFmcExlUHoyb1Y2NmtIZnBfMEdxSnVNRGxpZ05QMFVoYmZ3eHNXZmNVZUlxOTh0QTV6M3VWdkU5WDN0SmZmbA?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "Akuisisi Bayan oleh Haji Isam Didanai Utang ke Bank Mandiri",
-      "summary": "Akuisisi Bayan oleh Haji Isam diduga didanai melalui utang ke Bank Mandiri.",
+      "title": "Bank Mandiri Terima Gadai Saham Pengendali JARR dan PGUN",
+      "summary": "Bank Mandiri menerima gadai 100% saham pengendali JARR dan PGUN sebagai agunan kredit. Penerimaan gadai ini membawa risiko tertentu bagi bank sebagai pemegang hak jaminan.",
       "sources": [
         {
-          "name": "Kompas.id",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhfMEJoNE9VRzN3WEFZMnE0VzZEWW1KaHNKNVRaOFdpQWNIdU5aVkhzdG94VkRmdGE3OGdIX0VWWFBmRm1vdzhUMXNrdFVtM2pYUVE4ZEtzaWYzQURmSTVhVm9yYWZEMjhyWlJVYmJESTYzWlgxcTlIQUNHR3lEWkpNb3BZaHFRRWl3WTRSYUhldk5OaEJhSnpCRG5jQzBTN1o3WTZ4aWxFTm80Tnpyb3VrS09QbEl4MHdtUFNZcw?oc=5"
-        }
-      ],
-      "category": "personal"
-    },
-    {
-      "tag": "BMRI",
-      "title": "Bank Mandiri Terima Gadai Saham JARR dan PGUN sebagai Agunan Kredit",
-      "summary": "Bank Mandiri menerima gadai saham JARR dan PGUN sebagai agunan untuk kredit yang diberikan.",
-      "sources": [
+          "name": "kontan.co.id",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTdXRXRLWHU5X1VfRGFQWFRObU5oR3FZRHR2N2hCNldITURCUlhFSUhSbzBNZ3pibGFwbl96eGhzT1VxSUc1R2t5QjhDb29GR25kU1UxRF9qSFd5aW1USm56VUN1UXl3WDlFa1BYSU5XNThzRFo3NjVsaldHRUNVQjZtWXRjdTh6ekZkYjctb1dyYVNQbHh1M2p2Vkk4OTZ6OHBPMtIBngFBVV95cUxQeEkyamU4c2N5YXZicnZtTlBJUUVCWnljbzdPWUI0d1huWC1NcVNqa0JQY0RQd1JWWlZxRjhYenlyNlY3Vl9zVjYtZ0tqM2xvZkRneHpVTERHUzV0ZmhpZEFmVDQ5WGtmMnVBZy1oR0dtOUNod0RMRzBoa2o5V1NIQUdzRWd3LW16TERVRjhQTF9oYlJqZzh3YnZNQXgxUQ?oc=5"
+        },
         {
           "name": "Demokratis.co.id",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2xvYXpyQzJiVDNZS2YzSFgtRkUzNU1KOXhNN2ZWbTJ1YWtjdnhuWm9HbEZiWVRVZFlVS2JCOUtoMUtCUXo3Tjdma3RDWEM4ZnI1aW1vb21FMmxJckoxSk5EWUFBYVR6NWZ3YU0tazdqd053QkNSYmozbkJ0Z1l6OVQyX1lIc3hsY3pkN1l6Vzk2dXJJSWlJ?oc=5"
