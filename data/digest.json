@@ -1,130 +1,126 @@
 {
-  "generated_at": "2026-10-11T00:40:27.334496+00:00",
+  "generated_at": "2026-10-11T06:28:48.013139+00:00",
   "items": [
     {
-      "tag": "Makroekonomi • Pajak",
-      "title": "Pemerintah Ubah Aturan Pajak, Tagihan Rp132 M Dihapus",
-      "summary": "Pemerintah melakukan perubahan aturan perpajakan yang berdampak pada penghapusan tagihan pajak sebesar Rp132 miliar untuk wajib pajak tertentu. Perubahan kebijakan ini menunjukkan upaya pemerintah dalam penyesuaian regulasi fiskal.",
+      "tag": "Makroekonomi • Jaminan Sosial",
+      "title": "Krisis Likuiditas Social Security dan Solusi Pembiayaan",
+      "summary": "Social Security AS diprediksi bangkrut dalam enam tahun, mendorong berbagai solusi alternatif seperti pengenaan pajak saham, warisan, dan tunjangan karyawan. Kebijakan pemotongan pajak berpotensi memaksa pengurangan Social Security dan Medicare jika tidak ada sumber pembiayaan alternatif.",
       "sources": [
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzQ3eHhNb2ZMMkV3ZjFXZ1l3MzFDbTlIaGJzbU1rSWUyT0ludzVWcUxxUFplTUF4YWZPQjZicHc5ckhyZXozWnVNWHNCcHJuQUswY05oUmhvdXdjNzlFQk82b1VGSGhSWEFPUTQtNFF1ZlFfeGhkSF80SjlvZWd1RjBOanJJejNLNEJHWWdZb25Xa19CZ3V2SGxqWE9NNVRvYUdJTF92dEg3RlRYT2JWMlN5QWpCbDZMUmRIU09pRXNranZWbWhnREVFRjhxdnPSAc8BQVVfeXFMTVc0N3h4TW9mTDJFd2YxV2dZdzMxQ201SGhic21Na0llMk9Jbnc1VnFMcVBaZU1BeGFmT0I2YnB3OXJIcmV6M1p1TVhzQnBybkFLMGNOaFJob3V3Yzc5RUJPNm9VRkhoUlhBT1E0LTRRdWZRX3hoZEhfNEo5b2VndUYwTmpySXozSzRCR1lnWW9uV2tfQmd1dkhsalhPTTVUb2FHSUxfdnRIN0ZUWE9iVjJTeUFqQmw2TFJkSFNPaUVza2p2Vm1oZ0RFRUY4cXZz"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Makroekonomi • Regional",
-      "title": "Malaysia Naikkan UMR & Tawarkan Diskon Pajak untuk Dorong Ekonomi",
-      "summary": "Pemerintah Malaysia di bawah Anwar Ibrahim mengumumkan kenaikan UMR sebesar setara Rp1,3 juta dan menawarkan berbagai diskon pajak sebagai upaya merangsang pertumbuhan ekonomi. Kebijakan ini bagian dari strategi mendukung daya beli dan investasi.",
-      "sources": [
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories"
+        },
         {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ000Nk1UbFMtX2RJaGpBQ2l0eWlWSEhtUXdoLTMzRjh0c1RqRkpKSGlIdXZYYzA5NnRWWUdHNXRZRzQzYjYxTHdUOG1PZjZaYml3SFU0aURDUE0wVVJwNE11WkVlcXlTZVhCS202VEFuYktBZ2ZMYUJQcVZFTzhiYlR4bGV0NTVxX3dmNkhYWlZ5ay1KLV9haUhFbE1mVkxHYXIzMUJ4bURpN201VVV6bnZDbnpxOC1DNWFDRnFfR2lEcWxVOHpTYUt30gHKAUFVX3lxTE1DTTg2TVRsUy1fZEloakFDaXR5aVZISG1Rd2gtMzNGOHRzVGpGSkpIaUh1dlhjMDk2dFZZR0c1dFlHNDNiNjFMd1Q4bU9mNlpiaXdIVTRpRENQTTBVUnA0TXVaRWVxeVNlWEJLbTZUQW5iS0FnZkxhQlBxVkVPOGJiVHhsZXQ1NXFfd2Y2SFhaVnlrLUotX2FpSEVsTWZWTEdhcjMxQnhtRGk3bTVVVXpudkNuenE4LUM1YUNGcV9HaURxbFU4elNhS3c"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Infrastruktur • Energi",
-      "title": "Data Center Butuh Daya Listrik & Air Berlimpah, RI Siap?",
-      "summary": "Video liputan membahas kebutuhan infrastruktur untuk pengembangan data center yang memerlukan pasokan listrik dan air dalam jumlah besar serta keadaan kesiapan Indonesia untuk memenuhi kebutuhan tersebut.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlBKek9XUXNBVmE4bkJLMHN4MjZGWHUtRUlFTW1FTmdjN1VwMDBURmNvVmIwZlgyejFzYURCREMzMm4wYzJJZkE2WVJxQ0x1M2c3dlNYMC1ack1Za0c1RzU1d25kX3UyTWNoRzVOZGttaXZ3WDZrNGx1a3dZalRFU3BUSlQ0akgyQ2RmczV2SkRQeURaNEpFZ0N1XzlZRlNHR25nYlJuWmRMQllBNFRsMWdEdnNMT2FxaFh4cnNmMm9BZw"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Industri • Regulasi",
-      "title": "Kawasan Industri Perlukan Kemudahan Regulasi untuk Perkuat Daya Saing",
-      "summary": "Video liputan membahas kebutuhan kawasan industri akan kemudahan regulasi sebagai upaya meningkatkan daya saing industri nasional. Regulasi yang kondusif dianggap penting untuk investasi dan produktivitas.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTRJWDNqZlphenZ6SW5yNjQxeFcxTXRqTERFVTg2cHZyY2xJZTA1dDlrTDNBOFZOSkxwY3Vnald5bzF6a05tZDUwWU1zNndFbGkzT1IzeS1mVXVOODZ4RlBZcS1BcmdoeF85SXlfX2dVQ1ZSZzRCRGVsTUVOdjc3d3psRVJQTWozeFp4X3h0UmZ1YjUyUHExa2t3YzhZY001a3FxZ0E1X2wtZGRaR1Qtd3psUHp4OEh6NDRwRURjOUMxTEU"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Pertambahan Modal • Pertamina",
-      "title": "Pertamina Perkuat Ekosistem di Grand Prix Indonesia 2026",
-      "summary": "Pertamina memperkuat ekosistem digital dan layanan MyPertamina sebagai bagian dari dukungan kepada gelaran Grand Prix Indonesia 2026. Ini menunjukkan komitmen perusahaan dalam investasi infrastruktur dan layanan digital.",
-      "sources": [
-        {
-          "name": "CNBC Indonesia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0JDUGk2dUtING5DSTFHNVFHTzI2YjU3R3A5M2lEVzFXazlvSlRyeVdzNnVMclZVTVNSOHNBdV82NEpZZ3FXQzNMS0J2Zm9Xd25CUU9IamlWLVhkOW9LZW9iTjNrU2lpdElLUUhodWZDcHpnUkhodmhoVTRCU2F6SFhMdm51cWhVTjk1eTVrcnBfSVpFdmtKcE1kZ0kxS1ZRRGRqbnpxRnJlTlU4a3JsY1BZVkliRllLWmpMN1hLSXdZbi1PR3JLYU5IUdIBywFBVV95cUxQZ0JDUGk2dUtING5DSTFHNVFHTzI2YjU3R3A5M2lEVzFXazlvSlRyeVdzNnVMclZVTVNSOHNBdV82NEpZZ3FXQzNMS0J2Zm9Xd25CUU9IamlWLVhkOW9LZW9iTjNrU2lpdElLUUhodWZDcHpnUkhodmhoVTRCU2F6SFhMdm51cWhVTjk1eTVrcnBfSVpFdmtKcE1kZ0kxS1ZRRGRqbnpxRnJlTlU4a3JsY1BZVkliRllLWmpMN1hLSXdZbi1PR3JLYU5IUQ"
-        }
-      ],
-      "category": "domestic"
-    },
-    {
-      "tag": "Ritel & Strategi Bisnis",
-      "title": "Retailer Mengurangi Assortment untuk Meningkatkan Pertumbuhan",
-      "summary": "Brand ritel seperti BJ's dan Lululemon sedang mempersempit ragam produk mereka untuk mencapai pertumbuhan yang lebih sehat. Strategi ini bertujuan untuk kurasi penawaran yang lebih baik dan stabilisasi bisnis di tengah kondisi pasar yang menantang.",
-      "sources": [
-        {
-          "name": "CNBC International",
-          "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories"
         }
       ],
       "category": "global"
     },
     {
+      "tag": "Makroekonomi • Suku Bunga",
+      "title": "Dampak Kenaikan Suku Bunga terhadap Pensiunan",
+      "summary": "Kenaikan suku bunga memberikan dampak tidak merata bagi pensiunan, dengan keuntungan dan kerugian berbeda tergantung komposisi portofolio mereka. Surat utang jangka panjang seperti Treasury 30 tahun membawa risiko tersendiri meski dianggap investasi aman.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "Regulasi • Medicare",
+      "title": "Pengurangan Pilihan Rencana Medicare Advantage di 2027",
+      "summary": "Millions of Americans akan menghadapi pilihan rencana Medicare Advantage yang lebih terbatas di tahun 2027, dengan tidak ada rencana Medicare Advantage tersedia di 181 kabupaten, meningkat dari 67 kabupaten tahun 2026.",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories"
+        }
+      ],
+      "category": "global"
+    },
+    {
+      "tag": "ANTM",
+      "title": "Antam Permudah Pembelian Emas",
+      "summary": "Antam (ANTM) memudahkan konsumen membeli emas melalui berbagai channel termasuk di acara konser musik. Harga emas Antam juga mengalami kenaikan signifikan Rp 18.000.",
+      "sources": [
+        {
+          "name": "SWA.co.id",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaHJZdjc0VndxT2tQZ2FnUWIyUk81Z2x5ODBIdk9TUkhva1B0RTlkNFRhR3VZQ1Z4WENoZmNEXzR4RHIyUS11YWRZUEotQUJzS0I0ZVhLdmN6WGNOX1R4LUl2NEdacDJ1WUYtOG9PUVZJSUFHODRCcU5VZndpdU1uelJCVFNoX1lMMEJGUA?oc=5"
+        },
+        {
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55SHhwVDVlTS1wWDRkSF9KaENjcVFMSGloUmNCTzM4NGVOU2U0RGkzQzFvSkJWQ1VHMHFiS2syenJhdlRiX2ZpZl9MMEtBRTFQSGFDVUJmY1NfQ2hPWnBWb29tTEZsTHZDRDkwbmtLdWtKV3JlY3hMeTFlMXMzQQ?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
+      "tag": "WIFI",
+      "title": "Perubahan Direksi dan Penjualan Asing",
+      "summary": "Hashim mundur dari posisi Komisaris Utama WIFI, menuai pertanyaan terkait prospek saham. WIFI termasuk 10 saham paling banyak dijual asing meski IHSG menguat sepekan.",
+      "sources": [
+        {
+          "name": "IDX Channel",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb25Qbjh5UHlINDVKcmpjNnZQaktHRFNpZU0zemI5NnZhd0M1S1hnWk1JOXNQMDAtejBmekJZbTlpZmYxc2dta2c4WEgxdzRYRFZucUlYNGNzX2c4TndkN2Z0NkNyTWhfVmtMUDJiZmVTbWQ4YldEU3pxR09qVHBldUttcEZOYTV3NDIwOXRseWd0cHo1aGI4bXF0cGtWZkHSAaQBQVVfeXFMTjM3MnF4YWxwUGFNWF9jdDRxSmhwb0xlbF9hQncwTFgyQ2RnOERUTzQ2aUFWMW4wU01UdTgwZjIxY3Vyb2RhcjgzcjctRlBDOXFIQkZBMGhwS3pFeWNybDAyR2xLZFBJS2VkRWt1aXE5QmQzeTdoaklOTDhPZmhCems4RDBlMkRNUC1va1ZKSDY4TDlMMjc5M3A5Tm9LeG96NFk4YVI?oc=5"
+        },
+        {
+          "name": "IDX Channel",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaExBcE5Mb2puWmFNeWZJWGl6LTVfSW5FT3B2Y3FpUEtwemJjN29WRzVXNkxtOFM2bFFTNVJ1amxKWjdJUS1YTmxYelJsZFZHa2cxLUFrdkdId0N0ZHdhTExYbjhPLXNYV3Y3LUdjN0tJUWpDY3JjbXlMRS11azdKZElHOXVBLUZGVEFKTEUzc2JjVjJ2WHFSZDJqRTRQVWZaRnRkdXBLUEVBcmYwOXVF0gGvAUFVX3lxTE5oTEFwTkxvam5aYU15ZklYaXotNV9JbkVPcHZjcWlQS3B6YmM3b1ZHNVc2TG04UzZsUVM1UnVqbEpaN0lRLVhObFh6UmxkVkdrZzEtQWt2R0h3Q3Rkd2FMTFhuOE8tc1hXdjctR2M3S0lRakNjcmNteUxFLXVrN0pkSUc5dUEtRkZUQUpMRTNzYmNWMnZYcVJkMmpFNFBVZlpGdGR1cEtQRUFyZjA5dUU?oc=5"
+        }
+      ],
+      "category": "personal"
+    },
+    {
       "tag": "BRMS",
-      "title": "Pertamina dan PLN Raih Penghargaan serta Perkuat Program Strategis",
-      "summary": "PLN EPI memenangkan Gold Winner AHI 2026 atas komunikasi program gasifikasi, sementara Legal Counsel Pertamina meraih apresiasi di IHCSA 2026. Pertamina juga memperkuat ekosistem MyPertamina dan menargetkan produksi 1.000 barel minyak per hari dari sumur AKP-004.",
+      "title": "Pertamina Patra Niaga dan Operasi SKK Migas",
+      "summary": "Pertamina Patra Niaga mendorong pendidikan dan pemberdayaan masyarakat pesisir melalui Sekolah Alam Anak Pesisir. Pertamina juga berkomitmen diskusi strategis dengan kepala SKK Migas dan para deputi.",
       "sources": [
         {
           "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0N1Zms4U05HczN5dHdPRUQxNEV0d1MzODVvU3gzTFUxcHJiSVhGYmtGd3VvUVFtVmM4dV8xRTd5OTNaUU5NUGpIRVVxS29vLTdxMXZRTC11eU0zd1h0NXM1aVJWSF80X3dyYUliNDliYVN3aWlWbVZUSTFtdDRmSklnSTZlYUJuaVJNLTl4cEViZVh3V2s1MEltMml3S1pySUVyV0pYY04?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXJTeEhyNzQxckNDT0RNaUhvMHA4eEtaRG5VT05qMlF1b2FYMFJiY25wTGl6el9Qd0JlM1plODFrb0hzcHFIQUYySndZN0V3VGtFRWVkdWhPU2JNS0F1dWVFa2hxS1JWYVFjejhrYjhPOUhqTmtXRktWcHdBZlN0WWVodEpWOFFMRzFIM1d0MjR5OFZoVXZvSTJrQkhrQXB2b1JfRUJnVVRVM055U1Z0NmtrX2UtdzFlVmlFeU9kcXp4TmtTa2FWUUk4LVJkUm5hV2tUTU1GVjYxVUhuZkxvejdR?oc=5"
         },
         {
           "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTg3YTdiUjJhajQ4Qko0c2pRSDkzRm91eFN0NGkwWU15cTdyMEVTR3k4dWN2alVXZFY4cUdJdnRMX2F0VFFkMEgzb1E1bG9BSlFIdV9WOUYtUXJjc1owZ3JUOXMtNG9OT2JSb1BvY1kyVHRINi1jLWR3UEhPdW42Yk9aekpzMkkyV1EwU2h5VE85WkpOVG5MZk0xWW54dw?oc=5"
-        },
-        {
-          "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXRpNmRtb1RBajZnOS1HZzNMQ2E0dFhrT2liOTNJQi1ZLTZCeEpIMWN4aU9EQm1OYlAwWXRPeXg2N19LX01aRFJtanF3QWY0TExuVDFKd0V3NFBZNy1pb3NtdFhsY0lqRnlZeGJRTEpGRGpWRmN2V0lZVTVQdXFOQjZGT3EwTVpwUEVRYVhVeEtFQ1ZvWlIyNGVFaGVrVkw1dnJFUnlyMDFuVVZHNE1R?oc=5"
-        },
-        {
-          "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3h5VVZYUW5VWS1fRzlPRWdLWXpaSUprYUZlaW9vM2E4ekZ4c21IWHdVaUFyV1BQak0ySlBYRGlZdzlVenp3czQ0cnhqbUpvWEJ5Z1A2M3hGMndldFVCVW55QU5NUTdtZk1TeVk4cWl3YldmRUFfRzg0d213RDdyX3hkMEFiYk91VDNtYjd2RTdHV0IyREs4dVF2ZmUtVVIyc3h0dVd0VUtOb0NxNWtEMFlrWHBlY0lCV2U1dg?oc=5"
-        },
-        {
-          "name": "RuangEnergi.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXJELTVtWEhJNFMzMkJnNTAtcGwzaW05RnQ0RThwNmdjdVluVUIxYXU5bF9RR3Jqb1JZekgyOUhUSkZJaTk1RGtxd1gwLXRNalBmczRpTUIzVWF0eDFHdUduNUlzVDZxUVFSU2FBNEZnLTkxWTF0UU5WcUxITWl4STYwdGVmOERrUGJEajJGYjJaSXY3WmxhTFJ1V2tGaVZ6bTUyQ29YSmhhMmpyQkVTckFnT1JoNU0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVFScTJyUDBwWEZjbWJ4cWRwZVltOVRQcTRGN3Q4Tlk1QTZLX2ZmSmY2TVNHY0R6OVVQNDduYTRVSnJWVzlOVEs1NVU5MTZTaTl1VFJMNDZKNGhDeHlXWUlLREU5UGhxZjBWY19jaWJXRm5EVGhhaThKRVhFcXhySnNrSlpzRU5kQjN4TXo0TTBlVnpNUWxJaGh6UkxaRTh6ZlI5TnEtNHg0bXQ1aUx4SzlOM3JqajlMdUJmbA?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BUMI",
-      "title": "Pergerakan Saham BUMI dan Terkait Akuisisi di Industri Minerba",
-      "summary": "Saham terkait BUMI menunjukkan volatilitas; pelaporan mencakup kejatuhan saham terkait perubahan manajemen serta risiko yang dianalisis dari akuisisi yang melibatkan gadai saham multiple. Industri minerba terus mengalami dinamika transaksional signifikan.",
+      "title": "Ketahanan Saham BUMI dan Isu Strategis",
+      "summary": "Saham BUMI menunjukkan perlawanan keras di tengah isu-isu panas yang mengelilingi perusahaan. Saham emiten Boy Thohir ini dijual dengan harga diskon namun target harga analyst justru naik.",
       "sources": [
         {
-          "name": "rmol jateng",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkd1T3hia2hrQUh2TTVWazZLZHB2V0NUR1pJczlmaHZBUkljNWlPblBsaUZsWE9oQVhNc19zcFJJMm9rRGlrTE03M1NNMjlVcHRvV0JySy1LLTdZVWF1V1Y4b3lkOE9qZTdpTkpjTzVUVm1kNkMyNUpYQUk0ZGRsTU5fVVRyLWYxLUhfSVFpVV8xLTU5V0xDZlZFUDlxRzlNQWV3bnYyMA?oc=5"
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGI1N2VkVUVkdUVpTG85Q0NZRkFYQ05ZeUZjM0YxM09KUkEtaHBFRUJGaE9RZGFhd1gzaHlka0dYaFZMRmVtc1c3eDEycTAwUjR5UjQxemV3Y0N5M2JZQnJ2T0tCOWRiQ1VORU9lTTMzVk4tRy1mT2o1dHdzbGxKOHZWOGtHb0Nu?oc=5"
         },
         {
-          "name": "Bisnis.com - Market",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFVvVTB0V1RRaUVEWXhHWVJ5M2xpS0FKMWpqakRDbGpBZzZiMVd0TmtqbkNVZWZNSjI1ZF9QZ18zRTJXdjlGejFBZnZuaWFfUWFQSTJqTUd1NGRVMEZJSW5LdnlzNUpXOF9talY3T0ZBalBWNVVmeGJHRTgyUTd1Z2JaMTZBazE3X05KalFuajZqZGNnMTVyS3hERjREa01YQ0tjVjIySWJHSy00VHlJcXFpRkktcEZjZkJJ?oc=5"
+          "name": "investor.id",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3lLTHpDazBydVVQYWJJRW84UEczMVhmUmNIeThOUVJ6WlRrcExKV2kwYU5nME5FampxSXFnSU04QktvRWQtUVExYUJpdXFjaEtLYWdOckxweTE5cDNwMEJpUVlwT2Y0aE56UGhlYUlEclhZT1JoWk42Y2xCUlNfODBnendKS2RtcEFqMEFrcnA?oc=5"
         }
       ],
       "category": "personal"
     },
     {
       "tag": "BMRI",
-      "title": "BMRI Terima Gadai Saham dari Jhonlin Group",
-      "summary": "BMRI menerima gadai saham dari Jhonlin Group, dengan perkembangan ini mempengaruhi posisi dan strategi bank dalam konteks investasi di sektor minerba.",
+      "title": "Penjualan Asing dan Perubahan Struktur Pemegang Saham",
+      "summary": "BMRI termasuk 10 saham paling banyak dijual asing meski IHSG menguat sepekan. Free float saham BMRI mencapai 37,31% dengan jumlah investor melejit mendekati 400 ribu.",
       "sources": [
         {
-          "name": "investor.id",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXV3N3J4bTVLN2s1aEN5ZURVajhwUThRQTlfNkMxVHRCVloyUnBwRVJfX3c1eGJzci1ZMm56cC11bmJ4d3lRZks3MmU4eGZFTmhjU3Y4MkZncjd0SExuSVg2LXBxTmg4YkhTVkVUWWhLSGZXdGItMURpbjFoN2ZpTHdhTmRmWlJBYURYSDVn?oc=5"
+          "name": "IDX Channel",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaExBcE5Mb2puWmFNeWZJWGl6LTVfSW5FT3B2Y3FpUEtwemJjN29WRzVXNkxtOFM2bFFTNVJ1amxKWjdJUS1YTmxYelJsZFZHa2cxLUFrdkdId0N0ZHdhTExYbjhPLXNYV3Y3LUdjN0tJUWpDY3JjbXlMRS11azdKZElHOXVBLUZGVEFKTEUzc2JjVjJ2WHFSZDJqRTRQVWZaRnRkdXBLUEVBcmYwOXVF0gGvAUFVX3lxTE5oTEFwTkxvam5aYU15ZklYaXotNV9JbkVPcHZjcWlQS3B6YmM3b1ZHNVc2TG04UzZsUVM1UnVqbEpaN0lRLVhObFh6UmxkVkdrZzEtQWt2R0h3Q3Rkd2FMTFhuOE8tc1hXdjctR2M3S0lRakNjcmNteUxFLXVrN0pkSUc5dUEtRkZUQUpMRTNzYmNWMnZYcVJkMmpFNFBVZlpGdGR1cEtQRUFyZjA5dUU?oc=5"
+        },
+        {
+          "name": "StockWatch.id",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWp0RWVvMjBXc1l2bkZ2cl9PM3pGa3c4aHh1WXZWVWRlUzNTSDRQaFJIZTFFcEotNkVzVXZuMzdYSkxMemhvcjJDdlNxZl80NTluaWlwd1BlVUhJdVdSUGVwMVd3T3JoR2YyOUN0TGUzQVJjb0RMcm5LYWY4eGc1cEZLcmlYUW01SlBuNDJJbFVtQUFjdE15aUFNZUgwcmJ2Z18wU0ZR?oc=5"
         }
       ],
       "category": "personal"
